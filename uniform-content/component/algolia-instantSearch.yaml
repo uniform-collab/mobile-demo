@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=<https://canary.uniform.app/schemas/json-schema/component-definition/v1.json>
+$schema: https://canary.uniform.app/schemas/json-schema/component-definition/v1.json
+id: algolia-instantSearch
+name: Instant Search
+icon: search-found
+parameters:
+  - id: rootCategory
+    name: Root Category
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Coffee Makers
+          value: Coffee Makers
+        - text: Beans
+          value: Beans
+  - id: instantSearchParams
+    name: Instant Search Parameters
+    type: algolia-components
+    helpText: ''
+    typeConfig:
+      selectedComponent: Instant Search
+categoryId: ad5aebd7-ae43-4cb3-a2a7-8425ad0e2f44
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/Algolia/Instant_search_preview_image
+useTeamPermissions: true
+slots:
+  - id: widgets
+    name: Widgets
+    allowedComponents:
+      - algolia-hits
+      - refinementList
+      - algolia-searchBox
+      - grid
+      - gridItem
+    allowAllComponents: false
+    inheritAllowedComponents: false
+    patternsInAllowedComponents: false
+titleParameter: rootCategory
+canBeComposition: false
+created: '2024-02-28T13:35:47.287007+00:00'
+updated: '2024-02-28T13:35:47.287007+00:00'

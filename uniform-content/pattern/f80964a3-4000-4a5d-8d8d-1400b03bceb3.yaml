@@ -1,0 +1,158 @@
+composition:
+  _name: Product Info (uc)
+  _id: f80964a3-4000-4a5d-8d8d-1400b03bceb3
+  type: productInfo
+  parameters:
+    image:
+      type: asset
+      value: ${#jptr:/Product Content/entry/fields/primaryImage/value}
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Product Content/entry/fields/name/value}
+        en-GB: ${#jptr:/Product Content/entry/fields/name/value}
+        en-NL: ${#jptr:/Product Content/entry/fields/name/value}
+        en-US: ${#jptr:/Product Content/entry/fields/name/value}
+        fr-CA: ${#jptr:/Product Content/entry/fields/name/value}
+        nl-NL: ${#jptr:/Product Content/entry/fields/name/value}
+    fullHeight:
+      type: checkbox
+      value: true
+    productKey:
+      type: text
+      value: ${#jptr:/Product Content/entry/_id}
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h1
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+        en-GB: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+        en-NL: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+        en-US: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+        fr-CA: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+        nl-NL: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+    overlayColor:
+      type: tp-color-style-parameter
+      value: base-300
+    highlightText:
+      type: text
+      locales:
+        en-CA: >-
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/currency/value}
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/price/value}
+        en-GB: >-
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/currency/value}
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/price/value}
+        en-NL: >-
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/currency/value}
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/price/value}
+        en-US: >-
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/currency/value}
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/price/value}
+        fr-CA: >-
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/currency/value}
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/price/value}
+        nl-NL: >-
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/currency/value}
+          ${#jptr:/Product
+          Content/entry/fields/variants/value/0/fields/price/value}
+    overlayOpacity:
+      type: tp-slider-parameter
+      value: 50%
+    primaryButtonCopy:
+      type: text
+      locales:
+        en-CA: Buy now
+        en-GB: Buy now
+        en-NL: Buy now
+        en-US: Buy now
+        fr-CA: Acheter maintenant
+        nl-NL: Koop nu
+    primaryButtonStyle:
+      type: tp-button-style-parameter
+      value: secondary
+    secondaryButtonCopy:
+      type: text
+      locales:
+        en-CA: Taste the future
+        en-GB: Taste the future
+        en-NL: Taste the future
+        en-US: Taste the future
+        fr-CA: Goûtez le futur
+        nl-NL: Proef de toekomst
+    secondaryButtonLink:
+      type: link
+      value:
+        path: /${locale}/coffee-makers
+        type: projectMapNode
+        nodeId: ea684346-109c-4b11-82a5-2a982d2dd795
+        projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+        dynamicInputValues:
+          locale: ${locale}
+  _dataResources:
+    Product Content:
+      type: product
+      variables:
+        body: >-
+          {"requests":[{"indexName":"products-ngm","objectID":"espresso-gpt-145"}]}
+        slug: espresso-gpt-145
+        locale: ${locale}
+        entryId: c7e72a37-47db-4202-800d-09540a4b9181
+        entryIds: espresso-gpt-145
+        facetValue: ''
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    parameters:
+      delay: 'yes'
+      image: 'yes'
+      title: 'yes'
+      product: 'yes'
+      duration: 'yes'
+      features: 'yes'
+      subTitle: 'yes'
+      objectFit: 'yes'
+      fullHeight: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      overlayColor: 'yes'
+      animationType: 'yes'
+      highlightText: 'yes'
+      animationOrder: 'yes'
+      overlayOpacity: 'yes'
+      animationPreview: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      primaryButtonStyle: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:51:02.916945+00:00'
+modified: '2024-02-28T12:51:02.916945+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Product_info_preview_image
+categoryId: 2da8c924-14d5-470b-9fe4-1e56521551e5

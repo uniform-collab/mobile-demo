@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: f0f51fb5-4ade-4c8c-8770-72cb84c10771
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: simple_coffee_header_image.jpg
+    file:
+      type: file
+      value: 978fe7d5-3c70-443b-bcff-4b314405d6ea
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/QF5u90fvTlKCoOcq2Tbzcg-simple_coffee_header_image.jpg
+      type: text
+    size:
+      value: 577659
+      type: number
+    width:
+      value: 1440
+      type: number
+    height:
+      value: 520
+      type: number
+    custom: {}
+created: '2024-02-28T12:36:02.904393+00:00'
+modified: '2024-02-28T13:34:58.721961+00:00'

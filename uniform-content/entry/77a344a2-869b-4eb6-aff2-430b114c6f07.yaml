@@ -1,0 +1,31 @@
+created: '2024-02-28T12:53:05.020979+00:00'
+modified: '2024-02-28T12:53:05.020979+00:00'
+pattern: false
+entry:
+  _id: 77a344a2-869b-4eb6-aff2-430b114c6f07
+  _name: Frequently Asked Questions
+  _slug: frequently-asked-questions
+  type: faq
+  fields:
+    title:
+      type: text
+      locales:
+        en-US: Frequently Asked Questions
+        fr-CA: Questions fréquemment posées
+        nl-NL: Veel Gestelde Vragen
+    description:
+      type: text
+      locales:
+        en-US: >-
+          If you can't find the answer to your question please reach out to
+          support@javadrip.coffee.
+        fr-CA: >-
+          Si vous ne trouvez pas la réponse à votre question, veuillez contacter
+          support@javadrip.coffee.
+        nl-NL: >-
+          Als u het antwoord op uw vraag niet kunt vinden, neem dan contact op
+          met support@javadrip.coffee.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: b124d839-44a7-49a9-bf15-2b807a5b6507
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: iced_coffee.jpg
+    file:
+      type: file
+      value: 9a538fad-ee6f-4657-808e-98f6b35f25ef
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/d7oem154R_Cl2yjA_wq26g-iced_coffee.jpg
+      type: text
+    size:
+      value: 27939
+      type: number
+    width:
+      value: 730
+      type: number
+    height:
+      value: 602
+      type: number
+    custom: {}
+created: '2024-02-28T12:34:28.643342+00:00'
+modified: '2024-02-28T13:33:56.376347+00:00'

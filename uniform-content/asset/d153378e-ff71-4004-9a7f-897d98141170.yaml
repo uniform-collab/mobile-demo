@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: d153378e-ff71-4004-9a7f-897d98141170
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: coffee_shop_interior.avif
+    file:
+      type: file
+      value: 76617945-ba79-48b0-8ed1-2445e2fd5d95
+    mediaType:
+      value: image/avif
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/cXD_cCpKRG-or2HO0eF7Ow-coffee_shop_interior.avif
+      type: text
+    size:
+      value: 84099
+      type: number
+    width:
+      value: 1024
+      type: number
+    height:
+      value: 1024
+      type: number
+    custom: {}
+created: '2024-02-28T12:35:50.417241+00:00'
+modified: '2024-02-28T13:34:29.577038+00:00'

@@ -1,0 +1,302 @@
+created: '2024-02-28T12:53:32.265278+00:00'
+modified: '2024-02-28T13:36:35.734349+00:00'
+pattern: false
+entry:
+  _id: 4289122f-8a90-4bb9-80fe-784ada7950f5
+  _name: Kosmic Coffee Barista Express Espresso Machine
+  _slug: kosmic-coffee-barista-express-espresso-machine-115
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/wmK1CbT0STSOMEsDX3n8XA-kosmic-coffee-barista-express-espresso-machine-115-2_csd2nz_jvaxqc.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      The Breville Barista Express delivers third wave specialty
+                      coffee at home using the 4 keys formula and is part of the
+                      Barista Series that offers all in one espresso machines
+                      with integrated grinder to go from beans to espresso in
+                      under one minute DOSE CONTROL GRINDING: Integrated
+                      precision conical burr grinder grinds on demand to deliver
+                      the right amount of freshly ground coffee directly into
+                      the portafilter for your preferred taste with any roast of
+                      bean
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Le Breville Barista Express offre du café de spécialité de troisième vague à la maison en utilisant la formule à 4 touches et fait partie de la série Barista qui propose des machines à expresso tout-en-un avec moulin intégré pour passer des grains à l'espresso en moins d'une minute. MOULURE À CONTRÔLE DE DOSE\_: Conique de précision intégré Le moulin à meules moud à la demande pour fournir la bonne quantité de café fraîchement moulu directement dans le porte-filtre pour votre goût préféré avec n'importe quelle torréfaction de grains."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De Breville Barista Express levert derde golf speciale
+                      koffie aan huis met behulp van de 4-toetsenformule en
+                      maakt deel uit van de Barista-serie die alles-in-één
+                      espressomachines biedt met geïntegreerde molen om in
+                      minder dan één minuut van bonen naar espresso te gaan
+                      DOSISCONTROLE MAALDEN: Geïntegreerde precisie conische De
+                      braammolen maalt op aanvraag om de juiste hoeveelheid
+                      versgemalen koffie rechtstreeks in het portafilter te
+                      leveren voor uw favoriete smaak bij elke branding van
+                      bonen
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Kosmic Coffee Barista Express Espresso Machine
+    title:
+      type: text
+      value: Kosmic Coffee Barista Express Espresso Machine
+    category:
+      type: select
+      value: espresso
+    variants:
+      type: $block
+      value:
+        - _id: 630f8baf-9de6-41db-83b2-06458b30ccce
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '115'
+            price:
+              type: number
+              locales:
+                en-US: '599.95'
+                fr-CA: '554.15'
+                nl-NL: '554.15'
+            title:
+              type: text
+              locales:
+                en-US: Kosmic Coffee Barista Express Espresso Machine
+                fr-CA: Kosmic Coffee Barista Express Espresso Machine
+                nl-NL: Kosmic Coffee Barista Express Espresso Machine
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 3ecdf00c-bea4-4376-8f96-27615f0d8808
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 9ff4022d-62a7-4e28-9160-d3291c079ce4
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/umW69TBJTveF4-1jPT14Sg-kosmic-coffee-barista-express-espresso-machine-115-2_csd2nz_jvaxqc.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 03f0fd31-80aa-4f22-b624-ec67f90928c1
+                    size:
+                      value: 150093
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        kosmic-coffee-barista-express-espresso-machine-115-2_csd2nz_jvaxqc.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: b6e27607-a688-4935-8b25-6e351ca66fa3
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: ad12f8c7-7c06-4625-aed6-f73bdfe04b4d
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Ny0j95cnQZi5W_qYTutExQ-kosmic-coffee-barista-express-espresso-machine-115-1_zlep8k_zw4fb0.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 842f04f3-7c68-466e-a1c0-d149389b6c40
+                    size:
+                      value: 267928
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        kosmic-coffee-barista-express-espresso-machine-115-1_zlep8k_zw4fb0.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: a6b1ed96-941e-48cc-9ff2-7f209752ce08
+          type: image
+          fields:
+            id:
+              type: text
+              value: 8d035fa9-5844-4be0-b8f5-734b4211a944
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/wmK1CbT0STSOMEsDX3n8XA-kosmic-coffee-barista-express-espresso-machine-115-2_csd2nz_jvaxqc.jpg
+              type: text
+            file:
+              type: file
+              value: cd86c251-3765-4f4f-ad46-b564a0eb940a
+            size:
+              value: 150093
+              type: number
+            title:
+              type: text
+              value: >-
+                kosmic-coffee-barista-express-espresso-machine-115-2_csd2nz_jvaxqc.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 129511a7-f164-48ac-9c6b-0723833443ee
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: cf9f3d01-9bae-4dd9-9887-513cf5486f43
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          The Breville Barista Express delivers third wave specialty coffee at
+          home using the 4 keys formula and is part of the Barista Series that
+          offers all in one espresso machines with integrated grinder to go from
+          beans to espresso in under one minute DOSE CONTROL GRINDING:
+          Integrated precision conical burr grinder grinds on demand to deliver
+          the right amount of freshly ground coffee directly into the
+          portafilter for your preferred taste with any roast of bean
+        fr-CA: "Le Breville Barista Express offre du café de spécialité de troisième vague à la maison en utilisant la formule à 4 touches et fait partie de la série Barista qui propose des machines à expresso tout-en-un avec moulin intégré pour passer des grains à l'espresso en moins d'une minute. MOULURE À CONTRÔLE DE DOSE\_: Conique de précision intégré Le moulin à meules moud à la demande pour fournir la bonne quantité de café fraîchement moulu directement dans le porte-filtre pour votre goût préféré avec n'importe quelle torréfaction de grains."
+        nl-NL: >-
+          De Breville Barista Express levert derde golf speciale koffie aan huis
+          met behulp van de 4-toetsenformule en maakt deel uit van de
+          Barista-serie die alles-in-één espressomachines biedt met
+          geïntegreerde molen om in minder dan één minuut van bonen naar
+          espresso te gaan DOSISCONTROLE MAALDEN: Geïntegreerde precisie
+          conische De braammolen maalt op aanvraag om de juiste hoeveelheid
+          versgemalen koffie rechtstreeks in het portafilter te leveren voor uw
+          favoriete smaak bij elke branding van bonen
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

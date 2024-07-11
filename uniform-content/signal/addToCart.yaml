@@ -1,0 +1,15 @@
+id: addToCart
+name: Add to Cart
+cap: 100
+crit:
+  op: '&'
+  type: G
+  clauses:
+    - type: EVT
+      event:
+        cs: false
+        op: '='
+        rhs: add-to-cart
+dur: s
+description: ''
+str: 10

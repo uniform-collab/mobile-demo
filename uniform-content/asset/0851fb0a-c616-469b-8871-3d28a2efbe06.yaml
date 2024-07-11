@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 0851fb0a-c616-469b-8871-3d28a2efbe06
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: hero_coffee_makers.webp
+    file:
+      type: file
+      value: 7c56f63f-39d1-4197-aee1-8ebc687ab790
+    mediaType:
+      value: image/webp
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EpWAJ1W5SB2fMPf9eYR14w-hero_coffee_makers.webp
+      type: text
+    size:
+      value: 68680
+      type: number
+    width:
+      value: 2600
+      type: number
+    height:
+      value: 1300
+      type: number
+    custom: {}
+created: '2024-02-28T12:32:20.260241+00:00'
+modified: '2024-02-28T13:31:04.304045+00:00'

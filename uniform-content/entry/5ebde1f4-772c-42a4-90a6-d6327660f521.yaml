@@ -1,0 +1,75 @@
+created: '2024-02-28T12:54:01.618008+00:00'
+modified: '2024-02-28T12:54:01.618008+00:00'
+pattern: false
+entry:
+  _id: 5ebde1f4-772c-42a4-90a6-d6327660f521
+  _name: Taste the future
+  _slug: taste-the-future
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/VFYe3zylQJKlCb-1l_tfTQ-cervello_smart_landing_hero.png
+  type: featuredCallout
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 6b7353db-99e9-4027-af93-0bcfde974516
+          type: image
+          fields:
+            id:
+              type: text
+              value: 8eff3fe1-1269-477b-aca5-1b342d7d51ac
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/VFYe3zylQJKlCb-1l_tfTQ-cervello_smart_landing_hero.png
+              type: text
+            file:
+              type: file
+              value: 94e62699-c675-42d6-a4f6-846bee0c241c
+            size:
+              value: 456876
+              type: number
+            title:
+              type: text
+              value: cervello_smart_landing_hero.png
+            width:
+              value: 1024
+              type: number
+            height:
+              value: 512
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Taste the future
+        fr-CA: Goûtez l'avenir
+        nl-NL: Proef de toekomst
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Combining the greatest traditions with cutting edge technology, the
+          Smart Home Barista puts decades of coffee experience at your
+          fingertips. By learning your tastes and assessing the beans, the smart
+          barista adjusts the grind, pressure and length of each espresso shot
+          to make sure it’s perfect every time.
+        fr-CA: >-
+          En combinant les plus grandes traditions avec la technologie de
+          pointe, le Barista de la maison intelligente met des décennies
+          d'expérience au café à portée de main.En apprenant vos goûts et en
+          évaluant les haricots, le barista intelligent ajuste la mouture, la
+          pression et la longueur de chaque tir à expresso pour s'assurer qu'il
+          est parfait à chaque fois.
+        nl-NL: >-
+          De Smart Home Barista combineert de grootste tradities met
+          geavanceerde technologie en zet tientallen jaren koffie -ervaring
+          binnen handbereik.Door je smaak te leren en de bonen te beoordelen,
+          past de slimme barista de sleur, druk en lengte van elke espresso
+          -opname aan om ervoor te zorgen dat het elke keer perfect is.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

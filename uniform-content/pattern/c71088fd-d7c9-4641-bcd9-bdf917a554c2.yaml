@@ -1,0 +1,69 @@
+composition:
+  _name: Call to Action (cs)
+  _id: c71088fd-d7c9-4641-bcd9-bdf917a554c2
+  type: callToAction
+  parameters:
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Call to Action Content/entry/title}
+        en-GB: ${#jptr:/Call to Action Content/entry/title}
+        en-NL: ${#jptr:/Call to Action Content/entry/title}
+        en-US: ${#jptr:/Call to Action Content/entry/title}
+        fr-CA: ${#jptr:/Call to Action Content/entry/title}
+        nl-NL: ${#jptr:/Call to Action Content/entry/title}
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h1
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Call to Action Content/entry/description}
+        en-GB: ${#jptr:/Call to Action Content/entry/description}
+        en-NL: ${#jptr:/Call to Action Content/entry/description}
+        en-US: ${#jptr:/Call to Action Content/entry/description}
+        fr-CA: ${#jptr:/Call to Action Content/entry/description}
+        nl-NL: ${#jptr:/Call to Action Content/entry/description}
+  _dataResources:
+    Call to Action Content:
+      type: contentstackCallToAction
+      variables:
+        query: ''
+        locale: ${locale}
+        include: ''
+        entry_uid: blt50d6408b52f62f78
+        content_type_uid: content_block
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      title: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      group_content: 'yes'
+      group_primaryCta: 'yes'
+      textColorVariant: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      group_secondaryCta: 'yes'
+      primaryButtonStyle: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:50:35.438736+00:00'
+modified: '2024-02-28T12:50:35.438736+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Call_to_action_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

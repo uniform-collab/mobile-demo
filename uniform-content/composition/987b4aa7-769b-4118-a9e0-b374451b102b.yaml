@@ -1,0 +1,551 @@
+composition:
+  _name: Home
+  _id: 987b4aa7-769b-4118-a9e0-b374451b102b
+  _slug: /
+  type: page
+  parameters:
+    pageTitle:
+      type: text
+      locales:
+        en-CA: Home Page
+        en-GB: Home Page
+        en-NL: Home Page
+        en-US: Home Page
+        fr-CA: Page d'accueil
+        nl-NL: Startpagina
+  slots:
+    pageContent:
+      - _id: 612324ab-44d8-4ac5-bc6b-1aa38bb226bb
+        type: $personalization
+        slots:
+          pz:
+            - _id: 4cd6186d-6014-484b-bfaf-62088ef6d84c
+              type: hero
+              variant: backgroundImage
+              parameters:
+                image:
+                  type: asset
+                  value:
+                    - _id: f9fc0ddf-c2fb-4723-91d8-20cedbc98699
+                      type: image
+                      fields:
+                        id:
+                          type: text
+                          value: 081a91e1-ba9d-4809-afb6-34e15f5acaac
+                        url:
+                          value: >-
+                            https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/pinHpEA8TWuxF3Dikkuy4Q-cervello_smart_landing_hero.png
+                          type: text
+                        file:
+                          type: file
+                          value: 93accf7b-0fa9-4bed-a97d-fab142d6f657
+                        size:
+                          value: 456876
+                          type: number
+                        title:
+                          type: text
+                          value: cervello_smart_landing_hero.png
+                        width:
+                          value: 1024
+                          type: number
+                        height:
+                          value: 512
+                          type: number
+                        mediaType:
+                          value: image/png
+                          type: text
+                      _source: uniform-assets
+                title:
+                  type: text
+                  locales:
+                    en-CA: EspressoGPT is here
+                    en-GB: EspressoGPT is here
+                    en-NL: EspressoGPT is here
+                    en-US: EspressoGPT is here
+                    fr-CA: EspressoGPT est ici
+                    nl-NL: EspressoGPT is hier
+                $pzCrit:
+                  type: $pzCrit
+                  value:
+                    crit:
+                      - l: bigSpender
+                        r: 0
+                        op: '>'
+                    name: 'Hero: Cervello is here!'
+                objectFit:
+                  type: select
+                  value: cover
+                textColor:
+                  type: tp-color-palette-parameter
+                  value: primary-content
+                paddingTop:
+                  type: select
+                  value: None
+                titleStyle:
+                  type: tp-title-style-parameter
+                  value: h1
+                description:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      this machine is able to detect your coffee needs and
+                      adjust to your taste and habits.
+                    en-GB: >-
+                      this machine is able to detect your coffee needs and
+                      adjust to your taste and habits.
+                    en-NL: >-
+                      this machine is able to detect your coffee needs and
+                      adjust to your taste and habits.
+                    en-US: >-
+                      this machine is able to detect your coffee needs and
+                      adjust to your taste and habits.
+                    fr-CA: >-
+                      Cette machine détecte vos besoins en café et s'adapte à
+                      vos goûts et habitudes.
+                    nl-NL: >-
+                      Deze machine kan jouw koffiebehoeften detecteren en zich
+                      aanpassen aan jouw smaak en gewoonten.
+                eyebrowText:
+                  type: text
+                  locales:
+                    en-CA: smartest coffee machine in the world
+                    en-GB: smartest coffee machine in the world
+                    en-NL: smartest coffee machine in the world
+                    en-US: smartest coffee machine in the world
+                    fr-CA: La machine à café la plus intelligente du monde
+                    nl-NL: Slimste koffiemachine ter wereld
+                overlayColor:
+                  type: tp-color-style-parameter
+                  value: base-300
+                paddingBottom:
+                  type: select
+                  value: None
+                overlayOpacity:
+                  type: tp-slider-parameter
+                  value: 50%
+                containerVariant:
+                  type: select
+                  value: fluidContent
+                primaryButtonCopy:
+                  type: text
+                  locales:
+                    en-CA: See it in action!
+                    en-GB: See it in action!
+                    en-NL: See it in action!
+                    en-US: See it in action!
+                    fr-CA: Regardez-le en action!
+                    nl-NL: Bekijk het in actie!
+                primaryButtonLink:
+                  type: link
+                  value:
+                    path: /${locale}/products/espresso-gpt-145
+                    type: projectMapNode
+                    nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+                    projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+                    dynamicInputValues:
+                      locale: ${locale}
+                      product-slug: espresso-gpt-145
+                primaryButtonStyle:
+                  type: tp-button-style-parameter
+                  value: secondary
+            - _id: f6228d23-3555-4d70-9ffd-51eef952bc5d
+              type: productInfo
+              _pattern: f80964a3-4000-4a5d-8d8d-1400b03bceb3
+              _dataResources:
+                Product Content:
+                  type: product
+                  variables:
+                    slug: espresso-gpt-145
+                    locale: ${locale}
+            - _id: ae4ec7cb-e27f-4822-b3f2-d4cb83002997
+              type: hero
+              _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+              _dataResources:
+                Hero Content:
+                  type: hero
+                  variables:
+                    locale: ${locale}
+                    entryId: 56fd52c8-005b-4ff8-a940-f519d2bb826e
+            - _id: 280ea423-4882-4b5f-ba29-6d8e3767e507
+              type: hero
+              _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+              _dataResources:
+                Hero Content:
+                  type: hero
+                  variables:
+                    locale: ${locale}
+                    entryId: d7bf42e5-d347-40b4-b143-87b088b8698f
+            - _id: cebabef6-4ee1-47e6-b804-95946ec6c1d3
+              type: hero
+              _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+              _dataResources:
+                Hero Content:
+                  type: hero
+                  variables:
+                    locale: ${locale}
+                    entryId: 70bbe9fa-16ce-4e55-aaa0-432e114be106
+        parameters:
+          count:
+            type: number
+            value: '1'
+          trackingEventName:
+            type: text
+            value: Home Hero
+      - _id: 1006dd1b-b35b-4ca8-bba8-de80d47ae810
+        type: callToAction
+        _pattern: a7aa42e0-9225-4909-8fb1-9d1bac72848c
+        _dataResources:
+          Call To Action Content:
+            type: callToAction
+            variables:
+              locale: ${locale}
+              entryId: da54b631-13fe-43b8-a427-01d1b8ea430d
+      - _id: a6370eac-76c2-4690-96be-addd49d89450
+        type: container
+        slots:
+          container-inner:
+            - _id: 5fc75bbd-c99d-4997-a3c5-73fe3ae9ff2b
+              type: cardBlock
+              _pattern: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+              _dataResources:
+                Products Content:
+                  type: products
+                  variables:
+                    locale: ${locale}
+                    entryIds: >-
+                      c7e72a37-47db-4202-800d-09540a4b9181,c2fe7f3a-9b46-4e6e-bb11-b38fde7852ba,df7a5d21-9a3c-49db-92d2-662b0fecce21,4289122f-8a90-4bb9-80fe-784ada7950f5,b5760778-6966-4fd6-911f-40f081e2a26d,a555a586-ef6b-4ae2-978b-af3590ec8060,3f39a936-39c8-403a-8982-39b8996098c9
+        parameters:
+          title:
+            type: text
+            locales:
+              en-US: Our smart coffee machines
+          marginTop:
+            type: select
+            value: Small
+          marginBottom:
+            type: select
+            value: Small
+      - _id: 8f9a90e7-ae91-41e4-8737-5ed227667e79
+        type: container
+        slots:
+          container-inner:
+            - _id: 55247258-f249-4d0e-ae6d-2e44e18c3b49
+              type: cardBlock
+              _pattern: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+              _dataResources:
+                Products Content:
+                  type: products
+                  variables:
+                    locale: ${locale}
+                    entryIds: >-
+                      72b49ac2-bbf3-48a7-b522-0947483e9131,ef55e1ae-ad12-46d9-b296-90d5484136f0,3b15349b-aac2-4a0f-9d62-a30fc016a704,4d95682d-7de0-4b19-a0f5-13e4e6f780c1,82b84782-4236-4b06-a994-59f088896b91,dd9a7e4d-56a3-4a0b-9679-345d19e6da49
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Our smart coffee beans
+              en-GB: Our smart coffee beans
+              en-NL: Our smart coffee beans
+              en-US: Our smart coffee beans
+              fr-CA: Nos grains de café intelligents
+              nl-NL: Onze slimme koffiebonen
+          paddingTop:
+            type: select
+            value: Medium
+          paddingBottom:
+            type: select
+            value: Medium
+          backgroundType:
+            type: tp-background-type-parameter
+            value: Dark
+  _overrides:
+    1006dd1b-b35b-4ca8-bba8-de80d47ae810:
+      variant: ''
+      parameters:
+        titleStyle:
+          type: tp-title-style-parameter
+          value: h2
+        eyebrowText:
+          type: text
+          locales:
+            en-US: null
+        textColorVariant:
+          type: select
+          value: null
+        primaryButtonCopy:
+          type: text
+          locales:
+            en-US: null
+        secondaryButtonCopy:
+          type: text
+          locales:
+            en-US: null
+    280ea423-4882-4b5f-ba29-6d8e3767e507:
+      variant: imageRight
+      parameters:
+        $pzCrit:
+          type: $pzCrit
+          value:
+            crit:
+              - l: coffeeMakersInterest
+                r: '0'
+                op: '>'
+            name: 'Hero: ${#jptr:/Hero Content/entry/fields/title/value}'
+        paddingTop:
+          type: select
+          value: Small
+        eyebrowText:
+          type: text
+          locales:
+            en-CA: PERSONALIZED DUE TO YOUR INTEREST IN COFFEE MACHINES
+            en-GB: PERSONALIZED DUE TO YOUR INTEREST IN COFFEE MACHINES
+            en-NL: PERSONALIZED DUE TO YOUR INTEREST IN COFFEE MACHINES
+            en-US: PERSONALIZED DUE TO YOUR INTEREST IN COFFEE MACHINES
+            fr-CA: PERSONALIZED DUE TO YOUR INTEREST IN COFFEE MACHINES
+            nl-NL: GEPERSONALISEERD VANWEGE UW INTERESSE IN KOFFIEMACHINES
+        paddingBottom:
+          type: select
+          value: Medium
+        backgroundColor:
+          type: tp-color-palette-parameter
+          value: primary
+        textColorVariant:
+          type: select
+          value: Light
+        primaryButtonCopy:
+          type: text
+          locales:
+            en-CA: See all coffee makers
+            en-GB: See all coffee makers
+            en-NL: See all coffee makers
+            en-US: See our products
+            fr-CA: Voir toutes les cafetières
+            nl-NL: Alle koffiezetapparaten bekijken
+        primaryButtonLink:
+          type: link
+          value:
+            path: /:locale/products
+            type: projectMapNode
+            nodeId: d5615b18-df60-47d2-b615-74931d2d1071
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+        primaryButtonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+    55247258-f249-4d0e-ae6d-2e44e18c3b49:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Our smart coffee beans
+            en-GB: Our smart coffee beans
+            en-NL: Our smart coffee beans
+            en-US: Our smart coffee beans
+            fr-CA: Nos grains de café intelligents
+            nl-NL: Onze slimme koffiebonen
+        buttonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+        textColorVariant:
+          type: select
+          value: Light
+    5fc75bbd-c99d-4997-a3c5-73fe3ae9ff2b:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Our smart coffee machines
+            en-GB: Our smart coffee machines
+            en-NL: Our smart coffee machines
+            en-US: Our smart coffee machines
+            fr-CA: Nos machines à café intelligentes
+            nl-NL: Onze slimme koffiemachines
+        buttonCopy:
+          type: text
+          locales:
+            en-US: null
+        description:
+          type: text
+          locales:
+            en-CA: Coffee machines that learn to optimize for your taste buds
+            en-GB: Coffee machines that learn to optimize for your taste buds
+            en-NL: Coffee machines that learn to optimize for your taste buds
+            en-US: Coffee machines that learn to optimize for your taste buds
+            fr-CA: >-
+              Des machines à café qui apprennent à s'adapter à vos papilles
+              gustatives
+            nl-NL: >-
+              Koffiemachines die leren om te optimaliseren voor jouw
+              smaakpapillen
+    ae4ec7cb-e27f-4822-b3f2-d4cb83002997:
+      variant: imageLeft
+      parameters:
+        $pzCrit:
+          type: $pzCrit
+          value:
+            crit:
+              - l: coffeeBeansInterest
+                r: '0'
+                op: '>'
+            name: 'Hero: ${#jptr:/Hero Content/entry/fields/title/value}'
+        objectFit:
+          type: select
+          value: cover
+        textColor:
+          type: tp-color-palette-parameter
+          value: primary-content
+        paddingTop:
+          type: select
+          value: Small
+        paddingBottom:
+          type: select
+          value: Medium
+        backgroundColor:
+          type: tp-color-palette-parameter
+          value: primary
+        primaryButtonCopy:
+          type: text
+          locales:
+            en-CA: See all beans
+            en-GB: See all beans
+            en-NL: See all beans
+            en-US: See our products
+            fr-CA: Voir tous les haricots
+            nl-NL: Bekijk alle bonen
+        primaryButtonLink:
+          type: link
+          value:
+            path: /:locale/products
+            type: projectMapNode
+            nodeId: d5615b18-df60-47d2-b615-74931d2d1071
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+        primaryButtonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+    cebabef6-4ee1-47e6-b804-95946ec6c1d3:
+      variant: backgroundImage
+      parameters:
+        title:
+          type: text
+          locales:
+            en-US: '${#jptr:/Hero Content/entry/fields/title/value} '
+        eyebrowText:
+          type: text
+          locales:
+            en-CA: welcome to javadrip
+            en-GB: welcome to javadrip
+            en-NL: welcome to javadrip
+            en-US: welcome to javadrip
+            fr-CA: bienvenue à javadrip
+            nl-NL: welkom bij javadrip
+        overlayColor:
+          type: tp-color-style-parameter
+          value: base-300
+        textColorVariant:
+          type: select
+          value: Light
+        primaryButtonCopy:
+          type: text
+          locales:
+            en-CA: Shop beans
+            en-GB: Shop beans
+            en-NL: Shop beans
+            en-US: Go shopping
+            fr-CA: Magasin de haricots
+            nl-NL: Bonen kopen
+        primaryButtonLink:
+          type: link
+          value:
+            path: /:locale/products
+            type: projectMapNode
+            nodeId: d5615b18-df60-47d2-b615-74931d2d1071
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+        primaryButtonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+        secondaryButtonCopy:
+          type: text
+          locales:
+            en-CA: Shop machines
+            en-GB: Shop machines
+            en-NL: Shop machines
+            en-US: null
+            fr-CA: Machines d'atelier
+            nl-NL: Winkelmachines
+        secondaryButtonLink:
+          type: link
+          value: null
+        secondaryButtonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+    f6228d23-3555-4d70-9ffd-51eef952bc5d:
+      parameters:
+        $pzCrit:
+          type: $pzCrit
+          value:
+            crit:
+              - l: int_espressoGPT
+                op: +
+            name: 'Product Info: ${#jptr:/Product Content/entry/fields/name/value}'
+        objectFit:
+          type: select
+          value: cover
+    55247258-f249-4d0e-ae6d-2e44e18c3b49|98ef4404-7adc-4d1b-bd62-e17bc229352b:
+      parameters:
+        buttonLink:
+          type: link
+          value:
+            path: /:locale/products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+              product-slug: ${#jptr:/Product Content results Loop Item/entry/_slug}
+        buttonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+        textColorVariant:
+          type: select
+          value: Light
+    5fc75bbd-c99d-4997-a3c5-73fe3ae9ff2b|98ef4404-7adc-4d1b-bd62-e17bc229352b:
+      variant: backgroundImage
+      parameters:
+        buttonLink:
+          type: link
+          value:
+            path: /:locale/products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+              product-slug: ${#jptr:/Product Content results Loop Item/entry/_slug}
+        overlayColor:
+          type: tp-color-style-parameter
+          value: base-300
+        overlayOpacity:
+          type: tp-slider-parameter
+          value: 50%
+        textColorVariant:
+          type: select
+          value: Light
+        lineCountRestriction:
+          type: tp-slider-parameter
+          value: '3'
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-GB
+    - en-CA
+    - en-NL
+    - en-GB
+created: '2024-02-28T12:50:56.216345+00:00'
+modified: '2024-04-23T10:57:54.645233+00:00'
+pattern: false

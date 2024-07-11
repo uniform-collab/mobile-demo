@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 3d8bf193-071e-4d9a-9a63-3a6e1a332d39
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: milk_carafe__50631.1662555446.386.513_kognbj.jpg
+    file:
+      type: file
+      value: 8ecc1e89-a4f0-4d59-a8d0-48663dae847f
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/QtNzKdDzSP-J3IikQG1QTg-milk_carafe__50631.1662555446.386.513_kognbj.jpg
+      type: text
+    size:
+      value: 7369
+      type: number
+    width:
+      value: 386
+      type: number
+    height:
+      value: 386
+      type: number
+    custom: {}
+created: '2024-02-28T12:47:56.241892+00:00'
+modified: '2024-02-28T13:32:08.40017+00:00'

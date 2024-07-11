@@ -1,0 +1,700 @@
+created: '2024-02-28T12:52:53.642682+00:00'
+modified: '2024-02-28T12:52:53.642682+00:00'
+pattern: false
+entry:
+  _id: 0e42764b-dc46-4003-9b21-a4a5fd049ede
+  _name: 'FILTER COFFEE GUIDE: What Coffee Filter is Right for Your'
+  _slug: filter-coffee-guide-what-coffee-filter-is-right-for-your
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/D_bf4JGFQ8uKfc-C6ClT7g-ultimate_filter_guide.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Editorial
+    title:
+      type: text
+      locales:
+        en-US: 'FILTER COFFEE GUIDE: What Coffee Filter is Right for Your Brew?'
+        fr-CA: 'Guide de café filtrant: Quel filtre à café convient à votre infusion?'
+        nl-NL: >-
+          Filterkoffiehandleiding: welk koffiefilter is geschikt voor uw
+          brouwsel?
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Filter, or Pour over Coffee, is regarded as one of the purest tasting coffees you can make. Held to high esteem by the coffee elite, filter coffee is the pinnacle of flavour, texture and cleanness. For such a prestigious method, there is a lot that goes into preparing this liquid gold, and with various contraptions on the market it can get overwhelming to start off with.\_Even the TYPE OF FILTER matters when it comes to getting the best out of your brew. So check out which filter style works best for your brew below!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Paper Filters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The most common type of filter on the market is the humble paper filter. Coming in all different shapes and sizes to match whichever brewer you own, this is typically the first choice for both beginners and professionals alike.\_There are conical shaped filters for your v60 type brewers and there are cupcake style flat bottom filters for your larger batch brewer machines or basket brewers. The flat bottom filters in theory extract less evenly than the conical shape, and the water does not fall evenly and effortlessly through the grinds, however in bulk they do the job.\_One issue with paper filters is that they are single use only. They are designed to do the best job possible, as the thread on the paper is so thin that zero sediment will get through to your cup, however once used you will have to bin the filter, contributing waste into landfill and also just generally being wasteful. I’m sure you could source some biodegradable/compostable paper filters to battle just this, if you wish to stick to paper brewing. These paper filters also require a holder or device to prop the filter up, so you will need to invest in a v60 unit as well as the papers.The last issue is the processing of the paper filters. You might find two types of paper filters, one style bright white, and the other a more natural brown. This is the result of chlorine bleaching. Some argue that by using bleached paper it removes any papery flavours that could leech into your brew, and is more of a purest way of drinking the coffee by removing all foreign flavours. Personally, I haven't found any taste difference between the two versions of paper, and with the environmental impacts of chlorine bleaching far outweigh any sign of flavour improvement I will always choose unbleached paper.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Metal Filters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The most sturdy and durable type of filter out there, metal filters are not only durable but also incredibly easy to clean. Typically found in homeware stores, metal filters make up for their flaws in brewing with a more environmental approach. Being made often out of stainless steel the durability of this unit will last you decades if kept well. Upfront it is substantially more expensive than a paper filter, however in the long run it will balance out what you invest in the beginning. The unit itself is fully self contained, and you only need the one piece to start brewing.Cleaning is simple. Give it a quick rinse under water and dry it off and you are good to go for the next brew. So if simplicity is more important to you than quality of brew, then metal filters are the way to go for you.\_The issue of the metal brewers is the filter itself, being pre-cut with predrilled mesh holes. These porous parts are often not fine enough to keep out finer grinds from your cup, and often lead to muddy brews with sediment inside. The metal will not absorb any oils from the brewing coffee and will make a full bodied, aeromatic and heavy mouth feel brew. You could, in theory, add a paper filter on top of the metal filter to remove these oils and sediment but then what is the point of having the metal filter.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Cloth Filters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "One of the oldest filter recepies, a cloth filter is the perfect mix of durability and quality. In all different shapes and sizes, cloth filters are a great answer to single use filters. Quality cloth filters will have a tight thread to regulate the level of flow of water in the extraction. The cloth does an excellent job at absorbing oils creating a clean crisp flavour in your cup.\_Durability is dependent on the way you treat and wash the filter, with the thread width being reset with each wash. Washing however is easier said than done. In order to correctly wash the cloth filter, you have to boil the unit for 10 minutes, then scrub out all of the remaining bits of coffee left over, after each use. This is pretty time consuming just for a morning brew, however the fact that you can reuse the filter time and again marks a much more environmentally stable way of making coffee.The history of the cloth filter dates back centuries, with traditional south american brews still being made this way. However with each wash having the possibility of damaging the cloth and rips and tears being a thing, you may not get the life use out of a cloth filter and you may have to replace it every few months.\_ Not a new way of filter brewing, but new to the public eye is ceramic filters. A hard, porous unit that acts more like a water purification system than anything else, this is the ultimate statement of reliability and ease.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Ceramic Filters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The ceramic filters are fully reusable but quite delicate compared to its metal counterpart. The similar issue that this filter shares is the width of the pores in the filter. No matter how fine of grind you run with ceramic filters, the stone itself is quite porous and will have the water track straight through it, creating a faster pour and a quicker extraction. There is absolutely zero sediment that gets through to your cup, however you will constantly be left with slightly under extracted brews.\_This could be a problem with purists, but for those who are more environmentally minded the ceramic filters are a forever piece. The ease of cleaning, the simple and easy use of the unit itself as well as its ability to produce a clean crisp cup creates an experience fit for royalty.\_Cleaning of the unit is simple, just by passing boiling water through the underside of the filter, and if you had major build up you can actually burn off the sediment on a gas stove once every few months. The downside to these units is that they are expensive. Some may be polarized by this, others will see all of the other benefits that come with such a unit.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Le filtre, ou verser sur le café, est considéré comme l'un des cafés au goût le plus pur que vous puissiez préparer. Tenu en haute estime par l'élite du café, le café filtre est le summum de la saveur, de la texture et de la propreté. Pour une méthode aussi prestigieuse, la préparation de cet or liquide nécessite beaucoup de travail, et avec divers appareils sur le marché, cela peut devenir écrasant au début. Même le TYPE DE FILTRE compte lorsqu'il s'agit de tirer le meilleur parti de votre infusion. Alors découvrez ci-dessous quel style de filtre convient le mieux à votre infusion\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Filtres en papier
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Le type de filtre le plus courant sur le marché est le
+                      modeste filtre en papier. Disponible dans toutes les
+                      formes et tailles pour correspondre à la cafetière que
+                      vous possédez, c'est généralement le premier choix pour
+                      les débutants et les professionnels. Il existe des filtres
+                      de forme conique pour vos cafetières de type v60 et des
+                      filtres à fond plat de style cupcake pour vos machines de
+                      brassage par lots plus importants ou vos brasseurs à
+                      panier. Les filtres à fond plat extraient en théorie moins
+                      uniformément que la forme conique, et l'eau ne tombe pas
+                      uniformément et sans effort à travers la mouture, mais en
+                      vrac, ils font le travail. Le problème des filtres en
+                      papier est qu’ils sont à usage unique. Ils sont conçus
+                      pour faire le meilleur travail possible, car le fil sur le
+                      papier est si fin qu'aucun sédiment ne parviendra à votre
+                      tasse. Cependant, une fois utilisé, vous devrez jeter le
+                      filtre, ce qui contribuera à la mise en décharge des
+                      déchets et sera généralement du gaspillage. . Je suis sûr
+                      que vous pouvez vous procurer des filtres en papier
+                      biodégradables/compostables pour lutter contre ce
+                      problème, si vous souhaitez vous en tenir au brassage du
+                      papier. Ces filtres en papier nécessitent également un
+                      support ou un dispositif pour soutenir le filtre, vous
+                      devrez donc investir dans une unité V60 ainsi que dans les
+                      papiers. Le dernier problème est le traitement des filtres
+                      en papier. Vous pouvez trouver deux types de filtres en
+                      papier, l’un d’un blanc éclatant et l’autre d’un brun plus
+                      naturel. C'est le résultat du blanchiment au chlore.
+                      Certains soutiennent qu'en utilisant du papier blanchi,
+                      cela élimine toutes les saveurs de papier qui pourraient
+                      s'infiltrer dans votre infusion, et constitue davantage la
+                      manière la plus pure de boire le café en supprimant toutes
+                      les saveurs étrangères. Personnellement, je n'ai trouvé
+                      aucune différence de goût entre les deux versions de
+                      papier, et comme les impacts environnementaux du
+                      blanchiment au chlore dépassent de loin tout signe
+                      d'amélioration de la saveur, je choisirai toujours du
+                      papier non blanchi.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Filtres métalliques
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Type de filtre le plus robuste et le plus durable du
+                      marché, les filtres métalliques sont non seulement
+                      durables, mais aussi incroyablement faciles à nettoyer.
+                      Généralement présents dans les magasins d’articles
+                      ménagers, les filtres métalliques compensent leurs défauts
+                      de brassage par une approche plus environnementale. Étant
+                      souvent fabriqué en acier inoxydable, la durabilité de cet
+                      appareil durera des décennies si elle est bien entretenue.
+                      Au départ, il est nettement plus cher qu'un filtre en
+                      papier, mais à long terme, il équilibrera ce que vous
+                      investissez au début. L'unité elle-même est entièrement
+                      autonome et vous n'avez besoin que d'une seule pièce pour
+                      commencer l'infusion. Le nettoyage est simple. Rincez-le
+                      rapidement sous l’eau, séchez-le et vous êtes prêt à
+                      passer à la prochaine infusion. Donc, si la simplicité est
+                      plus importante pour vous que la qualité du brassage,
+                      alors les filtres métalliques sont la solution pour vous.
+                      Le problème des cafetières métalliques est le filtre
+                      lui-même, qui est prédécoupé avec des trous de maille
+                      pré-percés. Ces parties poreuses ne sont souvent pas assez
+                      fines pour empêcher les moutures plus fines de pénétrer
+                      dans votre tasse et conduisent souvent à des infusions
+                      boueuses contenant des sédiments à l'intérieur. Le métal
+                      n’absorbera aucune huile du café infusé et donnera une
+                      sensation de bouche corsée, aéromatique et lourde. Vous
+                      pourriez, en théorie, ajouter un filtre en papier
+                      au-dessus du filtre métallique pour éliminer ces huiles et
+                      sédiments, mais alors quel est l'intérêt d'avoir le filtre
+                      métallique.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Filtres en tissu
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L'une des recettes de filtrage les plus anciennes, le
+                      filtre en tissu est le mélange parfait de durabilité et de
+                      qualité. De toutes formes et tailles, les filtres en tissu
+                      sont une excellente réponse aux filtres à usage unique.
+                      Les filtres en tissu de qualité auront un filetage serré
+                      pour réguler le niveau de débit d'eau lors de
+                      l'extraction. Le chiffon fait un excellent travail en
+                      absorbant les huiles, créant une saveur propre et
+                      croustillante dans votre tasse. La durabilité dépend de la
+                      façon dont vous traitez et lavez le filtre, la largeur du
+                      fil étant réinitialisée à chaque lavage. Cependant, laver
+                      est plus facile à dire qu’à faire. Afin de laver
+                      correctement le filtre en tissu, vous devez faire bouillir
+                      l'appareil pendant 10 minutes, puis frotter tous les
+                      morceaux de café restants après chaque utilisation. Cela
+                      prend beaucoup de temps juste pour une infusion matinale,
+                      mais le fait que vous puissiez réutiliser le filtre à
+                      maintes reprises constitue une manière beaucoup plus
+                      écologique de préparer du café. L'histoire du filtre en
+                      tissu remonte à des siècles, avec des infusions
+                      traditionnelles sud-américaines encore étant fait de cette
+                      façon. Cependant, comme chaque lavage peut endommager le
+                      tissu et que les déchirures sont fréquentes, vous risquez
+                      de ne pas utiliser un filtre en tissu pendant toute sa
+                      durée de vie et vous devrez peut-être le remplacer tous
+                      les quelques mois. Il ne s’agit pas d’une nouvelle façon
+                      de brasser des filtres, mais les filtres en céramique sont
+                      nouveaux aux yeux du public. Une unité dure et poreuse qui
+                      agit plus comme un système de purification de l’eau
+                      qu’autre chose, c’est la déclaration ultime de fiabilité
+                      et de facilité.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Filtres en céramique
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les filtres en céramique sont entièrement réutilisables
+                      mais assez délicats par rapport à leur homologue
+                      métallique. Le problème similaire que partage ce filtre
+                      est la largeur des pores du filtre. Quelle que soit la
+                      finesse de mouture que vous utilisez avec des filtres en
+                      céramique, la pierre elle-même est assez poreuse et l'eau
+                      la traversera directement, créant ainsi un versement et
+                      une extraction plus rapides. Il n'y a absolument aucun
+                      sédiment qui pénètre dans votre tasse, mais vous vous
+                      retrouverez constamment avec des infusions légèrement
+                      sous-extraites. Cela pourrait poser problème aux puristes,
+                      mais pour ceux qui sont plus soucieux de l’environnement,
+                      les filtres en céramique sont une pièce éternelle. La
+                      facilité de nettoyage, l'utilisation simple et facile de
+                      l'appareil lui-même ainsi que sa capacité à produire une
+                      tasse propre et croustillante créent une expérience digne
+                      de la royauté. Le nettoyage de l'appareil est simple, il
+                      suffit de faire passer de l'eau bouillante sous le filtre,
+                      et si vous avez une accumulation importante, vous pouvez
+                      brûler les sédiments sur une cuisinière à gaz une fois
+                      tous les quelques mois. L’inconvénient de ces unités est
+                      qu’elles sont chères. Certains peuvent être polarisés par
+                      cela, d’autres verront tous les autres avantages qui
+                      accompagnent une telle unité.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Filter, of Pour over Coffee, wordt beschouwd als een van
+                      de puurste koffiesoorten die je kunt maken. Filterkoffie
+                      staat hoog aangeschreven bij de koffie-elite en is het
+                      toppunt van smaak, textuur en zuiverheid. Voor zo'n
+                      prestigieuze methode komt er veel kijken bij het bereiden
+                      van dit vloeibare goud, en met de verschillende
+                      constructies op de markt kan het in het begin
+                      overweldigend worden. Zelfs het TYPE FILTER is van belang
+                      als het erom gaat het beste uit uw brouwsel te halen.
+                      Bekijk hieronder dus welke filterstijl het beste werkt
+                      voor jouw brouwsel!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Papieren filters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het meest voorkomende type filter op de markt is het
+                      eenvoudige papieren filter. Verkrijgbaar in alle
+                      verschillende vormen en maten, passend bij welke brouwer
+                      je ook hebt, dit is doorgaans de eerste keuze voor zowel
+                      beginners als professionals. Er zijn conisch gevormde
+                      filters voor uw v60-type brouwers en er zijn cupcake-stijl
+                      filters met vlakke bodem voor uw grotere
+                      batch-brouwmachines of mandbrouwers. De filters met vlakke
+                      bodem zuigen in theorie minder gelijkmatig af dan de
+                      conische vorm, en het water valt niet gelijkmatig en
+                      moeiteloos door de maling, maar in bulk doen ze wel hun
+                      werk. Een probleem met papieren filters is dat ze slechts
+                      voor eenmalig gebruik zijn. Ze zijn ontworpen om het best
+                      mogelijke werk te doen, omdat de draad op het papier zo
+                      dun is dat er geen sediment in uw kopje terechtkomt. Maar
+                      eenmaal gebruikt, moet u het filter weggooien, waardoor
+                      afval op de vuilstort terechtkomt en over het algemeen ook
+                      gewoon verspillend is. . Ik ben er zeker van dat je een
+                      aantal biologisch afbreekbare/composteerbare papieren
+                      filters kunt kopen om dit tegen te gaan, als je het bij
+                      het brouwen van papier wilt houden. Deze papieren filters
+                      hebben ook een houder of apparaat nodig om het filter te
+                      ondersteunen, dus u zult zowel in een v60-eenheid als in
+                      de papieren moeten investeren. Het laatste probleem is de
+                      verwerking van de papieren filters. Mogelijk vindt u twee
+                      soorten papieren filters: de ene stijl is helderwit en de
+                      andere is natuurlijker bruin. Dit is het gevolg van bleken
+                      met chloor. Sommigen beweren dat het door het gebruik van
+                      gebleekt papier alle papierachtige smaken verwijdert die
+                      in je brouwsel zouden kunnen sijpelen, en dat het een
+                      zuiverdere manier is om de koffie te drinken door alle
+                      vreemde smaken te verwijderen. Persoonlijk heb ik geen
+                      enkel smaakverschil gevonden tussen de twee versies van
+                      papier, en omdat de milieueffecten van bleken met chloor
+                      ruimschoots opwegen tegen enig teken van smaakverbetering,
+                      zal ik altijd voor ongebleekt papier kiezen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Metalen filters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het meest stevige en duurzame type filter dat er is:
+                      metalen filters zijn niet alleen duurzaam, maar ook
+                      ongelooflijk eenvoudig schoon te maken. Meestal te vinden
+                      in winkels voor huishoudelijke artikelen, compenseren
+                      metalen filters hun tekortkomingen bij het brouwen met een
+                      meer milieuvriendelijke benadering. Omdat dit apparaat
+                      vaak van roestvrij staal is gemaakt, gaat het tientallen
+                      jaren mee als het goed wordt onderhouden. Op voorhand is
+                      het aanzienlijk duurder dan een papieren filter, maar op
+                      de lange termijn zal het compenseren voor wat u in het
+                      begin investeert. Het apparaat zelf is volledig autonoom
+                      en je hebt slechts één onderdeel nodig om te beginnen met
+                      koffiezetten. Het schoonmaken is eenvoudig. Spoel het snel
+                      af onder water, droog het af en je bent klaar om te gaan
+                      voor het volgende brouwsel. Dus als eenvoud belangrijker
+                      voor je is dan de kwaliteit van het brouwsel, dan zijn
+                      metalen filters de juiste keuze voor jou. Het probleem van
+                      de metalen brouwers is het filter zelf, dat voorgesneden
+                      is met voorgeboorde gaasgaten. Deze poreuze delen zijn
+                      vaak niet fijn genoeg om de fijnere maling uit je kopje te
+                      houden, en leiden vaak tot modderige brouwsels met
+                      bezinksel erin. Het metaal absorbeert geen olie van de
+                      koffie en zorgt voor een vol, aeromatisch en zwaar
+                      mondgevoel. Je zou in theorie een papieren filter bovenop
+                      het metalen filter kunnen plaatsen om deze oliën en
+                      bezinksel te verwijderen, maar wat heeft het dan voor zin
+                      om een metalen filter te hebben.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Doekfilters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Een stoffen filter, een van de oudste filterrecepten, is
+                      de perfecte mix van duurzaamheid en kwaliteit. In alle
+                      verschillende soorten en maten zijn stoffen filters een
+                      geweldig antwoord op filters voor eenmalig gebruik.
+                      Kwalitatieve stoffen filters hebben een strakke
+                      schroefdraad om de waterstroom bij de extractie te
+                      regelen. De doek absorbeert uitstekend oliën en zorgt voor
+                      een zuivere, frisse smaak in uw kopje. De duurzaamheid is
+                      afhankelijk van de manier waarop u het filter behandelt en
+                      wast, waarbij de draadbreedte bij elke wasbeurt opnieuw
+                      wordt ingesteld. Wassen is echter gemakkelijker gezegd dan
+                      gedaan. Om het stoffen filter correct te wassen, moet u
+                      het apparaat 10 minuten laten koken en vervolgens na elk
+                      gebruik alle resterende koffieresten eruit schrobben.
+                      Alleen al voor een ochtendbrouwsel is dit behoorlijk
+                      tijdrovend, maar het feit dat je het filter keer op keer
+                      kunt hergebruiken, markeert een veel milieuvriendelijkere
+                      manier om koffie te zetten. De geschiedenis van het
+                      stoffen filter gaat eeuwen terug, met traditionele
+                      Zuid-Amerikaanse brouwsels nog steeds. op deze manier
+                      gemaakt worden. Omdat echter bij elke wasbeurt de kans
+                      bestaat dat de stof beschadigd raakt en er scheuren en
+                      scheuren optreden, haalt u mogelijk niet het maximale uit
+                      een stoffen filter en moet u deze mogelijk om de paar
+                      maanden vervangen. Geen nieuwe manier van filterbrouwen,
+                      maar nieuw voor het publiek zijn keramische filters. Een
+                      harde, poreuze eenheid die meer als een
+                      waterzuiveringssysteem fungeert dan iets anders, dit is
+                      het ultieme statement van betrouwbaarheid en gemak.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Keramische filters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De keramische filters zijn volledig herbruikbaar, maar
+                      behoorlijk delicaat vergeleken met hun metalen
+                      tegenhanger. Het soortgelijke probleem dat dit filter
+                      deelt, is de breedte van de poriën in het filter. Hoe fijn
+                      je de steen ook maalt met keramische filters, de steen
+                      zelf is behoorlijk poreus en het water zal er dwars
+                      doorheen stromen, waardoor een snellere giet- en extractie
+                      ontstaat. Er komt absoluut geen bezinksel in uw kopje
+                      terecht, maar u zult wel voortdurend met iets te weinig
+                      geëxtraheerde brouwsels achterblijven. Dit kan een
+                      probleem zijn voor puristen, maar voor degenen die
+                      milieubewuster zijn, zijn de keramische filters een
+                      eeuwigheidsstuk. Het reinigingsgemak, het eenvoudige en
+                      gemakkelijke gebruik van het apparaat zelf en de
+                      mogelijkheid om een schone, knapperige kop te produceren,
+                      creëren een ervaring die geschikt is voor royalty's. Het
+                      schoonmaken van het apparaat is eenvoudig, je hoeft alleen
+                      maar kokend water door de onderkant van het filter te
+                      laten lopen. Als je een grote aanslag hebt, kun je het
+                      bezinksel eens in de paar maanden op een gasfornuis
+                      verbranden. Het nadeel van deze apparaten is dat ze duur
+                      zijn. Sommigen zijn hierdoor misschien gepolariseerd,
+                      anderen zullen alle andere voordelen zien die bij zo'n
+                      eenheid horen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 394e4d23-16dd-4ec9-b175-d802fbab4396
+          type: image
+          fields:
+            id:
+              type: text
+              value: 76b531e3-ef32-49b7-9ad1-0c48f429ab02
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/D_bf4JGFQ8uKfc-C6ClT7g-ultimate_filter_guide.jpg
+              type: text
+            file:
+              type: file
+              value: 6befffc0-539f-4e99-a442-1e617af10c30
+            size:
+              value: 47633
+              type: number
+            title:
+              type: text
+              value: ultimate_filter_guide.jpg
+            width:
+              value: 683
+              type: number
+            height:
+              value: 472
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Even the TYPE OF FILTER matters when it comes to getting the best out
+          of your brew. So check out which filter style works best for your brew
+          below!
+        fr-CA: >-
+          Même le type de filtre compte quand il s'agit de tirer le meilleur
+          parti de votre infusion.Découvrez donc quel style de filtre fonctionne
+          le mieux pour votre infusion ci-dessous!
+        nl-NL: >-
+          Zelfs het type filter is belangrijk als het gaat om het beste uit je
+          brouwsel te halen.Kijk dus welke filterstijl het beste werkt voor uw
+          brouwsel hieronder!
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

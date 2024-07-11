@@ -1,0 +1,75 @@
+created: '2024-02-28T12:54:11.964268+00:00'
+modified: '2024-02-28T12:54:11.964268+00:00'
+pattern: false
+entry:
+  _id: 1d328970-f50b-4b30-a2a7-78cd947faa25
+  _name: The zero-gravity brewing mode is not just a feature
+  _slug: the-zero-gravity-brewing-mode-is-not-just-a-feature
+  type: testimonial
+  fields:
+    date:
+      type: text
+      locales:
+        en-US: '2023-07-03'
+        fr-CA: '2023-07-03'
+        nl-NL: '2023-07-03'
+    stars:
+      type: text
+      value: '4'
+    title:
+      type: text
+      locales:
+        en-US: The zero-gravity brewing mode is not just a feature
+        fr-CA: >-
+          Le mode de brassage zéro-gravité n'est pas seulement une
+          fonctionnalité
+        nl-NL: De brouwmodus met nul-zwaartekracht is niet alleen een functie
+    picture:
+      type: asset
+      value: []
+    lastName:
+      type: text
+      locales:
+        en-US: Selman
+        fr-CA: Selman
+        nl-NL: Selman
+    location:
+      type: text
+    firstName:
+      type: text
+      locales:
+        en-US: Emily
+        fr-CA: Emilie
+        nl-NL: Emily
+    productId:
+      type: text
+      value: espresso-gpt-145
+    experience:
+      type: text
+      locales:
+        en-US: >
+          The zero-gravity brewing mode is not just a feature; it's an
+          experience that takes you on a journey every single time. And the
+          self-cleaning mechanism? Pure genius! I never thought I'd be this
+          excited about a coffee machine, but the EspressoGPT isn't just any
+          machine. It's a testament to how far technology can go to perfect
+          something as timeless as coffee.",
+        fr-CA: >-
+          Le mode de brassage zéro-gravité n'est pas seulement une
+          fonctionnalité;C'est une expérience qui vous emmène à chaque fois.Et
+          le mécanisme d'autonomie?Pure génie!Je n'ai jamais pensé que je serais
+          aussi excité par une machine à café, mais l'espressogpt n'est pas
+          n'importe quelle machine.C'est un témoignage de la distance qui peut
+          aller pour perfectionner quelque chose d'aussi intemporel que le café.
+          ",
+        nl-NL: >-
+          De brouwmodus met nul-zwaartekracht is niet alleen een functie;Het is
+          een ervaring die je elke keer op reis neemt.En het zelfreinigende
+          mechanisme?Puur genie!Ik had nooit gedacht dat ik zo enthousiast zou
+          zijn over een koffiezetapparaat, maar de espressogpt is niet zomaar
+          een machine.Het is een bewijs van hoe ver technologie kan gaan om
+          zoiets tijdloos te perfectioneren als koffie. ",
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,124 @@
+composition:
+  _name: Hero - Promotion (ka)
+  _id: 65843d68-b3e9-4a48-9924-e4b48cc48a92
+  type: hero
+  variant: imageLeft
+  parameters:
+    image:
+      type: asset
+      value:
+        - _id: c5e066f2-7485-4da3-b25d-72399b99e2c8
+          type: image
+          fields:
+            url:
+              type: text
+              value: ${#jptr:/Promotion Content/item/elements/image/value}
+          _source: custom-url
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Promotion Content/item/elements/title/value}
+        en-GB: ${#jptr:/Promotion Content/item/elements/title/value}
+        en-NL: ${#jptr:/Promotion Content/item/elements/title/value}
+        en-US: ${#jptr:/Promotion Content/item/elements/title/value}
+        fr-CA: ${#jptr:/Promotion Content/item/elements/title/value}
+        nl-NL: ${#jptr:/Promotion Content/item/elements/title/value}
+    marginTop:
+      type: select
+      value: None
+    textColor:
+      type: tp-color-palette-parameter
+      value: primary-content
+    paddingTop:
+      type: select
+      value: None
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h2
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Promotion Content/item/elements/description/value}
+        en-GB: ${#jptr:/Promotion Content/item/elements/description/value}
+        en-NL: ${#jptr:/Promotion Content/item/elements/description/value}
+        en-US: ${#jptr:/Promotion Content/item/elements/description/value}
+        fr-CA: ${#jptr:/Promotion Content/item/elements/description/value}
+        nl-NL: ${#jptr:/Promotion Content/item/elements/description/value}
+    eyebrowText:
+      type: text
+      locales:
+        en-CA: promotions
+        en-GB: promotions
+        en-NL: promotions
+        en-US: promotions
+        fr-CA: promotions
+        nl-NL: promoties
+    marginBottom:
+      type: select
+      value: None
+    paddingBottom:
+      type: select
+      value: None
+    backgroundColor:
+      type: tp-color-palette-parameter
+      value: primary
+    containerVariant:
+      type: select
+      value: fluidContent
+  _dataResources:
+    Promotion Content:
+      type: kontentAiPromotion
+      variables:
+        language: ${locale}
+        itemsCodenames: free_shipping
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      delay: 'yes'
+      image: 'yes'
+      title: 'yes'
+      video: 'yes'
+      duration: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      textColor: 'yes'
+      fullHeight: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      animationType: 'yes'
+      paddingBottom: 'yes'
+      animationOrder: 'yes'
+      backgroundType: 'yes'
+      overlayOpacity: 'yes'
+      backgroundColor: 'yes'
+      animationPreview: 'yes'
+      containerVariant: 'yes'
+      textColorVariant: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      primaryButtonStyle: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - fr-CA
+    - nl-NL
+    - en-US
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:50:54.24522+00:00'
+modified: '2024-02-28T13:35:50.81625+00:00'
+pattern: true
+description: Marketing Promotion in a hero layout
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Hero_promotion_preview_image
+categoryId: 04ee1e2d-be2f-412f-8ce5-d1d9dd56f27d

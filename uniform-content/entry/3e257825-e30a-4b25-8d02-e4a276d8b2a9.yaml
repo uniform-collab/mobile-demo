@@ -1,0 +1,71 @@
+created: '2024-02-28T12:52:11.979363+00:00'
+modified: '2024-02-28T12:52:11.979363+00:00'
+pattern: false
+entry:
+  _id: 3e257825-e30a-4b25-8d02-e4a276d8b2a9
+  _name: AI-powered taste customization
+  _slug: ai-powered-taste-customization
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/3HRg_7_BTMS9YlT2MCrZKA-icon_equalizer.svg
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: a59e2702-1394-4a61-a1a9-c32a606a37b7
+          type: image
+          fields:
+            id:
+              type: text
+              value: 8ca3b540-5575-4ce0-91c6-18e764933685
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/3HRg_7_BTMS9YlT2MCrZKA-icon_equalizer.svg
+              type: text
+            file:
+              type: file
+              value: 98bc001e-6184-43d4-8cb4-5002f6c3902d
+            size:
+              value: 3038
+              type: number
+            title:
+              type: text
+              value: icon_equalizer.svg
+            width:
+              value: 60
+              type: number
+            height:
+              value: 60
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: AI-powered taste customization
+        fr-CA: Personnalisation du goût propulsé par l'IA
+        nl-NL: AI-aangedreven smaakaanpassing
+    productId:
+      type: text
+      value: espresso-gpt-145
+    description:
+      type: text
+      locales:
+        en-US: >-
+          We understands your palette After just a few uses, EspressoGPT learns
+          to brew your espresso to your exact liking, adjusting grind size,
+          water temperature, and brewing time.
+        fr-CA: >-
+          Nous comprenons votre palette après quelques utilisations, expressogpt
+          apprend à préparer votre expresso à votre goût exact, à la taille de
+          la mouture, à la température de l'eau et au temps de brassage.
+        nl-NL: >-
+          We begrijpen uw palet na slechts een paar toepassingen, Espressogpt
+          leert uw espresso te brouwen naar uw exacte voorliefde, het aanpassen
+          van de maalgrootte, watertemperatuur en brouwtijd.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,17 @@
+id: reviews
+displayName: Reviews
+ttl: 30
+path: /multiple
+custom:
+  proposedName: Multiple Testimonial
+  allowedContentTypes:
+    - testimonial
+method: GET
+purgeKey: 22f02257-6b7d-4c50-a630-f5a5022349e3
+archetype: multipleEntries
+variables:
+  entryIds:
+    type: text
+    default: ''
+dataSourceId: uniformContent
+allowedOnComponents: []

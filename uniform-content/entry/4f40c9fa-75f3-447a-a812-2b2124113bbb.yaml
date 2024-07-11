@@ -1,0 +1,164 @@
+created: '2024-02-28T12:52:41.978813+00:00'
+modified: '2024-02-28T13:36:41.419823+00:00'
+pattern: false
+entry:
+  _id: 4f40c9fa-75f3-447a-a812-2b2124113bbb
+  _name: Descaling tablets
+  _slug: descaling-tablets-142
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/7X_PCJVNRyK8Wa-CG9_glg-descaling_tablets__24083.1662555428.386.513_plb7u6.jpg
+  type: product
+  fields:
+    name:
+      type: text
+      value: Descaling tablets
+    title:
+      type: text
+      value: Descaling tablets
+    category:
+      type: select
+      value: espresso-tools
+    variants:
+      type: $block
+      value:
+        - _id: 01d6d97b-b95e-41f0-9489-7d5351e99242
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '142'
+            price:
+              type: number
+              locales:
+                en-US: '35'
+                fr-CA: '32.33'
+                nl-NL: '32.33'
+            title:
+              type: text
+              locales:
+                en-US: Descaling tablets
+                fr-CA: Descaling tablets
+                nl-NL: Descaling tablets
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: a9aa543a-5fb8-49c1-89ab-fc3b6a6709f8
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 80e92a2e-0707-4126-9b77-661142192572
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/X9ishioTRcmMiWWlt7GqeQ-descaling_tablets__24083.1662555428.386.513_plb7u6.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 4ae8079f-f120-4046-85bd-c97a9284af54
+                    size:
+                      value: 17481
+                      type: number
+                    title:
+                      type: text
+                      value: descaling_tablets__24083.1662555428.386.513_plb7u6.jpg
+                    width:
+                      value: 386
+                      type: number
+                    height:
+                      value: 386
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 4fc2059f-fb69-40ba-98cb-c2afbbac4761
+          type: image
+          fields:
+            id:
+              type: text
+              value: 3ca4299e-5cba-4375-9f8c-fd9cd6271658
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/7X_PCJVNRyK8Wa-CG9_glg-descaling_tablets__24083.1662555428.386.513_plb7u6.jpg
+              type: text
+            file:
+              type: file
+              value: 9e7eb0eb-1632-48c4-ac6f-6fa42d316aae
+            size:
+              value: 17481
+              type: number
+            title:
+              type: text
+              value: descaling_tablets__24083.1662555428.386.513_plb7u6.jpg
+            width:
+              value: 386
+              type: number
+            height:
+              value: 386
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: e038ac33-792e-4cf0-ae95-14ede00982f6
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 1bdc8e26-c4ac-4ab4-ac85-cd1d0e229b9d
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

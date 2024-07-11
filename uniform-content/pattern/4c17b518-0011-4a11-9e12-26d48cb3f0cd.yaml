@@ -1,0 +1,91 @@
+composition:
+  _name: Accordion (cs)
+  _id: 4c17b518-0011-4a11-9e12-26d48cb3f0cd
+  type: accordion
+  parameters:
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/FAQ Header Content/entries/0/title}
+        en-GB: ${#jptr:/FAQ Header Content/entries/0/title}
+        en-NL: ${#jptr:/FAQ Header Content/entries/0/title}
+        en-US: ${#jptr:/FAQ Header Content/entries/0/title}
+        fr-CA: ${#jptr:/FAQ Header Content/entries/0/title}
+        nl-NL: ${#jptr:/FAQ Header Content/entries/0/title}
+  slots:
+    items:
+      - _id: e5335507-4357-4bb8-8827-dc047fc343b7
+        type: $loop
+        slots:
+          body:
+            - _id: f3d0e12a-5126-4b3c-ac4d-92635a1406fc
+              type: accordionItem
+              parameters:
+                title:
+                  type: text
+                  locales:
+                    en-CA: ${#jptr:/FAQ Content entries Loop Item/title}
+                    en-GB: ${#jptr:/FAQ Content entries Loop Item/title}
+                    en-NL: ${#jptr:/FAQ Content entries Loop Item/title}
+                    en-US: ${#jptr:/FAQ Content entries Loop Item/title}
+                    fr-CA: ${#jptr:/FAQ Content entries Loop Item/title}
+                    nl-NL: ${#jptr:/FAQ Content entries Loop Item/title}
+                description:
+                  type: text
+                  locales:
+                    en-CA: ${#jptr:/FAQ Content entries Loop Item/description}
+                    en-GB: ${#jptr:/FAQ Content entries Loop Item/description}
+                    en-NL: ${#jptr:/FAQ Content entries Loop Item/description}
+                    en-US: ${#jptr:/FAQ Content entries Loop Item/description}
+                    fr-CA: ${#jptr:/FAQ Content entries Loop Item/description}
+                    nl-NL: ${#jptr:/FAQ Content entries Loop Item/description}
+              _overridability:
+                parameters:
+                  title: 'yes'
+                  description: 'yes'
+        _dataResources:
+          FAQ Content entries Loop Item:
+            type: sys-reserved-loop
+            variables:
+              connectedData: /FAQ Content/entries
+  _dataResources:
+    FAQ Content:
+      type: contentstackFAQs
+      variables:
+        query: >-
+          { "uid": { "$in":
+          ["blt5f5cb0856a126d78","blt0ee0b924d96ef11d","bltfdc20d9c958500d5"] }
+          }
+        locale: ${locale}
+        include: ''
+        entryUids: blt5f5cb0856a126d78,blt0ee0b924d96ef11d,bltfdc20d9c958500d5
+        content_type_uid: faq
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+    FAQ Header Content:
+      type: contentstackFAQs
+      variables:
+        query: '{ "uid": { "$in": ["blt661b26bc2a7245ba"] } }'
+        locale: ${locale}
+        include: ''
+        entryUids: blt661b26bc2a7245ba
+        content_type_uid: faq
+      isPatternParameter: true
+      ignorePatternParameterDefault: false
+  _overridability:
+    parameters:
+      title: 'yes'
+      description: 'yes'
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:31.523181+00:00'
+modified: '2024-02-28T12:50:31.523181+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Accordion_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

@@ -1,0 +1,64 @@
+created: '2024-02-28T12:53:06.573064+00:00'
+modified: '2024-02-28T12:53:06.573064+00:00'
+pattern: false
+entry:
+  _id: e7cfb2f1-afe4-431d-bbad-44232a9a7d1e
+  _name: Get Free Shipping on Specialty
+  _slug: get-free-shipping-on-specialty
+  type: callToAction
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 21f99960-ce14-48dc-a983-df94a3c8cc96
+          type: image
+          fields:
+            id:
+              type: text
+              value: 366a1b13-291c-48a5-a870-dd97148cfe56
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/G22ZNaJHQxaxm44qz2YvhA-free_shipping.svg
+              type: text
+            file:
+              type: file
+              value: 3090fd29-a1c2-449a-8ffb-45e45d1ae6de
+            size:
+              value: 4157
+              type: number
+            title:
+              type: text
+              value: free_shipping.svg
+            width:
+              value: 113
+              type: number
+            height:
+              value: 113
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Get Free Shipping on Specialty
+        fr-CA: Obtenez la livraison gratuite sur la spécialité
+        nl-NL: Ontvang gratis verzending op specialiteit
+    description:
+      type: text
+      locales:
+        en-US: >
+          For our Specialty Coffee Machine Launch, we're offering Free shipping.
+          Sign up for JavaDrip promotions for details!
+        fr-CA: >-
+          Pour notre lancement de machine à café spécialisé, nous proposons la
+          livraison gratuite.Inscrivez-vous aux promotions Javadrip pour plus de
+          détails!
+        nl-NL: >-
+          Voor onze lancering van specialiteiten, bieden we gratis
+          verzending.Meld u aan voor Javadrip -promoties voor meer informatie!
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

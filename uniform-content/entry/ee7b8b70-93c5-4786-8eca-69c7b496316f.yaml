@@ -1,0 +1,395 @@
+created: '2024-02-28T12:53:41.914178+00:00'
+modified: '2024-02-28T12:53:41.914178+00:00'
+pattern: false
+entry:
+  _id: ee7b8b70-93c5-4786-8eca-69c7b496316f
+  _name: My first day with Cervello di Caffè.
+  _slug: my-first-day-with-cervello-di-caffe
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/GDo8X77HQkmkbwcruQEgsA-first_day_articles.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: CoffeeMakers
+    title:
+      type: text
+      locales:
+        en-US: My first day with Cervello di Caffè.
+        fr-CA: Mon premier jour avec Cervello di Caffè.
+        nl-NL: Mijn eerste dag met Cervello di Caffè.
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Fusce tristique interdum nisl, sed egestas lorem tincidunt
+                      et. Nullam quis leo gravida justo euismod lobortis. Nunc
+                      mi massa, elementum eu odio et, ultrices malesuada sapien.
+                      Ut porttitor metus nisl, nec rhoncus eros malesuada a.
+                      Maecenas a tellus pellentesque, laoreet est ac, luctus
+                      est. Vivamus tincidunt hendrerit urna, vel rutrum lacus
+                      commodo at. In eu ipsum nisl. Duis massa odio, condimentum
+                      condimentum quam a, gravida dignissim est. Donec
+                      condimentum, magna vitae bibendum congue, libero est
+                      imperdiet lorem, vel tristique metus arcu eget sem.
+                      Maecenas laoreet ligula sed fringilla elementum.
+                      Pellentesque aliquam lobortis metus, id tristique arcu.
+                      Nam non fermentum purus. Vivamus nisi metus, ornare eget
+                      nibh et, condimentum hendrerit odio. Fusce tempus at elit
+                      eu sollicitudin. Vestibulum eget enim sed ligula ultricies
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Suspendisse vitae quam sit amet elit volutpat varius quis
+                      vel nisl. Nam aliquam et nisl id gravida. Vivamus non
+                      lacus vel quam tincidunt bibendum. In vel mattis nibh. Sed
+                      egestas dolor ac metus scelerisque pretium. Pellentesque
+                      habitant morbi tristique senectus et netus et malesuada
+                      fames ac turpis egestas. Aenean dapibus vestibulum dolor.
+                      Cras pharetra mauris eget orci blandit scelerisque. Mauris
+                      viverra odio ut diam fringilla vestibulum. Curabitur
+                      lobortis condimentum tincidunt. Integer eu viverra lectus.
+                      Integer posuere gravida nisi. Fusce fringilla nisi nulla,
+                      nec convallis mi rhoncus vitae. Quisque efficitur lectus
+                      eros, nec sollicitudin tortor sollicitudin nec.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h3
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Subtitle style is here\L"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Interdum et malesuada fames ac ante ipsum primis in
+                      faucibus. Nulla placerat quis arcu quis varius. Etiam urna
+                      turpis, semper id consequat sed, aliquam ut risus. Morbi
+                      tempus diam enim, a porta leo varius a. Pellentesque
+                      cursus, erat quis volutpat feugiat, velit libero tempor
+                      tellus, sit amet sagittis est orci sed nulla. Etiam
+                      tincidunt elit nibh, et tempor ipsum pellentesque nec.
+                      Vivamus ac euismod orci. In hac habitasse platea dictumst.
+                      Vestibulum id consequat nisi, nec hendrerit nisi. Sed sit
+                      amet orci nec diam vestibulum efficitur. Curabitur
+                      condimentum condimentum venenatis. In ac venenatis orci,
+                      at commodo purus. Sed et quam elementum, varius leo vitae,
+                      tempus massa. Sed id viverra tortor. Phasellus interdum,
+                      eros id pellentesque pulvinar, eros nisi facilisis dui,
+                      sit amet sollicitudin elit augue eu dolor. Quisque aliquam
+                      orci massa, tempus cursus eros accumsan sit amet.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Fusce tristique interdum nisl, sed egestas lorem tincidunt
+                      et. Nullam quis leo gravida justo euismod lobortis. Nunc
+                      mi massa, elementum eu odio et, ultrices malesuada sapien.
+                      Ut porttitor metus nisl, nec rhoncus eros malesuada a.
+                      Mécène a tellus pellentesque, laoreet est ac, luctus est.
+                      Vivamus tincidunt hendrerit urna, vel rutrum lacus commodo
+                      at. En eu ipsum nisl. Duis massa odio, condimentum
+                      condimentum quam a, gravida dignissim est. Donec
+                      condimentum, magna vitae bibendum congue, libero est
+                      imperdiet lorem, vel tristique metus arcu eget sem. Mécène
+                      laoreet ligula sed fringilla elementum. Pellentesque
+                      aliquam lobortis metus, id tristique arcu. Nam non
+                      fermentum purus. Vivamus nisi metus, ornare eget nibh et,
+                      condimentum hendrerit odio. Fusce tempus à l'élite eu
+                      sollicitudin. Vestibule eget enim sed ligula ultricies
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Suspendisse vitae quam sit amet elit volutpat varius quis
+                      vel nisl. Nam aliquam et nisl id gravida. Vivamus non
+                      lacus vel quam tincidunt bibendum. En vel mattis nibh. Sed
+                      egestas dolor ac metus scelerisque pretium. Pellentesque
+                      habitant morbi tristique senectus et netus et malesuada
+                      fames ac turpis egestas. Énéen dapibus vestibulum dolor.
+                      Cras pharetra mauris eget orci blandit scelerisque. Mauris
+                      viverra odio ut diam fringilla vestibulum. Curabitur
+                      lobortis condimentum tincidunt. Entier eu viverra lectus.
+                      Entier posuere gravida nisi. Fusce fringilla nisi nulla,
+                      nec convallis mi rhoncus vitae. Quisque efficitur lectus
+                      eros, nca sollicitudin tortor sollicitudin nca.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Le style des sous-titres est ici
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Interdum et malesuada fames ac ante ipsum primis in
+                      faucibus. Nulla placerat quis arcu quis varius. Etiam urna
+                      turpis, sempre id consequat sed, aliquam ut risus. Morbi
+                      tempus diam enim, a porta leo varius a. Cursus
+                      pellentesque, erat quis volutpat feugiat, velit libero
+                      tempor tellus, sit amet sagittis est orci sed nulla. Etiam
+                      tincidunt elit nibh, et tempor ipsum pellentesque nec.
+                      Vivamus ac euismod orci. Dans l'habitasse platea dictumst.
+                      Vestibulum id consequat nisi, nec hendrerit nisi. Sed sit
+                      amet orci nec diam vestibulum efficitur. Curabitur
+                      condimentum condimentum venenatis. Dans ac venenatis orci,
+                      chez commodo purus. Sed et quam elementum, divers leo
+                      vitae, tempus massa. Sed id viverra tortor. Phasellus
+                      interdum, eros id pellentesque pulvinar, eros nisi
+                      facilisis dui, sit amet sollicitudin elit augue eu dolor.
+                      Quisque aliquam orci massa, tempus cursus eros accumsan
+                      sit amet.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Fusce tristique interdum nisl, sed egestas lorem tincidunt
+                      et. Nullam quis leo gravida justo euismod lobortis. Nunc
+                      mi massa, elementum eu odio et, ultrices malesuada sapien.
+                      Ut porttitor metus nisl, nec rhoncus eros malesuada a.
+                      Maecenas vertelt pellentesque, laoreet est ac, luctus est.
+                      Vivamus tincidunt hendrerit urna, vel rutrum lacus commodo
+                      at. In eu ipsum nil. Duis massa odio, condimentum
+                      condimentum quam a, gravida dignissim est. Donec
+                      condimentum, magna vitae bibendum congue, libero est
+                      imperdiet lorem, vel tristique metus arcu eget sem.
+                      Maecenas laoreet ligula sed fringilla elementum.
+                      Pellentesque aliquam lobortis metus, id tristique arcu.
+                      Nam non fermentum purus. Vivamus nisi metus, ornare eget
+                      nibh et, condimentum hendrerit odio. Fusce tempus bij elit
+                      eu-sollicitudin. Het vestibulum kan last krijgen van
+                      ligula-ultricies
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Levenslange schorsing als je een keuze hebt gemaakt uit
+                      verschillende dingen die je kunt doen. Nam aliquam en nisl
+                      id gravida. Vivamus non lacus vel quam tincidunt bibendum.
+                      In vel mattis nibh. Het wordt dolor met metus scelerisque
+                      pretium. Pelellenteske inwoners zullen hun senectus en
+                      netus en malesuada bekendmaken als turpis egestas. Eense
+                      dapibus vestibulum dolor. Cras pharetra mauris eget orci
+                      blandit scelerisque. Mauris viverra odio ut diam fringilla
+                      vestibulum. Curabitur lobortis condimentum tincidunt.
+                      Geheel getal eu viverra lectus. Geheel getal is gravida
+                      nisi. Fusce fringilla nisi nulla, nec convallis mi rhoncus
+                      vitae. Het is een doeltreffende werking als er sprake is
+                      van een sollicitatie of een sollicitatie, niet van
+                      toepassing.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Ondertitelstijl is hier
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Interdum en malesuada worden bekend als ante ipsum primis
+                      in faucibus. Nulla placerat quis arcu quis varius. Etiam
+                      urna turpis, semper id consequat sed, aliquam ut risus.
+                      Morbi tempus diam enim, a porta leo varius a. De hele
+                      cursus, die een voluut van feugiat is, terwijl het tempo
+                      waarin je leeft, zegt dat het sagittis is, is nutteloos.
+                      Het lijkt erop dat het niet goed is, en dat het tempo van
+                      de tijd pellentesque is. Vivamus ac euismod orci. In hac
+                      habitasse platea uitspraak. Vestibulum id consequat nisi,
+                      nec hendrerit nisi. Dit kan een effectieve
+                      vestibulum-effect hebben. Curabitur condimentum
+                      condimentum venenatis. In ac venenatis orci, bij commodo
+                      purus. Sed et quam elementum, varius leo vitae, tempus
+                      massa. Sed id viverra tortor. Phasellus interdum, eros id
+                      pellentesque pulvinar, eros nisi facilisis du, sit amet
+                      sollicitudin elit augue eu dolor. Quisque aliquam orci
+                      massa, tempus cursus eros accumsan sit amet.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 5817dd66-53f6-470b-b666-4acbef2ae20b
+          type: image
+          fields:
+            id:
+              type: text
+              value: d64f4017-62e9-451d-bf14-6488af3f5d46
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/GDo8X77HQkmkbwcruQEgsA-first_day_articles.jpg
+              type: text
+            file:
+              type: file
+              value: d8a7c316-2b86-4166-b55d-433116e8bd46
+            size:
+              value: 161789
+              type: number
+            title:
+              type: text
+              value: first_day_articles.jpg
+            width:
+              value: 686
+              type: number
+            height:
+              value: 338
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+          tristique interdum nisl, sed egestas lorem tincidunt et.
+        fr-CA: >-
+          Lorem ipsum Dolor Sit Amet, Consectetur Adipiscing Elit.Fusce
+          Tristique Interdum Nisl, Sed Egestas Lorem Tincidunt et.
+        nl-NL: >-
+          Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit.Fusce
+          tristique interdum nisl, sed eestas lorem tincidunt et.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

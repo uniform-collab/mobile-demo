@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 700f207e-441b-453c-b0a5-62d61d21faf1
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: columbian-blend-coffee-129-2_mfdvbz_bzxsu5.jpg
+    file:
+      type: file
+      value: b5d0afd9-4c43-453e-896f-fc87b5fc0337
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/eaUVIwMNScurH6TbfajMgg-columbian-blend-coffee-129-2_mfdvbz_bzxsu5.jpg
+      type: text
+    size:
+      value: 882339
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:43:39.322559+00:00'
+modified: '2024-02-28T13:32:52.954762+00:00'

@@ -1,0 +1,10 @@
+id: fb657541-0488-4c22-bce4-64c9cd71bdde
+name: Product Details Page
+order: 500
+path: /:locale/products/:product-slug
+type: composition
+pathSegment: ':product-slug'
+data:
+  previewValue: cervello-di-caffe-140
+compositionId: a255ba08-3ed2-4b91-a3f1-0e84f5872df0
+projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c

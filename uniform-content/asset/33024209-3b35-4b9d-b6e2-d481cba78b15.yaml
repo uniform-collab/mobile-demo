@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 33024209-3b35-4b9d-b6e2-d481cba78b15
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: royale-coffee-pour-over-vintage-drip-coffeemaker-88-1_kyccyy_doemgq.jpg
+    file:
+      type: file
+      value: 936d1acc-6842-4418-8a81-6e472415c842
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Zw6POa9aQBO2ZeOayZEXzQ-royale-coffee-pour-over-vintage-drip-coffeemaker-88-1_kyccyy_doemgq.jpg
+      type: text
+    size:
+      value: 145893
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:41:45.064319+00:00'
+modified: '2024-02-28T13:31:59.22557+00:00'

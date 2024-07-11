@@ -1,0 +1,77 @@
+created: '2024-02-28T12:53:09.805542+00:00'
+modified: '2024-02-28T12:53:09.805542+00:00'
+pattern: false
+entry:
+  _id: b87c91d3-28e7-4c5a-926b-a51f688ce9be
+  _name: Great coffee maker
+  _slug: great-coffee-maker
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Bu2Ux6PWT5SDpf5fMRhH5Q-luis_villasmil.jpg
+  type: testimonial
+  fields:
+    stars:
+      type: text
+      value: '5'
+    title:
+      type: text
+      locales:
+        en-US: Great coffee maker
+        fr-CA: Grande cafetière
+        nl-NL: Geweldig koffiezetapparaat
+    picture:
+      type: asset
+      value:
+        - _id: 2f35cf94-15c8-431c-88a6-6cea626f1191
+          type: image
+          fields:
+            id:
+              type: text
+              value: 2170494c-6886-4377-9476-e9cf49709deb
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Bu2Ux6PWT5SDpf5fMRhH5Q-luis_villasmil.jpg
+              type: text
+            file:
+              type: file
+              value: eb36a57c-f5db-4238-9f94-b18e28449a96
+            size:
+              value: 1297815
+              type: number
+            title:
+              type: text
+              value: luis_villasmil.jpg
+            width:
+              value: 2592
+              type: number
+            height:
+              value: 3872
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    firstName:
+      type: text
+      locales:
+        en-US: Bflogal716
+        fr-CA: Bflogal716
+        nl-NL: Bflogal716
+    productId:
+      type: text
+      value: javadrip-specialty-coffee-maker
+    experience:
+      type: text
+      locales:
+        en-US: >-
+          Great coffee maker, it makes all different sizes and has a great
+          frother.
+        fr-CA: >-
+          Grand cafetière, il fabrique toutes les différentes tailles et a une
+          grande frother.
+        nl-NL: >-
+          Geweldig koffiezetapparaat, het maakt alle verschillende maten en
+          heeft een geweldige broer.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

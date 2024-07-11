@@ -1,0 +1,164 @@
+created: '2024-02-28T12:54:15.249773+00:00'
+modified: '2024-02-28T13:37:23.12948+00:00'
+pattern: false
+entry:
+  _id: 90d3afd1-9e0b-4268-a781-843e3be61287
+  _name: Water filter
+  _slug: water-filter-143
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/i_GTIHXmSo2ZrKvXXAg6qA-waterfilter__90850.1662555459.386.513_escu6x.jpg
+  type: product
+  fields:
+    name:
+      type: text
+      value: Water filter
+    title:
+      type: text
+      value: Water filter
+    category:
+      type: select
+      value: espresso-tools
+    variants:
+      type: $block
+      value:
+        - _id: 5510eb31-09ca-41c8-907a-74825f5fb40c
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '143'
+            price:
+              type: number
+              locales:
+                en-US: '65'
+                fr-CA: '60.04'
+                nl-NL: '60.04'
+            title:
+              type: text
+              locales:
+                en-US: Water filter
+                fr-CA: Water filter
+                nl-NL: Water filter
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 1d245941-74f1-4084-a364-d06e638286d4
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 57ca367f-baa4-4731-8071-dc5970441d98
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/FFAjUM-XQeCOpwEfgHTZZw-waterfilter__90850.1662555459.386.513_escu6x.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 6f38ae44-eff4-43c0-963b-ff2a824822a4
+                    size:
+                      value: 8046
+                      type: number
+                    title:
+                      type: text
+                      value: waterfilter__90850.1662555459.386.513_escu6x.jpg
+                    width:
+                      value: 386
+                      type: number
+                    height:
+                      value: 386
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: de542412-3f6c-4e9f-bcae-b8cabc484ca7
+          type: image
+          fields:
+            id:
+              type: text
+              value: b7146c60-2180-4878-9524-544d38552f2a
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/i_GTIHXmSo2ZrKvXXAg6qA-waterfilter__90850.1662555459.386.513_escu6x.jpg
+              type: text
+            file:
+              type: file
+              value: eac732ba-489d-4fdd-b744-08215baa7d2f
+            size:
+              value: 8046
+              type: number
+            title:
+              type: text
+              value: waterfilter__90850.1662555459.386.513_escu6x.jpg
+            width:
+              value: 386
+              type: number
+            height:
+              value: 386
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 4ad30ba1-8537-4711-ad5c-1471a6f7749a
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 2ea309a2-57dd-4391-ab49-ee2612abb8f2
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

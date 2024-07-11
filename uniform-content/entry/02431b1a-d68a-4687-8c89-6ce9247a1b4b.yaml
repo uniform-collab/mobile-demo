@@ -1,0 +1,93 @@
+created: '2024-02-28T12:52:09.4938+00:00'
+modified: '2024-02-28T12:52:09.4938+00:00'
+pattern: false
+entry:
+  _id: 02431b1a-d68a-4687-8c89-6ce9247a1b4b
+  _name: Absolute Gem
+  _slug: absolute-gem
+  type: testimonial
+  fields:
+    date:
+      type: text
+    stars:
+      type: text
+      value: ''
+    title:
+      type: text
+      locales:
+        en-US: Absolute Gem
+        fr-CA: Bijou absolu
+        nl-NL: Absolute edelsteen
+    picture:
+      type: asset
+      value: []
+    lastName:
+      type: text
+      locales:
+        en-US: García
+        fr-CA: García
+        nl-NL: García
+    location:
+      type: text
+      locales:
+        en-US: Madrid
+        fr-CA: Madrid
+        nl-NL: Madrid
+    firstName:
+      type: text
+      locales:
+        en-US: Isabella
+        fr-CA: Isabella
+        nl-NL: Isabella
+    productId:
+      type: text
+      value: peruvian-blend-coffee-134
+    experience:
+      type: text
+      locales:
+        en-US: >-
+          JavaDrip is an absolute gem among online coffee bean stores! From the
+          moment I discovered them, I was blown away by their exceptional
+          selection of premium coffee beans from around the world. The website's
+          user-friendly interface made browsing a delightful experience, and the
+          detailed descriptions of each bean's flavor profile helped me choose
+          the perfect ones for my taste preferences. The beans arrived promptly,
+          meticulously packaged to preserve freshness, and the aroma that
+          greeted me upon unboxing was simply divine. But it's the taste that
+          truly amazed me – each cup brewed from their beans was a rich, smooth,
+          and heavenly experience. JavaDrip has undoubtedly won me over with
+          their top-notch quality and outstanding customer service. I'm hooked
+          for life and can't wait to explore more of their offerings!
+        fr-CA: >-
+          Javadrip est un joyau absolu parmi les magasins de grains de café en
+          ligne!À partir du moment où je les ai découverts, j'ai été époustouflé
+          par leur sélection exceptionnelle de grains de café haut de gamme du
+          monde entier.L'interface conviviale du site Web a fait de la
+          navigation d'une expérience délicieuse, et les descriptions détaillées
+          du profil de saveur de chaque haricot m'ont aidé à choisir les
+          parfaites pour mes préférences gustatives.Les haricots sont arrivés
+          rapidement, méticuleusement emballés pour préserver la fraîcheur, et
+          l'arôme qui m'a accueilli lors de la déballage était tout simplement
+          divin.Mais c'est le goût qui m'a vraiment étonné - chaque tasse
+          brassée de leurs haricots était une expérience riche, lisse et
+          céleste.Javadrip m'a sans aucun doute conquis avec leur qualité client
+          de qualité supérieure et son service client exceptionnel.Je suis accro
+          à la vie et j'ai hâte d'explorer plus de leurs offres!
+        nl-NL: >-
+          Javadrip is een absolute juweel onder online koffiebonenwinkels!Vanaf
+          het moment dat ik ze ontdekte, werd ik weggeblazen door hun
+          uitzonderlijke selectie premium koffiebonen van over de hele wereld.De
+          gebruiksvriendelijke interface van de website maakte door een
+          heerlijke ervaring te bladeren, en de gedetailleerde beschrijvingen
+          van het smaakprofiel van elke boon hebben me geholpen de perfecte te
+          kiezen voor mijn smaakvoorkeuren.De bonen kwamen snel aan, zorgvuldig
+          verpakt om frisheid te behouden, en het aroma dat me begroette bij
+          unboxing was gewoon goddelijk.Maar het is de smaak die me echt
+          verbaasde - elke beker uit hun bonen was een rijke, soepele en hemelse
+          ervaring.Javadrip heeft me ongetwijfeld gewonnen met hun eersteklas
+          kwaliteit en uitstekende klantenservice.Ik ben verslaafd aan het leven
+          en kan niet wachten om meer van hun aanbod te verkennen!
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

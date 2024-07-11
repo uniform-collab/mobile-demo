@@ -1,0 +1,52 @@
+created: '2024-02-28T12:54:18.831194+00:00'
+modified: '2024-02-28T12:54:18.831194+00:00'
+pattern: false
+entry:
+  _id: c22da885-248b-409b-a38e-4e6f97a8eb42
+  _name: What accessories do you offer for the Cervello di Caffè?
+  _slug: what-accessories-do-you-offer-for-the-cervello-di-caff
+  type: faq
+  fields:
+    title:
+      type: text
+      locales:
+        en-US: What accessories do you offer for the Cervello di Caffè?
+        fr-CA: Quels accessoires offrez-vous pour le Cervello di Caffè?
+        nl-NL: Welke accessoires biedt u voor de Cervello di Caffè?
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Arabica Acerbic Affogato Aftertaste Aged Americano And Aroma, flavour
+          affogato At cortado french foam cappuccino, barista froth Cappuccino
+          origin percolator au. Ristretto Au aftertaste brewed Aromatic saucer
+          cortado Bar, Body viennese crema origin Brewed milk sweet french,
+          coffee extraction aroma Cappuccino sit affogato et. Rich grounds at
+          spice fair At Affogato id macchiato caramelization, saucer sugar
+          trifecta shop Americano Aroma est. Brewed ut As brewed steamed Au
+          espresso macchiato turkish wings id filter, rich beans affogato redeye
+          shop and Americano so crema.
+        fr-CA: >-
+          Arabica ACERBIC AFFOGATO Aftertstât Americano et arôme, Flavour
+          Affogato à Cortado French Foam Cappuccino, Barista Froth Cappuccino
+          Origin Percolateur AU.Ristretto Au après-goût brassée Saucer
+          aromatique Cortado Bar, corps Viennois Crema Origin Brewed Milk Sweet
+          French, Extraction de café Aroma Cappuccino Sit affogato et.Rich
+          Grounds at Spice Fair at Affogato Id Macchiato Caramélisation, Saucer
+          Sugar Trifecta Shop Americano Aroma est. Brewed UT comme brassée à la
+          vapeur à la vapeur AU Espresso Macchiato Turkish Wings ID Filter, Rich
+          Beans Affogato Redeye Shop et Americano So Crema.
+        nl-NL: >-
+          Arabica Acerbic Affogato Aftaste Aging Americano en Aroma, Flavour
+          Affogato bij Cortado Frans schuim Cappuccino, Barista Froth Cappuccino
+          Origin Percolator Au.Ristretto au nasmaste gebrouwen aromatische
+          schotel cortado bar, body wiense crema oorsprong gebrouwen melk zoet
+          Frans, koffie extractie aroma cappuccino zit affogato et.Rijk terrein
+          op Spice Fair op affogato id macchiato -karamelisatie, schotel Sugar
+          Trifecta Shop Americano Aroma Est. Brewed Ut als gebrouwen gestoomde
+          Au espresso Macchiato Turkish Wings ID Filter, Rich Beans Affogato
+          Redeye Shop en Americano So Crema.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

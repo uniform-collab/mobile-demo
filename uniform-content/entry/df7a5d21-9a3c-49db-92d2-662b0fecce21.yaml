@@ -1,0 +1,395 @@
+created: '2024-02-28T12:53:30.285801+00:00'
+modified: '2024-02-28T13:38:04.136284+00:00'
+pattern: false
+entry:
+  _id: df7a5d21-9a3c-49db-92d2-662b0fecce21
+  _name: JavaDrip Specialty Coffee Maker
+  _slug: javadrip-specialty-coffee-maker-141
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/68UUcszuRkylQiQ0cNCh9A-JavaDrip_Specialty_1_ijla9c_ymbqor.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Bring the coffeehouse home with the JavaDrip Specialty
+                      Coffee Maker with Glass Carafe. Combine super-rich coffee
+                      concentrates with hot or cold frothed milk to create
+                      delicious coffeehouse-style drinks or enjoy flavorful iced
+                      coffee that never tastes watered down. Brew anything from
+                      a single cup to a half carafe or a full carafe using your
+                      favorite grounds—no pods required.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ramenez le café à la maison avec la cafetière spécialisée
+                      JavaDrip avec carafe en verre. Combinez des concentrés de
+                      café super riches avec de la mousse de lait chaude ou
+                      froide pour créer de délicieuses boissons de style café ou
+                      savourez un café glacé savoureux qui n'a jamais un goût
+                      dilué. Préparez n'importe quoi, d'une simple tasse à une
+                      demi-carafe ou une carafe pleine en utilisant votre marc
+                      préféré, aucune dosette n'est requise.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Haal het koffiehuis in huis met het JavaDrip Speciaal
+                      Koffiezetapparaat met Glazen Karaf. Combineer superrijke
+                      koffieconcentraten met warme of koude opgeschuimde melk om
+                      heerlijke drankjes in koffiehuisstijl te creëren of geniet
+                      van smaakvolle ijskoffie die nooit verwaterd smaakt. Zet
+                      alles, van een enkel kopje tot een halve karaf of een
+                      volledige karaf, op uw favoriete koffiedik – geen peulen
+                      nodig.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: JavaDrip Specialty Coffee Maker
+    title:
+      type: text
+      value: JavaDrip Specialty Coffee Maker
+    category:
+      type: select
+      value: espresso
+    variants:
+      type: $block
+      value:
+        - _id: 5e6434f0-a4e9-4e3d-a177-951b2f2b4fcf
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '141'
+            price:
+              type: number
+              locales:
+                en-US: '110'
+                fr-CA: '101.60'
+                nl-NL: '101.60'
+            title:
+              type: text
+              locales:
+                en-US: JavaDrip Specialty Coffee Maker
+                fr-CA: JavaDrip Specialty Coffee Maker
+                nl-NL: JavaDrip Specialty Coffee Maker
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 0f06fe98-3fce-4fe3-a2c4-7c2ee09ac891
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 01f11ef2-2c95-4c6d-a39d-d90a491eb6cc
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/i9rtgmY9TV2NH5Dy2HhX3g-JavaDrip_Specialty_5_qspevi_qtf01a.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 80c34ff8-fb06-4c73-895a-b73335a3f81e
+                    size:
+                      value: 161810
+                      type: number
+                    title:
+                      type: text
+                      value: JavaDrip_Specialty_5_qspevi_qtf01a.jpg
+                    width:
+                      value: 1000
+                      type: number
+                    height:
+                      value: 1000
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 54918819-da24-4a6d-b27a-7775426f1395
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 18c1a687-55d1-41ad-8d25-d99b2b78b2cf
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/-61YiOMJRwmjpt-jZoZLjQ-JavaDrip_Specialty_3_qh1ie8_zivmbj.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: ca3a9150-b91e-4a62-9694-39599c6e167a
+                    size:
+                      value: 164677
+                      type: number
+                    title:
+                      type: text
+                      value: JavaDrip_Specialty_3_qh1ie8_zivmbj.jpg
+                    width:
+                      value: 1000
+                      type: number
+                    height:
+                      value: 1000
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 2d441cf0-bc47-447c-ae0a-ec4920c5f7bb
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 2435974b-0090-4602-8fde-abe38ab63855
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/lMuKQSs1TKaiMn932tDOAw-JavaDrip_Specialty_1_ijla9c_ymbqor.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 350241e4-c5d5-4f26-9999-0607f7df44bb
+                    size:
+                      value: 110488
+                      type: number
+                    title:
+                      type: text
+                      value: JavaDrip_Specialty_1_ijla9c_ymbqor.jpg
+                    width:
+                      value: 1000
+                      type: number
+                    height:
+                      value: 1000
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 49c899e9-1ad9-456f-94b7-e20eb869e2d6
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 85d9cbdd-db1c-467e-bc64-c2a4bd73e90f
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/zuQnSZW9TouHeGcInHevmQ-JavaDrip_Specialty_4_qfzl2y_ezqrqx.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: b9e6c1d9-8a53-48b2-9dad-3aa4b15e7917
+                    size:
+                      value: 143145
+                      type: number
+                    title:
+                      type: text
+                      value: JavaDrip_Specialty_4_qfzl2y_ezqrqx.jpg
+                    width:
+                      value: 1000
+                      type: number
+                    height:
+                      value: 1000
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: cc1136a7-0f09-4431-95b6-87e5f66545cb
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 93a56644-fe16-400a-8adb-7f616d189c1d
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/3ERgh0HGR1axkFJL88naaw-JavaDrip_Specialty_2_m7ett5_s1oy3o.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: ea0d4f1d-4e6c-43f9-9152-73c7ccf80434
+                    size:
+                      value: 141170
+                      type: number
+                    title:
+                      type: text
+                      value: JavaDrip_Specialty_2_m7ett5_s1oy3o.jpg
+                    width:
+                      value: 1000
+                      type: number
+                    height:
+                      value: 1000
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 28c60ce3-908c-4ee8-b8f7-e93cda4ec6f5
+          type: image
+          fields:
+            id:
+              type: text
+              value: b862d476-8dac-4fff-81fa-5d3f27d8e370
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/68UUcszuRkylQiQ0cNCh9A-JavaDrip_Specialty_1_ijla9c_ymbqor.jpg
+              type: text
+            file:
+              type: file
+              value: cacff572-68d8-4cb1-adbe-a2ca2cee2129
+            size:
+              value: 110488
+              type: number
+            title:
+              type: text
+              value: JavaDrip_Specialty_1_ijla9c_ymbqor.jpg
+            width:
+              value: 1000
+              type: number
+            height:
+              value: 1000
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: d66c7a7d-602a-4088-afe8-496cc8d0e102
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 1944892a-9e39-4a6b-932c-aa1ae034c80b
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Bring the coffeehouse home with the JavaDrip Specialty Coffee Maker
+          with Glass Carafe. Combine super-rich coffee concentrates with hot or
+          cold frothed milk to create delicious coffeehouse-style drinks or
+          enjoy flavorful iced coffee that never tastes watered down. Brew
+          anything from a single cup to a half carafe or a full carafe using
+          your favorite grounds—no pods required.
+        fr-CA: >-
+          Ramenez le café à la maison avec la cafetière spécialisée JavaDrip
+          avec carafe en verre. Combinez des concentrés de café super riches
+          avec de la mousse de lait chaude ou froide pour créer de délicieuses
+          boissons de style café ou savourez un café glacé savoureux qui n'a
+          jamais un goût dilué. Préparez n'importe quoi, d'une simple tasse à
+          une demi-carafe ou une carafe pleine en utilisant votre marc préféré,
+          aucune dosette n'est requise.
+        nl-NL: >-
+          Haal het koffiehuis in huis met het JavaDrip Speciaal
+          Koffiezetapparaat met Glazen Karaf. Combineer superrijke
+          koffieconcentraten met warme of koude opgeschuimde melk om heerlijke
+          drankjes in koffiehuisstijl te creëren of geniet van smaakvolle
+          ijskoffie die nooit verwaterd smaakt. Zet alles, van een enkel kopje
+          tot een halve karaf of een volledige karaf, op uw favoriete koffiedik
+          – geen peulen nodig.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

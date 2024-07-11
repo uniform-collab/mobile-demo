@@ -1,0 +1,59 @@
+created: '2024-02-28T12:52:57.287294+00:00'
+modified: '2024-02-28T12:52:57.287294+00:00'
+pattern: false
+entry:
+  _id: e6e4374d-fe1a-4a6f-98c0-7c498a809ccf
+  _name: Finish what you started!
+  _slug: finish-what-you-started
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/6BJN-xH5TEq-absepDH60Q-ai_generated_image_for_image.jpg
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 4c16f715-67af-45f5-b795-462013c0c574
+          type: image
+          fields:
+            id:
+              type: text
+              value: 77db7d53-2139-42b0-991a-75d92afbd473
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/6BJN-xH5TEq-absepDH60Q-ai_generated_image_for_image.jpg
+              type: text
+            file:
+              type: file
+              value: 159c5c46-5b66-4f77-a136-85f40d73ea54
+            size:
+              value: 101847
+              type: number
+            title:
+              type: text
+              value: ai_generated_image_for_image.jpg
+            width:
+              value: 1024
+              type: number
+            height:
+              value: 1024
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Finish what you started!
+        fr-CA: Terminez ce que vous avez commencé!
+        nl-NL: Maak af wat je bent begonnen!
+    description:
+      type: text
+      locales:
+        en-US: COMPLETE YOUR PURCHASE BY CONTINUING TO CHECKOUT.
+        fr-CA: Complétez votre achat en continuant à la caisse.
+        nl-NL: Voltooi uw aankoop door door te gaan met afrekenen.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

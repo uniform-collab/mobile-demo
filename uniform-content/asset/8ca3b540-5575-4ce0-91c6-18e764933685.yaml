@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 8ca3b540-5575-4ce0-91c6-18e764933685
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: icon_equalizer.svg
+    file:
+      type: file
+      value: 97b23371-e8b1-4a54-897f-1f052e623d90
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/3HRg_7_BTMS9YlT2MCrZKA-icon_equalizer.svg
+      type: text
+    size:
+      value: 3038
+      type: number
+    width:
+      value: 60
+      type: number
+    height:
+      value: 60
+      type: number
+    custom: {}
+created: '2024-02-28T12:35:20.69409+00:00'
+modified: '2024-02-28T13:33:31.261498+00:00'

@@ -1,0 +1,242 @@
+created: '2024-02-28T12:54:16.274852+00:00'
+modified: '2024-02-28T13:36:54.86815+00:00'
+pattern: false
+entry:
+  _id: 6d10823e-c63a-4cc3-a61a-edcad6201bb3
+  _name: Water Reservoir with Flip-Top Lid
+  _slug: water-reservoir-with-flip-top-lid-149
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/PfZTKm1dS7qk9dVR9mqTng-123KKW400_01_rg4dac.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Water Reservoir with Flip-Top Lid for Specialty Coffee
+                      Maker
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Réservoir d'eau avec couvercle rabattable pour cafetière
+                      spécialisée
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Waterreservoir met opklapbaar deksel voor speciaal
+                      koffiezetapparaat
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Water Reservoir with Flip-Top Lid
+    title:
+      type: text
+      value: Water Reservoir with Flip-Top Lid
+    category:
+      type: select
+      value: espresso-tools
+    variants:
+      type: $block
+      value:
+        - _id: 960181c9-722d-4dbe-80c3-3d1fb8535e1f
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '149'
+            price:
+              type: number
+              locales:
+                en-US: '24.95'
+                fr-CA: '23.05'
+                nl-NL: '23.05'
+            title:
+              type: text
+              locales:
+                en-US: Water Reservoir with Flip-Top Lid
+                fr-CA: Water Reservoir with Flip-Top Lid
+                nl-NL: Water Reservoir with Flip-Top Lid
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: dd2cdea8-fa10-4b3c-a9d6-0826ee006202
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 1231460d-1b20-4fa5-aeff-f6a82927e3c6
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/UUNdvMULSgiigh0MqlLvgA-123KKW400_01_rg4dac.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 26b8561c-e6f6-4014-95c9-bd36b96dfe3a
+                    size:
+                      value: 27223
+                      type: number
+                    title:
+                      type: text
+                      value: 123KKW400_01_rg4dac.jpg
+                    width:
+                      value: 506
+                      type: number
+                    height:
+                      value: 506
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 5ffaf3ea-0ba6-4a79-b2d1-4d0c56b695e8
+          type: image
+          fields:
+            id:
+              type: text
+              value: 0a5ad3fa-52b8-4e9b-ab4b-bc75144847de
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/PfZTKm1dS7qk9dVR9mqTng-123KKW400_01_rg4dac.jpg
+              type: text
+            file:
+              type: file
+              value: cc37c01a-48ca-44a6-955e-4559bececd60
+            size:
+              value: 27223
+              type: number
+            title:
+              type: text
+              value: 123KKW400_01_rg4dac.jpg
+            width:
+              value: 506
+              type: number
+            height:
+              value: 506
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: e652d632-a7c4-4dd0-921c-fc1e56db7778
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: df29d179-32ea-43ea-bd90-5bff7a9f468c
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: Water Reservoir with Flip-Top Lid for Specialty Coffee Maker
+        fr-CA: Réservoir d'eau avec couvercle rabattable pour cafetière spécialisée
+        nl-NL: Waterreservoir met opklapbaar deksel voor speciaal koffiezetapparaat
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

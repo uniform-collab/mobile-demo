@@ -1,0 +1,781 @@
+created: '2024-02-28T12:52:29.577228+00:00'
+modified: '2024-02-28T12:52:29.577228+00:00'
+pattern: false
+entry:
+  _id: 893f49b2-3537-41e2-af9e-ecaec5a4cbad
+  _name: Can Coffee Make You Lose Weight?
+  _slug: can-coffee-make-you-lose-weight
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/CdJTBI6sT0qUsWHYwzyOFA-coffee_and_weight_gain.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Editorial
+    title:
+      type: text
+      locales:
+        en-US: Can Coffee Make You Lose Weight?
+        fr-CA: Le café peut-il vous faire perdre du poids?
+        nl-NL: Kan koffie ervoor zorgen dat u afvallen?
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Caffeine cops a lot of flak. Some say it poisons you, others say it is an addictive substance that will only lead to hardship. The term caffeine even gets thrown around like it's a miracle substance, something that can cure your ailments faster than western medicine can. With caffeine infused weight loss products being the new fad.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Coffee is a natural product, with high quality coffee having\_ZERO ADDITIVES\_to it. You may hear flavor notes of\_RICH CHOCOLATE\_like our\_TALL DARK AND HANDSOME, or\_SWEET TOFFEE\_like our\_IL CARAMELLO. Rest assured that there is no chocolate or toffee in them, unlike energy bars or weight loss shakes. Energy bars claim to be packed with"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "CAFFEINE\_and try to convince you that this is the ONLY way to burn those fats!\_ Whilst these bars show us people rock climbing upside down and having big pulsating muscles just by eating their product, is it the actual caffeine involved that shaves off the kilos?\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The short answer:\_NO."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: "\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The sad\_reality is that the caffeine in your coffee (or in those bars for that matter) isn't miraculously shortening waistlines across the world. What it\_IS\_doing however, is greatly improving your chances of weight loss and preparing your body to smash those goals yourself! Caffeine doesn't\_MAKE\_you lose weight, it\_HELPS\_you lose weight."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: So what is caffeine doing that helps out so much?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Caffeine is\_one of the few substances known to help mobilize fats from your fat tissues and increase metabolism.\_Basically, the caffeine causes\_Adrenaline\_to travel through your blood straight to the fat tissues, signaling them to break down fats and release them into your blood.\_Now, releasing fatty acids into your blood does not help you lose fat unless you are then burning more calories than you consume through your diet. Meaning, just because they are ready to be broken down it doesn't mean that they\_ARE\_breaking down. Yes, your body is in a constant state of burning fats for energy and a higher metabolism means a high rate of fats being burnt for energy, these figures are so minuscule that you will\_NEVER\_see a physical result to your waistline through this alone.\_There are studies showing that caffeine increases your resting metabolic rate by\_3–11%, with larger doses having a greater effect! In the short term, this is great! After a while people build up a tolerance to the effects and it stops working. One study showed that caffeine increased fat burning by as much as\_29%\_in lean people, while the increase was only about\_10%\_in obese people. The effect also appears to decrease with age and is greater in younger individuals. You could argue that by drinking\_ROBUSTA\_coffee you are doubling your caffeine intake, therefore doubling your RMR (resting metabolic rate). Is this worth it? I would tend to stick with a high quality arabica for the taste, than to grimace through robusta coffee for a slight increase in my resting metabolic rate.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "We all know that coffee and caffeine is a stimulant (that's no secret) and you know that it is also a major mood booster. What caffeine actually does is inhibit the receptors responsible for tiredness. And by blocking\_the flow of\_adenosine, caffeine increases the firing of neurons and the release of neurotransmitters like\_dopamine\_and\_norepinephrine."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      This, in turn, makes you feel more energized, awake and
+                      ready to go work those buns.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "\_In fact, it may improve exercise performance by\_11–12%, on average. There are plenty of instances where a long black or just a shot of espresso is used as a great pre workout. Caffeine sounds like its a miracle maker right now, in this case you are combining exercise with caffeine, and the coffee itself just giving you that\_BOOST\_to go and burn the fats yourself.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "This isn't the best form of weight loss, a lot of people can go down some pretty dangerous routes by not eating and while I always endorse having a great cup of coffee, it is not a replacement for actual food. Appetite suppression varies from person to person. With some studies saying caffeine had an appetite-reducing effect in men, but not in women, making them eat less at a meal following caffeine consumption. However, another study showed\_no\_effect for men. So really it is just a personal thing.\_In a basic sense, it makes sense that having\_SOMETHING\_in your belly is better than having nothing. And downing a cup of coffee is a great way to fill that void whilst also counting those calories.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Let's look at our\_Il Caramello coffee and how many calories are in it. A single espresso, 30ml of this delicious coffee will give you a staggering 2 calories! A single cup (250ml) of black coffee comes at a\_WHOPPING\_4 calories! Most of you will add a dash of milk, and this bumps it up to around 15-20 calories a cup.The caffeine is realistically doing nothing to your waistline, it is purely the lack of calories doing the work and the fact that you're essentially starving yourself into a better weight isn’t my favorite method of weight loss. But hey, everyone is different and everyone has their own way of doing things, i would just err on the side of caution on this one.\_Sugars and sweeteners blow these numbers way higher! You can check out the amount of calories in your coffee in the table below.So what have we learnt? "
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "We have learnt that caffeine\_ISN'T\_the miracle worker we have been led to believe. Caffeine does very little in the process of weight loss, however it does prep your body\_immensely\_to go and burn fat yourself through exercise.Sadly there is no simple answer. There is\_ no easy way to shave off the kilos whilst kicking back and enjoying some r&r."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: " Everything is always about a fine balance between hard work and good preparation, and with a good cup of coffee doing so much\_good\_for your body, it is one of the best ways to help burn those fats and kick those goals.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      La caféine fait beaucoup de bruit. Certains disent que
+                      cela vous empoisonne, d’autres disent que c’est une
+                      substance addictive qui ne fera qu’engendrer des
+                      difficultés. Le terme caféine est même utilisé comme s'il
+                      s'agissait d'une substance miracle, quelque chose qui peut
+                      guérir vos maux plus rapidement que la médecine
+                      occidentale. Les produits amaigrissants infusés à la
+                      caféine sont la nouvelle mode.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Le café est un produit naturel, avec un café de haute qualité ne contenant\_ZÉRO ADDITIFS. Vous entendrez peut-être des notes aromatiques de\_CHOCOLAT RICHE\_comme notre\_TALL DARK AND HANDSOME, ou\_SWEET TOFFEE\_comme notre\_IL CARAMELLO. Rassurez-vous, ils ne contiennent ni chocolat ni caramel, contrairement aux barres énergétiques ou aux shakes amaigrissants. Les barres énergétiques prétendent être remplies de"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "CAFÉINE\_et essayez de vous convaincre que c'est la SEULE façon de brûler ces graisses\_! Alors que ces barres nous montrent des gens grimpant la tête en bas et ayant de gros muscles palpitants rien qu'en mangeant leur produit, est-ce la caféine elle-même impliquée qui fait perdre des kilos ?"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "La réponse courte\_:\_NON."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "La triste\_réalité est que la caféine contenue dans votre café (ou dans ces bars d'ailleurs) ne raccourcit pas miraculeusement la taille dans le monde entier. Cependant, ce qu'il fait, c'est améliorer considérablement vos chances de perdre du poids et préparer votre corps à atteindre vous-même ces objectifs\_! La caféine ne\_vous FAIT\_pas perdre du poids, elle\_vous\_AIDE\_à perdre du poids."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Alors, qu’est-ce que la caféine fait pour être si utile\_?"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "La caféine est\_l'une des rares substances connues pour aider à mobiliser les graisses de vos tissus adipeux et à augmenter le métabolisme. Fondamentalement, la caféine fait circuler l'adrénaline dans votre sang directement vers les tissus adipeux, leur signalant de décomposer les graisses et de les libérer dans votre sang. Désormais, la libération d’acides gras dans votre sang ne vous aide pas à perdre de la graisse, à moins que vous ne brûliez plus de calories que vous n’en consommez via votre alimentation. Cela signifie que ce n'est pas parce qu'ils sont prêts à être détruits qu'ils SONT en panne. Oui, votre corps est dans un état constant de combustion des graisses pour produire de l'énergie et un métabolisme plus élevé signifie un taux élevé de graisses brûlées pour produire de l'énergie. Ces chiffres sont si minuscules que vous ne verrez JAMAIS de résultat physique sur votre tour de taille à cause de cela seul. Certaines études montrent que la caféine augmente votre taux métabolique au repos de\_3 à 11\_%, des doses plus élevées ayant un effet plus important\_! À court terme, c'est génial ! Après un certain temps, les gens développent une tolérance aux effets et cela cesse de fonctionner. Une étude a montré que la caféine augmentait la combustion des graisses jusqu'à\_29\_%\_chez les personnes maigres, alors que l'augmentation n'était que d'environ\_10\_%\_chez les personnes obèses. L’effet semble également diminuer avec l’âge et est plus marqué chez les individus plus jeunes. On pourrait affirmer qu'en buvant du café ROBUSTA, vous doublez votre consommation de caféine, et donc votre RMR (taux métabolique au repos). Est-ce que ça vaut le coup ? J'aurais tendance à m'en tenir à un arabica de haute qualité pour le goût, plutôt qu'à grimacer devant un café Robusta pour une légère augmentation de mon taux métabolique au repos."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Nous savons tous que le café et la caféine sont des
+                      stimulants (ce n’est pas un secret) et vous savez qu’ils
+                      stimulent également grandement l’humeur. En réalité, la
+                      caféine inhibe les récepteurs responsables de la fatigue.
+                      Et en bloquant le flux d'adénosine, la caféine augmente
+                      l'activation des neurones et la libération de
+                      neurotransmetteurs comme la dopamine et la noradrénaline.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ceci, à son tour, vous fait vous sentir plus énergique,
+                      éveillé et prêt à aller travailler ces petits pains.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "En fait, cela peut améliorer les performances physiques de\_11 à 12\_% en moyenne. Il existe de nombreux cas où un long café noir ou simplement un expresso est utilisé comme un excellent pré-entraînement. La caféine semble être un faiseur de miracles en ce moment, dans ce cas, vous combinez l'exercice avec la caféine, et le café lui-même ne fait que vous donner ce\_BOOST\_pour brûler les graisses vous-même."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Ce n'est pas la meilleure forme de perte de poids, beaucoup de gens peuvent emprunter des voies assez dangereuses en ne mangeant pas et même si j'approuve toujours une bonne tasse de café, cela ne remplace pas la vraie nourriture. La suppression de l’appétit varie d’une personne à l’autre. Certaines études indiquent que la caféine a un effet réducteur d'appétit chez les hommes, mais pas chez les femmes, les obligeant à manger moins lors d'un repas après avoir consommé de la caféine. Cependant, une autre étude n'a montré aucun effet chez les hommes. Donc en réalité, c'est juste une chose personnelle. Fondamentalement, il est logique qu'il vaut mieux avoir\_Quelque chose\_dans le ventre que de ne rien avoir. Et boire une tasse de café est un excellent moyen de combler ce vide tout en comptant les calories."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Regardons notre\_café Il Caramello et combien de calories il contient. Un seul expresso, 30 ml de ce délicieux café vous apportera 2 calories ! Une seule tasse (250\_ml) de café noir représente\_4\_calories\_! La plupart d'entre vous ajouteront une pincée de lait, ce qui portera le tout à environ 15 à 20 calories par tasse. En réalité, la caféine n'a aucun effet sur votre tour de taille, c'est simplement le manque de calories qui fait le travail et le fait que vous ' Se priver de nourriture pour obtenir un meilleur poids n'est pas ma méthode préférée pour perdre du poids. Mais bon, tout le monde est différent et chacun a sa propre façon de faire les choses, je préfèrerais simplement faire preuve de prudence sur celui-ci. Les sucres et les édulcorants font exploser ces chiffres bien plus haut ! Vous pouvez vérifier la quantité de calories contenues dans votre café dans le tableau ci-dessous. Alors qu’avons-nous appris\_?"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Nous avons appris que la caféine\_N'EST PAS\_le faiseur de miracles qu'on nous a fait croire. La caféine fait très peu d'effet dans le processus de perte de poids, mais elle prépare énormément votre corps à brûler les graisses vous-même grâce à l'exercice. Malheureusement, il n'y a pas de réponse simple. Il n'existe pas de moyen simple de perdre du poids tout en se détendant et en profitant d'un peu de détente."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "  Tout est toujours une question d'équilibre entre un travail acharné et une bonne préparation, et avec une bonne tasse de café faisant tant de bien\_à votre corps, c'est l'un des meilleurs moyens d'aider à brûler ces graisses et d'atteindre ces objectifs."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Cafeïne veroorzaakt veel luchtafweer. Sommigen zeggen dat
+                      het je vergiftigt, anderen zeggen dat het een verslavend
+                      middel is dat alleen maar tot ontberingen zal leiden. De
+                      term cafeïne wordt zelfs rondgegooid alsof het een
+                      wondermiddel is, iets dat je kwalen sneller kan genezen
+                      dan de westerse geneeskunde. Omdat met cafeïne doordrenkte
+                      afslankproducten de nieuwe rage zijn.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Koffie is een natuurlijk product, hoogwaardige koffie
+                      zonder toevoegingen. Mogelijk hoort u smaaktonen van RIJKE
+                      CHOCOLADE, zoals onze TALL DARK AND KNAPPE, of ZOETE
+                      TOFFEE, zoals onze IL CARAMELLO. Je kunt er zeker van zijn
+                      dat er geen chocolade of toffee in zit, in tegenstelling
+                      tot energierepen of shakes voor gewichtsverlies.
+                      Energierepen beweren boordevol te zitten
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "CAFEÏNE\_en probeer je ervan te overtuigen dat dit de ENIGE manier is om die vetten te verbranden! Terwijl deze repen ons mensen laten zien die ondersteboven rotsklimmen en grote pulserende spieren hebben, alleen al door het eten van hun product, is het dan de daadwerkelijke cafeïne die erbij betrokken is die de kilo's afscheert?"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Het korte antwoord: NEE.'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De trieste realiteit is dat de cafeïne in je koffie (of in
+                      die repen) de tailles over de hele wereld niet op
+                      wonderbaarlijke wijze verkort. Wat het echter WEL doet, is
+                      uw kansen op gewichtsverlies aanzienlijk vergroten en uw
+                      lichaam voorbereiden om die doelen zelf te behalen!
+                      Cafeïne zorgt er niet voor dat je afvalt, het HELPT je om
+                      af te vallen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Dus wat doet cafeïne dat zo veel helpt?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Cafeïne is een van de weinige stoffen waarvan bekend is
+                      dat ze helpen vetten uit je vetweefsel te mobiliseren en
+                      de stofwisseling te verhogen. Kortom, de cafeïne zorgt
+                      ervoor dat adrenaline door je bloed rechtstreeks naar de
+                      vetweefsels reist, waardoor ze het signaal krijgen om
+                      vetten af te breken en in je bloed af te geven. Het
+                      vrijgeven van vetzuren in uw bloed helpt u niet om vet te
+                      verliezen, tenzij u vervolgens meer calorieën verbrandt
+                      dan u via uw dieet binnenkrijgt. Dit betekent dat het feit
+                      dat ze klaar zijn om afgebroken te worden, niet betekent
+                      dat ze ook kapot gaan. Ja, je lichaam bevindt zich in een
+                      constante staat van het verbranden van vetten voor energie
+                      en een hogere stofwisseling betekent dat er veel vetten
+                      worden verbrand voor energie. Deze cijfers zijn zo
+                      minuscuul dat je NOOIT hierdoor alleen een fysiek
+                      resultaat voor je taille zult zien. Er zijn onderzoeken
+                      die aantonen dat cafeïne je ruststofwisseling met 3-11%
+                      verhoogt, waarbij grotere doses een groter effect hebben!
+                      Op de korte termijn is dit geweldig! Na een tijdje bouwen
+                      mensen een tolerantie op voor de effecten en werkt het
+                      niet meer. Eén onderzoek toonde aan dat cafeïne de
+                      vetverbranding bij magere mensen met maar liefst 29%
+                      verhoogde, terwijl de toename bij mensen met obesitas
+                      slechts ongeveer 10% bedroeg. Het effect lijkt ook af te
+                      nemen met de leeftijd en is groter bij jongere personen.
+                      Je zou kunnen stellen dat je door het drinken van
+                      ROBUSTA-koffie je cafeïne-inname verdubbelt, en dus je RMR
+                      (ruststofwisseling). Is dit het waard? Ik zou de neiging
+                      hebben om voor de smaak bij een arabica van hoge kwaliteit
+                      te blijven, dan om door Robusta-koffie te grimassen voor
+                      een lichte verhoging van mijn ruststofwisseling.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      We weten allemaal dat koffie en cafeïne een stimulerend
+                      middel zijn (dat is geen geheim) en je weet dat het ook
+                      een belangrijke stemmingsverbeteraar is. Wat cafeïne
+                      feitelijk doet, is het remmen van de receptoren die
+                      verantwoordelijk zijn voor vermoeidheid. En door de stroom
+                      adenosine te blokkeren, verhoogt cafeïne het vuren van
+                      neuronen en de afgifte van neurotransmitters zoals
+                      dopamine en noradrenaline.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dit zorgt er op zijn beurt voor dat je je energieker,
+                      wakker en klaar voelt om aan die broodjes te gaan werken.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      In feite kan het de trainingsprestaties gemiddeld met
+                      11-12% verbeteren. Er zijn genoeg gevallen waarin een
+                      lange zwarte koffie of gewoon een shot espresso wordt
+                      gebruikt als een geweldige pre-workout. Cafeïne klinkt op
+                      dit moment alsof het een wondermiddel is. In dit geval
+                      combineer je beweging met cafeïne, en de koffie zelf geeft
+                      je net die BOOST om zelf de vetten te gaan verbranden.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dit is niet de beste vorm van gewichtsverlies. Veel mensen
+                      kunnen behoorlijk gevaarlijke routes bewandelen door niet
+                      te eten en hoewel ik altijd voorstander ben van een goede
+                      kop koffie, is het geen vervanging voor echt voedsel. Het
+                      onderdrukken van de eetlust varieert van persoon tot
+                      persoon. Uit sommige onderzoeken blijkt dat cafeïne een
+                      eetlustverminderend effect heeft bij mannen, maar niet bij
+                      vrouwen, waardoor ze na cafeïneconsumptie minder eten
+                      tijdens de maaltijd. Uit een ander onderzoek bleek echter
+                      dat er geen effect was voor mannen. Het is dus eigenlijk
+                      gewoon iets persoonlijks. In fundamentele zin is het
+                      logisch dat IETS in je buik hebben beter is dan niets. En
+                      een kopje koffie drinken is een geweldige manier om die
+                      leegte op te vullen en tegelijkertijd de calorieën te
+                      tellen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Laten we eens kijken naar onze Il Caramello-koffie en
+                      hoeveel calorieën erin zitten. Een enkele espresso, 30 ml
+                      van deze heerlijke koffie levert je maar liefst 2
+                      calorieën op! Eén kopje (250 ml) zwarte koffie bevat maar
+                      liefst 4 calorieën! De meesten van jullie zullen een
+                      scheutje melk toevoegen, en dit verhoogt het tot ongeveer
+                      15-20 calorieën per kopje. De cafeïne doet in
+                      werkelijkheid niets met je taille, het is puur het gebrek
+                      aan calorieën dat het werk doet en het feit dat je Jezelf
+                      in wezen uithongeren tot een beter gewicht is niet mijn
+                      favoriete methode om af te vallen. Maar goed, iedereen is
+                      anders en iedereen heeft zijn eigen manier om dingen te
+                      doen, ik zou in dit geval voorzichtig zijn. Suikers en
+                      zoetstoffen blazen deze cijfers veel hoger! In de
+                      onderstaande tabel kunt u de hoeveelheid calorieën in uw
+                      koffie bekijken. Wat hebben we geleerd?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      We hebben geleerd dat cafeïne NIET de wonderdoener IS
+                      waarvan we ons hebben laten geloven. Cafeïne doet heel
+                      weinig in het proces van gewichtsverlies, maar bereidt je
+                      lichaam wel enorm voor om zelf vet te gaan verbranden door
+                      middel van lichaamsbeweging. Helaas is er geen eenvoudig
+                      antwoord. Er is geen gemakkelijke manier om de kilo’s eraf
+                      te scheren terwijl je achterover leunt en geniet van wat
+                      ontspanning.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: '  Alles draait altijd om een goede balans tussen hard werken en een goede voorbereiding, en als een goede kop koffie zoveel goeds voor je lichaam doet, is dit een van de beste manieren om die vetten te helpen verbranden en je doelen te bereiken.'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: d578e383-9b05-4d89-97e2-69d90a09704d
+          type: image
+          fields:
+            id:
+              type: text
+              value: 307a24bd-eccc-40ad-978a-eeb1f8fb807e
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/CdJTBI6sT0qUsWHYwzyOFA-coffee_and_weight_gain.jpg
+              type: text
+            file:
+              type: file
+              value: 81b392ce-e29d-4b92-9a5f-6eb1cb2fa086
+            size:
+              value: 53969
+              type: number
+            title:
+              type: text
+              value: coffee_and_weight_gain.jpg
+            width:
+              value: 1200
+              type: number
+            height:
+              value: 628
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          What if I told you there could be a way to shave off those kilos
+          without having to lift a single weight? You would call me crazy,
+          right? The answer might not be a far fetched as you think, coming from
+          the most unlikely source.
+        fr-CA: >-
+          Et si je vous disais qu'il pourrait y avoir un moyen de raser ces
+          kilos sans avoir à soulever un seul poids?Tu m'appellerais fou, non?La
+          réponse n'est peut-être pas une fardeau farfelue comme vous le pensez,
+          provenant de la source la plus improbable.
+        nl-NL: >-
+          Wat als ik je zou vertellen dat er een manier zou kunnen zijn om die
+          kilo's af te scheren zonder een enkel gewicht op te heffen?Je zou me
+          gek noemen, toch?Het antwoord is misschien niet vergezocht zoals je
+          denkt, afkomstig van de meest onwaarschijnlijke bron.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 13d166ab-c490-4b03-a77a-82902f36d919
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: bogo.svg
+    file:
+      type: file
+      value: d342184c-dc04-45a7-81ed-04a210f75d31
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/02uL2ilIQwKMNHoKd5coqA-bogo.svg
+      type: text
+    size:
+      value: 4461
+      type: number
+    width:
+      value: 113
+      type: number
+    height:
+      value: 113
+      type: number
+    custom: {}
+created: '2024-02-28T12:32:24.509413+00:00'
+modified: '2024-02-28T13:31:17.084983+00:00'

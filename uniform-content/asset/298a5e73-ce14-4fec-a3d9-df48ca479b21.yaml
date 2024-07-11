@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 298a5e73-ce14-4fec-a3d9-df48ca479b21
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: s-l1200_gmegot.webp
+    file:
+      type: file
+      value: 40e0e035-9b77-4606-b714-d90988f477bd
+    mediaType:
+      value: image/webp
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/11N9gSDmQlCF8_AZJkdm0w-s-l1200_gmegot.webp
+      type: text
+    size:
+      value: 5012
+      type: number
+    width:
+      value: 570
+      type: number
+    height:
+      value: 467
+      type: number
+    custom: {}
+created: '2024-02-28T12:41:02.333275+00:00'
+modified: '2024-02-28T13:31:45.509198+00:00'

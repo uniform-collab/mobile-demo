@@ -1,0 +1,59 @@
+created: '2024-02-28T12:52:40.075527+00:00'
+modified: '2024-02-28T12:52:40.075527+00:00'
+pattern: false
+entry:
+  _id: 5926ece1-e4d6-4f17-a078-64999d2a6a75
+  _name: Contact us for details
+  _slug: contact-us-for-details
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/RYg3OZ1bQrSkt0Z-VX4u4g-hero_2.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 840c6b2c-b935-4b73-a988-d706deddbfec
+          type: image
+          fields:
+            id:
+              type: text
+              value: 80df1378-4862-4467-8f8f-553b1a925417
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/RYg3OZ1bQrSkt0Z-VX4u4g-hero_2.webp
+              type: text
+            file:
+              type: file
+              value: 6e7983a2-f401-4e2b-ad04-56077f522f8c
+            size:
+              value: 119344
+              type: number
+            title:
+              type: text
+              value: hero_2.webp
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Contact us for details
+        fr-CA: Contactez-nous pour plus de détails
+        nl-NL: Neem contact met ons op voor details
+    description:
+      type: text
+      locales:
+        en-US: If you want see more
+        fr-CA: Si vous voulez en voir plus
+        nl-NL: Als je meer wilt zien
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

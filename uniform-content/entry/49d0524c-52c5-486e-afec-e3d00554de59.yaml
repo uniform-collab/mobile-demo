@@ -1,0 +1,68 @@
+created: '2024-02-28T12:54:21.33314+00:00'
+modified: '2024-02-28T12:54:21.33314+00:00'
+pattern: false
+entry:
+  _id: 49d0524c-52c5-486e-afec-e3d00554de59
+  _name: Where future technologies meet timeless taste
+  _slug: where-future-technologies-meet-timeless-taste
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/vfpFfdE2SMuT91OCZrYJ1w-hero_alt_5.png
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 4112195e-a668-410a-afdc-3275c307b308
+          type: image
+          fields:
+            id:
+              type: text
+              value: 1240d461-04ed-4a53-8958-5c471d4e0b51
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/vfpFfdE2SMuT91OCZrYJ1w-hero_alt_5.png
+              type: text
+            file:
+              type: file
+              value: 3dab257c-f617-4105-8ff9-c4d54f0d0b54
+            size:
+              value: 5638561
+              type: number
+            title:
+              type: text
+              value: hero_alt_5.png
+            width:
+              value: 3206
+              type: number
+            height:
+              value: 1802
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Where future technologies meet timeless taste
+        fr-CA: Où les technologies futures rencontrent un goût intemporel
+        nl-NL: Waar toekomstige technologieën de tijdloze smaak ontmoeten
+    description:
+      type: text
+      locales:
+        en-US: >-
+          When we speak of the 'perfect coffee bean', it's more than just a
+          catchphrase. To us, it embodies a journey of passion, precision, and
+          perseverance.
+        fr-CA: >-
+          Lorsque nous parlons du «grain de café parfait», c'est plus qu'un
+          simple slogan.Pour nous, cela incarne un voyage de passion, de
+          précision et de persévérance.
+        nl-NL: >-
+          Als we spreken over de 'Perfect Coffee Bean', is het meer dan alleen
+          een slogan.Voor ons belichaamt het een reis van passie, precisie en
+          doorzettingsvermogen.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

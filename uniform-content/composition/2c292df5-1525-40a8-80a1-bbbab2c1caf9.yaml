@@ -1,0 +1,328 @@
+composition:
+  _name: Products
+  _id: 2c292df5-1525-40a8-80a1-bbbab2c1caf9
+  _slug: products
+  type: productCategoryPage
+  parameters:
+    $enr:
+      type: $enr
+      value:
+        - cat: int
+          key: c
+          str: 5
+    pageTitle:
+      type: text
+      locales:
+        en-CA: Coffee Makers Page
+        en-GB: Coffee Makers Page
+        en-NL: Coffee Makers Page
+        en-US: Coffee Makers Page
+        fr-CA: Coffee Makers Page
+        nl-NL: Coffee Makers Page
+  slots:
+    pageFooter:
+      - _id: 73876e51-7439-417e-8790-ea395f5c9564
+        type: footer
+        _pattern: 319639e9-4bac-4fb3-8f0b-19088c969fcb
+    pageHeader:
+      - _id: e8f0fb84-33c2-4de0-aa1d-a60b3c2249af
+        type: header
+        _pattern: e46c8336-acfd-43e8-ac59-8be8f4c33b7d
+    pageContent:
+      - _id: e85f862d-600e-42b6-a8cf-2852682c04e7
+        type: hero
+        _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+        _dataResources:
+          Hero Content:
+            type: hero
+            variables:
+              locale: ${locale}
+              entryId: d9a3c2f0-c383-4f28-99d7-393b16503dd1
+      - _id: 6456776e-4d81-4159-bf66-724a5d046876
+        type: tabs
+        slots:
+          tabs:
+            - _id: 3f8164ba-0839-413e-bad9-452146c62343
+              type: tab
+              slots:
+                content:
+                  - _id: 5ec50f5b-e8a1-4931-8039-b52a82485172
+                    type: algolia-instantSearch
+                    _pattern: 74d0ae67-7701-4123-9832-1844a9d26c79
+              parameters:
+                $enr:
+                  type: $enr
+                  value:
+                    - cat: int
+                      key: c
+                      str: 5
+                title:
+                  type: text
+                  locales:
+                    en-CA: Coffee Makers
+                    en-GB: Coffee Makers
+                    en-NL: Coffee Makers
+                    en-US: Coffee Makers
+                    fr-CA: Cafetières
+                    nl-NL: Koffie makers
+            - _id: 6844253d-dbac-4cc8-adc3-5f1f8e429662
+              type: tab
+              slots:
+                content:
+                  - _id: 109dd163-4b27-4048-a55f-47f3574f502a
+                    type: algolia-instantSearch
+                    _pattern: 74d0ae67-7701-4123-9832-1844a9d26c79
+              parameters:
+                $enr:
+                  type: $enr
+                  value:
+                    - cat: int
+                      key: b
+                      str: 5
+                title:
+                  type: text
+                  locales:
+                    en-CA: Beans
+                    en-GB: Beans
+                    en-NL: Beans
+                    en-US: Beans
+                    fr-CA: Haricots
+                    nl-NL: Bonen
+        parameters:
+          size:
+            type: tp-slider-parameter
+            value: tiny
+  _overrides:
+    109dd163-4b27-4048-a55f-47f3574f502a:
+      parameters:
+        rootCategory:
+          type: select
+          value: Beans
+    5ec50f5b-e8a1-4931-8039-b52a82485172:
+      parameters:
+        rootCategory:
+          type: select
+          value: Coffee Makers
+    e85f862d-600e-42b6-a8cf-2852682c04e7:
+      variant: backgroundImage
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: ${#jptr:/Hero Content/entry/fields/title/value}
+            en-GB: ${#jptr:/Hero Content/entry/fields/title/value}
+            en-NL: ${#jptr:/Hero Content/entry/fields/title/value}
+            fr-CA: ${#jptr:/Hero Content/entry/fields/title/value}
+            nl-NL: ${#jptr:/Hero Content/entry/fields/title/value}
+        video:
+          type: cloudinary-video
+          value:
+            - alt: ''
+              url: >-
+                https://res.cloudinary.com/uniform-demos/video/upload/v1693387616/videos/pexels-mizuno-rojas.mp4
+              uuid: de5037c7-80bb-4647-b6ad-4c9e4b7f6383
+              width: '1920'
+              format: mp4
+              height: '1080'
+              caption: ''
+              version: 1693387616
+              publicId: videos/pexels-mizuno-rojas
+              createdAt: '2023-08-30T09:26:56Z'
+              previewUrl: >-
+                https://res.cloudinary.com/uniform-demos/video/upload/q_auto,f_auto/videos/pexels-mizuno-rojas.mp4
+              resourceType: video
+              transformation: ''
+        objectFit:
+          type: select
+          value: cover
+        paddingTop:
+          type: select
+          value: None
+        description:
+          type: text
+          locales:
+            en-CA: ${#jptr:/Hero Content/entry/fields/description/value}
+            en-GB: ${#jptr:/Hero Content/entry/fields/description/value}
+            en-NL: ${#jptr:/Hero Content/entry/fields/description/value}
+            fr-CA: ${#jptr:/Hero Content/entry/fields/description/value}
+            nl-NL: ${#jptr:/Hero Content/entry/fields/description/value}
+        paddingBottom:
+          type: select
+          value: None
+        containerVariant:
+          type: select
+          value: fluidContent
+        textColorVariant:
+          type: select
+          value: Light
+    e8f0fb84-33c2-4de0-aa1d-a60b3c2249af:
+      parameters:
+        syntheticGap:
+          type: tp-slider-parameter
+          value: Small
+    109dd163-4b27-4048-a55f-47f3574f502a|1b9d37fe-132f-41cd-a47f-5b66db7425d6:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Left Section
+            en-GB: Left Section
+            en-NL: Left Section
+            fr-CA: Left Section
+            nl-NL: Left Section
+    109dd163-4b27-4048-a55f-47f3574f502a|41f118d8-382a-4fbb-89f5-f3298aaec51c:
+      parameters:
+        refinementListParams:
+          type: algolia-components
+          value:
+            refinementListProps:
+              limit: 10
+              operator: or
+              showMore: false
+              attribute: subCategories
+              searchable: false
+              allowedIndex: products-ngm
+              escapeFacetValues: true
+    109dd163-4b27-4048-a55f-47f3574f502a|443ccdc8-832f-4c98-aeb6-fcbde1d083fd:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Right Section
+            en-GB: Right Section
+            en-NL: Right Section
+            fr-CA: Right Section
+            nl-NL: Right Section
+    109dd163-4b27-4048-a55f-47f3574f502a|4ec65e7d-e8be-49ee-bf3b-8c7e8f263bb2:
+      variant: ''
+      parameters:
+        badgeStyle:
+          type: tp-badge-style-parameter
+          value: accent
+        buttonCopy:
+          type: text
+          locales:
+            en-CA: See Details
+            en-GB: See Details
+            en-NL: See Details
+            fr-CA: See Details
+            nl-NL: See Details
+        buttonLink:
+          type: link
+          value:
+            path: /products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+        buttonStyle:
+          type: tp-button-style-parameter
+          value: primary
+        textColorVariant:
+          type: select
+          value: Dark
+    109dd163-4b27-4048-a55f-47f3574f502a|ccecce08-aef7-4a48-ba7c-39222d200c78:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Algolia Products List
+            en-GB: Algolia Products List
+            en-NL: Algolia Products List
+            fr-CA: Algolia Products List
+            nl-NL: Algolia Products List
+    5ec50f5b-e8a1-4931-8039-b52a82485172|1b9d37fe-132f-41cd-a47f-5b66db7425d6:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Left Section
+            en-GB: Left Section
+            en-NL: Left Section
+            fr-CA: Left Section
+            nl-NL: Left Section
+    5ec50f5b-e8a1-4931-8039-b52a82485172|41f118d8-382a-4fbb-89f5-f3298aaec51c:
+      parameters:
+        refinementListParams:
+          type: algolia-components
+          value:
+            refinementListProps:
+              limit: 10
+              operator: or
+              showMore: false
+              attribute: subCategories
+              searchable: false
+              allowedIndex: products-ngm
+              escapeFacetValues: true
+    5ec50f5b-e8a1-4931-8039-b52a82485172|443ccdc8-832f-4c98-aeb6-fcbde1d083fd:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Right Section
+            en-GB: Right Section
+            en-NL: Right Section
+            fr-CA: Right Section
+            nl-NL: Right Section
+    5ec50f5b-e8a1-4931-8039-b52a82485172|4ec65e7d-e8be-49ee-bf3b-8c7e8f263bb2:
+      variant: ''
+      parameters:
+        badgeStyle:
+          type: tp-badge-style-parameter
+          value: accent
+        buttonCopy:
+          type: text
+          locales:
+            en-CA: See Details
+            en-GB: See Details
+            en-NL: See Details
+            fr-CA: See Details
+            nl-NL: See Details
+        buttonLink:
+          type: link
+          value:
+            path: /products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+        buttonStyle:
+          type: tp-button-style-parameter
+          value: primary
+        overlayColor:
+          type: tp-color-style-parameter
+          value: base-300
+        overlayOpacity:
+          type: tp-slider-parameter
+          value: 0%
+        textColorVariant:
+          type: select
+          value: Dark
+        lineCountRestriction:
+          type: tp-slider-parameter
+          value: '4'
+    5ec50f5b-e8a1-4931-8039-b52a82485172|ccecce08-aef7-4a48-ba7c-39222d200c78:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Algolia Products List
+            en-GB: Algolia Products List
+            en-NL: Algolia Products List
+            fr-CA: Algolia Products List
+            nl-NL: Algolia Products List
+        columnsCount:
+          type: tp-slider-parameter
+          value: '1'
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-03-05T08:19:52.635277+00:00'
+modified: '2024-03-29T09:34:46.274408+00:00'
+pattern: false

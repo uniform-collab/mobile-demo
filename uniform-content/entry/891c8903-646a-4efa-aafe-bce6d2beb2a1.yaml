@@ -1,0 +1,81 @@
+created: '2024-02-28T12:52:03.081894+00:00'
+modified: '2024-02-28T12:52:03.081894+00:00'
+pattern: false
+entry:
+  _id: 891c8903-646a-4efa-aafe-bce6d2beb2a1
+  _name: 12oz. bean hopper that grinds the exact amount needed, for...
+  _slug: 12oz-bean-hopper-that-grinds-the-exact-amount-needed-for
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/1Yn6SJsaQ3G-zoybIRHytw-smart_feature.webp
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 9514fd9c-4a6d-4251-b181-6ec94d9c8807
+          type: image
+          fields:
+            id:
+              type: text
+              value: 78b593ef-0889-4025-9600-89d66043b4ec
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/1Yn6SJsaQ3G-zoybIRHytw-smart_feature.webp
+              type: text
+            file:
+              type: file
+              value: 9b2c7949-0919-4bba-9ddb-6b2c9c07890d
+            size:
+              value: 105498
+              type: number
+            title:
+              type: text
+              value: smart_feature.webp
+            width:
+              value: 1224
+              type: number
+            height:
+              value: 872
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: >-
+          12oz. bean hopper that grinds the exact amount needed, for optimum
+          freshness
+        fr-CA: >-
+          12 oz.La trémie de haricot qui broie la quantité exacte nécessaire,
+          pour une fraîcheur optimale
+        nl-NL: >-
+          12oz.Bean Hopper die de exacte benodigde hoeveelheid maalt, voor
+          optimale frisheid
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Everyone knows that freshly-ground coffee gives you the ultimate
+          experience, especially when combined with our AI-powered ceramic burr
+          grinder. The hopper is big enough to keep a standard bag of beans
+          vacuum-sealed for freshness, but not so big you need to worry about
+          them going stale.
+        fr-CA: >-
+          Tout le monde sait que le café fraîchement terrestre vous donne
+          l'expérience ultime, surtout lorsqu'elle est combinée avec notre
+          broyeur de bavures en céramique propulsé par l'IA.La trémie est
+          suffisamment grande pour garder un sac standard de haricots soumis à
+          l'aspiration pour la fraîcheur, mais pas si grand que vous devez vous
+          soucier de ce qu'ils soient périmés.
+        nl-NL: >-
+          Iedereen weet dat vers gemalen koffie je de ultieme ervaring geeft,
+          vooral in combinatie met onze AI-aangedreven keramische braammolen.De
+          trechter is groot genoeg om een standaard zak bonen te houden die
+          vacuüm verzegeld is voor frisheid, maar niet zo groot dat je je zorgen
+          moet maken dat ze oud worden.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,520 @@
+composition:
+  _name: Default reviews
+  _id: e244a7a9-309a-4fbf-ab85-c4c2eb4cf75e
+  type: grid
+  parameters:
+    gapX:
+      type: tp-slider-parameter
+      value: none
+    gapY:
+      type: tp-slider-parameter
+      value: none
+    title:
+      type: text
+      locales:
+        en-CA: Default reviews
+        en-GB: Default reviews
+        en-NL: Default reviews
+        en-US: Default reviews
+        fr-CA: Critiques par défaut
+        nl-NL: Standaard beoordelingen
+    marginTop:
+      type: select
+      value: None
+    paddingTop:
+      type: select
+      value: None
+    columnsCount:
+      type: tp-slider-parameter
+      value: '8'
+    marginBottom:
+      type: select
+      value: None
+    paddingBottom:
+      type: select
+      value: None
+  slots:
+    grid-inner:
+      - _id: ecfe5ada-3231-4564-a7c3-0ab4491c4b76
+        type: gridItem
+        slots:
+          inner:
+            - _id: 56d4dcc9-df34-4c46-9489-74f3a80cf930
+              type: grid
+              slots:
+                grid-inner:
+                  - _id: 8b7126f0-a066-4f52-b7cd-dcb6ba93a0a0
+                    type: review
+                    parameters:
+                      date:
+                        type: text
+                        locales:
+                          en-CA: July 12, 2021
+                          en-GB: July 12, 2021
+                          en-NL: July 12, 2021
+                          en-US: July 12, 2021
+                          fr-CA: 12 juillet 2021
+                          nl-NL: 12 juli 2021
+                      stars:
+                        type: tp-slider-parameter
+                        value: '5'
+                      title:
+                        type: text
+                        locales:
+                          en-CA: Can't say enough good things
+                          en-GB: Can't say enough good things
+                          en-NL: Can't say enough good things
+                          en-US: Can't say enough good things
+                          fr-CA: Je n'en dirai jamais assez de bien
+                          nl-NL: Kan niet genoeg goede dingen zeggen
+                      picture:
+                        type: asset
+                        value:
+                          - _id: 81e50d90-a133-4883-85b9-8a070ecf780a
+                            type: image
+                            fields:
+                              id:
+                                type: text
+                                value: 12d37c68-42e4-4694-b221-d4754482a666
+                              url:
+                                value: >-
+                                  https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/kOjMF0z3R-eRAJ_-WazgOg-person_photo_1.jpg
+                                type: text
+                              file:
+                                type: file
+                                value: 435c1360-a258-4602-90cd-0e61d03ca683
+                              size:
+                                value: 8294
+                                type: number
+                              title:
+                                type: text
+                                value: person_photo_1.jpg
+                              width:
+                                value: 256
+                                type: number
+                              height:
+                                value: 256
+                                type: number
+                              mediaType:
+                                value: image/jpeg
+                                type: text
+                            _source: uniform-assets
+                      personName:
+                        type: text
+                        locales:
+                          en-CA: Hector Gibbons
+                          en-GB: Hector Gibbons
+                          en-NL: Hector Gibbons
+                          en-US: Hector Gibbons
+                          fr-CA: Hector Gibbons
+                          nl-NL: Hector Gibbons
+                      starsColor:
+                        type: tp-color-style-parameter
+                        value: primary
+                      description:
+                        type: text
+                        locales:
+                          en-CA: >-
+                            Blown away by how polished this icon pack is.
+                            Everything looks so consistent and each SVG is
+                            optimized out of the box so I can use it directly
+                            with confidence. It would take me several hours to
+                            create a single icon this good, so it's a steal at
+                            this price.
+                          en-GB: >-
+                            Blown away by how polished this icon pack is.
+                            Everything looks so consistent and each SVG is
+                            optimized out of the box so I can use it directly
+                            with confidence. It would take me several hours to
+                            create a single icon this good, so it's a steal at
+                            this price.
+                          en-NL: >-
+                            Blown away by how polished this icon pack is.
+                            Everything looks so consistent and each SVG is
+                            optimized out of the box so I can use it directly
+                            with confidence. It would take me several hours to
+                            create a single icon this good, so it's a steal at
+                            this price.
+                          en-US: >-
+                            Blown away by how polished this icon pack is.
+                            Everything looks so consistent and each SVG is
+                            optimized out of the box so I can use it directly
+                            with confidence. It would take me several hours to
+                            create a single icon this good, so it's a steal at
+                            this price.
+                          fr-CA: >-
+                            Je suis époustouflé par la qualité de ce pack
+                            d'icônes. Tout a l'air si cohérent et chaque SVG est
+                            optimisé dès la sortie de la boîte pour que je
+                            puisse l'utiliser directement en toute confiance. Il
+                            me faudrait plusieurs heures pour créer une seule
+                            icône de cette qualité, c'est donc une aubaine à ce
+                            prix.
+                          nl-NL: >-
+                            Blown away door hoe gepolijst dit iconenpakket is.
+                            Alles ziet er zo consistent uit en elke SVG is out
+                            of the box geoptimaliseerd zodat ik het met
+                            vertrouwen direct kan gebruiken. Het zou me enkele
+                            uren kosten om zo'n goed icoon te maken, dus het is
+                            een koopje voor deze prijs.
+                      textColorVariant:
+                        type: select
+                        value: Dark
+                      lineCountRestriction:
+                        type: tp-slider-parameter
+                        value: none
+                    _overridability:
+                      variants: true
+                      parameters:
+                        date: 'yes'
+                        stars: 'yes'
+                        title: 'yes'
+                        picture: 'yes'
+                        personName: 'yes'
+                        starsColor: 'yes'
+                        description: 'yes'
+                        showReviewLabel: 'yes'
+                        textColorVariant: 'yes'
+                        lineCountRestriction: 'yes'
+                  - _id: 07d97a02-73cd-4e62-89cf-ceea22e12986
+                    type: review
+                    parameters:
+                      date:
+                        type: text
+                        locales:
+                          en-CA: July 12, 2021
+                          en-GB: July 12, 2021
+                          en-NL: July 12, 2021
+                          en-US: July 12, 2021
+                          fr-CA: 12 juillet 2021
+                          nl-NL: 12 juillet 2021
+                      stars:
+                        type: tp-slider-parameter
+                        value: '4'
+                      title:
+                        type: text
+                        locales:
+                          en-CA: The last shirts I may ever need
+                          en-GB: The last shirts I may ever need
+                          en-NL: The last shirts I may ever need
+                          en-US: The last shirts I may ever need
+                          fr-CA: Les dernières chemises dont j'aurai besoin
+                          nl-NL: Les dernières chemises dont j'aurai besoin
+                      picture:
+                        type: asset
+                        value:
+                          - _id: 47b775f0-8e34-4364-9c62-bd2dba1469e6
+                            type: image
+                            fields:
+                              id:
+                                type: text
+                                value: f0d14b90-22fc-4f68-896c-847bc3cc7c4f
+                              url:
+                                value: >-
+                                  https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/GuPHcStWTQyo9LXhc4_NoA-person_photo_2.jpg
+                                type: text
+                              file:
+                                type: file
+                                value: 87d04ecd-89cd-483f-b063-47994cd85e32
+                              size:
+                                value: 18613
+                                type: number
+                              title:
+                                type: text
+                                value: person_photo_2.jpg
+                              width:
+                                value: 256
+                                type: number
+                              height:
+                                value: 256
+                                type: number
+                              mediaType:
+                                value: image/jpeg
+                                type: text
+                            _source: uniform-assets
+                      personName:
+                        type: text
+                        locales:
+                          en-CA: Emily Selman
+                          en-GB: Emily Selman
+                          en-NL: Emily Selman
+                          en-US: Emily Selman
+                          fr-CA: Emily Selman
+                          nl-NL: Emily Selman
+                      description:
+                        type: text
+                        locales:
+                          en-CA: >-
+                            This icon pack is just what I need for my latest
+                            project. There's an icon for just about anything I
+                            could ever need. Love the playful look!
+                          en-GB: >-
+                            This icon pack is just what I need for my latest
+                            project. There's an icon for just about anything I
+                            could ever need. Love the playful look!
+                          en-NL: >-
+                            This icon pack is just what I need for my latest
+                            project. There's an icon for just about anything I
+                            could ever need. Love the playful look!
+                          en-US: >-
+                            This icon pack is just what I need for my latest
+                            project. There's an icon for just about anything I
+                            could ever need. Love the playful look!
+                          fr-CA: >-
+                            Ce pack d'icônes est exactement ce dont j'ai besoin
+                            pour mon dernier projet. Il y a une icône pour à peu
+                            près tout ce dont je pourrais avoir besoin. J'adore
+                            le look ludique !
+                          nl-NL: >-
+                            Ce pack d'icônes est exactement ce dont j'ai besoin
+                            pour mon dernier projet. Il y a une icône pour à peu
+                            près tout ce dont je pourrais avoir besoin. J'adore
+                            le look ludique !
+                      textColorVariant:
+                        type: select
+                        value: Dark
+                      lineCountRestriction:
+                        type: tp-slider-parameter
+                        value: none
+                    _overridability:
+                      variants: true
+                      parameters:
+                        date: 'yes'
+                        stars: 'yes'
+                        title: 'yes'
+                        picture: 'yes'
+                        personName: 'yes'
+                        starsColor: 'yes'
+                        description: 'yes'
+                        showReviewLabel: 'yes'
+                        textColorVariant: 'yes'
+                        lineCountRestriction: 'yes'
+                  - _id: 759bd889-07a5-4999-8513-e2f6fb6f9c13
+                    type: review
+                    parameters:
+                      date:
+                        type: text
+                        locales:
+                          en-CA: July 12, 2021
+                          en-GB: July 12, 2021
+                          en-NL: July 12, 2021
+                          en-US: July 12, 2021
+                          fr-CA: 12 juillet 2021
+                          nl-NL: 12 juli 2021
+                      stars:
+                        type: tp-slider-parameter
+                        value: '5'
+                      title:
+                        type: text
+                        locales:
+                          en-CA: Very comfy and looks the part
+                          en-GB: Very comfy and looks the part
+                          en-NL: Very comfy and looks the part
+                          en-US: Very comfy and looks the part
+                          fr-CA: Très confortable et très esthétique
+                          nl-NL: Zeer comfortabel en ziet er goed uit
+                      picture:
+                        type: asset
+                        value:
+                          - _id: f5e71803-2159-4b98-94c3-1b36daaf8628
+                            type: image
+                            fields:
+                              id:
+                                type: text
+                                value: f83d1a5a-721d-40c3-bfab-a2dacf57bbd2
+                              url:
+                                value: >-
+                                  https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/ES0_6IEvRn-ToewkkjwuKw-person_photo_3.jpg
+                                type: text
+                              file:
+                                type: file
+                                value: 813402b1-1b0e-4f5f-8fd7-93404a7e75d1
+                              size:
+                                value: 5865
+                                type: number
+                              title:
+                                type: text
+                                value: person_photo_3.jpg
+                              width:
+                                value: 256
+                                type: number
+                              height:
+                                value: 256
+                                type: number
+                              mediaType:
+                                value: image/jpeg
+                                type: text
+                            _source: uniform-assets
+                      personName:
+                        type: text
+                        locales:
+                          en-CA: Laura G
+                          en-GB: Laura G
+                          en-NL: Laura G
+                          en-US: Laura G
+                          fr-CA: Laura G
+                          nl-NL: Laura G
+                      starsColor:
+                        type: tp-color-style-parameter
+                        value: accent
+                      description:
+                        type: text
+                        locales:
+                          en-CA: >-
+                            I bought two of those comfy cotton shirts, and let
+                            me tell you: they're amazing! I have been wearing
+                            them almost every day. Even after a dozen of washes,
+                            that still looks and feel good as new. Will
+                            definitely order a few more... If I ever need to!
+                          en-GB: >-
+                            I bought two of those comfy cotton shirts, and let
+                            me tell you: they're amazing! I have been wearing
+                            them almost every day. Even after a dozen of washes,
+                            that still looks and feel good as new. Will
+                            definitely order a few more... If I ever need to!
+                          en-NL: >-
+                            I bought two of those comfy cotton shirts, and let
+                            me tell you: they're amazing! I have been wearing
+                            them almost every day. Even after a dozen of washes,
+                            that still looks and feel good as new. Will
+                            definitely order a few more... If I ever need to!
+                          en-US: >-
+                            I bought two of those comfy cotton shirts, and let
+                            me tell you: they're amazing! I have been wearing
+                            them almost every day. Even after a dozen of washes,
+                            that still looks and feel good as new. Will
+                            definitely order a few more... If I ever need to!
+                          fr-CA: >-
+                            J'ai acheté deux de ces chemises en coton
+                            confortables, et laissez-moi vous dire qu'elles sont
+                            incroyables ! Je les porte presque tous les jours.
+                            Même après une douzaine de lavages, elles sont
+                            toujours aussi belles et agréables à porter. J'en
+                            commanderai certainement d'autres... Si jamais j'en
+                            ai besoin !
+                          nl-NL: >-
+                            Ik heb twee van die comfortabele katoenen shirts
+                            gekocht en laat me je vertellen: ze zijn geweldig!
+                            Ik heb ze bijna elke dag gedragen. Zelfs na een
+                            dozijn wasbeurten ziet het er nog als nieuw uit. Ik
+                            zal er zeker nog een paar bestellen... Als het ooit
+                            nodig is!
+                      showReviewLabel:
+                        type: checkbox
+                        value: true
+                      textColorVariant:
+                        type: select
+                        value: Dark
+                      lineCountRestriction:
+                        type: tp-slider-parameter
+                        value: none
+                    _overridability:
+                      variants: true
+                      parameters:
+                        date: 'yes'
+                        stars: 'yes'
+                        title: 'yes'
+                        picture: 'yes'
+                        personName: 'yes'
+                        starsColor: 'yes'
+                        description: 'yes'
+                        showReviewLabel: 'yes'
+                        textColorVariant: 'yes'
+                        lineCountRestriction: 'yes'
+              parameters:
+                gapX:
+                  type: tp-slider-parameter
+                  value: none
+                gapY:
+                  type: tp-slider-parameter
+                  value: medium
+                title:
+                  type: text
+                  locales:
+                    en-CA: Column Grid
+                    en-GB: Column Grid
+                    en-NL: Column Grid
+                    en-US: Column Grid
+                    fr-CA: Grille de colonnes
+                    nl-NL: Kolomraster
+                marginTop:
+                  type: select
+                  value: None
+                paddingTop:
+                  type: select
+                  value: None
+                columnsCount:
+                  type: tp-slider-parameter
+                  value: '1'
+                marginBottom:
+                  type: select
+                  value: None
+                paddingBottom:
+                  type: select
+                  value: None
+              _overridability:
+                parameters:
+                  gapX: 'yes'
+                  gapY: 'yes'
+                  title: 'yes'
+                  marginTop: 'yes'
+                  paddingTop: 'yes'
+                  columnsCount: 'yes'
+                  marginBottom: 'yes'
+                  paddingBottom: 'yes'
+                  backgroundType: 'yes'
+                  containerVariant: 'yes'
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Grouped Section
+              en-GB: Grouped Section
+              en-NL: Grouped Section
+              en-US: Grouped Section
+              fr-CA: Section groupée
+              nl-NL: Gegroepeerde sectie
+          rowSpan:
+            type: tp-slider-parameter
+            value: '1'
+          rowStart:
+            type: tp-slider-parameter
+            value: None
+          columnSpan:
+            type: tp-slider-parameter
+            value: '6'
+          columnStart:
+            type: tp-slider-parameter
+            value: '2'
+        _overridability:
+          parameters:
+            title: 'yes'
+            rowSpan: 'yes'
+            rowStart: 'yes'
+            columnSpan: 'yes'
+            columnStart: 'yes'
+  _overridability:
+    parameters:
+      gapX: 'yes'
+      gapY: 'yes'
+      title: 'yes'
+      marginTop: 'yes'
+      paddingTop: 'yes'
+      columnsCount: 'yes'
+      marginBottom: 'yes'
+      paddingBottom: 'yes'
+      backgroundType: 'yes'
+      containerVariant: 'yes'
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:50:44.001556+00:00'
+modified: '2024-02-28T12:50:44.001556+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/Review_default_pattern_preview_image
+categoryId: 2da8c924-14d5-470b-9fe4-1e56521551e5

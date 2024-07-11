@@ -1,0 +1,59 @@
+created: '2024-02-28T12:53:27.232677+00:00'
+modified: '2024-02-28T12:53:27.232677+00:00'
+pattern: false
+entry:
+  _id: c8a997fc-4410-44eb-856f-dd4e559fedbd
+  _name: It's tax time
+  _slug: its-tax-time
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/GNgseJ77TGCr0GisxoceuQ-photo-14.png
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 1e85d586-ea35-4c8f-a198-97290a910e13
+          type: image
+          fields:
+            id:
+              type: text
+              value: 48728d23-d30b-4521-986c-f9f77a8fdc14
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/GNgseJ77TGCr0GisxoceuQ-photo-14.png
+              type: text
+            file:
+              type: file
+              value: bc64c009-300c-460e-9bd0-b7571190ee15
+            size:
+              value: 3563342
+              type: number
+            title:
+              type: text
+              value: photo-14.png
+            width:
+              value: 2970
+              type: number
+            height:
+              value: 1980
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: It's tax time
+        fr-CA: C'est le temps d'impôt
+        nl-NL: Het is belastingtijd
+    description:
+      type: text
+      locales:
+        en-US: Time for a new percolator?
+        fr-CA: Il est temps pour un nouveau percolateur?
+        nl-NL: Tijd voor een nieuwe percolator?
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

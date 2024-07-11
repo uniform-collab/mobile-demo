@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 4a956308-c123-4747-b257-b7652cde2dcd
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: kosmic-coffee-stainless-steel-precision-brewer-116-1_djiz7h_dao4he.jpg
+    file:
+      type: file
+      value: d2208a5a-d321-4f73-874c-4ead4b71ba5a
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Nq7U6y7nQYuh1EwUoKN6uQ-kosmic-coffee-stainless-steel-precision-brewer-116-1_djiz7h_dao4he.jpg
+      type: text
+    size:
+      value: 277929
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:42:23.016082+00:00'
+modified: '2024-02-28T13:32:16.52344+00:00'

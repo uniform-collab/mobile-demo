@@ -1,0 +1,89 @@
+created: '2024-02-28T12:54:00.485744+00:00'
+modified: '2024-02-28T12:54:00.485744+00:00'
+pattern: false
+entry:
+  _id: 27f9bfdf-a637-4012-a904-0f913fe1b78a
+  _name: Specialty What's Included
+  _slug: new-entry-product-feature
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/6blB0-UUT8CWlcuFBG_GGQ-javaDrip_specialty_2.jpg
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 3ee9eb7a-7fb5-4856-84b3-f407dfd2bf79
+          type: image
+          fields:
+            id:
+              type: text
+              value: c221a8fe-c252-4ec0-be16-d52bcbe268e3
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/6blB0-UUT8CWlcuFBG_GGQ-javaDrip_specialty_2.jpg
+              type: text
+            file:
+              type: file
+              value: 7391d994-375b-4b1a-bd66-9b0f65ab7c9f
+            size:
+              value: 141170
+              type: number
+            title:
+              type: text
+              value: javaDrip_specialty_2.jpg
+            width:
+              value: 1000
+              type: number
+            height:
+              value: 1000
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Specialty What's Included
+        fr-CA: Spécialité ce qui est inclus
+        nl-NL: Specialiteit wat is inbegrepen
+    description:
+      type: text
+      locales:
+        en-US: |-
+          WHAT'S INCLUDED:
+
+          - 50 oz. (10-cup) glass carafe
+          - Fold-away frother
+          - Recipe inspiration guide
+          - Gold-tone permanent filter
+          - Smart Scoop
+          - Removable water reservoir
+          - Quick Start guide
+          - Owner's Guide
+        fr-CA: |-
+          CE QUI EST INCLU:
+
+          - 50 oz.(10 tasse) Carafe en verre
+          - Frother Fold-Away
+          - Guide d'inspiration de recettes
+          - Filtre permanent de ton or
+          - Smart Scoop
+          - Réservoir d'eau amovible
+          - Guide de démarrage rapide
+          - Guide du propriétaire
+        nl-NL: |-
+          WAT IS ERBIJ INBEGREPEN:
+
+          - 50 oz.(10-cup) glazen karaf
+          - Kleedkool
+          - Recept Inspiration Guide
+          - Goud-tone permanent filter
+          - Smart Scoop
+          - Verwijderbaar waterreservoir
+          - Snelstartgids
+          - Gids voor de eigenaar
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

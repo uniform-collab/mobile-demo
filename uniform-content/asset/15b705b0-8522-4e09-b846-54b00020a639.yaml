@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 15b705b0-8522-4e09-b846-54b00020a639
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: peruvian-blend-coffee-134-1_qtplae_lkbbpp.jpg
+    file:
+      type: file
+      value: 35d33e29-0298-4efe-8433-bd7ccf0e6a49
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/9ktlc-VNTXmYYVFr7bgkqg-peruvian-blend-coffee-134-1_qtplae_lkbbpp.jpg
+      type: text
+    size:
+      value: 103660
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:40:26.623459+00:00'
+modified: '2024-02-28T13:31:18.666047+00:00'

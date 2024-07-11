@@ -1,0 +1,59 @@
+created: '2024-02-28T12:53:11.542655+00:00'
+modified: '2024-02-28T13:36:56.690351+00:00'
+pattern: false
+entry:
+  _id: 70bbe9fa-16ce-4e55-aaa0-432e114be106
+  _name: Hello, stranger!
+  _slug: hello-stranger
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/TTW6o56pTXSFMZsdUbh1IQ-hero_15.png
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 89d8f9c2-bea6-4dd2-bec4-bfaaab0736c4
+          type: image
+          fields:
+            id:
+              type: text
+              value: 0cf4ba92-4a18-4dd2-9175-f4615b4eff98
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/TTW6o56pTXSFMZsdUbh1IQ-hero_15.png
+              type: text
+            file:
+              type: file
+              value: bd5603df-bc18-495a-9254-081d7facf02a
+            size:
+              value: 2064940
+              type: number
+            title:
+              type: text
+              value: hero_15.png
+            width:
+              value: 3000
+              type: number
+            height:
+              value: 2000
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Hello, stranger!
+        fr-CA: Bonjour étranger!
+        nl-NL: Hallo onbekende!
+    description:
+      type: text
+      locales:
+        en-US: we got awesome coffee beans and amazing coffee machine
+        fr-CA: Nous avons des grains de café géniaux et une machine à café incroyable
+        nl-NL: We hebben geweldige koffiebonen en een geweldige koffiemachine
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

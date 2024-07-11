@@ -1,0 +1,321 @@
+created: '2024-02-28T12:52:19.956372+00:00'
+modified: '2024-02-28T13:36:12.665349+00:00'
+pattern: false
+entry:
+  _id: 14fdfc53-a433-4c77-90b7-346fd6e29c9a
+  _name: Black Mountain Chambord French Press Coffee Maker
+  _slug: black-mountain-chambord-french-press-coffee-maker-123
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/fcJjuE4VR_-098-A-7w-yg-black-mountain-chambord-french-press-coffee-maker-123-1_pgykyp_yh0nlq.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      French press: Chambord French press brews a premium cup of
+                      Coffee in just 4 minutes, simply add course ground Coffee,
+                      hot water and press Stainless steel: 3-part stainless
+                      steel plunger has a mesh filter that helps extract your
+                      coffee's aromatic oils and subtle flavors instead of being
+                      absorbed by a paper filter. Made of plastic Durable
+                      design: Coffee press features Bodum Patented safety lid to
+                      keep contents from spilling and is dishwasher safe for
+                      easy cleaning Maximum flavor: pressed Coffee extracts the
+                      perfect amount of essentials oils and acids from the
+                      Coffee bean for maximum flavor; the preferred method for
+                      brewing for Coffee enthusiasts everywhere Servings:
+                      premium French press Coffee maker makes 8 cups of Coffee,
+                      4 oz each
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Presse française : la presse française Chambord prépare une tasse de café de qualité supérieure en seulement 4 minutes, ajoutez simplement du café moulu, de l'eau chaude et pressez. Acier inoxydable : le piston en acier inoxydable en 3 parties est doté d'un filtre à mailles qui aide à extraire les huiles aromatiques et les saveurs subtiles de votre café. au lieu d'être absorbé par un filtre en papier. Fabriqué en plastique Conception durable\_: la presse à café est dotée d'un couvercle de sécurité breveté Bodum pour empêcher le contenu de se renverser et passe au lave-vaisselle pour un nettoyage facile. Saveur maximale\_: le café pressé extrait la quantité parfaite d'huiles essentielles et d'acides du grain de café pour une saveur maximale\_; la méthode de préparation préférée des amateurs de café du monde entier. Portions\_: cafetière à piston haut de gamme permettant de préparer 8 tasses de café de 4 oz chacune."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Franse pers: Chambord Franse pers zet een eersteklas kop
+                      koffie in slechts 4 minuten, voeg eenvoudig gemalen
+                      koffie, heet water toe en pers. Roestvrij staal: 3-delige
+                      roestvrijstalen plunjer heeft een gaasfilter dat helpt de
+                      aromatische oliën en subtiele smaken van uw koffie te
+                      extraheren in plaats van te worden geabsorbeerd door een
+                      papieren filter. Gemaakt van kunststof Duurzaam ontwerp:
+                      koffiepers met Bodum Gepatenteerd veiligheidsdeksel om
+                      morsen van de inhoud te voorkomen en is
+                      vaatwasmachinebestendig voor eenvoudige reiniging Maximale
+                      smaak: geperste koffie extraheert de perfecte hoeveelheid
+                      essentiële oliën en zuren uit de koffieboon voor maximale
+                      smaak; de voorkeursmethode voor het zetten van koffie voor
+                      koffieliefhebbers overal Porties: premium Franse pers
+                      Koffiezetapparaat maakt 8 kopjes koffie, elk 4 oz
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Black Mountain Chambord French Press Coffee Maker
+    title:
+      type: text
+      value: Black Mountain Chambord French Press Coffee Maker
+    category:
+      type: select
+      value: french-press
+    variants:
+      type: $block
+      value:
+        - _id: c3ef5c03-d9f0-463d-9d0b-f288582fe522
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '123'
+            price:
+              type: number
+              locales:
+                en-US: '33.99'
+                fr-CA: '31.40'
+                nl-NL: '31.40'
+            title:
+              type: text
+              locales:
+                en-US: Black Mountain Chambord French Press Coffee Maker
+                fr-CA: Black Mountain Chambord French Press Coffee Maker
+                nl-NL: Black Mountain Chambord French Press Coffee Maker
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: b5a9b05a-2fc4-42df-973e-a42ebee59ee4
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 69f73402-b615-4247-8450-3cfe57f737d4
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EFtrapbrTs6bAuNtHY-o-g-black-mountain-chambord-french-press-coffee-maker-123-1_pgykyp_yh0nlq.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: e3fdea50-7d0e-42b0-9d72-0f5652fbd602
+                    size:
+                      value: 159228
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        black-mountain-chambord-french-press-coffee-maker-123-1_pgykyp_yh0nlq.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 6c3ddb36-16f9-414d-9372-41bd9607422a
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: dbcd21be-6cdb-4547-b4da-16ec86d2c8d6
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/lxfID-K-QqKVymciaNlLxA-black-mountain-chambord-french-press-coffee-maker-123-2_obkerc_niulin.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 6cef8c87-0e4e-4d2f-865e-8cd5484061fc
+                    size:
+                      value: 318005
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        black-mountain-chambord-french-press-coffee-maker-123-2_obkerc_niulin.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: d75a8b12-a8f0-4bda-bcf4-72457927cc42
+          type: image
+          fields:
+            id:
+              type: text
+              value: 90e8d49e-5d18-487e-9166-0289bfa6d179
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/fcJjuE4VR_-098-A-7w-yg-black-mountain-chambord-french-press-coffee-maker-123-1_pgykyp_yh0nlq.jpg
+              type: text
+            file:
+              type: file
+              value: 92af8b7a-1f73-4536-8786-2098864241a5
+            size:
+              value: 159228
+              type: number
+            title:
+              type: text
+              value: >-
+                black-mountain-chambord-french-press-coffee-maker-123-1_pgykyp_yh0nlq.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 656b741a-4921-4583-88aa-99a1a6a4d85c
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 3ebec22c-de44-4870-8862-95eda4774ae1
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          French press: Chambord French press brews a premium cup of Coffee in
+          just 4 minutes, simply add course ground Coffee, hot water and press
+          Stainless steel: 3-part stainless steel plunger has a mesh filter that
+          helps extract your coffee's aromatic oils and subtle flavors instead
+          of being absorbed by a paper filter. Made of plastic Durable design:
+          Coffee press features Bodum Patented safety lid to keep contents from
+          spilling and is dishwasher safe for easy cleaning Maximum flavor:
+          pressed Coffee extracts the perfect amount of essentials oils and
+          acids from the Coffee bean for maximum flavor; the preferred method
+          for brewing for Coffee enthusiasts everywhere Servings: premium French
+          press Coffee maker makes 8 cups of Coffee, 4 oz each
+        fr-CA: "Presse française : la presse française Chambord prépare une tasse de café de qualité supérieure en seulement 4 minutes, ajoutez simplement du café moulu, de l'eau chaude et pressez. Acier inoxydable : le piston en acier inoxydable en 3 parties est doté d'un filtre à mailles qui aide à extraire les huiles aromatiques et les saveurs subtiles de votre café. au lieu d'être absorbé par un filtre en papier. Fabriqué en plastique Conception durable\_: la presse à café est dotée d'un couvercle de sécurité breveté Bodum pour empêcher le contenu de se renverser et passe au lave-vaisselle pour un nettoyage facile. Saveur maximale\_: le café pressé extrait la quantité parfaite d'huiles essentielles et d'acides du grain de café pour une saveur maximale\_; la méthode de préparation préférée des amateurs de café du monde entier. Portions\_: cafetière à piston haut de gamme permettant de préparer 8 tasses de café de 4 oz chacune."
+        nl-NL: >-
+          Franse pers: Chambord Franse pers zet een eersteklas kop koffie in
+          slechts 4 minuten, voeg eenvoudig gemalen koffie, heet water toe en
+          pers. Roestvrij staal: 3-delige roestvrijstalen plunjer heeft een
+          gaasfilter dat helpt de aromatische oliën en subtiele smaken van uw
+          koffie te extraheren in plaats van te worden geabsorbeerd door een
+          papieren filter. Gemaakt van kunststof Duurzaam ontwerp: koffiepers
+          met Bodum Gepatenteerd veiligheidsdeksel om morsen van de inhoud te
+          voorkomen en is vaatwasmachinebestendig voor eenvoudige reiniging
+          Maximale smaak: geperste koffie extraheert de perfecte hoeveelheid
+          essentiële oliën en zuren uit de koffieboon voor maximale smaak; de
+          voorkeursmethode voor het zetten van koffie voor koffieliefhebbers
+          overal Porties: premium Franse pers Koffiezetapparaat maakt 8 kopjes
+          koffie, elk 4 oz
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

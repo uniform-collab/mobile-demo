@@ -1,0 +1,318 @@
+created: '2024-02-28T12:52:45.881825+00:00'
+modified: '2024-02-28T13:36:15.66671+00:00'
+pattern: false
+entry:
+  _id: 192102d0-3dbe-4071-ae94-7deefac1b3ca
+  _name: Ember Luxury Ottoman Coffee & Espresso Set
+  _slug: ember-luxury-ottoman-coffee-espresso-set-138
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/-48q6tKBTiaa_9uqSfsVoQ-ember-luxury-ottoman-coffee-espresso-set-138-1_ytrous_jpdoha.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      PERFECT GIFT: This unique engraved coffee set will be a
+                      rare gift for you and your loved ones. When you buy this
+                      coffee set, those who see it will definitely ask where you
+                      bought it from. You will be proud of your coffee set! The
+                      set includes everything needed to make your first cup of
+                      Turkish or Arabic Coffee! QUALITY: This Turkish coffee set
+                      is made of the thickest zamak sheet available. Thus, it
+                      has maximum durability. Do not waste time returning low
+                      quality imitations. GUARANTEE: Knowing that you will get
+                      the best quality product available, you can buy and Add to
+                      Cart with a guarantee. If for any reason you are not
+                      satisfied, we will refund your money. With us you can
+                      always order guaranteed.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "CADEAU PARFAIT : Ce service à café gravé unique sera un cadeau rare pour vous et vos proches. Lorsque vous achèterez ce service à café, ceux qui le verront vous demanderont certainement où vous l'avez acheté. Vous serez fier de votre service à café ! L'ensemble comprend tout le nécessaire pour préparer votre première tasse de café turc ou arabe ! QUALITÉ\_: Ce service à café turc est fabriqué à partir de la feuille de zamak la plus épaisse disponible. Ainsi, il a une durabilité maximale. Ne perdez pas de temps à renvoyer des imitations de mauvaise qualité. GARANTIE\_: Sachant que vous obtiendrez le produit de la meilleure qualité disponible, vous pouvez acheter et ajouter au panier avec une garantie. Si pour une raison quelconque vous n'êtes pas satisfait, nous vous rembourserons votre argent. Avec nous, vous pouvez toujours commander en toute garantie."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      PERFECTE CADEAU: Deze unieke gegraveerde koffieset is een
+                      zeldzaam cadeau voor jou en je dierbaren. Wanneer u dit
+                      koffieservies koopt, zullen degenen die het zien, zeker
+                      vragen waar u het gekocht heeft. Je zult trots zijn op je
+                      koffieservies! De set bevat alles wat nodig is om je
+                      eerste kopje Turkse of Arabische koffie te zetten!
+                      KWALITEIT: Deze Turkse koffieset is gemaakt van het dikste
+                      zamakblad dat verkrijgbaar is. Het heeft dus een maximale
+                      duurzaamheid. Verspil geen tijd met het retourneren van
+                      imitaties van lage kwaliteit. GARANTIE: Omdat u weet dat u
+                      het beste kwaliteitsproduct krijgt dat beschikbaar is,
+                      kunt u het met garantie kopen en aan uw winkelwagen
+                      toevoegen. Als u om welke reden dan ook niet tevreden
+                      bent, betalen wij uw geld terug. Bij ons kunt u altijd
+                      gegarandeerd bestellen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Ember Luxury Ottoman Coffee & Espresso Set
+    title:
+      type: text
+      value: Ember Luxury Ottoman Coffee & Espresso Set
+    category:
+      type: select
+      value: turkish
+    variants:
+      type: $block
+      value:
+        - _id: 5b84625a-a640-4e7c-be10-1f8681462df3
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '138'
+            price:
+              type: number
+              locales:
+                en-US: '49.9'
+                fr-CA: '46.09'
+                nl-NL: '46.09'
+            title:
+              type: text
+              locales:
+                en-US: Ember Luxury Ottoman Coffee & Espresso Set
+                fr-CA: Ember Luxury Ottoman Coffee & Espresso Set
+                nl-NL: Ember Luxury Ottoman Coffee & Espresso Set
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 9ab13a3d-7932-4832-9f6b-6f212ebcf871
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 7bb9c824-8b38-47c5-b269-424d37b8e547
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/7hWwtVnlQua9VwuSo5e55A-ember-luxury-ottoman-coffee-espresso-set-138-1_ytrous_jpdoha.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 04f19c55-d716-4c87-8ec5-104ae68fd809
+                    size:
+                      value: 262696
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        ember-luxury-ottoman-coffee-espresso-set-138-1_ytrous_jpdoha.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 526e13ca-12e7-403f-8431-a7c952f6ffb1
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: ecaa7ba8-5420-4a72-a931-96c170fbdbed
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/9sYsIoGNRFmY3zQgQJciQw-ember-luxury-ottoman-coffee-espresso-set-138-2_apxpjy_syqsod.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 71f37c3b-d489-4a3c-9872-7211f8f3fd5f
+                    size:
+                      value: 136936
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        ember-luxury-ottoman-coffee-espresso-set-138-2_apxpjy_syqsod.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: a4d15e21-94e3-4233-b078-71a682648668
+          type: image
+          fields:
+            id:
+              type: text
+              value: 71ec519d-a848-40ea-9914-331a2d2e2fff
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/-48q6tKBTiaa_9uqSfsVoQ-ember-luxury-ottoman-coffee-espresso-set-138-1_ytrous_jpdoha.jpg
+              type: text
+            file:
+              type: file
+              value: 87e27a9d-0f1d-4bdf-9cd3-b7409ef8190a
+            size:
+              value: 262696
+              type: number
+            title:
+              type: text
+              value: ember-luxury-ottoman-coffee-espresso-set-138-1_ytrous_jpdoha.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 8efced4b-fe28-4cb2-94c3-7de34224cd7b
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: ff62cd8a-4dcc-414c-8366-4c5d8289210a
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          PERFECT GIFT: This unique engraved coffee set will be a rare gift for
+          you and your loved ones. When you buy this coffee set, those who see
+          it will definitely ask where you bought it from. You will be proud of
+          your coffee set! The set includes everything needed to make your first
+          cup of Turkish or Arabic Coffee! QUALITY: This Turkish coffee set is
+          made of the thickest zamak sheet available. Thus, it has maximum
+          durability. Do not waste time returning low quality imitations.
+          GUARANTEE: Knowing that you will get the best quality product
+          available, you can buy and Add to Cart with a guarantee. If for any
+          reason you are not satisfied, we will refund your money. With us you
+          can always order guaranteed.
+        fr-CA: "CADEAU PARFAIT : Ce service à café gravé unique sera un cadeau rare pour vous et vos proches. Lorsque vous achèterez ce service à café, ceux qui le verront vous demanderont certainement où vous l'avez acheté. Vous serez fier de votre service à café ! L'ensemble comprend tout le nécessaire pour préparer votre première tasse de café turc ou arabe ! QUALITÉ\_: Ce service à café turc est fabriqué à partir de la feuille de zamak la plus épaisse disponible. Ainsi, il a une durabilité maximale. Ne perdez pas de temps à renvoyer des imitations de mauvaise qualité. GARANTIE\_: Sachant que vous obtiendrez le produit de la meilleure qualité disponible, vous pouvez acheter et ajouter au panier avec une garantie. Si pour une raison quelconque vous n'êtes pas satisfait, nous vous rembourserons votre argent. Avec nous, vous pouvez toujours commander en toute garantie."
+        nl-NL: >-
+          PERFECTE CADEAU: Deze unieke gegraveerde koffieset is een zeldzaam
+          cadeau voor jou en je dierbaren. Wanneer u dit koffieservies koopt,
+          zullen degenen die het zien, zeker vragen waar u het gekocht heeft. Je
+          zult trots zijn op je koffieservies! De set bevat alles wat nodig is
+          om je eerste kopje Turkse of Arabische koffie te zetten! KWALITEIT:
+          Deze Turkse koffieset is gemaakt van het dikste zamakblad dat
+          verkrijgbaar is. Het heeft dus een maximale duurzaamheid. Verspil geen
+          tijd met het retourneren van imitaties van lage kwaliteit. GARANTIE:
+          Omdat u weet dat u het beste kwaliteitsproduct krijgt dat beschikbaar
+          is, kunt u het met garantie kopen en aan uw winkelwagen toevoegen. Als
+          u om welke reden dan ook niet tevreden bent, betalen wij uw geld
+          terug. Bij ons kunt u altijd gegarandeerd bestellen.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

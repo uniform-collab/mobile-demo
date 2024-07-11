@@ -1,0 +1,110 @@
+created: '2024-02-28T12:52:50.50238+00:00'
+modified: '2024-02-28T12:52:50.50238+00:00'
+pattern: false
+entry:
+  _id: f2f18a21-a5bf-481d-8692-c6459a9e0554
+  _name: EspressoGPT Overview
+  _slug: espressogpt-overview
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/x6UGD5EAT1C30ddNvJXrsg-espressoGPT_image_1.jpg
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: ba5fac5a-d752-41aa-8f40-c4cd2f706e84
+          type: image
+          fields:
+            id:
+              type: text
+              value: 24befc1a-4849-46ed-b857-a53ece4f5985
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/x6UGD5EAT1C30ddNvJXrsg-espressoGPT_image_1.jpg
+              type: text
+            file:
+              type: file
+              value: f7484a3a-4eca-4f8f-a2f5-2d5dc4588ae2
+            size:
+              value: 123117
+              type: number
+            title:
+              type: text
+              value: espressoGPT_image_1.jpg
+            width:
+              value: 1486
+              type: number
+            height:
+              value: 960
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: EspressoGPT Overview
+        fr-CA: Présentation de l'espressogpt
+        nl-NL: Espressogpt Overzicht
+    productId:
+      type: text
+      value: espresso-gpt-145
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Where future technologies meet timeless taste.  Experience coffee like
+          never before. From the moment you power up the EspressoGPT, you're not
+          just brewing an espresso—you're entering the future of coffee. Welcome
+          to a universe of unparalleled taste and sophistication.
+
+
+          When we speak of the 'perfect coffee bean', it's more than just a
+          catchphrase. To us, it embodies a journey of passion, precision, and
+          perseverance.  Featuring an intuitive interface holographic display, a
+          modern design, and AI powered taste preferences
+
+
+          EspressoGPT is not just a product but a testament to our ethos. It
+          represents our unwavering commitment to delivering our best to a
+          global community of coffee lovers.
+        fr-CA: >-
+          Où les technologies futures répondent au goût intemporel.Découvrez le
+          café comme jamais auparavant.À partir du moment où vous montez
+          l'espressogpt, vous ne préparez pas seulement un expresso - vous
+          entrez dans l'avenir du café.Bienvenue dans un univers de goût et de
+          sophistication inégalés.
+
+
+          Lorsque nous parlons du «grain de café parfait», c'est plus qu'un
+          simple slogan.Pour nous, cela incarne un voyage de passion, de
+          précision et de persévérance.Avec un affichage holographique
+          d'interface intuitif, un design moderne et des préférences de goût
+          alimenté par l'IA
+
+
+          Espressogpt n'est pas seulement un produit, mais un témoignage de
+          notre éthique.Il représente notre engagement indéfectible à fournir de
+          notre mieux à une communauté mondiale d'amateurs de café.
+        nl-NL: >-
+          Waar toekomstige technologieën de tijdloze smaak voldoen.Ervaar koffie
+          als nooit tevoren.Vanaf het moment dat je het Espressogpt opstijgt,
+          ben je niet alleen een espresso aan het brouwen - je gaat de toekomst
+          van koffie binnen.Welkom bij een universum van ongeëvenaarde smaak en
+          verfijning.
+
+
+          Als we spreken over de 'Perfect Coffee Bean', is het meer dan alleen
+          een slogan.Voor ons belichaamt het een reis van passie, precisie en
+          doorzettingsvermogen.Met een intuïtieve interface holografische
+          display, een modern ontwerp en AI aangedreven smaakvoorkeuren
+
+
+          Espressogpt is niet alleen een product, maar een bewijs van ons
+          ethos.Het vertegenwoordigt onze niet -aflatende toewijding om ons best
+          te leveren aan een wereldwijde gemeenschap van koffieliefhebbers.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

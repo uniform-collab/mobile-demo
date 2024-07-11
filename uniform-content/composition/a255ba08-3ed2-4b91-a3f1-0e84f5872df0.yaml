@@ -1,0 +1,262 @@
+composition:
+  _name: Product Details Page
+  _id: a255ba08-3ed2-4b91-a3f1-0e84f5872df0
+  _slug: ':product-slug'
+  type: productDetailsPage
+  parameters:
+    pageTitle:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Product Content/entry/fields/title/value} Details Page
+        en-GB: ${#jptr:/Product Content/entry/fields/title/value} Details Page
+        en-NL: ${#jptr:/Product Content/entry/fields/title/value} Details Page
+        en-US: ${#jptr:/Product Content/entry/fields/title/value} Details Page
+        fr-CA: ${#jptr:/Product Content/entry/fields/name/value} Détails de la page
+        nl-NL: ${#jptr:/Product Content/entry/fields/name/value} Details Pagina
+    pageSubcategories:
+      type: json
+      value: ${#jptr:/Product Content/entry/fields/category/value}
+  slots:
+    pageFooter:
+      - _id: 0a8873bf-ce39-4861-92f2-1728b4cdc73c
+        type: footer
+        _pattern: 319639e9-4bac-4fb3-8f0b-19088c969fcb
+    pageHeader:
+      - _id: 71a988e9-c24f-4aa4-a732-f6fd847c5774
+        type: header
+        _pattern: e46c8336-acfd-43e8-ac59-8be8f4c33b7d
+    pageContent:
+      - _id: 8726466b-4d35-4603-a989-f6af2f57ca96
+        type: $test
+        slots:
+          test:
+            - _id: 790036c7-2557-4300-85bc-01e4bd2dbf45
+              type: productInfo
+              _pattern: f80964a3-4000-4a5d-8d8d-1400b03bceb3
+              _dataResources:
+                Product Content:
+                  type: product
+                  variables:
+                    slug: ${product-slug}
+                    locale: ${locale}
+            - _id: c111c612-3634-4d7c-add1-dea7f28808d4
+              type: productInfo
+              _pattern: f80964a3-4000-4a5d-8d8d-1400b03bceb3
+              _dataResources:
+                Product Content:
+                  type: product
+                  variables:
+                    slug: ${product-slug}
+                    locale: ${locale}
+        parameters:
+          test:
+            type: testSelect
+            value: pdpProductInfo
+      - _id: fd17ee59-b758-4df8-83ad-be803dee197f
+        type: imageGallery
+        _pattern: 92f3a50f-098f-4448-88dd-4005e384559d
+        _dataResources:
+          Product Content:
+            type: product
+            variables:
+              slug: ${product-slug}
+              locale: ${locale}
+      - _id: 86780bea-ec90-4771-ac3f-694f5f887190
+        type: container
+        slots:
+          container-inner:
+            - _id: 7ab024c0-7c7f-4454-84c9-6c4ec52aec2b
+              type: cardBlock
+              _pattern: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+              _dataResources:
+                Products Content:
+                  type: products
+                  variables:
+                    locale: ${locale}
+                    entryIds: >-
+                      1648f5e2-8940-4687-8a37-67c90d51b4c0,3f39a936-39c8-403a-8982-39b8996098c9,a555a586-ef6b-4ae2-978b-af3590ec8060,a9c3ccaf-c2bc-418e-bcc4-cb68ceb84622,6d10823e-c63a-4cc3-a61a-edcad6201bb3,65452f1b-3148-46a0-8a52-86399ddaf40e,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,90d3afd1-9e0b-4268-a781-843e3be61287
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Recommend Products
+              en-GB: Recommend Products
+              en-NL: Recommend Products
+              en-US: Recommend Products
+              fr-CA: Recommander des produits
+              nl-NL: Aanbevolen producten
+          paddingTop:
+            type: select
+            value: Small
+          paddingBottom:
+            type: select
+            value: Medium
+          backgroundType:
+            type: tp-background-type-parameter
+            value: Dark
+  _dataResources:
+    Product Content:
+      type: product
+      variables:
+        slug: ${product-slug}
+        locale: ${locale}
+  _overrides:
+    790036c7-2557-4300-85bc-01e4bd2dbf45:
+      parameters:
+        $tstVrnt:
+          type: testVariant
+          value:
+            id: Minimalistic
+        subTitle:
+          type: text
+          locales:
+            en-CA: Unlimited warranty. Free shipping.
+            en-GB: Unlimited warranty. Free shipping.
+            en-NL: Unlimited warranty. Free shipping.
+            en-US: Unlimited warranty. Free shipping.
+        objectFit:
+          type: select
+          value: contain
+        fullHeight:
+          type: checkbox
+          value: null
+        titleStyle:
+          type: tp-title-style-parameter
+          value: h1
+        description:
+          type: text
+          locales:
+            en-US: null
+        eyebrowText:
+          type: text
+          locales:
+            en-CA: Exclusively from JavaDrip!
+            en-GB: Exclusively from JavaDrip!
+            en-NL: Exclusively from JavaDrip!
+            en-US: Exclusively from JavaDrip!
+        overlayColor:
+          type: tp-color-style-parameter
+          value: base-300
+        highlightText:
+          type: text
+          locales:
+            en-CA: >-
+              Only ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/currency/value}
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/price/value}
+            en-GB: >-
+              Only ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/currency/value}
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/price/value}
+            en-NL: >-
+              Only ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/currency/value}
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/price/value}
+            en-US: >-
+              Only ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/currency/value}
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/price/value}
+        overlayOpacity:
+          type: tp-slider-parameter
+          value: 70%
+        primaryButtonCopy:
+          type: text
+          locales:
+            en-CA: Get yours!
+            en-GB: Get yours!
+            en-NL: Get yours!
+            en-US: Get yours!
+        primaryButtonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+        secondaryButtonCopy:
+          type: text
+          locales:
+            en-US: null
+        secondaryButtonLink:
+          type: link
+          value: null
+    7ab024c0-7c7f-4454-84c9-6c4ec52aec2b:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: >-
+              Recommended for your ${#jptr:/Product
+              Content/entry/fields/name/value}
+            en-GB: >-
+              Recommended for your ${#jptr:/Product
+              Content/entry/fields/name/value}
+            en-NL: >-
+              Recommended for your ${#jptr:/Product
+              Content/entry/fields/name/value}
+            en-US: >-
+              Recommended for your ${#jptr:/Product
+              Content/entry/fields/name/value}
+        buttonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+        textColorVariant:
+          type: select
+          value: Light
+    c111c612-3634-4d7c-add1-dea7f28808d4:
+      parameters:
+        $tstVrnt:
+          type: testVariant
+          value:
+            id: Informational
+    fd17ee59-b758-4df8-83ad-be803dee197f:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: >-
+              See it in action -> ${#jptr:/Product
+              Content/entry/fields/name/value}
+            en-GB: >-
+              See it in action -> ${#jptr:/Product
+              Content/entry/fields/name/value}
+            en-NL: >-
+              See it in action -> ${#jptr:/Product
+              Content/entry/fields/name/value}
+            en-US: >-
+              See it in action -> ${#jptr:/Product
+              Content/entry/fields/name/value}
+        titleStyle:
+          type: tp-title-style-parameter
+          value: h2
+    7ab024c0-7c7f-4454-84c9-6c4ec52aec2b|98ef4404-7adc-4d1b-bd62-e17bc229352b:
+      parameters:
+        badgeStyle:
+          type: tp-badge-style-parameter
+          value: secondary
+        buttonLink:
+          type: link
+          value:
+            path: /:locale/products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+              product-slug: ${product-slug}
+        buttonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+        textColorVariant:
+          type: select
+          value: Light
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T13:35:54.57256+00:00'
+modified: '2024-03-07T08:11:42.803132+00:00'
+pattern: false

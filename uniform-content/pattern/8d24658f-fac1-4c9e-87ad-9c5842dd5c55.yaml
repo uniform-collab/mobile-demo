@@ -1,0 +1,86 @@
+composition:
+  _name: Hero - video
+  _id: 8d24658f-fac1-4c9e-87ad-9c5842dd5c55
+  type: hero
+  variant: backgroundImage
+  parameters:
+    video:
+      type: cloudinary-video
+      value:
+        - alt: ''
+          url: >-
+            https://res.cloudinary.com/uniform-demos/video/upload/v1693484203/coffee-marketing/Meet_the_Specialty_nhdmh7.mp4
+          uuid: e0108500-5747-4dad-8778-c7a8840c0972
+          width: '1920'
+          format: mp4
+          height: '1080'
+          caption: ''
+          version: 1693484203
+          publicId: coffee-marketing/Meet_the_Specialty_nhdmh7
+          createdAt: '2023-08-31T12:16:43Z'
+          previewUrl: >-
+            https://res.cloudinary.com/uniform-demos/video/upload/q_auto,f_auto/coffee-marketing/Meet_the_Specialty_nhdmh7.mp4
+          resourceType: video
+          transformation: ''
+    marginTop:
+      type: select
+      value: None
+    objectFit:
+      type: select
+      value: fill
+    paddingTop:
+      type: select
+      value: None
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h2
+    marginBottom:
+      type: select
+      value: None
+    overlayColor:
+      type: tp-color-style-parameter
+      value: base-300
+    paddingBottom:
+      type: select
+      value: None
+    overlayOpacity:
+      type: tp-slider-parameter
+      value: 10%
+    backgroundColor:
+      type: tp-color-palette-parameter
+      value: primary
+    containerVariant:
+      type: select
+      value: fluidContent
+  _overridability:
+    parameters:
+      image: 'yes'
+      title: 'yes'
+      video: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      textColor: 'yes'
+      fullHeight: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      paddingBottom: 'yes'
+      overlayOpacity: 'yes'
+      backgroundColor: 'yes'
+  _locales:
+    - fr-CA
+    - nl-NL
+    - en-US
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:55.241037+00:00'
+modified: '2024-02-28T12:50:55.241037+00:00'
+pattern: true
+description: A hero component with primary content a autoplay video
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Hero_video_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

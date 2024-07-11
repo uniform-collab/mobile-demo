@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 081a91e1-ba9d-4809-afb6-34e15f5acaac
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: cervello_smart_landing_hero.png
+    file:
+      type: file
+      value: ece48f72-9263-4f67-b227-dab1af45f943
+    mediaType:
+      value: image/png
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/pinHpEA8TWuxF3Dikkuy4Q-cervello_smart_landing_hero.png
+      type: text
+    size:
+      value: 456876
+      type: number
+    width:
+      value: 1024
+      type: number
+    height:
+      value: 512
+      type: number
+    custom: {}
+created: '2024-02-28T12:34:11.445392+00:00'
+modified: '2024-02-28T13:31:03.947396+00:00'

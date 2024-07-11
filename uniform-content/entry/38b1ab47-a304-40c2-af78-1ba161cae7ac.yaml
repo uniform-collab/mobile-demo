@@ -1,0 +1,71 @@
+created: '2024-02-28T12:52:51.895394+00:00'
+modified: '2024-02-28T12:52:51.895394+00:00'
+pattern: false
+entry:
+  _id: 38b1ab47-a304-40c2-af78-1ba161cae7ac
+  _name: Ever since I laid my hands on the EspressoGPT
+  _slug: ever-since-i-laid-my-hands-on-the-espressogpt
+  type: testimonial
+  fields:
+    date:
+      type: text
+      locales:
+        en-US: '2023-07-02'
+        fr-CA: '2023-07-02'
+        nl-NL: '2023-07-02'
+    stars:
+      type: text
+      value: '5'
+    title:
+      type: text
+      locales:
+        en-US: Ever since I laid my hands on the EspressoGPT
+        fr-CA: Depuis que j'ai posé mes mains sur l'espressogpt
+        nl-NL: Sinds ik de espressogpt in handen heb gegeven
+    picture:
+      type: asset
+      value: []
+    lastName:
+      type: text
+      locales:
+        en-US: Gibbons
+        fr-CA: Gibbons
+        nl-NL: Gibbons
+    location:
+      type: text
+    firstName:
+      type: text
+      locales:
+        en-US: Hector
+        fr-CA: Hector
+        nl-NL: Hector
+    productId:
+      type: text
+      value: espresso-gpt-145
+    experience:
+      type: text
+      locales:
+        en-US: >
+          Ever since I laid my hands on the EspressoGPT, my mornings have never
+          been the same. This isn't just an espresso machine; it's a marvel of
+          modern technology. From its instant quantum heating to the way it
+          intuitively knows just how I want my coffee, the EspressoGPT has
+          transformed my daily ritual into a luxurious experience.
+        fr-CA: >-
+          Depuis que j'ai posé mes mains sur l'espressogpt, mes matins n'ont
+          jamais été les mêmes.Ce n'est pas seulement une machine à
+          expresso;C'est une merveille de la technologie moderne.De son
+          chauffage quantique instantané à la façon dont il sait intuitivement
+          comment je veux mon café, l'espressogpt a transformé mon rituel
+          quotidien en une expérience luxueuse.
+        nl-NL: >-
+          Sinds ik het espressogpt in handen had, zijn mijn ochtenden nooit meer
+          hetzelfde geweest.Dit is niet alleen een espressomachine;Het is een
+          wonder van moderne technologie.Van zijn onmiddellijke
+          kwantumverwarming tot de manier waarop het intuïtief weet hoe ik mijn
+          koffie wil, de Espressogpt heeft mijn dagelijkse ritueel omgezet in
+          een luxe ervaring.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

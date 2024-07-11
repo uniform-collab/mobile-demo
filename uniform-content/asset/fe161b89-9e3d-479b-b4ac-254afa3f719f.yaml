@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: fe161b89-9e3d-479b-b4ac-254afa3f719f
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: javaDrip_specialty_3.jpg
+    file:
+      type: file
+      value: d93d554d-0a6e-4d4d-8357-b3b0524214db
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/47ro9f2MTYWBpaU3ooBBlw-javaDrip_specialty_3.jpg
+      type: text
+    size:
+      value: 164677
+      type: number
+    width:
+      value: 1000
+      type: number
+    height:
+      value: 1000
+      type: number
+    custom: {}
+created: '2024-02-28T12:36:30.887216+00:00'
+modified: '2024-02-28T13:35:18.265192+00:00'

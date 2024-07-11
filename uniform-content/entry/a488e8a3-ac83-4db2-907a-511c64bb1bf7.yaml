@@ -1,0 +1,83 @@
+created: '2024-02-28T12:53:23.612646+00:00'
+modified: '2024-02-28T12:53:23.612646+00:00'
+pattern: false
+entry:
+  _id: a488e8a3-ac83-4db2-907a-511c64bb1bf7
+  _name: I recommend
+  _slug: i-recommend
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/kOjMF0z3R-eRAJ_-WazgOg-person_photo_1.jpg
+  type: testimonial
+  fields:
+    stars:
+      type: text
+      value: '5'
+    title:
+      type: text
+      locales:
+        en-US: I recommend
+        fr-CA: je recommande
+        nl-NL: ik raad aan
+    picture:
+      type: asset
+      value:
+        - _id: 645e2444-57bb-4728-97fc-e3927d5efd36
+          type: image
+          fields:
+            id:
+              type: text
+              value: 12d37c68-42e4-4694-b221-d4754482a666
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/kOjMF0z3R-eRAJ_-WazgOg-person_photo_1.jpg
+              type: text
+            file:
+              type: file
+              value: 435c1360-a258-4602-90cd-0e61d03ca683
+            size:
+              value: 8294
+              type: number
+            title:
+              type: text
+              value: person_photo_1.jpg
+            width:
+              value: 256
+              type: number
+            height:
+              value: 256
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    lastName:
+      type: text
+      locales:
+        en-US: Gibbons
+        fr-CA: Gibbons
+        nl-NL: Gibbons
+    firstName:
+      type: text
+      locales:
+        en-US: 'Hector '
+        fr-CA: Hector
+        nl-NL: Hector
+    productId:
+      type: text
+      value: javadrip-specialty-coffee-maker
+    experience:
+      type: text
+      locales:
+        en-US: >-
+          Love this machine! I can make a single cup or a full pot. Specialty
+          coffee feature is a plus!!
+        fr-CA: >-
+          J'adore cette machine!Je peux faire une seule tasse ou un pot
+          complet.La fonction de café spécialisé est un plus !!
+        nl-NL: >-
+          Ik hou van deze machine!Ik kan een enkele kop of een volle pot
+          maken.Specialty Coffee -functie is een pluspunt !!
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

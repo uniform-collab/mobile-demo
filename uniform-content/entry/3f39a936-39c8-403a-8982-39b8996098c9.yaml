@@ -1,0 +1,303 @@
+created: '2024-02-28T12:53:20.026198+00:00'
+modified: '2024-02-28T13:36:33.957745+00:00'
+pattern: false
+entry:
+  _id: 3f39a936-39c8-403a-8982-39b8996098c9
+  _name: Impresso Pump Espresso
+  _slug: impresso-pump-espresso-118
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/b34rMyRYTEKCwv-9lRfT-w-impresso-pump-espresso-118-1_dbhr6e_nsyboc.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      THERMOBLOCK HEATING SYSTEM: Stainless-steel lined heating
+                      system with 15 bars of pressure for high-pressure brewed
+                      espresso TWO FILTERS: For one or two espressos or
+                      pre-packaged espresso pods HEAVY-DUTY: Stainless steel
+                      construction with large, integrated cup warming tray
+                      SWIVEL FROTHER: Unlimited steam output for perfectly
+                      frothing or steaming milk for cappuccinos and lattes EASY
+                      TO FILL: Removable 46-oz water container for easy filling
+                      and cleaning HOUSING: ABS plastic and stainless steel
+                      accents
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "SYSTÈME DE CHAUFFAGE THERMOBLOCK : Système de chauffage doublé en acier inoxydable avec 15 bars de pression pour un expresso infusé à haute pression DEUX FILTRES : Pour un ou deux expressos ou des dosettes d'espresso préemballées ROBUSTE : Construction en acier inoxydable avec grand plateau chauffe-tasse intégré PIVOTANT FROTHER\_: Débit de vapeur illimité pour faire mousser ou cuire parfaitement le lait pour les cappuccinos et les lattés. FACILE À REMPLIR\_: Réservoir d'eau amovible de 46 oz pour un remplissage et un nettoyage faciles. BOÎTIER\_:\_plastique ABS et accents en acier inoxydable"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      THERMOBLOCK VERWARMINGSSYSTEEM: Met roestvrij staal
+                      gevoerd verwarmingssysteem met 15 bar druk voor onder hoge
+                      druk gezette espresso TWEE FILTERS: Voor één of twee
+                      espresso's of voorverpakte espressopads HEAVY-DUTY:
+                      Roestvrijstalen constructie met grote, geïntegreerde
+                      kopjeswarmhoudplaat DRAAIEN OPZUIGER: Onbeperkte
+                      stoomproductie voor het perfect opschuimen of stomen van
+                      melk voor cappuccino's en lattes EENVOUDIG TE VULLEN:
+                      Afneembare watercontainer van 46 oz voor eenvoudig vullen
+                      en schoonmaken BEHUIZING: ABS-kunststof en roestvrijstalen
+                      accenten
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Impresso Pump Espresso
+    title:
+      type: text
+      value: Impresso Pump Espresso
+    category:
+      type: select
+      value: espresso
+    variants:
+      type: $block
+      value:
+        - _id: 82e6f8d8-873d-418f-8e33-c9aa4eff8692
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '118'
+            price:
+              type: number
+              locales:
+                en-US: '127.99'
+                fr-CA: '118.22'
+                nl-NL: '118.22'
+            title:
+              type: text
+              locales:
+                en-US: Impresso Pump Espresso
+                fr-CA: Impresso Pump Espresso
+                nl-NL: Impresso Pump Espresso
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 9e7e4d98-6dea-44da-9225-ba9a468aab79
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 2fd93093-9f3b-4f50-b2da-dc4b7aecd8f8
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/bbkfAk-hTsuacQQG_cTk1g-impresso-pump-espresso-118-2_w7tco9_lbmscn.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: deb29204-c2e4-45cc-9c2e-cbb701a553c5
+                    size:
+                      value: 120880
+                      type: number
+                    title:
+                      type: text
+                      value: impresso-pump-espresso-118-2_w7tco9_lbmscn.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: f61659f4-3455-4f67-8911-452e77472503
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 84f16dfa-f5c6-4279-9dc5-3dbb7e6d0f83
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/NGsMeEjeS1aPEiim81oHAg-impresso-pump-espresso-118-1_dbhr6e_nsyboc.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 641f60fc-784b-4a4f-90ed-0a3e25ec1080
+                    size:
+                      value: 116222
+                      type: number
+                    title:
+                      type: text
+                      value: impresso-pump-espresso-118-1_dbhr6e_nsyboc.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 654000c1-5600-4b5c-b94b-44f6fe26848f
+          type: image
+          fields:
+            id:
+              type: text
+              value: 17dde018-ce7f-479a-bf74-534267af56d2
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/b34rMyRYTEKCwv-9lRfT-w-impresso-pump-espresso-118-1_dbhr6e_nsyboc.jpg
+              type: text
+            file:
+              type: file
+              value: 5aaa2da5-2417-48dc-8699-b9cb1f86c444
+            size:
+              value: 116222
+              type: number
+            title:
+              type: text
+              value: impresso-pump-espresso-118-1_dbhr6e_nsyboc.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 4da73748-b2f9-44e6-820c-0235bd19926d
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 7265cd9a-5a1a-4927-9c8d-578c0b8edb35
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          THERMOBLOCK HEATING SYSTEM: Stainless-steel lined heating system with
+          15 bars of pressure for high-pressure brewed espresso TWO FILTERS: For
+          one or two espressos or pre-packaged espresso pods HEAVY-DUTY:
+          Stainless steel construction with large, integrated cup warming tray
+          SWIVEL FROTHER: Unlimited steam output for perfectly frothing or
+          steaming milk for cappuccinos and lattes EASY TO FILL: Removable 46-oz
+          water container for easy filling and cleaning HOUSING: ABS plastic and
+          stainless steel accents
+        fr-CA: "SYSTÈME DE CHAUFFAGE THERMOBLOCK : Système de chauffage doublé en acier inoxydable avec 15 bars de pression pour un expresso infusé à haute pression DEUX FILTRES : Pour un ou deux expressos ou des dosettes d'espresso préemballées ROBUSTE : Construction en acier inoxydable avec grand plateau chauffe-tasse intégré PIVOTANT FROTHER\_: Débit de vapeur illimité pour faire mousser ou cuire parfaitement le lait pour les cappuccinos et les lattés. FACILE À REMPLIR\_: Réservoir d'eau amovible de 46 oz pour un remplissage et un nettoyage faciles. BOÎTIER\_:\_plastique ABS et accents en acier inoxydable"
+        nl-NL: >-
+          THERMOBLOCK VERWARMINGSSYSTEEM: Met roestvrij staal gevoerd
+          verwarmingssysteem met 15 bar druk voor onder hoge druk gezette
+          espresso TWEE FILTERS: Voor één of twee espresso's of voorverpakte
+          espressopads HEAVY-DUTY: Roestvrijstalen constructie met grote,
+          geïntegreerde kopjeswarmhoudplaat DRAAIEN OPZUIGER: Onbeperkte
+          stoomproductie voor het perfect opschuimen of stomen van melk voor
+          cappuccino's en lattes EENVOUDIG TE VULLEN: Afneembare watercontainer
+          van 46 oz voor eenvoudig vullen en schoonmaken BEHUIZING:
+          ABS-kunststof en roestvrijstalen accenten
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

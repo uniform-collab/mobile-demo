@@ -1,0 +1,917 @@
+created: '2024-02-28T12:54:05.622972+00:00'
+modified: '2024-02-28T12:54:05.622972+00:00'
+pattern: false
+entry:
+  _id: f00b7e8c-d0e7-4aa6-8ae8-651cd50914f5
+  _name: 'The Coffee Maker for Tech Enthusiasts: Crafting the Perfect'
+  _slug: the-coffee-maker-for-tech-enthusiasts-crafting-the-perfect
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/0u7HYGMyQpOOPeXwtCsMYg-espresso_maker_components_for_quality_espresso.png
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Tech
+    title:
+      type: text
+      locales:
+        en-US: 'The Coffee Maker for Tech Enthusiasts: Crafting the Perfect Espresso'
+        fr-CA: >-
+          La cafetière pour les amateurs de technologie: fabrication de
+          l'espresso parfait
+        nl-NL: >-
+          Het koffiezetapparaat voor tech -enthousiastelingen: de perfecte
+          espresso maken
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Coffee is not just a beverage; it's a passion, an art, and
+                      a science. For tech enthusiasts who crave the perfect
+                      espresso, achieving that ideal brew requires the right
+                      components. From the beans to the machine, each element
+                      plays a crucial role in the pursuit of coffee perfection.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'The Foundation: High-Quality Coffee Beans'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      It all starts with the beans. The foundation of any
+                      exceptional espresso is premium coffee beans. Tech-savvy
+                      coffee enthusiasts understand the importance of selecting
+                      high-quality, freshly roasted beans. Specialty coffee
+                      sources and artisanal roasters offer a diverse range of
+                      flavors, from the bright acidity of Ethiopian Yirgacheffe
+                      to the rich, chocolatey notes of Colombian beans. Tech
+                      aficionados often turn to online platforms and coffee
+                      subscriptions to discover and acquire these gems.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'The Grinder: Precision in Every Grind'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Next comes the grinder, a component often overlooked but
+                      essential for espresso excellence. Tech enthusiasts favor
+                      burr grinders for their consistency and precision. These
+                      grinders allow users to control the grind size with
+                      digital precision, ensuring that each particle is uniform.
+                      This consistency is key to extracting the perfect shot of
+                      espresso.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'The Machine: Where Tech Meets Espresso'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      For tech enthusiasts, the espresso machine is the heart of
+                      their coffee setup. The best espresso machines blend
+                      cutting-edge technology with time-honored traditions.
+                      These machines feature programmable settings, allowing
+                      users to fine-tune variables like water temperature,
+                      extraction time, and pressure. Some even boast touchscreen
+                      interfaces for easy customization and control.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Connectivity is a hallmark of espresso machines for tech
+                      enthusiasts. Remote start and monitoring capabilities via
+                      smartphone apps are a game-changer. Imagine initiating
+                      your espresso shot from your bed and receiving alerts when
+                      your machine is preheated and ready. This level of control
+                      and convenience is a testament to how technology is
+                      enhancing the coffee-making experience.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'The Accessories: Precision Tools for Perfection'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Tech enthusiasts also invest in precision accessories to
+                      refine their brewing process further. Digital scales
+                      ensure accurate coffee-to-water ratios, while
+                      refractometers measure extraction percentages to fine-tune
+                      the brewing process. Temperature-controlled kettles
+                      guarantee precise water temperatures for optimal
+                      extraction.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'The Art of Craftsmanship: The Barista''s Touch'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Even with the best components, crafting the perfect
+                      espresso requires skill and knowledge. Tech enthusiasts
+                      often turn to online coffee communities, forums, and
+                      YouTube tutorials to learn the art of espresso-making.
+                      They exchange tips, tricks, and techniques, and even share
+                      their favorite recipes for latte art.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: The Future of Tech-Infused Espresso
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      As technology continues to evolve, so does the world of
+                      coffee. Tech enthusiasts eagerly anticipate the
+                      innovations on the horizon. From AI-powered espresso
+                      machines that learn and adapt to individual preferences to
+                      IoT-integrated coffee setups that offer even greater
+                      connectivity and automation, the future of coffee brewing
+                      is as exciting as it is delicious.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      In conclusion, for tech enthusiasts, brewing the perfect
+                      espresso is a blend of science, art, and technology. It's
+                      about selecting the finest beans, using precision
+                      equipment, and embracing the digital age's conveniences.
+                      The coffee maker for tech enthusiasts is a testament to
+                      their dedication to the perfect cup of espresso, where the
+                      world of coffee and technology beautifully intersect.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Le café n’est pas seulement une boisson ; c'est une
+                      passion, un art et une science. Pour les passionnés de
+                      technologie qui recherchent l’espresso parfait, obtenir
+                      l’infusion idéale nécessite les bons composants. Des
+                      grains à la machine, chaque élément joue un rôle crucial
+                      dans la recherche de la perfection du café.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'La Fondation : des grains de café de haute qualité'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Tout commence avec les haricots. La base de tout expresso
+                      exceptionnel est constituée de grains de café de première
+                      qualité. Les amateurs de café férus de technologie
+                      comprennent l’importance de sélectionner des grains
+                      fraîchement torréfiés de haute qualité. Les sources de
+                      café de spécialité et les torréfacteurs artisanaux offrent
+                      une gamme variée de saveurs, de l'acidité vive du
+                      Yirgacheffe éthiopien aux riches notes chocolatées des
+                      grains colombiens. Les aficionados de la technologie se
+                      tournent souvent vers les plateformes en ligne et les
+                      abonnements au café pour découvrir et acquérir ces joyaux.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Le broyeur\_: la précision à chaque mouture"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vient ensuite le moulin, un composant souvent négligé mais
+                      essentiel à l’excellence de l’espresso. Les passionnés de
+                      technologie privilégient les meuleuses à bavures pour leur
+                      cohérence et leur précision. Ces broyeurs permettent aux
+                      utilisateurs de contrôler la taille de la mouture avec une
+                      précision numérique, garantissant ainsi que chaque
+                      particule est uniforme. Cette consistance est essentielle
+                      pour extraire la dose parfaite d’espresso.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "La machine\_: là où la technologie rencontre l'espresso"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Pour les passionnés de technologie, la machine à expresso
+                      est le cœur de leur configuration café. Les meilleures
+                      machines à expresso allient technologie de pointe et
+                      traditions séculaires. Ces machines disposent de
+                      paramètres programmables, permettant aux utilisateurs
+                      d'affiner des variables telles que la température de
+                      l'eau, le temps d'extraction et la pression. Certains
+                      disposent même d’interfaces à écran tactile pour une
+                      personnalisation et un contrôle faciles.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      La connectivité est une caractéristique des machines à
+                      expresso pour les passionnés de technologie. Les capacités
+                      de démarrage et de surveillance à distance via des
+                      applications pour smartphone changent la donne. Imaginez
+                      que vous lancez votre expresso depuis votre lit et recevez
+                      des alertes lorsque votre machine est préchauffée et
+                      prête. Ce niveau de contrôle et de commodité témoigne de
+                      la manière dont la technologie améliore l’expérience de
+                      préparation du café.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les accessoires : des outils de précision pour la
+                      perfection
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les passionnés de technologie investissent également dans
+                      des accessoires de précision pour affiner davantage leur
+                      processus de brassage. Les balances numériques
+                      garantissent des rapports café/eau précis, tandis que les
+                      réfractomètres mesurent les pourcentages d'extraction pour
+                      affiner le processus d'infusion. Les bouilloires à
+                      température contrôlée garantissent des températures d'eau
+                      précises pour une extraction optimale.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "L'art de l'artisanat\_: la touche du barista"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Même avec les meilleurs composants, préparer l’espresso
+                      parfait nécessite des compétences et des connaissances.
+                      Les passionnés de technologie se tournent souvent vers les
+                      communautés de café en ligne, les forums et les
+                      didacticiels YouTube pour apprendre l'art de la
+                      préparation d'un expresso. Ils échangent des trucs,
+                      astuces et techniques, et partagent même leurs recettes
+                      préférées de latte art.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: L’avenir de l’espresso infusé de technologie
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      À mesure que la technologie continue d’évoluer, le monde
+                      du café évolue également. Les passionnés de technologie
+                      attendent avec impatience les innovations à l’horizon. Des
+                      machines à expresso alimentées par l'IA qui apprennent et
+                      s'adaptent aux préférences individuelles aux
+                      configurations de café intégrées à l'IoT qui offrent une
+                      connectivité et une automatisation encore plus grandes,
+                      l'avenir de la préparation du café est aussi excitant que
+                      délicieux.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      En conclusion, pour les passionnés de technologie,
+                      préparer l’espresso parfait est un mélange de science,
+                      d’art et de technologie. Il s'agit de sélectionner les
+                      meilleurs grains, d'utiliser des équipements de précision
+                      et d'adopter les commodités de l'ère numérique. La
+                      cafetière destinée aux passionnés de technologie témoigne
+                      de leur dévouement à la tasse d'espresso parfaite, où le
+                      monde du café et de la technologie se croisent à
+                      merveille.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Koffie is niet alleen een drank; het is een passie, een
+                      kunst en een wetenschap. Voor tech-enthousiastelingen die
+                      hunkeren naar de perfecte espresso, vereist het bereiken
+                      van dat ideale brouwsel de juiste componenten. Van de
+                      bonen tot de machine: elk element speelt een cruciale rol
+                      in het streven naar koffieperfectie.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'De basis: hoogwaardige koffiebonen'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het begint allemaal met de bonen. De basis van elke
+                      uitzonderlijke espresso zijn premium koffiebonen.
+                      Technisch onderlegde koffieliefhebbers begrijpen hoe
+                      belangrijk het is om vers gebrande bonen van hoge
+                      kwaliteit te selecteren. Speciale koffiebronnen en
+                      ambachtelijke koffiebranders bieden een breed scala aan
+                      smaken, van de heldere zuurgraad van de Ethiopische
+                      Yirgacheffe tot de rijke, chocoladeachtige tonen van
+                      Colombiaanse bonen. Techliefhebbers wenden zich vaak tot
+                      online platforms en koffieabonnementen om deze pareltjes
+                      te ontdekken en te verwerven.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'De Grinder: Precisie in elke maling'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vervolgens komt de molen, een onderdeel dat vaak over het
+                      hoofd wordt gezien maar essentieel is voor uitmuntende
+                      espresso. Tech-enthousiastelingen geven de voorkeur aan
+                      braamslijpmachines vanwege hun consistentie en precisie.
+                      Met deze molens kunnen gebruikers de maalgrootte met
+                      digitale precisie regelen, zodat elk deeltje uniform is.
+                      Deze consistentie is de sleutel tot het verkrijgen van de
+                      perfecte espresso.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'De machine: waar technologie espresso ontmoet'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Voor techliefhebbers is de espressomachine het hart van
+                      hun koffieopstelling. De beste espressomachines combineren
+                      geavanceerde technologie met aloude tradities. Deze
+                      machines zijn voorzien van programmeerbare instellingen,
+                      waardoor gebruikers variabelen zoals watertemperatuur,
+                      extractietijd en druk kunnen verfijnen. Sommige beschikken
+                      zelfs over touchscreen-interfaces voor eenvoudige
+                      aanpassing en bediening.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Connectiviteit is een kenmerk van espressomachines voor
+                      tech-liefhebbers. Start- en bewakingsmogelijkheden op
+                      afstand via smartphone-apps zijn een game-changer. Stel je
+                      voor dat je vanuit je bed je espressoshot start en
+                      waarschuwingen ontvangt wanneer je machine is voorverwarmd
+                      en klaar is. Dit niveau van controle en gemak is een
+                      bewijs van hoe technologie de koffiezetervaring verbetert.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'De accessoires: precisiegereedschap voor perfectie'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Tech-enthousiastelingen investeren ook in
+                      precisieaccessoires om hun brouwproces verder te
+                      verfijnen. Digitale weegschalen zorgen voor nauwkeurige
+                      koffie-waterverhoudingen, terwijl refractometers de
+                      extractiepercentages meten om het zetproces te verfijnen.
+                      Temperatuurgecontroleerde ketels garanderen nauwkeurige
+                      watertemperaturen voor een optimale extractie.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'De kunst van het vakmanschap: de aanraking van de barista'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Zelfs met de beste componenten vereist het maken van de
+                      perfecte espresso vaardigheid en kennis.
+                      Tech-enthousiastelingen wenden zich vaak tot online
+                      koffiegemeenschappen, forums en YouTube-tutorials om de
+                      kunst van het maken van espresso te leren. Ze wisselen
+                      tips, trucs en technieken uit en delen zelfs hun favoriete
+                      recepten voor latte art.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: De toekomst van met technologie doordrenkte espresso
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Terwijl de technologie blijft evolueren, verandert ook de
+                      koffiewereld mee. Tech-enthousiastelingen kijken
+                      reikhalzend uit naar de innovaties aan de horizon. Van
+                      AI-aangedreven espressomachines die leren en zich
+                      aanpassen aan individuele voorkeuren tot IoT-geïntegreerde
+                      koffieopstellingen die nog meer connectiviteit en
+                      automatisering bieden: de toekomst van koffiezetten is net
+                      zo spannend als heerlijk.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kortom, voor tech-liefhebbers is het zetten van de
+                      perfecte espresso een mix van wetenschap, kunst en
+                      technologie. Het gaat om het selecteren van de beste
+                      bonen, het gebruik van precisieapparatuur en het omarmen
+                      van de gemakken van het digitale tijdperk. Het
+                      koffiezetapparaat voor tech-liefhebbers is een bewijs van
+                      hun toewijding aan het perfecte kopje espresso, waar de
+                      wereld van koffie en technologie elkaar prachtig kruisen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: d0602e0e-101a-4e37-8ae8-80c0b2433b11
+          type: image
+          fields:
+            id:
+              type: text
+              value: e48da08d-767a-49ea-820b-ddfc5354d6fa
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/0u7HYGMyQpOOPeXwtCsMYg-espresso_maker_components_for_quality_espresso.png
+              type: text
+            file:
+              type: file
+              value: 0fb063a9-7929-4c57-bee5-f787561904a0
+            size:
+              value: 1459872
+              type: number
+            title:
+              type: text
+              value: espresso_maker_components_for_quality_espresso.png
+            width:
+              value: 1680
+              type: number
+            height:
+              value: 720
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Tech-savvy coffee aficionados know that brewing the perfect espresso
+          is an art. From premium beans to precision machines, discover how
+          technology enhances the quest for the ultimate cup of coffee.
+        fr-CA: >-
+          Les amateurs de café avertis savent que le brassage de l'espresso
+          parfait est un art.Des haricots premium aux machines de précision,
+          découvrez comment la technologie améliore la quête de la tasse de café
+          ultime.
+        nl-NL: >-
+          Tech-Savvy koffie-liefhebbers weten dat het brouwen van de perfecte
+          espresso een kunst is.Van premium bonen tot precisiemachines, ontdek
+          hoe technologie de zoektocht naar de ultieme kop koffie verbetert.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

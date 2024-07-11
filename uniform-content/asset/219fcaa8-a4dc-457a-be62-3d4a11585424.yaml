@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 219fcaa8-a4dc-457a-be62-3d4a11585424
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: cervello-di-caffe-140-2_wey6er_wus6ou.jpg
+    file:
+      type: file
+      value: 940c1907-7eed-412d-a213-5d813a17d298
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/jX9i0EB9Rq6ncDQ1YFxmQg-cervello-di-caffe-140-2_wey6er_wus6ou.jpg
+      type: text
+    size:
+      value: 122566
+      type: number
+    width:
+      value: 980
+      type: number
+    height:
+      value: 1021
+      type: number
+    custom: {}
+created: '2024-02-28T12:40:37.827327+00:00'
+modified: '2024-02-28T13:31:36.938102+00:00'

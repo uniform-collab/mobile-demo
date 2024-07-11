@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: f86e32f4-5a19-4860-834a-9bb7d57fc443
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: success_submit.svg
+    file:
+      type: file
+      value: 4dd4383c-fdbe-4bdc-8868-4d24634b025d
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/2uuEtaK6TpiHKd2o8W4o6Q-success_submit.svg
+      type: text
+    size:
+      value: 5471
+      type: number
+    width:
+      value: 133
+      type: number
+    height:
+      value: 95
+      type: number
+    custom: {}
+created: '2024-02-28T12:36:14.380587+00:00'
+modified: '2024-02-28T13:35:14.659697+00:00'

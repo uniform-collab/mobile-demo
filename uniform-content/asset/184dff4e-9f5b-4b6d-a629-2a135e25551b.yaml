@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 184dff4e-9f5b-4b6d-a629-2a135e25551b
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: coffee_and_cake.avif
+    file:
+      type: file
+      value: b8a72d70-c962-4a08-81fb-e92a9bc71d49
+    mediaType:
+      value: image/avif
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/C6jfO4zoSiSu3LuzjrygSQ-coffee_and_cake.avif
+      type: text
+    size:
+      value: 59351
+      type: number
+    width:
+      value: 1440
+      type: number
+    height:
+      value: 520
+      type: number
+    custom: {}
+created: '2024-02-28T12:32:48.768051+00:00'
+modified: '2024-02-28T13:31:22.480625+00:00'

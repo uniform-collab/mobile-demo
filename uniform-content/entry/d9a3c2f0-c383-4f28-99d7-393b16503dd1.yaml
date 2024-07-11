@@ -1,0 +1,55 @@
+created: '2024-02-28T12:53:08.748856+00:00'
+modified: '2024-02-28T12:53:08.748856+00:00'
+pattern: false
+entry:
+  _id: d9a3c2f0-c383-4f28-99d7-393b16503dd1
+  _name: Good morning, let’s find the products that help wake you
+  _slug: good-morning-lets-find-the-products-that-help-wake-you
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/_ciqSllyTpW2tBfpL0rJ4A-geo_location.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 4fe73a7e-16cc-4795-b0a9-c4e5d9365c15
+          type: image
+          fields:
+            id:
+              type: text
+              value: 906a787d-0d47-4244-bece-553729d83c2c
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/_ciqSllyTpW2tBfpL0rJ4A-geo_location.webp
+              type: text
+            file:
+              type: file
+              value: 4146d7d4-d55c-4eed-bc96-039d93f3a2a9
+            size:
+              value: 164754
+              type: number
+            title:
+              type: text
+              value: geo_location.webp
+            width:
+              value: 2880
+              type: number
+            height:
+              value: 1178
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Good morning, let’s find the products that help wake you up.
+        fr-CA: Bonjour, trouvons les produits qui vous aident à vous réveiller.
+        nl-NL: >-
+          Goedemorgen, laten we de producten vinden die u helpen wakker te
+          maken.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

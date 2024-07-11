@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: c811d74f-882c-4a24-a8cf-5d465787a2ad
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: flavor_ratios.jpg
+    file:
+      type: file
+      value: 14ef903c-cdbe-4cc5-9dd4-d3ddccdaafcd
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xgTc_0zgQy2a9yZIk1ZM0Q-flavor_ratios.jpg
+      type: text
+    size:
+      value: 47343
+      type: number
+    width:
+      value: 676
+      type: number
+    height:
+      value: 544
+      type: number
+    custom: {}
+created: '2024-02-28T12:34:41.58461+00:00'
+modified: '2024-02-28T13:34:21.168374+00:00'

@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 071ac991-a55f-4051-9ff3-93466bb87e92
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: ethiopian-blend-coffee-130-2_lcasmy_ncltkx.jpg
+    file:
+      type: file
+      value: 7725d382-cb70-4640-9d7d-fe0cc7c23745
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/8kHx8my0QS2RSeSAFz3iVA-ethiopian-blend-coffee-130-2_lcasmy_ncltkx.jpg
+      type: text
+    size:
+      value: 626497
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:39:24.309167+00:00'
+modified: '2024-02-28T13:31:01.686208+00:00'

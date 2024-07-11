@@ -1,0 +1,333 @@
+created: '2024-02-28T12:52:46.957599+00:00'
+modified: '2024-02-28T13:37:07.646259+00:00'
+pattern: false
+entry:
+  _id: 8483c7ad-ad13-4f51-99fd-3d4ff58ff401
+  _name: Ember Turkish Arabic Hammered Copper Coffee Pot
+  _slug: ember-turkish-arabic-hammered-copper-coffee-pot-136
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/aRFXNESuSXi2zKudE_X14w-ember-turkish-arabic-hammered-copper-coffee-pot-136-1_y1b60j_emgynu.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Handmade hammered copper coffee pot with wooden pot spoon.
+                      Made with famous Turkish Copper in Gaziantep City of
+                      Turkey by craftsmen with a century of experience in copper
+                      industry. This pot's body is completely solid 2mm thick
+                      copper. Not lacquered. So it will develop a natural patina
+                      outside, as real copper should. Lined with food safe
+                      lead-free tin. You can be assured this will last for many
+                      generations unlike other thin imitations found on Amazon.
+                      The DEMMEX coffee pot is made of the thickest copper
+                      available. Thus, it has maximum durability.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Cafetière en cuivre martelé à la main avec cuillère en
+                      bois. Fabriqué avec le célèbre cuivre turc dans la ville
+                      de Gaziantep en Turquie par des artisans ayant un siècle
+                      d'expérience dans l'industrie du cuivre. Le corps de ce
+                      pot est en cuivre entièrement massif de 2 mm d'épaisseur.
+                      Non laqué. Il développera ainsi une patine naturelle à
+                      l’extérieur, comme le devrait le vrai cuivre. Doublé
+                      d’étain sans plomb de qualité alimentaire. Vous pouvez
+                      être assuré que cela durera pendant de nombreuses
+                      générations, contrairement aux autres imitations minces
+                      trouvées sur Amazon. La cafetière DEMMEX est fabriquée à
+                      partir du cuivre le plus épais disponible. Ainsi, il a une
+                      durabilité maximale.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Handgemaakte gehamerd koperen koffiepot met houten
+                      potlepel. Gemaakt met beroemd Turks koper in de stad
+                      Gaziantep in Turkije door ambachtslieden met een eeuw
+                      ervaring in de koperindustrie. Het lichaam van deze pot is
+                      volledig massief 2 mm dik koper. Niet gelakt. Het zal dus
+                      buiten een natuurlijke patina ontwikkelen, zoals echt
+                      koper hoort te doen. Gevoerd met voedselveilig loodvrij
+                      blik. Je kunt er zeker van zijn dat dit vele generaties
+                      meegaat, in tegenstelling tot andere dunne imitaties die
+                      je op Amazon vindt. De DEMMEX koffiepot is gemaakt van het
+                      dikste koper dat verkrijgbaar is. Het heeft dus een
+                      maximale duurzaamheid.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Ember Turkish Arabic Hammered Copper Coffee Pot
+    title:
+      type: text
+      value: Ember Turkish Arabic Hammered Copper Coffee Pot
+    category:
+      type: select
+      value: turkish
+    variants:
+      type: $block
+      value:
+        - _id: a2578ae6-62c5-4c5e-b35d-a718f2665026
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '136'
+            price:
+              type: number
+              locales:
+                en-US: '26.8'
+                fr-CA: '24.75'
+                nl-NL: '24.75'
+            title:
+              type: text
+              locales:
+                en-US: Ember Turkish Arabic Hammered Copper Coffee Pot
+                fr-CA: Ember Turkish Arabic Hammered Copper Coffee Pot
+                nl-NL: Ember Turkish Arabic Hammered Copper Coffee Pot
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 747c29b9-a0fa-4ed3-99c6-e6dd6b3b52a1
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 141556f1-0610-4c82-b7a6-66f16526d3ed
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/YmuNNkvXRPGJxUvZiD-qEQ-ember-turkish-arabic-hammered-copper-coffee-pot-136-2_vdxouh_iz1awu.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 6eff74e4-9f35-49b2-94ca-32d16ba78e8f
+                    size:
+                      value: 147317
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        ember-turkish-arabic-hammered-copper-coffee-pot-136-2_vdxouh_iz1awu.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: e532677a-c6cd-4b6e-9401-3b8212db9664
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 9059c663-bc03-495c-aa38-98ee9e3a6a54
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/d_O8R9W9SZ6gFfLOhvXMhw-ember-turkish-arabic-hammered-copper-coffee-pot-136-1_y1b60j_emgynu.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: fbc4d93a-5af0-4ced-90c1-adad45d834c8
+                    size:
+                      value: 112029
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        ember-turkish-arabic-hammered-copper-coffee-pot-136-1_y1b60j_emgynu.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 4061408c-8d36-4853-8a6f-6d1f1ea18414
+          type: image
+          fields:
+            id:
+              type: text
+              value: a2fd0f0f-ac00-4d5d-a83b-f8eb571ad79f
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/aRFXNESuSXi2zKudE_X14w-ember-turkish-arabic-hammered-copper-coffee-pot-136-1_y1b60j_emgynu.jpg
+              type: text
+            file:
+              type: file
+              value: 306703a0-076c-44dd-876e-bdfca01be6d2
+            size:
+              value: 112029
+              type: number
+            title:
+              type: text
+              value: >-
+                ember-turkish-arabic-hammered-copper-coffee-pot-136-1_y1b60j_emgynu.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 2be7bf61-757f-4bd8-a4ec-a3c7ac685ae0
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: a7052a21-f6db-43bc-8909-318588045f90
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Handmade hammered copper coffee pot with wooden pot spoon. Made with
+          famous Turkish Copper in Gaziantep City of Turkey by craftsmen with a
+          century of experience in copper industry. This pot's body is
+          completely solid 2mm thick copper. Not lacquered. So it will develop a
+          natural patina outside, as real copper should. Lined with food safe
+          lead-free tin. You can be assured this will last for many generations
+          unlike other thin imitations found on Amazon. The DEMMEX coffee pot is
+          made of the thickest copper available. Thus, it has maximum
+          durability.
+        fr-CA: >-
+          Cafetière en cuivre martelé à la main avec cuillère en bois. Fabriqué
+          avec le célèbre cuivre turc dans la ville de Gaziantep en Turquie par
+          des artisans ayant un siècle d'expérience dans l'industrie du cuivre.
+          Le corps de ce pot est en cuivre entièrement massif de 2 mm
+          d'épaisseur. Non laqué. Il développera ainsi une patine naturelle à
+          l’extérieur, comme le devrait le vrai cuivre. Doublé d’étain sans
+          plomb de qualité alimentaire. Vous pouvez être assuré que cela durera
+          pendant de nombreuses générations, contrairement aux autres imitations
+          minces trouvées sur Amazon. La cafetière DEMMEX est fabriquée à partir
+          du cuivre le plus épais disponible. Ainsi, il a une durabilité
+          maximale.
+        nl-NL: >-
+          Handgemaakte gehamerd koperen koffiepot met houten potlepel. Gemaakt
+          met beroemd Turks koper in de stad Gaziantep in Turkije door
+          ambachtslieden met een eeuw ervaring in de koperindustrie. Het lichaam
+          van deze pot is volledig massief 2 mm dik koper. Niet gelakt. Het zal
+          dus buiten een natuurlijke patina ontwikkelen, zoals echt koper hoort
+          te doen. Gevoerd met voedselveilig loodvrij blik. Je kunt er zeker van
+          zijn dat dit vele generaties meegaat, in tegenstelling tot andere
+          dunne imitaties die je op Amazon vindt. De DEMMEX koffiepot is gemaakt
+          van het dikste koper dat verkrijgbaar is. Het heeft dus een maximale
+          duurzaamheid.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

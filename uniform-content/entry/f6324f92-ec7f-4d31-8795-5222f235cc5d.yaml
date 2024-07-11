@@ -1,0 +1,89 @@
+created: '2024-02-28T12:54:04.431517+00:00'
+modified: '2024-02-28T12:54:04.431517+00:00'
+pattern: false
+entry:
+  _id: f6324f92-ec7f-4d31-8795-5222f235cc5d
+  _name: Thanks, we will reach back to you shortly!
+  _slug: thanks-we-will-reach-back-to-you-shortly
+  type: form
+  fields:
+    errorSubmitText:
+      type: text
+      locales:
+        en-US: 'Uh oh, something went wrong. Try again later. '
+        fr-CA: Euh oh, quelque chose s'est mal passé.Réessayez plus tard.
+        nl-NL: Uh oh, er ging iets mis.Probeer het later nog eens.
+    errorSubmitImage:
+      type: asset
+      value:
+        - _id: 38eace21-86c6-4360-b5e6-4e495effff5b
+          type: image
+          fields:
+            id:
+              type: text
+              value: f86e32f4-5a19-4860-834a-9bb7d57fc443
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/2uuEtaK6TpiHKd2o8W4o6Q-success_submit.svg
+              type: text
+            file:
+              type: file
+              value: 8e687c83-6601-428f-b3d1-227ba530c3a9
+            size:
+              value: 5471
+              type: number
+            title:
+              type: text
+              value: success_submit.svg
+            width:
+              value: 133
+              type: number
+            height:
+              value: 95
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    successfulSubmitText:
+      type: text
+      locales:
+        en-US: Thanks, we will reach back to you shortly!
+        fr-CA: Merci, nous vous reviendrons sous peu!
+        nl-NL: Bedankt, we zullen binnenkort naar je terugkomen!
+    successfulSubmitImage:
+      type: asset
+      value:
+        - _id: b70f69ad-9d14-4b59-8ada-82639458ce46
+          type: image
+          fields:
+            id:
+              type: text
+              value: f86e32f4-5a19-4860-834a-9bb7d57fc443
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/2uuEtaK6TpiHKd2o8W4o6Q-success_submit.svg
+              type: text
+            file:
+              type: file
+              value: 8e687c83-6601-428f-b3d1-227ba530c3a9
+            size:
+              value: 5471
+              type: number
+            title:
+              type: text
+              value: success_submit.svg
+            width:
+              value: 133
+              type: number
+            height:
+              value: 95
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

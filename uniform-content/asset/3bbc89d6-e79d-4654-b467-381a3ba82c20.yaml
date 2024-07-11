@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 3bbc89d6-e79d-4654-b467-381a3ba82c20
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: github_icon_black.svg
+    file:
+      type: file
+      value: 96e8a5c9-92ce-47a5-af32-84f16942234c
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/YmOpO_KURuuhGIy7HTgHGQ-github_icon_black.svg
+      type: text
+    size:
+      value: 1327
+      type: number
+    width:
+      value: 35
+      type: number
+    height:
+      value: 34
+      type: number
+    custom: {}
+created: '2024-02-28T12:32:28.350805+00:00'
+modified: '2024-02-28T13:32:05.77183+00:00'

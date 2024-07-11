@@ -1,0 +1,13 @@
+created: '2024-02-28T12:53:42.551988+00:00'
+modified: '2024-02-28T12:53:42.551988+00:00'
+pattern: false
+entry:
+  _id: e5cf576c-a27d-4472-baa1-19891e0947c2
+  _name: 'New entry: Feature'
+  _slug: new-entry-feature
+  type: feature
+  fields: {}
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

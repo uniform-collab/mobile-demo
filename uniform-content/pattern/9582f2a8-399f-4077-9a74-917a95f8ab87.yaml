@@ -1,0 +1,73 @@
+composition:
+  _name: Hero - Coupon (cf)
+  _id: 9582f2a8-399f-4077-9a74-917a95f8ab87
+  type: couponHero
+  parameters:
+    icon:
+      type: asset
+      value:
+        - _id: 90bda04b-dee7-4e50-9cf1-85299f2d985c
+          type: image
+          fields:
+            id:
+              type: text
+              value: 366a1b13-291c-48a5-a870-dd97148cfe56
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/G22ZNaJHQxaxm44qz2YvhA-free_shipping.svg
+              type: text
+            file:
+              type: file
+              value: 3090fd29-a1c2-449a-8ffb-45e45d1ae6de
+            size:
+              value: 4157
+              type: number
+            title:
+              type: text
+              value: free_shipping.svg
+            width:
+              value: 113
+              type: number
+            height:
+              value: 113
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Call to Action Content/fields/title}
+        en-GB: ${#jptr:/Call to Action Content/fields/title}
+        en-NL: ${#jptr:/Call to Action Content/fields/title}
+        en-US: ${#jptr:/Call to Action Content/fields/title}
+        fr-CA: ${#jptr:/Call to Action Content/fields/title}
+        nl-NL: ${#jptr:/Call to Action Content/fields/title}
+    couponCode:
+      type: text
+      value: 2ME4FREE
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h3
+    textColorVariant:
+      type: select
+      value: Dark
+  _dataResources:
+    Call to Action Content:
+      type: contentfulCallToAction
+      variables:
+        locale: ${locale}
+        entryIds: 7hSYWbTDzwimMAOlWwy6an
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _locales:
+    - fr-CA
+    - nl-NL
+    - en-US
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T13:35:51.062931+00:00'
+modified: '2024-02-28T13:35:51.062931+00:00'
+pattern: true

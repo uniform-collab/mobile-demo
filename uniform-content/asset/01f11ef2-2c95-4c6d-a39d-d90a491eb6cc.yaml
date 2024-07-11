@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 01f11ef2-2c95-4c6d-a39d-d90a491eb6cc
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: JavaDrip_Specialty_5_qspevi_qtf01a.jpg
+    file:
+      type: file
+      value: a3c8a2e9-fea0-4813-80e5-fd5dd8351e04
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/i9rtgmY9TV2NH5Dy2HhX3g-JavaDrip_Specialty_5_qspevi_qtf01a.jpg
+      type: text
+    size:
+      value: 161810
+      type: number
+    width:
+      value: 1000
+      type: number
+    height:
+      value: 1000
+      type: number
+    custom: {}
+created: '2024-02-28T12:39:32.684625+00:00'
+modified: '2024-02-28T13:31:00.231142+00:00'

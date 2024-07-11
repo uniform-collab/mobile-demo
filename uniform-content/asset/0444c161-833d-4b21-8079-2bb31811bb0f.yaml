@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 0444c161-833d-4b21-8079-2bb31811bb0f
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: black-mountain-bistro-burr-coffee-grinder-114-1_wtupfl_yyx2ts.jpg
+    file:
+      type: file
+      value: 636146fb-abcf-4757-8e75-68cb208fc77f
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/tsdzkDykTOyzVVqa4QZYtw-black-mountain-bistro-burr-coffee-grinder-114-1_wtupfl_yyx2ts.jpg
+      type: text
+    size:
+      value: 112826
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:39:36.036946+00:00'
+modified: '2024-02-28T13:30:59.668356+00:00'

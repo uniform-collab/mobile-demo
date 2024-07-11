@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: e5c0912e-bfac-4cd0-a782-3563614c28b7
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: kosmic-coffee-unbreakable-pour-over-replacement-pot-86_ngyxih_x1smcd.jpg
+    file:
+      type: file
+      value: 9919eb81-f1c2-4e3c-b0b5-1aa2f60abae3
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/J9lhNsVFSgSSAgcPlyFj5A-kosmic-coffee-unbreakable-pour-over-replacement-pot-86_ngyxih_x1smcd.jpg
+      type: text
+    size:
+      value: 19549
+      type: number
+    width:
+      value: 386
+      type: number
+    height:
+      value: 386
+      type: number
+    custom: {}
+created: '2024-02-28T12:49:54.055098+00:00'
+modified: '2024-02-28T13:34:56.347008+00:00'

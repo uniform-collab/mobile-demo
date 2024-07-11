@@ -1,0 +1,230 @@
+composition:
+  _name: Instant Search (Algolia)
+  _id: 74d0ae67-7701-4123-9832-1844a9d26c79
+  type: algolia-instantSearch
+  parameters:
+    instantSearchParams:
+      type: algolia-components
+      value:
+        instantSearchProps:
+          indexName: products-ngm
+          stalledSearchDelay: 200
+  slots:
+    widgets:
+      - _id: eda3672e-b0ec-4dc2-9e23-e2214b32680e
+        type: algolia-searchBox
+        parameters:
+          searchBoxParams:
+            type: algolia-components
+            value:
+              searchBoxProps:
+                searchAsYouType: true
+        _overridability:
+          parameters:
+            searchBoxParams: 'yes'
+      - _id: ccecce08-aef7-4a48-ba7c-39222d200c78
+        type: grid
+        slots:
+          grid-inner:
+            - _id: 1b9d37fe-132f-41cd-a47f-5b66db7425d6
+              type: gridItem
+              slots:
+                inner:
+                  - _id: 41f118d8-382a-4fbb-89f5-f3298aaec51c
+                    type: algolia-refinementList
+                    parameters:
+                      refinementListParams:
+                        type: algolia-components
+                        value:
+                          refinementListProps:
+                            limit: 10
+                            operator: and
+                            showMore: false
+                            attribute: subCategories
+                            searchable: false
+                            allowedIndex: products-ngm
+                            escapeFacetValues: true
+                    _overridability:
+                      parameters:
+                        refinementListParams: 'yes'
+              parameters:
+                title:
+                  type: text
+                  locales:
+                    en-CA: Left Section
+                    en-GB: Left Section
+                    en-NL: Left Section
+                    en-US: Left Section
+                    fr-CA: Section gauche
+                    nl-NL: Linkersectie
+                rowSpan:
+                  type: tp-slider-parameter
+                  value: '1'
+                rowStart:
+                  type: tp-slider-parameter
+                  value: None
+                columnSpan:
+                  type: tp-slider-parameter
+                  value: '1'
+                columnStart:
+                  type: tp-slider-parameter
+                  value: none
+              _overridability:
+                parameters:
+                  title: 'yes'
+                  rowSpan: 'yes'
+                  rowStart: 'yes'
+                  columnSpan: 'yes'
+                  columnStart: 'yes'
+            - _id: 443ccdc8-832f-4c98-aeb6-fcbde1d083fd
+              type: gridItem
+              slots:
+                inner:
+                  - _id: 1289c42d-9660-4ce8-b32f-1a4e03c2d500
+                    type: algolia-hits
+                    slots:
+                      hitComponent:
+                        - _id: 4ec65e7d-e8be-49ee-bf3b-8c7e8f263bb2
+                          type: algolia-hitProduct
+                          parameters:
+                            badgeSize:
+                              type: select
+                              value: md
+                            objectFit:
+                              type: select
+                              value: cover
+                            badgeStyle:
+                              type: tp-badge-style-parameter
+                              value: primary
+                            buttonCopy:
+                              type: text
+                              locales:
+                                en-CA: See Details
+                                en-GB: See Details
+                                en-NL: See Details
+                                en-US: See Details
+                                fr-CA: Voir les détails
+                                nl-NL: Zie de details
+                            buttonLink:
+                              type: link
+                              value:
+                                path: /${locale}/products
+                                type: projectMapNode
+                                nodeId: d5615b18-df60-47d2-b615-74931d2d1071
+                                projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+                                dynamicInputValues:
+                                  locale: ${locale}
+                            buttonStyle:
+                              type: tp-button-style-parameter
+                              value: accent
+                            lineCountRestriction:
+                              type: tp-slider-parameter
+                              value: '5'
+                          _overridability:
+                            variants: true
+                            parameters:
+                              badgeSize: 'yes'
+                              group_cta: 'yes'
+                              objectFit: 'yes'
+                              badgeStyle: 'yes'
+                              buttonCopy: 'yes'
+                              buttonLink: 'yes'
+                              buttonStyle: 'yes'
+                              group_badge: 'yes'
+                              overlayColor: 'yes'
+                              overlayOpacity: 'yes'
+                              textColorVariant: 'yes'
+                              group_description: 'yes'
+                              lineCountRestriction: 'yes'
+                    _overridability:
+                      parameters:
+                        hitsParams: 'yes'
+              parameters:
+                title:
+                  type: text
+                  locales:
+                    en-CA: Right Section
+                    en-GB: Right Section
+                    en-NL: Right Section
+                    en-US: Right Section
+                    fr-CA: Section droite
+                    nl-NL: Rechterdeel
+                rowSpan:
+                  type: tp-slider-parameter
+                  value: '1'
+                rowStart:
+                  type: tp-slider-parameter
+                  value: None
+                columnSpan:
+                  type: tp-slider-parameter
+                  value: '3'
+                columnStart:
+                  type: tp-slider-parameter
+                  value: none
+              _overridability:
+                parameters:
+                  title: 'yes'
+                  rowSpan: 'yes'
+                  rowStart: 'yes'
+                  columnSpan: 'yes'
+                  columnStart: 'yes'
+        parameters:
+          gapX:
+            type: tp-slider-parameter
+            value: small
+          gapY:
+            type: tp-slider-parameter
+            value: small
+          title:
+            type: text
+            locales:
+              en-CA: Algolia Products List
+              en-GB: Algolia Products List
+              en-NL: Algolia Products List
+              en-US: Algolia Products List
+              fr-CA: Liste des produits Algolia
+              nl-NL: Algolia-productenlijst
+          marginTop:
+            type: select
+            value: None
+          paddingTop:
+            type: select
+            value: None
+          columnsCount:
+            type: tp-slider-parameter
+            value: '4'
+          marginBottom:
+            type: select
+            value: None
+          paddingBottom:
+            type: select
+            value: None
+        _overridability:
+          parameters:
+            gapX: 'yes'
+            gapY: 'yes'
+            title: 'yes'
+            marginTop: 'yes'
+            paddingTop: 'yes'
+            columnsCount: 'yes'
+            marginBottom: 'yes'
+            paddingBottom: 'yes'
+            backgroundType: 'yes'
+            containerVariant: 'yes'
+  _overridability:
+    parameters:
+      rootCategory: 'yes'
+      instantSearchParams: 'yes'
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T13:35:50.890357+00:00'
+modified: '2024-02-28T13:35:50.890357+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/Algolia/Instant_search_default_pattern_preview_image
+categoryId: ad5aebd7-ae43-4cb3-a2a7-8425ad0e2f44

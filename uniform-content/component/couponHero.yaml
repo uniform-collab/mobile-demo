@@ -1,0 +1,138 @@
+# yaml-language-server: $schema=<https://canary.uniform.app/schemas/json-schema/component-definition/v1.json>
+$schema: https://canary.uniform.app/schemas/json-schema/component-definition/v1.json
+id: couponHero
+name: Hero - Coupon
+icon: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1692281207/csk-icons/component-icons-v2/CSKicon_hero_odv0f6_ipen7r.svg
+parameters:
+  - id: group_content
+    name: Content
+    type: group
+    typeConfig:
+      collapsed: false
+      childrenParams:
+        - eyebrowText
+        - title
+        - titleStyle
+        - supplementalUrl
+        - description
+        - couponCode
+        - icon
+  - id: eyebrowText
+    name: Eyebrow text
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: title
+    name: Title
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: titleStyle
+    name: Title Style
+    type: tp-title-style-parameter
+    helpText: ''
+    typeConfig: null
+  - id: supplementalUrl
+    name: Supplemental URL
+    type: link
+    helpText: AI uses this optional URL to generate the description.
+    typeConfig:
+      linkTypes:
+        tel: false
+        email: false
+        projectMapNode: false
+  - id: description
+    name: Description
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: couponCode
+    name: Coupon Code
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: false
+  - id: icon
+    name: Icon
+    type: asset
+    helpText: ''
+    typeConfig:
+      max: 1
+      min: 0
+  - id: group_imageSettings
+    name: Image Settings
+    type: group
+    typeConfig:
+      collapsed: true
+      childrenParams:
+        - image
+        - objectFit
+        - overlayColor
+        - overlayOpacity
+  - id: image
+    name: Image
+    type: asset
+    helpText: ''
+    typeConfig:
+      max: 1
+      min: 0
+  - id: objectFit
+    name: Object Fit
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Contain
+          value: contain
+        - text: Cover
+          value: cover
+        - text: Fill
+          value: fill
+        - text: None
+          value: none
+  - id: overlayColor
+    name: Overlay Color
+    type: tp-color-style-parameter
+    helpText: ''
+    typeConfig: null
+  - id: overlayOpacity
+    name: Overlay Opacity
+    type: tp-slider-parameter
+    helpText: ''
+    typeConfig:
+      step: 10
+      type: steps
+      unit: px
+      units: '%'
+      options: []
+      maxValue: 100
+      minValue: 0
+  - id: group_presentationSettings
+    name: Presentation Settings
+    type: group
+    typeConfig:
+      collapsed: true
+      childrenParams:
+        - textColorVariant
+  - id: textColorVariant
+    name: Text Color Variant
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Dark
+          value: Dark
+        - text: Light
+          value: Light
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Components/Hero_coupon_preview_image
+useTeamPermissions: true
+slots: []
+titleParameter: title
+canBeComposition: false
+created: '2024-02-28T13:35:48.041814+00:00'
+updated: '2024-02-28T13:35:48.041814+00:00'

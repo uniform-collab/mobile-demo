@@ -1,0 +1,28 @@
+id: articles
+displayName: Articles
+ttl: 30
+path: /query
+custom:
+  proposedName: Query Article
+  allowedOrderBy:
+    - updated_at_DESC
+  allowedContentTypes:
+    - article
+method: GET
+purgeKey: 432c2a55-f0e7-40e5-a2ae-abe05a6b2bd2
+archetype: queryEntries
+variables:
+  limit:
+    type: text
+    default: '10'
+  offset:
+    type: text
+    default: '0'
+  orderBy:
+    type: text
+    default: ''
+  contentTypes:
+    type: text
+    default: ''
+dataSourceId: uniformContent
+allowedOnComponents: []

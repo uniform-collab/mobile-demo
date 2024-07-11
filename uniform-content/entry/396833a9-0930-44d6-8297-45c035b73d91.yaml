@@ -1,0 +1,795 @@
+created: '2024-02-28T12:52:09.153836+00:00'
+modified: '2024-02-28T12:52:09.153836+00:00'
+pattern: false
+entry:
+  _id: 396833a9-0930-44d6-8297-45c035b73d91
+  _name: About Us
+  _slug: about-us
+  type: blog
+  fields:
+    title:
+      type: text
+      locales:
+        en-US: About Us
+        fr-CA: À propos de nous
+        nl-NL: Over ons
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      JavaDrip: The Perfect Cup of Coffee, Delivered to Your
+                      Doorstep
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Welcome to JavaDrip, your ultimate destination for the
+                      finest coffee experience. At JavaDrip, we are on a
+                      passionate quest to help you savor the perfect cup of
+                      coffee each and every day. As a boutique coffee company,
+                      we are obsessed with finding the finest coffee beans and
+                      providing top-of-the-line coffee machines to ensure your
+                      coffee-drinking experience is nothing short of
+                      extraordinary.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h3
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Our Journey
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      JavaDrip was born out of the desire to bring together
+                      coffee aficionados from around the world, embarking on a
+                      shared journey to explore and appreciate the nuances of
+                      exceptional coffee. Guided by our unwavering dedication to
+                      quality, we meticulously select the finest, sustainably
+                      sourced coffee beans from renowned coffee-growing regions
+                      across the globe.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: The Perfect Roast
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      We understand that the key to a perfect cup of coffee lies
+                      in the art of roasting. That's why we collaborate with
+                      expert roasters who skillfully craft each batch to achieve
+                      an impeccable roast profile. From light and floral to dark
+                      and smoky, our range of coffee beans caters to every
+                      palate, ensuring that you find your perfect match.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Quality Coffee Machines
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      To complement our exceptional beans, we offer an exquisite
+                      selection of coffee machines, each crafted with precision
+                      and unparalleled attention to detail. From sleek and
+                      modern designs to classic, vintage pieces, our collection
+                      of coffee machines is carefully curated to satisfy the
+                      tastes and preferences of every coffee enthusiast. Whether
+                      you prefer an espresso, cappuccino, or pour-over, our
+                      machines are designed to deliver a flawless brewing
+                      experience, every time.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Delivering Excellence
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      At JavaDrip, we believe that the pleasure derived from an
+                      exceptional cup of coffee should never be restricted by
+                      location. That's why we deliver our meticulously sourced
+                      coffee beans and quality coffee machines straight to your
+                      doorstep, no matter where you are in the world. We go the
+                      extra mile to ensure that your coffee journey is
+                      effortless and delightful, from the first sip to the last.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: A Community of Coffee Lovers
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      We take pride in being more than just a coffee company. We
+                      are a passionate community of coffee lovers, coming
+                      together to celebrate the art, science, and culture that
+                      revolves around this beloved beverage. Through our blog,
+                      social media platforms, and events, we encourage
+                      discussion, knowledge-sharing, and exploration of the
+                      coffee world. Join us on this journey and discover a
+                      vibrant community that shares your love for the perfect
+                      cup of coffee.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Sustainability
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      At JavaDrip, we hold sustainability close to our hearts.
+                      From carefully selecting coffee beans that are grown using
+                      environmentally friendly practices to minimizing waste in
+                      our operations, we are committed to minimizing our
+                      ecological footprint. By choosing JavaDrip, you are not
+                      only indulging in exquisite coffee but also contributing
+                      to a more sustainable future for our planet.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h3
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Immerse Yourself in the JavaDrip Experience
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Embrace the JavaDrip experience and indulge in the perfect
+                      cup of coffee. Whether you are a novice starting your
+                      coffee exploration or a seasoned connoisseur, we have
+                      everything you need to elevate your coffee routine.
+                      Discover our range of meticulously sourced coffee beans,
+                      explore our exquisite coffee machines, and join our
+                      passionate community of coffee enthusiasts. Let JavaDrip
+                      be your companion on the journey to savoring the perfect
+                      cup of coffee, one sip at a time.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "JavaDrip\_: la tasse de café parfaite, livrée à votre porte"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Bienvenue sur JavaDrip, votre destination ultime pour la
+                      meilleure expérience de café. Chez JavaDrip, nous sommes
+                      dans une quête passionnée pour vous aider à savourer la
+                      tasse de café parfaite chaque jour. En tant qu'entreprise
+                      de café boutique, nous sommes obsédés par la recherche des
+                      meilleurs grains de café et par la fourniture de machines
+                      à café haut de gamme pour garantir que votre expérience de
+                      consommation de café soit tout simplement extraordinaire.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h3
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Notre voyage
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      JavaDrip est né de la volonté de rassembler des amateurs
+                      de café du monde entier, se lançant dans un voyage commun
+                      pour explorer et apprécier les nuances d'un café
+                      d'exception. Guidés par notre engagement inébranlable
+                      envers la qualité, nous sélectionnons méticuleusement les
+                      meilleurs grains de café issus de sources durables
+                      provenant de régions productrices de café renommées du
+                      monde entier.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Le rôti parfait
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Nous comprenons que la clé d’une tasse de café parfaite
+                      réside dans l’art de la torréfaction. C'est pourquoi nous
+                      collaborons avec des torréfacteurs experts qui élaborent
+                      habilement chaque lot pour obtenir un profil de
+                      torréfaction impeccable. Du léger et floral au foncé et
+                      fumé, notre gamme de grains de café s'adresse à tous les
+                      palais, vous assurant de trouver votre accord parfait.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Machines à café de qualité
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Pour compléter nos grains exceptionnels, nous proposons
+                      une sélection exquise de machines à café, chacune
+                      fabriquée avec précision et une attention inégalée aux
+                      détails. Des designs élégants et modernes aux pièces
+                      classiques et vintage, notre collection de machines à café
+                      est soigneusement sélectionnée pour satisfaire les goûts
+                      et les préférences de chaque amateur de café. Que vous
+                      préfériez un expresso, un cappuccino ou un service à
+                      verser, nos machines sont conçues pour offrir une
+                      expérience d'infusion impeccable à chaque fois.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Offrir l’excellence
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Chez JavaDrip, nous pensons que le plaisir dérivé d'une
+                      tasse de café exceptionnelle ne doit jamais être limité
+                      par le lieu. C'est pourquoi nous livrons nos grains de
+                      café soigneusement sélectionnés et nos machines à café de
+                      qualité directement à votre porte, où que vous soyez dans
+                      le monde. Nous faisons un effort supplémentaire pour
+                      garantir que votre voyage autour du café soit agréable et
+                      sans effort, de la première gorgée à la dernière.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Une communauté d'amateurs de café
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Nous sommes fiers d’être plus qu’une simple entreprise de
+                      café. Nous sommes une communauté passionnée d'amateurs de
+                      café, réunis pour célébrer l'art, la science et la culture
+                      qui tournent autour de cette boisson bien-aimée. Grâce à
+                      notre blog, nos plateformes de réseaux sociaux et nos
+                      événements, nous encourageons la discussion, le partage
+                      des connaissances et l'exploration du monde du café.
+                      Rejoignez-nous dans ce voyage et découvrez une communauté
+                      dynamique qui partage votre amour pour la tasse de café
+                      parfaite.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Durabilité
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Chez JavaDrip, la durabilité nous tient à cœur. De la
+                      sélection minutieuse des grains de café cultivés selon des
+                      pratiques respectueuses de l'environnement à la
+                      minimisation des déchets dans nos opérations, nous nous
+                      engageons à minimiser notre empreinte écologique. En
+                      choisissant JavaDrip, vous vous offrez non seulement un
+                      café exquis, mais vous contribuez également à un avenir
+                      plus durable pour notre planète.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h3
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Plongez-vous dans l'expérience JavaDrip
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Profitez de l'expérience JavaDrip et savourez la tasse de
+                      café parfaite. Que vous soyez un novice commençant votre
+                      exploration du café ou un connaisseur chevronné, nous
+                      avons tout ce dont vous avez besoin pour rehausser votre
+                      routine café. Découvrez notre gamme de grains de café
+                      soigneusement sélectionnés, explorez nos machines à café
+                      exquises et rejoignez notre communauté passionnée de
+                      passionnés de café. Laissez JavaDrip vous accompagner dans
+                      votre voyage pour savourer la tasse de café parfaite, une
+                      gorgée à la fois.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'JavaDrip: het perfecte kopje koffie, thuisbezorgd'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Welkom bij JavaDrip, jouw ultieme bestemming voor de
+                      fijnste koffie-ervaring. Bij JavaDrip zijn we
+                      gepassioneerd bezig om jou elke dag te helpen genieten van
+                      het perfecte kopje koffie. Als boetiekkoffiebedrijf zijn
+                      we geobsedeerd door het vinden van de beste koffiebonen en
+                      het leveren van eersteklas koffiemachines om ervoor te
+                      zorgen dat uw koffiedrinkervaring niets minder dan
+                      buitengewoon is.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h3
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Onze reis
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      JavaDrip is ontstaan uit de wens om koffieliefhebbers van
+                      over de hele wereld samen te brengen en een gezamenlijke
+                      reis te ondernemen om de nuances van uitzonderlijke koffie
+                      te ontdekken en te waarderen. Geleid door onze
+                      niet-aflatende toewijding aan kwaliteit, selecteren we
+                      nauwgezet de beste, duurzaam geproduceerde koffiebonen uit
+                      gerenommeerde koffieteeltgebieden over de hele wereld.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Het perfecte braadstuk
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Wij begrijpen dat de sleutel tot een perfecte kop koffie
+                      ligt in de kunst van het branden. Daarom werken we samen
+                      met deskundige branders die elke batch vakkundig bewerken
+                      om een onberispelijk brandprofiel te bereiken. Van licht
+                      en bloemig tot donker en rokerig, ons assortiment
+                      koffiebonen is geschikt voor elke smaak en zorgt ervoor
+                      dat u de perfecte match vindt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Kwaliteit koffiemachines
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Als aanvulling op onze uitzonderlijke bonen bieden wij een
+                      uitgelezen selectie koffiemachines, elk vervaardigd met
+                      precisie en ongeëvenaarde aandacht voor detail. Van
+                      strakke en moderne ontwerpen tot klassieke, vintage
+                      stukken: onze collectie koffiemachines is zorgvuldig
+                      samengesteld om aan de smaak en voorkeuren van elke
+                      koffieliefhebber te voldoen. Of u nu de voorkeur geeft aan
+                      een espresso, cappuccino of pour-over, onze machines zijn
+                      ontworpen om elke keer weer een vlekkeloze
+                      koffiezetervaring te bieden.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Excellentie leveren
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Bij JavaDrip zijn we van mening dat het genot van een
+                      uitzonderlijk kopje koffie nooit beperkt mag worden door
+                      de locatie. Daarom bezorgen wij onze zorgvuldig
+                      geselecteerde koffiebonen en kwaliteitskoffiemachines
+                      rechtstreeks bij u thuis, waar ter wereld u zich ook
+                      bevindt. Wij doen er alles aan om ervoor te zorgen dat uw
+                      koffiereis moeiteloos en heerlijk verloopt, van de eerste
+                      tot de laatste slok.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Een gemeenschap van koffieliefhebbers
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      We zijn er trots op dat we meer zijn dan alleen een
+                      koffiebedrijf. We zijn een gepassioneerde gemeenschap van
+                      koffieliefhebbers, die samenkomen om de kunst, wetenschap
+                      en cultuur te vieren die rond deze geliefde drank draait.
+                      Via onze blog, sociale mediaplatforms en evenementen
+                      moedigen we discussie, kennisuitwisseling en verkenning
+                      van de koffiewereld aan. Ga met ons mee op deze reis en
+                      ontdek een levendige gemeenschap die jouw liefde voor het
+                      perfecte kopje koffie deelt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: Duurzaamheid
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Bij JavaDrip dragen we duurzaamheid nauw aan het hart. Van
+                      het zorgvuldig selecteren van koffiebonen die volgens
+                      milieuvriendelijke methoden zijn geteeld tot het
+                      minimaliseren van verspilling bij onze activiteiten: we
+                      streven ernaar onze ecologische voetafdruk tot een minimum
+                      te beperken. Door voor JavaDrip te kiezen, geniet u niet
+                      alleen van voortreffelijke koffie, maar draagt u ook bij
+                      aan een duurzamere toekomst voor onze planeet.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h3
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Dompel jezelf onder in de JavaDrip-ervaring
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Omarm de JavaDrip-ervaring en geniet van het perfecte
+                      kopje koffie. Of u nu een beginneling bent die aan uw
+                      koffie-exploratie begint of een doorgewinterde
+                      connaisseur, wij hebben alles wat u nodig heeft om uw
+                      koffieroutine naar een hoger niveau te tillen. Ontdek ons
+                      assortiment zorgvuldig geselecteerde koffiebonen, ontdek
+                      onze voortreffelijke koffiemachines en sluit u aan bij
+                      onze gepassioneerde gemeenschap van koffieliefhebbers.
+                      Laat JavaDrip uw metgezel zijn op weg naar het genieten
+                      van het perfecte kopje koffie, slok voor slok.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - type: linebreak
+                    version: 1
+                direction: ltr
+            direction: ltr
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

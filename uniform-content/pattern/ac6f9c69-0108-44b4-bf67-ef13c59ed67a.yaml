@@ -1,0 +1,138 @@
+composition:
+  _name: Hero - Product (uc)
+  _id: ac6f9c69-0108-44b4-bf67-ef13c59ed67a
+  type: hero
+  variant: imageLeft
+  parameters:
+    image:
+      type: asset
+      value:
+        - _id: e5b5e74f-336a-4480-a0d9-f435b2bd9fb2
+          type: image
+          fields:
+            url:
+              type: text
+              value: >-
+                ${#jptr:/Feature
+                Content/entry/fields/image/value/0/fields/url/value}
+          _source: canvas/Feature Content
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Feature Content/entry/fields/title/value}
+        en-GB: ${#jptr:/Feature Content/entry/fields/title/value}
+        en-NL: ${#jptr:/Feature Content/entry/fields/title/value}
+        en-US: ${#jptr:/Feature Content/entry/fields/title/value}
+        fr-CA: ${#jptr:/Feature Content/entry/fields/title/value}
+        nl-NL: ${#jptr:/Feature Content/entry/fields/title/value}
+    marginTop:
+      type: select
+      value: None
+    textColor:
+      type: tp-color-palette-parameter
+      value: primary-content
+    paddingTop:
+      type: select
+      value: None
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h2
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Feature Content/entry/fields/description/value}
+        en-GB: ${#jptr:/Feature Content/entry/fields/description/value}
+        en-NL: ${#jptr:/Feature Content/entry/fields/description/value}
+        en-US: ${#jptr:/Feature Content/entry/fields/description/value}
+        fr-CA: ${#jptr:/Feature Content/entry/fields/description/value}
+        nl-NL: ${#jptr:/Feature Content/entry/fields/description/value}
+    marginBottom:
+      type: select
+      value: None
+    paddingBottom:
+      type: select
+      value: None
+    backgroundColor:
+      type: tp-color-palette-parameter
+      value: primary
+    primaryButtonCopy:
+      type: text
+      locales:
+        en-CA: Learn More
+        en-GB: Learn More
+        en-NL: Learn More
+        en-US: Learn More
+        fr-CA: Apprendre encore plus
+        nl-NL: Kom meer te weten
+    primaryButtonLink:
+      type: link
+      value:
+        path: >-
+          /${locale}/products/${#jptr:/Feature
+          Content/entry/fields/productId/value}
+        type: projectMapNode
+        nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+        projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+        dynamicInputValues:
+          locale: ${locale}
+          product-slug: ${#jptr:/Feature Content/entry/fields/productId/value}
+    primaryButtonStyle:
+      type: tp-button-style-parameter
+      value: secondary
+  _dataResources:
+    Feature Content:
+      type: productFeature
+      variables:
+        locale: ${locale}
+        entryId: f75ba25f-3154-4a20-9fd8-88184c12c145
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      delay: 'yes'
+      image: 'yes'
+      title: 'yes'
+      video: 'yes'
+      duration: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      textColor: 'yes'
+      fullHeight: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      animationType: 'yes'
+      paddingBottom: 'yes'
+      animationOrder: 'yes'
+      backgroundType: 'yes'
+      overlayOpacity: 'yes'
+      backgroundColor: 'yes'
+      animationPreview: 'yes'
+      containerVariant: 'yes'
+      textColorVariant: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      primaryButtonStyle: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:52.987534+00:00'
+modified: '2024-02-28T12:50:52.987534+00:00'
+pattern: true
+description: Product information in a hero layout
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Hero_product_preview_image
+categoryId: 2da8c924-14d5-470b-9fe4-1e56521551e5

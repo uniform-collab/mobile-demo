@@ -1,0 +1,18 @@
+id: products
+displayName: Products
+ttl: 30
+body: ''
+path: /multiple
+custom:
+  proposedName: Multiple Product
+  allowedContentTypes:
+    - product
+method: GET
+purgeKey: 9296220d-4f93-4fb1-8ae7-b20d1765f40f
+archetype: multipleEntries
+variables:
+  entryIds:
+    type: text
+    default: ''
+dataSourceId: uniformContent
+allowedOnComponents: []

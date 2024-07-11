@@ -1,0 +1,31 @@
+asset:
+  type: image
+  _id: dbcd21be-6cdb-4547-b4da-16ec86d2c8d6
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: >-
+        black-mountain-chambord-french-press-coffee-maker-123-2_obkerc_niulin.jpg
+    file:
+      type: file
+      value: b5f3e6a9-e98b-427d-957b-4d69d8845598
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/lxfID-K-QqKVymciaNlLxA-black-mountain-chambord-french-press-coffee-maker-123-2_obkerc_niulin.jpg
+      type: text
+    size:
+      value: 318005
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:46:14.027783+00:00'
+modified: '2024-02-28T13:34:40.703049+00:00'

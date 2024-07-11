@@ -1,0 +1,83 @@
+created: '2024-02-28T12:54:07.790769+00:00'
+modified: '2024-02-28T12:54:07.790769+00:00'
+pattern: false
+entry:
+  _id: 0269db8f-68ca-4d08-b58f-93e5f3c66098
+  _name: The future of the perfect brew
+  _slug: the-future-of-the-perfect-brew
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xtXCx4X3RZqbeoxXtNxP2g-espressoGPT_hero_3.jpg
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: a1510f38-7d9f-49d1-8ed2-03f97c8bd29f
+          type: image
+          fields:
+            id:
+              type: text
+              value: f46648cc-31ec-40b2-90ee-c7843a29e046
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xtXCx4X3RZqbeoxXtNxP2g-espressoGPT_hero_3.jpg
+              type: text
+            file:
+              type: file
+              value: d81fe4be-112f-408e-b616-aeafc8c60a82
+            size:
+              value: 6168022
+              type: number
+            title:
+              type: text
+              value: espressoGPT_hero_3.jpg
+            width:
+              value: 2731
+              type: number
+            height:
+              value: 4096
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: The future of the perfect brew
+        fr-CA: L'avenir de l'infusion parfaite
+        nl-NL: De toekomst van het perfecte brouwsel
+    description:
+      type: text
+      locales:
+        en-US: >-
+          When we speak of the 'perfect coffee bean', it's more than just a
+          catchphrase. To us, it embodies a journey of passion, precision, and
+          perseverance.
+
+
+          EspressoGPT is not just a product but a testament to our ethos. It
+          represents our unwavering commitment to delivering our best to a
+          global community of coffee lovers.
+        fr-CA: >-
+          Lorsque nous parlons du «grain de café parfait», c'est plus qu'un
+          simple slogan.Pour nous, cela incarne un voyage de passion, de
+          précision et de persévérance.
+
+
+          Espressogpt n'est pas seulement un produit, mais un témoignage de
+          notre éthique.Il représente notre engagement indéfectible à fournir de
+          notre mieux à une communauté mondiale d'amateurs de café.
+        nl-NL: >-
+          Als we spreken over de 'Perfect Coffee Bean', is het meer dan alleen
+          een slogan.Voor ons belichaamt het een reis van passie, precisie en
+          doorzettingsvermogen.
+
+
+          Espressogpt is niet alleen een product, maar een bewijs van ons
+          ethos.Het vertegenwoordigt onze niet -aflatende toewijding om ons best
+          te leveren aan een wereldwijde gemeenschap van koffieliefhebbers.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

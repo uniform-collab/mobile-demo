@@ -1,0 +1,320 @@
+# yaml-language-server: $schema=<https://canary.uniform.app/schemas/json-schema/component-definition/v1.json>
+$schema: https://canary.uniform.app/schemas/json-schema/component-definition/v1.json
+id: productDetailsPage
+name: Product Details Page
+icon: file-document
+parameters:
+  - id: pageTitle
+    name: Page Title
+    type: text
+    helpText: ''
+    typeConfig:
+      required: false
+    localizable: true
+  - id: group_metaData
+    name: Meta Data
+    type: group
+    typeConfig:
+      childrenParams:
+        - pageMetaDescription
+        - pageKeywords
+  - id: pageMetaDescription
+    name: Page Meta Description
+    type: text
+    helpText: ''
+    typeConfig:
+      multiline: true
+      linesCount: '5'
+    localizable: true
+  - id: pageKeywords
+    name: Page Keywords
+    type: text
+    helpText: ''
+    typeConfig:
+      multiline: true
+    localizable: true
+  - id: group_openGraph
+    name: Open Graph
+    type: group
+    typeConfig:
+      childrenParams:
+        - openGraphTitle
+        - openGraphImage
+        - openGraphType
+        - openGraphDescription
+        - overlayTitleToOgImage
+  - id: openGraphTitle
+    name: Open Graph Title
+    type: text
+    helpText: page head title
+    typeConfig: null
+    localizable: true
+  - id: openGraphDescription
+    name: Open Graph Description
+    type: text
+    helpText: >-
+      used to set `og:description`. If not set, `Page Meta Description` will be
+      used.
+    typeConfig:
+      multiline: true
+      linesCount: '5'
+    localizable: true
+  - id: openGraphImage
+    name: Open Graph Image
+    type: asset
+    helpText: This will set og:image
+    typeConfig:
+      max: 1
+      min: 0
+  - id: overlayTitleToOgImage
+    name: Overlay Title over Open Graph Image?
+    type: checkbox
+    helpText: if set, renders the `og:title` over the image dynamically
+    typeConfig: null
+  - id: openGraphType
+    name: Open Graph Type
+    type: select
+    helpText: sets the value of `og:type` (defalts to "website" if not specified)
+    typeConfig:
+      options:
+        - text: website
+          value: website
+        - text: video
+          value: video
+        - text: article
+          value: article
+  - id: group_twitter
+    name: Twitter
+    type: group
+    typeConfig:
+      childrenParams:
+        - twitterDescription
+        - twitterTitle
+        - twitterImage
+        - overlayTitleToTwitterImage
+        - twitterCard
+  - id: twitterTitle
+    name: Twitter Title
+    type: text
+    helpText: Sets `twitter:title`. Fallback to Page Title if not set.
+    typeConfig: null
+    localizable: true
+  - id: twitterDescription
+    name: Twitter Description
+    type: text
+    helpText: >-
+      Sets `twitter:description`. Falls back to `Page Meta Description` if not
+      set
+    typeConfig:
+      multiline: true
+      linesCount: '5'
+    localizable: true
+  - id: twitterImage
+    name: Twitter Image
+    type: asset
+    helpText: Sets `twitter:image`. Fallsback to `og:image` if not set.
+    typeConfig:
+      max: 1
+      min: 0
+  - id: overlayTitleToTwitterImage
+    name: Overlay Title to Twitter Image?
+    type: checkbox
+    helpText: if set, overlays content of `twitter:title` over the image dynamically
+    typeConfig: null
+  - id: twitterCard
+    name: Twitter Card
+    type: select
+    helpText: Sets the value of `twitter:card`. If not set, defaults to `summary`.
+    typeConfig:
+      options:
+        - text: summary
+          value: summary
+        - text: summary_large_image
+          value: summary_large_image
+        - text: app
+          value: app
+        - text: player
+          value: player
+  - id: pageSubcategories
+    name: Page Subcategories
+    type: json
+    helpText: ''
+    typeConfig: {}
+categoryId: 31fcffb0-aead-4256-8e49-4d50cc28aa29
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/Page_preview_image
+useTeamPermissions: true
+slots:
+  - id: pageHeader
+    name: Page Header
+    maxComponents: 1
+    minComponents: 1
+    allowedComponents:
+      - header
+    allowAllComponents: false
+    inheritAllowedComponents: false
+    patternsInAllowedComponents: false
+  - id: pageContent
+    name: Page Content
+    allowedComponents:
+      - hero
+      - breadcrumbs
+      - spacer
+      - divider
+      - $test
+      - $personalization
+      - couponHero
+      - emailSignupForm
+      - grid
+      - container
+      - hero
+      - $p:b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+      - $p:83683088-0560-40f7-b8b8-18360fa76d24
+      - $loop
+      - hero
+      - hero
+      - hero
+      - hero
+      - hero
+      - hero
+      - hero
+      - hero
+      - $p:8d24658f-fac1-4c9e-87ad-9c5842dd5c55
+      - hero
+      - $p:ac6f9c69-0108-44b4-bf67-ef13c59ed67a
+      - $p:f80964a3-4000-4a5d-8d8d-1400b03bceb3
+      - $p:92f3a50f-098f-4448-88dd-4005e384559d
+      - $p:fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+      - $p:c93696ab-56f6-43df-90b9-bf4a610f202e
+      - $p:733c3ec0-4eca-4e7a-bf35-532ccf918b66
+      - callToAction
+    allowAllComponents: false
+    inheritAllowedComponents: false
+    patternsInAllowedComponents: true
+  - id: pageFooter
+    name: Page Footer
+    maxComponents: 1
+    allowedComponents:
+      - footer
+    allowAllComponents: false
+    inheritAllowedComponents: false
+    patternsInAllowedComponents: false
+defaults:
+  type: productDetailsPage
+  slots:
+    pageFooter:
+      - type: footer
+        _pattern: 319639e9-4bac-4fb3-8f0b-19088c969fcb
+    pageHeader:
+      - type: header
+        _pattern: e46c8336-acfd-43e8-ac59-8be8f4c33b7d
+        _overridability:
+          parameters:
+            syntheticGap: 'yes'
+    pageContent:
+      - type: breadcrumbs
+        parameters:
+          title:
+            type: text
+            locales:
+              en-US: Breadcrumbs
+              fr-CA: Chapelure
+              nl-NL: Broodkruimels
+          separator:
+            type: select
+            value: chevron
+          colorStyle:
+            type: tp-color-style-parameter
+            value: base-300
+          displayRootNode:
+            type: checkbox
+            value: true
+      - type: productInfo
+        _pattern: f80964a3-4000-4a5d-8d8d-1400b03bceb3
+        _dataResources:
+          Product Content:
+            type: product
+            variables:
+              slug: espresso-gpt-145
+              locale: ${locale}
+        _overridability:
+          parameters:
+            delay: 'yes'
+            image: 'yes'
+            title: 'yes'
+            product: 'yes'
+            duration: 'yes'
+            features: 'yes'
+            subTitle: 'yes'
+            objectFit: 'yes'
+            fullHeight: 'yes'
+            titleStyle: 'yes'
+            description: 'yes'
+            eyebrowText: 'yes'
+            overlayColor: 'yes'
+            animationType: 'yes'
+            highlightText: 'yes'
+            animationOrder: 'yes'
+            overlayOpacity: 'yes'
+            animationPreview: 'yes'
+            primaryButtonCopy: 'yes'
+            primaryButtonLink: 'yes'
+            primaryButtonStyle: 'yes'
+            secondaryButtonCopy: 'yes'
+            secondaryButtonLink: 'yes'
+            secondaryButtonStyle: 'yes'
+            primaryButtonAnimationType: 'yes'
+            secondaryButtonAnimationType: 'yes'
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA
+  _overrides:
+    f556811a-632b-4d70-80ae-f7020f037335:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-US: ${#jptr:/Product Content/entry/fields/name/value}
+            fr-CA: ${#jptr:/Product Content/entry/fields/name/value}
+            nl-NL: ${#jptr:/Product Content/entry/fields/name/value}
+        description:
+          type: text
+          locales:
+            en-US: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+            fr-CA: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+            nl-NL: ${#jptr:/Product Content/entry/fields/shortDescription/value}
+        highlightText:
+          type: text
+          locales:
+            en-US: >-
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/currency/value}
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/price/value}
+            fr-CA: >-
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/currency/value}
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/price/value}
+            nl-NL: >-
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/currency/value}
+              ${#jptr:/Product
+              Content/entry/fields/variants/value/0/fields/price/value}
+        primaryButtonCopy:
+          type: text
+          locales:
+            en-US: Buy now
+            fr-CA: Acheter
+            nl-NL: Nu kopen
+        secondaryButtonCopy:
+          type: text
+          locales:
+            en-US: Taste the future
+            fr-CA: Goûter l'avenir
+            nl-NL: Proef de toekomst
+titleParameter: pageTitle
+canBeComposition: true
+created: '2024-02-28T13:35:48.627268+00:00'
+updated: '2024-03-06T11:40:26.9379+00:00'

@@ -1,0 +1,59 @@
+created: '2024-02-28T12:53:26.5038+00:00'
+modified: '2024-02-28T12:53:26.5038+00:00'
+pattern: false
+entry:
+  _id: 831d9ac2-49d0-4a5c-b5ac-214a683fae19
+  _name: It's cold and snowing
+  _slug: its-cold-and-snowing
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/b7E464ULS06LOh_lOvyUAw-photo_15.png
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: ac54d93a-9ac0-4def-9e26-b179f41841d9
+          type: image
+          fields:
+            id:
+              type: text
+              value: ae0ac07f-ba2c-4c3a-b241-de9768c70988
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/b7E464ULS06LOh_lOvyUAw-photo_15.png
+              type: text
+            file:
+              type: file
+              value: 1c374d06-b743-4652-9470-c7fbfa9ed6d6
+            size:
+              value: 2202324
+              type: number
+            title:
+              type: text
+              value: photo_15.png
+            width:
+              value: 2070
+              type: number
+            height:
+              value: 1380
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: It's cold and snowing
+        fr-CA: Il fait froid et neige
+        nl-NL: Het is koud en sneeuwt
+    description:
+      type: text
+      locales:
+        en-US: Break out the percolator!
+        fr-CA: Sortez le percolateur!
+        nl-NL: Breek de percolator uit!
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

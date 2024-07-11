@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 06d09f53-9bb5-4a7e-a919-63ab1008eec4
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: whole_bean.jpg
+    file:
+      type: file
+      value: 708fa059-0c4e-46f2-aab3-7fe724a10c9e
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/iuQO0UqiTo26cvsU-wprrg-whole_bean.jpg
+      type: text
+    size:
+      value: 20075
+      type: number
+    width:
+      value: 967
+      type: number
+    height:
+      value: 725
+      type: number
+    custom: {}
+created: '2024-02-28T12:32:41.091672+00:00'
+modified: '2024-02-28T13:31:01.094813+00:00'

@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=<https://canary.uniform.app/schemas/json-schema/component-definition/v1.json>
+$schema: https://canary.uniform.app/schemas/json-schema/component-definition/v1.json
+id: localeSwitcher
+name: Locale Switcher
+icon: globe-alt
+parameters: []
+useTeamPermissions: true
+slots: []
+canBeComposition: false
+created: '2024-02-28T13:35:47.505619+00:00'
+updated: '2024-02-28T13:35:47.505619+00:00'
+variants:
+  - id: withRegions
+    name: With Regions

@@ -1,0 +1,833 @@
+created: '2024-02-28T12:52:26.906337+00:00'
+modified: '2024-02-28T12:52:26.906337+00:00'
+pattern: false
+entry:
+  _id: b0d033f8-1c57-4286-9ac2-27ae128d3f99
+  _name: 'Brew Using Your Phone: The Future of Espresso Coffee Makers'
+  _slug: brew-using-your-phone-the-future-of-espresso-coffee-makers
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/QSlGV0I_Ro6QI2cTHJazIQ-controlling_your_coffee_maker_using_an_app.png
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Tech
+    title:
+      type: text
+      locales:
+        en-US: 'Brew Using Your Phone: The Future of Espresso Coffee Makers'
+        fr-CA: 'Brew Utilisation de votre téléphone: L''avenir des cafetières expresso'
+        nl-NL: >-
+          Brew met behulp van uw telefoon: de toekomst van espresso
+          -koffiezetapparaten
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      In a world where smartphones are an integral part of our
+                      daily lives, it was only a matter of time before they
+                      found their way into our kitchens, transforming the way we
+                      brew our morning coffee. With the advent of smart espresso
+                      coffee makers that can be controlled with a simple app,
+                      you can now have your perfect cup of joe at your
+                      fingertips.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: The App-Powered Espresso Revolution
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Imagine waking up to the aroma of freshly brewed espresso,
+                      all without leaving the comfort of your bed. With
+                      app-controlled espresso coffee makers, this vision is now
+                      a reality. These smart machines seamlessly integrate with
+                      your smartphone, allowing you to start, customize, and
+                      monitor your coffee brewing process remotely.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Convenience Redefined
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      The convenience of brewing coffee with your phone cannot
+                      be overstated. Whether you're a busy professional rushing
+                      to get ready in the morning or simply looking to simplify
+                      your daily routine, app-controlled espresso machines offer
+                      unparalleled ease. Set a brewing schedule the night
+                      before, and your espresso will be ready and waiting for
+                      you when you wake up. No more waiting in line at the
+                      coffee shop or fumbling with complicated buttons and
+                      settings.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Customization at Your Fingertips
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      One of the most significant advantages of app-controlled
+                      coffee makers is the level of customization they offer.
+                      Through the app, you can adjust various parameters such as
+                      coffee strength, water temperature, and grind size with
+                      precision. This means you can tailor each cup to your
+                      exact taste preferences, ensuring a consistently
+                      delightful coffee experience.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Exploring New Horizons
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Beyond personalization, these apps often come with an
+                      array of coffee recipes and brewing tips from experts and
+                      coffee enthusiasts. It's an opportunity to expand your
+                      coffee horizons, experiment with new flavors, and discover
+                      unique brews you might have never tried otherwise. The app
+                      becomes your virtual barista, guiding you through the
+                      intricacies of coffee making.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Efficiency and Conservation
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      App-controlled coffee makers also contribute to efficiency
+                      and energy conservation. You can ensure the machine turns
+                      off automatically after brewing, reducing energy
+                      consumption. Additionally, many apps provide insights into
+                      your coffee consumption habits, helping you track usage
+                      and even order coffee supplies when you're running low,
+                      ensuring you never run out of your favorite beans.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: The Future of Coffee Brewing
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      As technology continues to advance, the capabilities of
+                      app-controlled coffee makers are poised to expand further.
+                      Artificial intelligence and machine learning algorithms
+                      may soon allow these machines to learn and adapt to your
+                      preferences over time, creating a truly personalized
+                      coffee experience.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      In conclusion, the "Brew Using Your Phone" trend is more
+                      than just a convenient novelty; it's a glimpse into the
+                      future of coffee making. By integrating our smartphones
+                      with espresso coffee makers, we gain unparalleled
+                      convenience, customization, and control over our daily
+                      coffee rituals. The perfect cup of espresso is now just a
+                      tap away, revolutionizing how we start our mornings and
+                      savor our coffee moments.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dans un monde où les smartphones font partie intégrante de
+                      notre vie quotidienne, ce n'était qu'une question de temps
+                      avant qu'ils ne s'invitent dans nos cuisines, transformant
+                      ainsi la façon dont nous préparons notre café du matin.
+                      Avec l’avènement des cafetières expresso intelligentes qui
+                      peuvent être contrôlées avec une simple application, vous
+                      pouvez désormais avoir votre tasse de café parfaite à
+                      portée de main.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: La révolution de l'espresso alimentée par une application
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Imaginez vous réveiller avec l'arôme d'un expresso
+                      fraîchement moulu, le tout sans quitter le confort de
+                      votre lit. Avec les cafetières expresso contrôlées par
+                      application, cette vision est désormais une réalité. Ces
+                      machines intelligentes s'intègrent parfaitement à votre
+                      smartphone, vous permettant de démarrer, de personnaliser
+                      et de surveiller votre processus de préparation du café à
+                      distance.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: La commodité redéfinie
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      La commodité de préparer du café avec votre téléphone ne
+                      peut être surestimée. Que vous soyez un professionnel
+                      occupé pressé de vous préparer le matin ou que vous
+                      cherchiez simplement à simplifier votre routine
+                      quotidienne, les machines à expresso contrôlées par
+                      application offrent une simplicité inégalée. Définissez un
+                      programme de préparation la veille et votre expresso sera
+                      prêt et vous attendra à votre réveil. Plus besoin de faire
+                      la queue au café ou de tâtonner avec des boutons et des
+                      réglages compliqués.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: La personnalisation à portée de main
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L’un des avantages les plus importants des cafetières
+                      contrôlées par application est le niveau de
+                      personnalisation qu’elles offrent. Grâce à l'application,
+                      vous pouvez ajuster avec précision divers paramètres tels
+                      que l'intensité du café, la température de l'eau et la
+                      taille de la mouture. Cela signifie que vous pouvez
+                      adapter chaque tasse à vos préférences gustatives exactes,
+                      garantissant ainsi une expérience de café toujours
+                      délicieuse.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Explorer de nouveaux horizons
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Au-delà de la personnalisation, ces applications proposent
+                      souvent une gamme de recettes de café et de conseils de
+                      préparation d'experts et de passionnés de café. C'est
+                      l'occasion d'élargir vos horizons en matière de café,
+                      d'expérimenter de nouvelles saveurs et de découvrir des
+                      infusions uniques que vous n'auriez peut-être jamais
+                      essayées autrement. L'application devient votre barista
+                      virtuel, vous guidant à travers les subtilités de la
+                      préparation du café.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Efficacité et conservation
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les cafetières contrôlées par application contribuent
+                      également à l’efficacité et à la conservation de
+                      l’énergie. Vous pouvez vous assurer que la machine
+                      s'éteint automatiquement après l'infusion, réduisant ainsi
+                      la consommation d'énergie. De plus, de nombreuses
+                      applications fournissent des informations sur vos
+                      habitudes de consommation de café, vous aidant à suivre
+                      votre consommation et même à commander des réserves de
+                      café lorsque vous en manquez, vous assurant ainsi de ne
+                      jamais manquer de vos grains préférés.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: L'avenir de la préparation du café
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      À mesure que la technologie continue de progresser, les
+                      capacités des cafetières contrôlées par application sont
+                      sur le point de se développer davantage. L’intelligence
+                      artificielle et les algorithmes d’apprentissage
+                      automatique pourraient bientôt permettre à ces machines
+                      d’apprendre et de s’adapter à vos préférences au fil du
+                      temps, créant ainsi une expérience café véritablement
+                      personnalisée.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "En conclusion, la tendance «\_Brew Using Your Phone\_» est plus qu'une simple nouveauté pratique\_; c'est un aperçu de l'avenir de la préparation du café. En intégrant nos smartphones aux cafetières expresso, nous bénéficions d’une commodité, d’une personnalisation et d’un contrôle inégalés sur nos rituels quotidiens du café. La tasse d'espresso parfaite est désormais à portée de main, révolutionnant la façon dont nous commençons nos matinées et savourons nos moments café."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      In een wereld waar smartphones een integraal onderdeel
+                      zijn van ons dagelijks leven, was het slechts een kwestie
+                      van tijd voordat ze hun weg naar onze keukens vonden en de
+                      manier waarop we onze ochtendkoffie zetten, transformeren.
+                      Met de komst van slimme espressomachines die met een
+                      simpele app kunnen worden bediend, heb je nu je perfecte
+                      kopje koffie binnen handbereik.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: De app-aangedreven espresso-revolutie
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Stel je voor dat je wakker wordt met de geur van vers
+                      gezette espresso, en dat allemaal zonder het comfort van
+                      je bed te verlaten. Met app-gestuurde espressomachines is
+                      deze visie nu werkelijkheid. Deze slimme machines
+                      integreren naadloos met uw smartphone, waardoor u uw
+                      koffiezetproces op afstand kunt starten, aanpassen en
+                      monitoren.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Gemak opnieuw gedefinieerd
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het gemak van koffie zetten met je telefoon kan niet
+                      genoeg worden benadrukt. Of u nu een drukke professional
+                      bent die zich 's ochtends haast heeft om zich klaar te
+                      maken of gewoon uw dagelijkse routine wilt vereenvoudigen,
+                      app-gestuurde espressomachines bieden ongeëvenaard gemak.
+                      Stel de avond ervoor een zetschema in, zodat uw espresso
+                      klaar staat als u wakker wordt. Nooit meer wachten in de
+                      rij bij de koffieshop of gedoe met ingewikkelde knoppen en
+                      instellingen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Maatwerk binnen handbereik
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Een van de belangrijkste voordelen van app-gestuurde
+                      koffiezetapparaten is de mate van maatwerk die ze bieden.
+                      Via de app pas je nauwkeurig verschillende parameters aan,
+                      zoals koffiesterkte, watertemperatuur en maalgraad. Dit
+                      betekent dat u elk kopje precies kunt afstemmen op uw
+                      smaakvoorkeuren, zodat u altijd verzekerd bent van een
+                      heerlijke koffie-ervaring.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Nieuwe horizonten verkennen
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Naast personalisatie worden deze apps vaak geleverd met
+                      een scala aan koffierecepten en zettips van experts en
+                      koffieliefhebbers. Het is een kans om je koffiehorizon te
+                      verbreden, te experimenteren met nieuwe smaken en unieke
+                      brouwsels te ontdekken die je anders misschien nooit zou
+                      hebben geprobeerd. De app wordt uw virtuele barista en
+                      leidt u door de fijne kneepjes van het koffiezetten.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Efficiëntie en behoud
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      App-gestuurde koffiezetapparaten dragen bovendien bij aan
+                      de efficiëntie en energiebesparing. U kunt ervoor zorgen
+                      dat de machine na het koffiezetten automatisch wordt
+                      uitgeschakeld, waardoor het energieverbruik wordt
+                      verminderd. Bovendien bieden veel apps inzicht in uw
+                      koffieconsumptiegewoonten, zodat u het verbruik kunt
+                      volgen en zelfs koffie kunt bestellen als uw koffie bijna
+                      op is, zodat u nooit zonder uw favoriete bonen komt te
+                      zitten.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: De toekomst van koffiezetten
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Naarmate de technologie zich blijft ontwikkelen, zullen de
+                      mogelijkheden van app-gestuurde koffiezetapparaten zich
+                      verder uitbreiden. Dankzij kunstmatige intelligentie en
+                      machine learning-algoritmen kunnen deze machines
+                      binnenkort leren en zich aanpassen aan uw voorkeuren,
+                      waardoor een echt gepersonaliseerde koffie-ervaring
+                      ontstaat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kortom, de trend "Brew Using Your Phone" is meer dan
+                      alleen een handige nieuwigheid; het is een kijkje in de
+                      toekomst van koffiezetten. Door onze smartphones te
+                      integreren met espressomachines krijgen we ongeëvenaard
+                      gemak, maatwerk en controle over onze dagelijkse
+                      koffierituelen. Het perfecte kopje espresso is nu slechts
+                      één tik verwijderd, wat een revolutie teweegbrengt in de
+                      manier waarop we onze ochtenden beginnen en van onze
+                      koffiemomenten genieten.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 9ed08cb5-54e2-46ea-9817-dabe09fa7710
+          type: image
+          fields:
+            id:
+              type: text
+              value: b6b47743-062a-4495-837f-748327f7cd19
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/QSlGV0I_Ro6QI2cTHJazIQ-controlling_your_coffee_maker_using_an_app.png
+              type: text
+            file:
+              type: file
+              value: 38119054-3ae3-4416-b911-a066137af576
+            size:
+              value: 1135626
+              type: number
+            title:
+              type: text
+              value: controlling_your_coffee_maker_using_an_app.png
+            width:
+              value: 1680
+              type: number
+            height:
+              value: 720
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Brewing coffee has gone high-tech with app-controlled espresso makers.
+          Customize, schedule, and savor your perfect cup, all from your
+          smartphone.
+        fr-CA: >-
+          Brewing Coffee est devenu High-Tech avec des fabricants d'expresso
+          contrôlés par APP.Personnalisez, planifiez et savourez votre tasse
+          parfaite, le tout à partir de votre smartphone.
+        nl-NL: >-
+          Het brouwen van koffie is hightech gegaan met app-gecontroleerde
+          espressomakers.Pas, planning en geniet van uw perfecte beker aan,
+          allemaal van uw smartphone.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

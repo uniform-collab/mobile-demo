@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 366a1b13-291c-48a5-a870-dd97148cfe56
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: free_shipping.svg
+    file:
+      type: file
+      value: 02886596-bb02-4982-8ec6-756e08b2a689
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/G22ZNaJHQxaxm44qz2YvhA-free_shipping.svg
+      type: text
+    size:
+      value: 4157
+      type: number
+    width:
+      value: 113
+      type: number
+    height:
+      value: 113
+      type: number
+    custom: {}
+created: '2024-02-28T12:34:22.525583+00:00'
+modified: '2024-02-28T13:32:03.181519+00:00'

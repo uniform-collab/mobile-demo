@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 4b15db5c-7029-47e1-afd0-984cefaf082a
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: hero_alt_4.webp
+    file:
+      type: file
+      value: 84e69f62-69cf-44fc-8beb-0f95438e8e50
+    mediaType:
+      value: image/webp
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/99YCuX1cSC6f7qo1xui7eA-hero_alt_4.webp
+      type: text
+    size:
+      value: 352516
+      type: number
+    width:
+      value: 2600
+      type: number
+    height:
+      value: 1300
+      type: number
+    custom: {}
+created: '2024-02-28T12:33:22.917132+00:00'
+modified: '2024-02-28T13:32:17.916449+00:00'

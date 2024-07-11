@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 2da32de8-de90-4e75-afe3-188b49937b1f
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: impresso-12-cup-perk-coffee-maker-94-2_zy1vfp_z55hov.jpg
+    file:
+      type: file
+      value: 13970406-a3ac-40c2-9f4c-e984a8e3ca43
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/y1vQBExFSMSXRgsLY7u8wQ-impresso-12-cup-perk-coffee-maker-94-2_zy1vfp_z55hov.jpg
+      type: text
+    size:
+      value: 91016
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:41:14.301919+00:00'
+modified: '2024-02-28T13:31:52.484991+00:00'

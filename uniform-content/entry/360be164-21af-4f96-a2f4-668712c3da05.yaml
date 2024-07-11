@@ -1,0 +1,318 @@
+created: '2024-02-28T12:53:33.569364+00:00'
+modified: '2024-02-28T13:36:28.813314+00:00'
+pattern: false
+entry:
+  _id: 360be164-21af-4f96-a2f4-668712c3da05
+  _name: Kosmic Coffee Pour-Over Glass Coffeemaker
+  _slug: kosmic-coffee-pour-over-glass-coffeemaker-120
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/yktqaKSbSEmRv9FLR5eLqA-kosmic-coffee-pour-over-glass-coffeemaker-120-1_dfhuqn_eyii5q.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      CHEMEX - simple, easy to use with timeless, elegant design
+                      All CHEMEX Coffeemakers are made of the highest quality,
+                      non-porous Borosilicate glass which will not absorb odors
+                      or chemical residues The patented CHEMEX pour-over design
+                      allows coffee to be covered and refrigerated for reheating
+                      without losing flavor All CHEMEX Coffeemakers are measured
+                      using 5 oz. as 1 cup Use CHEMEX Bonded Filters FP-1,
+                      FC-100, FS-100, FSU-100
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      CHEMEX - simple, facile à utiliser avec un design
+                      intemporel et élégant Toutes les cafetières CHEMEX sont
+                      fabriquées en verre borosilicate non poreux de la plus
+                      haute qualité qui n'absorbe pas les odeurs ni les résidus
+                      chimiques. La conception brevetée du verseur CHEMEX permet
+                      de couvrir et de réfrigérer le café pendant réchauffer
+                      sans perdre de saveur Toutes les cafetières CHEMEX sont
+                      mesurées à l'aide de 5 oz. pour 1 tasse Utilisez les
+                      filtres agglomérés CHEMEX FP-1, FC-100, FS-100, FSU-100
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      CHEMEX - eenvoudig, gemakkelijk te gebruiken met een
+                      tijdloos, elegant ontwerp Alle CHEMEX-koffiezetapparaten
+                      zijn gemaakt van de hoogste kwaliteit, niet-poreus
+                      borosilicaatglas dat geen geurtjes of chemische resten
+                      absorbeert. Dankzij het gepatenteerde
+                      CHEMEX-overschenkontwerp kan koffie worden afgedekt en
+                      gekoeld voor opwarmen zonder smaak te verliezen Alle
+                      CHEMEX-koffiezetapparaten worden gemeten met behulp van 5
+                      oz. als 1 kopje Gebruik CHEMEX Bonded Filters FP-1,
+                      FC-100, FS-100, FSU-100
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Kosmic Coffee Pour-Over Glass Coffeemaker
+    title:
+      type: text
+      value: Kosmic Coffee Pour-Over Glass Coffeemaker
+    category:
+      type: select
+      value: pour-over
+    variants:
+      type: $block
+      value:
+        - _id: dee91cc8-82b7-4877-b3f3-55b3a9080d11
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '120'
+            price:
+              type: number
+              locales:
+                en-US: '299.99'
+                fr-CA: '277.09'
+                nl-NL: '277.09'
+            title:
+              type: text
+              locales:
+                en-US: Kosmic Coffee Pour-Over Glass Coffeemaker
+                fr-CA: Kosmic Coffee Pour-Over Glass Coffeemaker
+                nl-NL: Kosmic Coffee Pour-Over Glass Coffeemaker
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: e03f51cb-4849-46a8-9de6-55b60f6879c8
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 774cbcaf-1af7-46c1-9422-3461487c0533
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/6PyDU1uoT_GdKye868lxgQ-kosmic-coffee-pour-over-glass-coffeemaker-120-1_dfhuqn_eyii5q.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: f6c88e95-cf14-481f-9c08-c13c3ca3284b
+                    size:
+                      value: 87488
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        kosmic-coffee-pour-over-glass-coffeemaker-120-1_dfhuqn_eyii5q.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 38b41f79-ba5c-47bd-9e0a-181d7861e22d
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: d628a010-2545-4d06-b4f9-90b535038e0e
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/pIF1ZC1lSSyZgyOdu2DzRA-kosmic-coffee-pour-over-glass-coffeemaker-120-2_avqwuf_hvca1y.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: ca9348d7-85b5-4b54-850b-e4bacdb7ae3a
+                    size:
+                      value: 214220
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        kosmic-coffee-pour-over-glass-coffeemaker-120-2_avqwuf_hvca1y.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 164720da-eef8-4add-a1e7-08f22d91c6de
+          type: image
+          fields:
+            id:
+              type: text
+              value: cb2b090a-b434-4a5f-b934-c1aeb407b186
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/yktqaKSbSEmRv9FLR5eLqA-kosmic-coffee-pour-over-glass-coffeemaker-120-1_dfhuqn_eyii5q.jpg
+              type: text
+            file:
+              type: file
+              value: e2dd7c15-8746-4a3e-a972-d54e67d5fe3c
+            size:
+              value: 87488
+              type: number
+            title:
+              type: text
+              value: >-
+                kosmic-coffee-pour-over-glass-coffeemaker-120-1_dfhuqn_eyii5q.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 7c770bea-0aae-4df4-bf46-b650361478ba
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 41049a9c-8383-4c95-8fab-d9978431cfac
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          CHEMEX - simple, easy to use with timeless, elegant design All CHEMEX
+          Coffeemakers are made of the highest quality, non-porous Borosilicate
+          glass which will not absorb odors or chemical residues The patented
+          CHEMEX pour-over design allows coffee to be covered and refrigerated
+          for reheating without losing flavor All CHEMEX Coffeemakers are
+          measured using 5 oz. as 1 cup Use CHEMEX Bonded Filters FP-1, FC-100,
+          FS-100, FSU-100
+        fr-CA: >-
+          CHEMEX - simple, facile à utiliser avec un design intemporel et
+          élégant Toutes les cafetières CHEMEX sont fabriquées en verre
+          borosilicate non poreux de la plus haute qualité qui n'absorbe pas les
+          odeurs ni les résidus chimiques. La conception brevetée du verseur
+          CHEMEX permet de couvrir et de réfrigérer le café pendant réchauffer
+          sans perdre de saveur Toutes les cafetières CHEMEX sont mesurées à
+          l'aide de 5 oz. pour 1 tasse Utilisez les filtres agglomérés CHEMEX
+          FP-1, FC-100, FS-100, FSU-100
+        nl-NL: >-
+          CHEMEX - eenvoudig, gemakkelijk te gebruiken met een tijdloos, elegant
+          ontwerp Alle CHEMEX-koffiezetapparaten zijn gemaakt van de hoogste
+          kwaliteit, niet-poreus borosilicaatglas dat geen geurtjes of chemische
+          resten absorbeert. Dankzij het gepatenteerde CHEMEX-overschenkontwerp
+          kan koffie worden afgedekt en gekoeld voor opwarmen zonder smaak te
+          verliezen Alle CHEMEX-koffiezetapparaten worden gemeten met behulp van
+          5 oz. als 1 kopje Gebruik CHEMEX Bonded Filters FP-1, FC-100, FS-100,
+          FSU-100
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

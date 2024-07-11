@@ -1,0 +1,121 @@
+created: '2024-02-28T12:52:32.512176+00:00'
+modified: '2024-02-28T12:52:32.512176+00:00'
+pattern: false
+entry:
+  _id: 46652048-19ec-45af-b2ad-4da60c5858a5
+  _name: Cervello di Caffe Overview
+  _slug: cervello-di-caffe-overview
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/iuvovDo1Saex6WOMws7tpQ-cervello_di_caffe_1.jpg
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 5cc3bd3f-ab72-4696-979b-3d79729d682c
+          type: image
+          fields:
+            id:
+              type: text
+              value: 0fd0a5d2-40b9-43ec-a7d9-e87bb47b2eda
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/iuvovDo1Saex6WOMws7tpQ-cervello_di_caffe_1.jpg
+              type: text
+            file:
+              type: file
+              value: 369bf04c-c148-4480-b6d7-7629d6cf184a
+            size:
+              value: 113554
+              type: number
+            title:
+              type: text
+              value: cervello_di_caffe_1.jpg
+            width:
+              value: 987
+              type: number
+            height:
+              value: 987
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Cervello di Caffe Overview
+        fr-CA: Présentation de Cervello Di Caffe
+        nl-NL: Cervello di Caffe Overzicht
+    productId:
+      type: text
+      value: cervello-di-caffe-140
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Caffé is distinct by design- created for those who want to reflect
+          their true style! Backed by showstopping features, every Caffé
+          appliance gives you trend forward style paired with the function
+          you've been craving. Now you can bring that exceptional style to your
+          countertops thanks to elegant and innovative espresso machines that
+          are as intelligent as they are beautiful. 
+
+
+          Featuring WiFi enabled and feature drink customization capabilities,
+          connected through the SmartHQ app and compatible with Alexa and Google
+          Home. 
+
+
+          The Built-in Steam Frother creates a variety of textures and
+          thicknesses and the Built-in Conical Burr Grinder delivers a
+          consistent grind with any bean roast and features an adjustable grind
+          size for ideal taste and aroma extraction. Built to showcase
+          individual style, this modern espresso machine is adorned with
+          signature copper accents that add sophistication to any countertop.
+        fr-CA: >-
+          Le café est distinct par le design - créé pour ceux qui veulent
+          refléter leur vrai style!Soutenu par des fonctionnalités de
+          showstopping, chaque appareil Caffé vous donne un style avant-gardiste
+          jumelé avec la fonction dont vous avez envie.Maintenant, vous pouvez
+          apporter ce style exceptionnel à vos comptoirs grâce à des machines à
+          expresso élégantes et innovantes qui sont aussi intelligentes que
+          belles.
+
+
+          Doté des capacités de personnalisation des boissons activées et
+          compatibles WiFi, connectées via l'application SMARTHQ et compatible
+          avec Alexa et Google Home.
+
+
+          Le frottement à vapeur intégré crée une variété de textures et
+          d'épaisses et le broyeur de bavures coniques intégré offre une mouture
+          cohérente avec tout rôti de haricots et dispose d'une taille de
+          mouture réglable pour un goût idéal et une extraction d'arôme.Conçu
+          pour présenter le style individuel, cette machine à expresso moderne
+          est ornée d'accents de cuivre signature qui ajoutent une
+          sophistication à n'importe quel comptoir.
+        nl-NL: >-
+          Caffé onderscheidt zich door ontwerp- gemaakt voor degenen die hun
+          ware stijl willen weerspiegelen!Gesteund door showstopping -functies,
+          geeft elk caffé -apparaat je trend voorwaartse stijl in combinatie met
+          de functie waar je naar verlangt.Nu kunt u die uitzonderlijke stijl
+          naar uw werkbladen brengen dankzij elegante en innovatieve
+          espressomachines die net zo intelligent zijn als mooi.
+
+
+          Met WiFi ingeschakeld en functies voor het aanpassing van drankjes,
+          verbonden via de SMARTHQ -app en compatibel met Alexa en Google Home.
+
+
+          De ingebouwde stoomzanger creëert een verscheidenheid aan texturen en
+          diktes en de ingebouwde conische braammolen levert een consistente
+          maling met eventuele bonenbraden en heeft een verstelbare maalgrootte
+          voor ideale smaak en aroma-extractie.Deze moderne espressomachine is
+          gebouwd om de individuele stijl te presenteren en is versierd met
+          kenmerkende koperen accenten die verfijning aan elk aanrecht
+          toevoegen.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

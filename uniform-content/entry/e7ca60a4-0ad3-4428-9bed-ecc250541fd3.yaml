@@ -1,0 +1,1197 @@
+created: '2024-02-28T12:53:17.26457+00:00'
+modified: '2024-02-28T12:53:17.26457+00:00'
+pattern: false
+entry:
+  _id: e7ca60a4-0ad3-4428-9bed-ecc250541fd3
+  _name: How to get the perfect grind for your beans at home
+  _slug: how-to-get-the-perfect-grind-for-your-beans-at-home
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/uSUuV-8PSSOF51pSzncWKw-grinding_article.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Beans
+    title:
+      type: text
+      locales:
+        en-US: How to get the perfect grind for your beans at home
+        fr-CA: Comment obtenir la mouture parfaite pour vos haricots à la maison
+        nl-NL: Hoe u de perfecte maling voor uw bonen thuis kunt krijgen
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Without even knowing it, you've probably grown up with the sound of coffee grinding. Think about the coffee aisle in the supermarket, where large industrial grinders take whole beans and divvy them into small pieces. The practice of coffee grinding is so ubiquitous that it's even a bonus task on the television show\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - mode: normal
+                    text: "Supermarket Sweep\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 2
+                    version: 1
+                  - mode: normal
+                    text: "— both the original show and the newly rebooted version. Contestants can patiently grind a bag of coffee for extra cash.\_Grinding coffee is an essential step in the brewing process, and with so many affordable options, it's a step you should consider taking out of the supermarket and into your home. Like many things at the supermarket, coffee is a food item that begins to get stale sooner if you grind it ahead of time. Grinding at home will allow you to enjoy the freshest, tastiest version of your favorite brew. Here's everything you need to know about how to grind for any situation."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Why the Grind Matters
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Grinding makes coffee particles small enough so that when you pour water, it can extract flavor. If you simply throw whole beans into your coffee brewer, you'll end up with slightly coffee-flavored water, because the water can't penetrate the beans and find all the good-tasting stuff we're looking for. Grind size \"ultimately impacts how water flows through the coffee bed, the corresponding extraction rate, and thus the final taste of the coffee you've brewed,\" says Sierra Yeo, the 2022 UK Brewers Cup Champion. Simply put, grinding coffee changes the available surface area for water to interact with coffee. The more surface area, the more water can mingle with, and pull flavor from, beans.\_One way to think about grind size is to visualize how water would flow through a bunch of rocks versus sand. Sand particles are much smaller and have more surface area, so water would move through much more slowly than through rocks. Ground coffee is the same: The finer the grind, the more slowly water will move, and vice-versa. You might think then that you should grind your coffee as fine as possible, but, like Goldilocks, there's a sweet spot where you want to extract enough — but not too much — from your coffee.\_Grinding isn't just about the size of your coffee particles but their shape and consistency. \"The geometry of your coffee grounds, the average size of your ground particles, even the composition of differently-sized-and-shaped particles can affect the final flavor,\" says Yeo. Water will move through your coffee at different rates if you have particles in your brew that are all different shapes. Very finely ground particles might get too much of their flavor pulled out (this is where you'll get more bitter notes, what we call \"over-extraction\"), while coarser ground particles won't get enough of their flavor pulled out (\"under extraction\"). If you have both going on in your brew, it won't just even out — the coffee will taste both bitter and sour simultaneously."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Types of Grinders
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "There are hundreds of grinders on the market, but most fall within two main categories:\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Blade grinders:'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: "\_Blade grinders have a propellor-like blade, usually powered by a motor, that chops coffee into smaller pieces. However, blade grinders are notorious for chopping coffee unevenly, creating particles of all sizes. If you grind coffee with a blade grinder, you sort of never know what you're going to get: you might have particles that are dust-like in size, and others that look like giant boulders (sometimes a bean or two might even escape the blade, and not be chopped at all).\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Burr grinders:\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: "Burrs are usually a set of plates that allow coffee beans to pass through, ensuring that they don't get \"chopped\" up again and making the resulting ground coffee much more even in size. Burrs can be made from stainless steel or porcelain, and you control the grind size by moving the burrs closer to, or further from, one another. Burr grinders can be automatic (you press a button, and it grinds) or manual (usually involving a crank one must turn).\_publishedGrinding Thumbnail"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: How to Grind Coffee Beans With a Grinder
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Before you begin, you should decide what brewer you will use and decide on a grind setting for that machine. You might have read somewhere that for a French press, for example, you're supposed to grind coarsely, and while that might work for you, it's important to know that there's no one right way to grind. \"There can be recommendations from manufacturers or experts in the field, but ultimately you can experiment to find out what flavor profile you prefer from your coffees and adjust your grind size to achieve that,\" says Yeo.\_The longer a coffee spends in contact with water, the coarser you'll grind. That's why you'll see coarser grind recommendations for French presses, which brew by being in direct contact with water for around four minutes, but for espresso, you might read that you have to grind very finely. But really, it's all about what works for you. \"Most brewers are versatile enough to accommodate a few grind size settings, recipe allowing,\" says Yeo. \"It's incredibly subjective.\"\_If you're not sure, use this as a general guide:\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Very coarse:'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: "\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 2
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Cold brew, since it steeps in water for anywhere between
+                      12 and 24 hours
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Coarse:'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: "\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 2
+                    version: 1
+                  - mode: normal
+                    text: "French press, but feel free to experiment! More and more, coffee folks are challenging the way traditional brew methods are often thought about, including experimenting with French press recipes.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Medium:'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: "\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 3
+                    version: 1
+                  - mode: normal
+                    text: Most automatic coffee brewers
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Medium-fine:\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: Pour over methods like a V60 or Kalita Wave
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Fine:\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: Espresso, Turkish coffee, Aeropress
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: ol
+                type: list
+                start: 1
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - type: listitem
+                    value: 1
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: 'Measure out your beans:'
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 1
+                        version: 1
+                      - mode: normal
+                        text: "It's helpful to have a scale for this step, so you'll know exactly how much coffee you're using. Many coffee brewing recipes recommend a 1:16 ratio of coffee to water. For a 12-ounce cup, that's about 25 grams of coffee.\_"
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - type: listitem
+                    value: 2
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: 'Pour beans into the hopper:'
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 1
+                        version: 1
+                      - mode: normal
+                        text: "The hopper is the chamber on top of your grinder. You might be tempted to fill the hopper with coffee, but it's better to store your coffee in the bag it came in, and then measure each dose per brew.\_"
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - type: listitem
+                    value: 3
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: 'Choose your grind setting:'
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 1
+                        version: 1
+                      - mode: normal
+                        text: "On many models, like the Encore, you switch the grind setting by moving the collar on the hopper. A smaller number corresponds with a finer grind, and a larger number coarser. This will look a little different, depending on the model.\_"
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - type: listitem
+                    value: 4
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: 'Press the button:'
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 1
+                        version: 1
+                      - mode: normal
+                        text: "Many grinders will have a manual button you need to press as you grind. (If you take your hand off the button, the grinder will stop.) Some grinders have timers you can set, so they grind with one tap. (The grinder in the photos below, a slightly more expensive model from Baratza called the Virtuoso, has this function.)\_"
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - type: listitem
+                    value: 5
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: "Brew and taste:\_"
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 1
+                        version: 1
+                      - mode: normal
+                        text: "It's hard to know by sight whether your grind setting is correct, so try brewing, and see what you taste. If you notice that your brew is going quickly, and the coffee tastes sour, you might need to grind more finely. If your brew clogs your machine, or the coffee tastes bitter, you might need to go coarser.\_"
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                listType: number
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Sans même le savoir, vous avez probablement grandi avec le bruit du café moulu. Pensez au rayon café du supermarché, où de grands moulins industriels prennent des grains entiers et les divisent en petits morceaux. La pratique de la mouture du café est si omniprésente qu'elle constitue même une tâche bonus dans l'émission télévisée\_Supermarket Sweep\_– à la fois l'émission originale et la version récemment redémarrée. Les participants peuvent patiemment moudre un sac de café pour gagner de l'argent supplémentaire. La mouture du café est une étape essentielle du processus de préparation, et avec autant d'options abordables, c'est une étape que vous devriez envisager de sortir du supermarché et de rentrer chez vous. Comme beaucoup de choses au supermarché, le café est un aliment qui commence à devenir rassis plus tôt si vous le moulez à l’avance. Le broyage à la maison vous permettra de savourer la version la plus fraîche et la plus savoureuse de votre infusion préférée. Voici tout ce que vous devez savoir sur la façon de vous adapter à n’importe quelle situation."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Pourquoi la mouture est importante
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Le broyage rend les particules de café suffisamment
+                      petites pour que lorsque vous versez de l'eau, elles
+                      puissent en extraire la saveur. Si vous jetez simplement
+                      des grains entiers dans votre cafetière, vous obtiendrez
+                      une eau légèrement aromatisée au café, car l'eau ne peut
+                      pas pénétrer dans les grains et trouver toutes les choses
+                      savoureuses que nous recherchons. La taille de la mouture
+                      « a en fin de compte un impact sur la façon dont l'eau
+                      s'écoule à travers le lit de café, sur le taux
+                      d'extraction correspondant et donc sur le goût final du
+                      café que vous avez infusé », explique Sierra Yeo,
+                      championne de la Brewers Cup du Royaume-Uni 2022. En
+                      termes simples, la mouture du café modifie la surface
+                      disponible pour que l'eau puisse interagir avec le café.
+                      Plus la surface est grande, plus l’eau peut se mélanger
+                      aux haricots et en extraire la saveur. Une façon de
+                      réfléchir à la taille de la mouture est de visualiser
+                      comment l'eau s'écoulerait à travers un tas de roches
+                      plutôt que du sable. Les particules de sable sont beaucoup
+                      plus petites et ont une plus grande surface, de sorte que
+                      l’eau se déplacerait beaucoup plus lentement qu’à travers
+                      les roches. Le café moulu est le même principe : plus la
+                      mouture est fine, plus l'eau circulera lentement, et vice
+                      versa. Vous pourriez alors penser que vous devriez moudre
+                      votre café aussi finement que possible, mais, comme Boucle
+                      d'or, il existe un point idéal où vous souhaitez extraire
+                      suffisamment – mais pas trop – de votre café. La mouture
+                      ne dépend pas seulement de la taille des particules de
+                      café, mais aussi de leur forme et de leur consistance. "La
+                      géométrie de votre marc de café, la taille moyenne de vos
+                      particules moulues, même la composition de particules de
+                      tailles et de formes différentes peuvent affecter la
+                      saveur finale", explique Yeo. L'eau se déplacera dans
+                      votre café à des vitesses différentes si vous avez des
+                      particules dans votre infusion qui sont toutes de formes
+                      différentes. Les particules très finement broyées risquent
+                      de perdre trop de leur saveur (c'est là que vous
+                      obtiendrez des notes plus amères, ce que nous appelons
+                      "surextraction"), tandis que les particules broyées plus
+                      grossières ne retireront pas assez de leur saveur ( "en
+                      cours d'extraction"). Si vous avez les deux dans votre
+                      infusion, ce ne sera pas tout simplement égal – le café
+                      aura un goût à la fois amer et aigre à la fois.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Types de broyeurs
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Il existe des centaines de broyeurs sur le marché, mais la
+                      plupart se répartissent en deux catégories principales :
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Moulins à lames
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: "\_:\_les moulins à lames ont une lame en forme d'hélice, généralement alimentée par un moteur, qui coupe le café en morceaux plus petits. Cependant, les moulins à lames sont connus pour hacher le café de manière inégale, créant des particules de toutes tailles. Si vous moudez du café avec un moulin à lames, vous ne savez jamais ce que vous obtiendrez : vous pourriez avoir des particules qui ressemblent à de la poussière, et d'autres qui ressemblent à des rochers géants (parfois un grain ou deux peuvent même s'échapper). la lame, et ne pas être hachée du tout)."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Moulins à meules
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: "\_:\_les meules sont généralement un ensemble de plaques qui permettent aux grains de café de passer à travers, garantissant qu'ils ne seront pas \"hachés\" à nouveau et rendant le café moulu obtenu beaucoup plus uniforme en taille. Les fraises peuvent être en acier inoxydable ou en porcelaine, et vous contrôlez la taille de la mouture en rapprochant ou en éloignant les fraises les unes des autres. Les broyeurs à meules peuvent être automatiques (vous appuyez sur un bouton et ils broient) ou manuels (impliquant généralement une manivelle qu'il faut tourner). publiéGrinding Thumbnail"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Comment moudre des grains de café avec un moulin
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Avant de commencer, vous devez décider quelle cafetière vous utiliserez et décider du réglage de mouture pour cette machine. Vous avez peut-être lu quelque part que pour une presse française, par exemple, vous êtes censé moudre grossièrement, et même si cela peut fonctionner pour vous, il est important de savoir qu'il n'y a pas qu'une seule bonne façon de moudre. \"Il peut y avoir des recommandations de fabricants ou d'experts dans le domaine, mais en fin de compte, vous pouvez expérimenter pour découvrir quel profil de saveur vous préférez pour vos cafés et ajuster la taille de votre mouture pour y parvenir\", explique Yeo. Plus un café reste longtemps en contact avec l’eau, plus sa mouture sera grossière. C'est pourquoi vous verrez des recommandations de mouture plus grossière pour les presses françaises, qui infusent en étant en contact direct avec de l'eau pendant environ quatre minutes, mais pour l'espresso, vous lirez peut-être qu'il faut moudre très finement. Mais en réalité, tout dépend de ce qui fonctionne pour vous. \"La plupart des cafetières sont suffisamment polyvalentes pour s'adapter à quelques réglages de mouture, selon la recette\", explique Yeo. \"C'est incroyablement subjectif.\" Si vous n'êtes pas sûr, utilisez ceci comme guide général\_:"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Très grossier\_: infusion à froid, car elle trempe dans l'eau entre 12 et 24\_heures."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Grossier\_:\_la presse française, mais n'hésitez pas à expérimenter\_! De plus en plus, les amateurs de café remettent en question la façon dont les méthodes de préparation traditionnelles sont souvent perçues, notamment en expérimentant des recettes de presse française."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Moyen\_:\_la plupart des cafetières automatiques"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Moyen-fin\_: versez sur des méthodes comme un V60 ou un Kalita Wave"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Fine\_:\_Espresso, café turc, Aeropress"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Mesurez vos grains : Il est utile d'avoir une balance pour
+                      cette étape, afin que vous sachiez exactement la quantité
+                      de café que vous utilisez. De nombreuses recettes de
+                      préparation de café recommandent un rapport café/eau de
+                      1:16. Pour une tasse de 12 onces, cela représente environ
+                      25 grammes de café.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Versez les grains dans la trémie : La trémie est la
+                      chambre au-dessus de votre moulin. Vous pourriez être
+                      tenté de remplir la trémie de café, mais il est préférable
+                      de conserver votre café dans le sac dans lequel il est
+                      arrivé, puis de mesurer chaque dose par infusion.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Choisissez votre réglage de mouture : Sur de nombreux
+                      modèles, comme l'Encore, vous changez le réglage de
+                      mouture en déplaçant le collier de la trémie. Un nombre
+                      plus petit correspond à une mouture plus fine et un nombre
+                      plus grand à une mouture plus grossière. Cela sera un peu
+                      différent selon le modèle.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Appuyez sur le bouton\_: de nombreux moulins auront un bouton manuel sur lequel vous devrez appuyer pendant que vous broyez. (Si vous retirez votre main du bouton, le moulin s'arrêtera.) Certains moulins ont des minuteries que vous pouvez régler, ils broient donc d'un seul coup. (Le broyeur sur les photos ci-dessous, un modèle légèrement plus cher de Baratza appelé Virtuoso, a cette fonction.)"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Infusion et goût\_:\_il est difficile de savoir visuellement si votre réglage de mouture est correct, alors essayez d'infuser et voyez ce que vous goûtez. Si vous remarquez que votre infusion se déroule rapidement et que le café a un goût aigre, vous devrez peut-être le moudre plus finement. Si votre infusion obstrue votre machine ou si le café a un goût amer, vous devrez peut-être devenir plus grossier."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Zonder het te weten ben je waarschijnlijk opgegroeid met
+                      het geluid van koffiemalen. Denk eens aan het koffiepad in
+                      de supermarkt, waar grote industriële molens hele bonen
+                      pakken en in kleine stukjes verdelen. Het malen van koffie
+                      is zo alomtegenwoordig dat het zelfs een bonustaak is in
+                      het tv-programma Supermarket Sweep, zowel in de originele
+                      serie als in de onlangs opnieuw opgestarte versie.
+                      Deelnemers kunnen geduldig een zak koffie malen voor extra
+                      geld. Het malen van koffie is een essentiële stap in het
+                      koffiezetproces, en omdat er zoveel betaalbare opties
+                      zijn, is het een stap die u zou moeten overwegen om de
+                      supermarkt uit en bij u thuis te halen. Zoals veel dingen
+                      in de supermarkt is koffie een voedselproduct dat eerder
+                      oud wordt als je het van tevoren maalt. Door thuis te
+                      malen, kunt u genieten van de meest verse, smakelijke
+                      versie van uw favoriete brouwsel. Hier vindt u alles wat u
+                      moet weten over hoe u voor elke situatie kunt grinden.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Waarom de maling ertoe doet
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Door het malen worden de koffiedeeltjes klein genoeg zodat
+                      er smaak aan kan worden onttrokken als je water giet. Als
+                      je gewoon hele bonen in je koffiezetapparaat gooit, krijg
+                      je water met een lichte koffiesmaak, omdat het water niet
+                      in de bonen kan dringen en al het lekkers kan vinden
+                      waarnaar we op zoek zijn. De maalgraad "heeft uiteindelijk
+                      invloed op de manier waarop het water door het koffiebed
+                      stroomt, de bijbehorende extractiesnelheid en dus de
+                      uiteindelijke smaak van de koffie die je hebt gezet", zegt
+                      Sierra Yeo, de UK Brewers Cup-kampioen van 2022. Simpel
+                      gezegd verandert het malen van koffie het beschikbare
+                      oppervlak waar water met koffie kan interageren. Hoe meer
+                      oppervlakte, hoe meer water zich kan vermengen met de
+                      bonen en de smaak eruit kan halen. Eén manier om na te
+                      denken over de maalgrootte is door te visualiseren hoe
+                      water door een hoop stenen versus zand zou stromen.
+                      Zanddeeltjes zijn veel kleiner en hebben een groter
+                      oppervlak, waardoor water er veel langzamer doorheen
+                      beweegt dan door rotsen. Gemalen koffie is hetzelfde: hoe
+                      fijner de maling, hoe langzamer het water beweegt, en
+                      omgekeerd. Je zou dan kunnen denken dat je je koffie zo
+                      fijn mogelijk moet malen, maar net als bij Goudlokje is er
+                      een punt waarop je voldoende – maar niet te veel – uit je
+                      koffie wilt halen. Bij het malen gaat het niet alleen om
+                      de grootte van de koffiedeeltjes, maar ook om hun vorm en
+                      consistentie. "De geometrie van uw koffiedik, de
+                      gemiddelde grootte van uw gemalen deeltjes en zelfs de
+                      samenstelling van deeltjes van verschillende grootte en
+                      vorm kunnen de uiteindelijke smaak beïnvloeden", zegt Yeo.
+                      Het water beweegt met verschillende snelheden door uw
+                      koffie als er deeltjes in uw koffie zitten die allemaal
+                      verschillende vormen hebben. Bij zeer fijngemalen deeltjes
+                      kan te veel van hun smaak verloren gaan (dit is waar je
+                      meer bittere tonen krijgt, wat wij "overextractie"
+                      noemen), terwijl bij grovere gemalen deeltjes niet genoeg
+                      van hun smaak wordt onttrokken ( "onder extractie"). Als
+                      je beide in je brouwsel gebruikt, wordt het niet alleen
+                      gelijkmatiger; de koffie zal tegelijkertijd zowel bitter
+                      als zuur smaken.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Soorten slijpmachines
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Er zijn honderden slijpmachines op de markt, maar de
+                      meeste vallen in twee hoofdcategorieën:
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Messlijpmachines
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      : Messlijpmachines hebben een propellerachtig mes, meestal
+                      aangedreven door een motor, die koffie in kleinere stukjes
+                      hakt. Mesmolens zijn er echter berucht om dat ze de koffie
+                      ongelijkmatig hakken, waardoor deeltjes van alle soorten
+                      en maten ontstaan. Als je koffie maalt met een mesmolen,
+                      weet je eigenlijk nooit wat je gaat krijgen: misschien heb
+                      je deeltjes die zo groot zijn als stof, en andere die op
+                      gigantische rotsblokken lijken (soms kunnen er zelfs een
+                      paar bonen ontsnappen het mes en mag helemaal niet worden
+                      gehakt).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Bramenmolens
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      : Bramen zijn meestal een set platen waar koffiebonen
+                      doorheen kunnen, zodat ze niet opnieuw worden "gehakt" en
+                      de resulterende gemalen koffie veel gelijkmatiger van
+                      formaat wordt. Bramen kunnen worden gemaakt van roestvrij
+                      staal of porselein, en u bepaalt de maalgrootte door de
+                      bramen dichter bij of verder van elkaar te plaatsen.
+                      Braamslijpmachines kunnen automatisch zijn (je drukt op
+                      een knop en hij maalt) of handmatig (meestal met een kruk
+                      die je moet draaien). gepubliceerdGrinding Thumbnail
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - tag: h2
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Hoe koffiebonen te malen met een molen
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Voordat u begint, moet u beslissen welke brewer u gaat
+                      gebruiken en de maalinstelling voor die machine bepalen.
+                      Je hebt misschien ergens gelezen dat je voor een Franse
+                      pers bijvoorbeeld grof moet malen, en hoewel dat voor jou
+                      misschien werkt, is het belangrijk om te weten dat er niet
+                      één juiste manier is om te malen. "Er kunnen aanbevelingen
+                      zijn van fabrikanten of experts in het veld, maar
+                      uiteindelijk kun je experimenteren om erachter te komen
+                      welk smaakprofiel je verkiest van je koffie en de
+                      maalgraad aanpassen om dat te bereiken", zegt Yeo. Hoe
+                      langer een koffie in contact komt met water, hoe grover je
+                      maalt. Daarom zie je grovere maalaanbevelingen voor Franse
+                      persen, die brouwen door ongeveer vier minuten in direct
+                      contact met water te staan, maar voor espresso lees je
+                      misschien dat je heel fijn moet malen. Maar eigenlijk gaat
+                      het erom wat voor jou werkt. "De meeste brouwers zijn
+                      veelzijdig genoeg om een paar maalinstellingen aan te
+                      passen, afhankelijk van het recept", zegt Yeo. "Het is
+                      ongelooflijk subjectief." Als u het niet zeker weet, kunt
+                      u dit als algemene richtlijn gebruiken:
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Zeer grof: Koud brouwen, omdat het tussen de 12 en 24 uur
+                      in water blijft trekken
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Grof:\_Franse pers, maar experimenteer gerust! Steeds meer stellen koffieliefhebbers de manier waarop traditionele brouwmethodes worden bedacht in vraag, inclusief het experimenteren met recepten uit de Franse pers."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Medium:\_De meeste automatische koffiezetapparaten"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Medium-fijn: Giet over methoden zoals een V60 of Kalita
+                      Wave
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Fijn: Espresso, Turkse koffie, Aeropress'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Meet uw bonen af: Het is handig om voor deze stap een
+                      weegschaal te hebben, zodat u precies weet hoeveel koffie
+                      u gebruikt. Veel recepten voor het zetten van koffie
+                      adviseren een verhouding van 1:16 tussen koffie en water.
+                      Voor een kopje van 12 ounce is dat ongeveer 25 gram
+                      koffie.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Giet bonen in de trechter: De trechter is de kamer bovenop
+                      uw molen. U komt misschien in de verleiding om het
+                      reservoir met koffie te vullen, maar het is beter om uw
+                      koffie in de zak te bewaren waarin deze is geleverd, en
+                      vervolgens elke dosis per zetsel af te meten.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kies je maalgraad: Bij veel modellen, zoals de Encore,
+                      verander je de maalgraad door de kraag op de trechter te
+                      bewegen. Een kleiner getal komt overeen met een fijnere
+                      maling, een groter getal grover. Afhankelijk van het model
+                      zal dit er enigszins anders uitzien.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Druk op de knop: Veel molens hebben een handmatige knop
+                      die u tijdens het malen moet indrukken. (Als u uw hand van
+                      de knop haalt, stopt de molen.) Sommige molens hebben
+                      timers die u kunt instellen, zodat ze met één tik kunnen
+                      malen. (De molen op de onderstaande foto's, een iets
+                      duurder model van Baratza genaamd de Virtuoso, heeft deze
+                      functie.)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Brouwen en proeven:\_Het is moeilijk om op het gezicht te zien of de maalgraad correct is, dus probeer het te zetten en kijk wat je proeft. Als u merkt dat de koffie snel klaar is en de koffie zuur smaakt, moet u mogelijk fijner malen. Als uw koffiezet uw machine verstopt, of als de koffie bitter smaakt, moet u wellicht grover gaan."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 1cf1214c-31cb-4a02-b0a9-78ac28a822af
+          type: image
+          fields:
+            id:
+              type: text
+              value: ceba8361-cad0-42dc-99d0-6f83e8ab7cc0
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/uSUuV-8PSSOF51pSzncWKw-grinding_article.jpg
+              type: text
+            file:
+              type: file
+              value: dffdb526-6422-479f-8d58-49519ef3e5b2
+            size:
+              value: 205856
+              type: number
+            title:
+              type: text
+              value: grinding_article.jpg
+            width:
+              value: 686
+              type: number
+            height:
+              value: 338
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Cappuccino as Bar decaffeinated Beans carajillo aged extra, redeye ut
+          Black aroma Aromatic As Aftertaste, single au barista Arabica bar
+          aftertaste.
+        fr-CA: >-
+          Cappuccino comme des haricots décaféinés de bar carajillo âgés
+          supplémentaires, redeye ut aroma noir aromatique comme arrière-goût,
+          simple barista arabica barfaste.
+        nl-NL: >-
+          Cappuccino als barekachtige bonen Carajillo verouderd extra, redeye ut
+          zwart aroma aromatisch als aftaste, single au barista arabica bar
+          nasmaste.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

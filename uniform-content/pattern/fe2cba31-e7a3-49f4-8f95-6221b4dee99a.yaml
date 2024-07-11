@@ -1,0 +1,192 @@
+composition:
+  _name: Card Block - products selector (uc)
+  _id: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+  type: cardBlock
+  variant: carousel
+  parameters:
+    title:
+      type: text
+      locales:
+        en-CA: Recommended Products
+        en-GB: Recommended Products
+        en-NL: Recommended Products
+        en-US: Recommended Products
+        fr-CA: Produits recommandés
+        nl-NL: Aangeraden producten
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h2
+    buttonStyle:
+      type: tp-button-style-parameter
+      value: primary
+  slots:
+    cardBlockInner:
+      - _id: ce33805b-4f53-459d-8c1b-b31e7371bc25
+        type: $loop
+        slots:
+          body:
+            - _id: 98ef4404-7adc-4d1b-bd62-e17bc229352b
+              type: card
+              parameters:
+                badge:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/category/value}
+                    en-GB: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/category/value}
+                    en-NL: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/category/value}
+                    en-US: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/category/value}
+                    fr-CA: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/category/value}
+                    nl-NL: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/category/value}
+                image:
+                  type: asset
+                  value: >-
+                    ${#jptr:/Product Content results Loop
+                    Item/entry/fields/primaryImage/value}
+                title:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/name/value}
+                    en-GB: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/name/value}
+                    en-NL: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/name/value}
+                    en-US: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/name/value}
+                    fr-CA: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/name/value}
+                    nl-NL: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/name/value}
+                badgeSize:
+                  type: select
+                  value: md
+                objectFit:
+                  type: select
+                  value: cover
+                badgeStyle:
+                  type: tp-badge-style-parameter
+                  value: accent
+                buttonCopy:
+                  type: text
+                  locales:
+                    en-CA: See Details
+                    en-GB: See Details
+                    en-NL: See Details
+                    en-US: See Details
+                    fr-CA: Voir les détails
+                    nl-NL: Zie de details
+                buttonStyle:
+                  type: tp-button-style-parameter
+                  value: primary
+                description:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/shortDescription/value}
+                    en-GB: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/shortDescription/value}
+                    en-NL: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/shortDescription/value}
+                    en-US: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/shortDescription/value}
+                    fr-CA: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/shortDescription/value}
+                    nl-NL: >-
+                      ${#jptr:/Product Content results Loop
+                      Item/entry/fields/shortDescription/value}
+                lineCountRestriction:
+                  type: tp-slider-parameter
+                  value: '5'
+              _overridability:
+                variants: true
+                parameters:
+                  slug: 'yes'
+                  badge: 'yes'
+                  delay: 'yes'
+                  image: 'yes'
+                  title: 'yes'
+                  duration: 'yes'
+                  badgeSize: 'yes'
+                  group_cta: 'yes'
+                  objectFit: 'yes'
+                  badgeStyle: 'yes'
+                  buttonCopy: 'yes'
+                  buttonLink: 'yes'
+                  buttonStyle: 'yes'
+                  description: 'yes'
+                  group_badge: 'yes'
+                  overlayColor: 'yes'
+                  animationType: 'yes'
+                  group_content: 'yes'
+                  overlayOpacity: 'yes'
+                  animationPreview: 'yes'
+                  textColorVariant: 'yes'
+                  group_description: 'yes'
+                  buttonAnimationType: 'yes'
+                  lineCountRestriction: 'yes'
+        _dataResources:
+          Product Content results Loop Item:
+            type: sys-reserved-loop
+            variables:
+              connectedData: /Products Content/entries
+  _dataResources:
+    Products Content:
+      type: products
+      variables:
+        body: >-
+          {"requests":[{"indexName":"products-ngm","objectID":"black-mountain-pour-over-coffee-maker-97"},{"indexName":"products-ngm","objectID":"black-mountain-french-press-coffee-maker-126"}]}
+        locale: ${locale}
+        entryIds: >-
+          78b19a41-a2f3-4ed8-9101-6954917d8d56,69fea17b-b253-4c51-aba9-e1a6030d8dfa
+        facetValue: ''
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      title: 'yes'
+      group_cta: 'yes'
+      buttonCopy: 'yes'
+      buttonLink: 'yes'
+      titleStyle: 'yes'
+      buttonStyle: 'yes'
+      description: 'yes'
+      group_content: 'yes'
+      textColorVariant: 'yes'
+      buttonAnimationType: 'yes'
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:36.446346+00:00'
+modified: '2024-02-28T12:50:36.446346+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Card_block_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

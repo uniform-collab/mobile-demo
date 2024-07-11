@@ -1,0 +1,9 @@
+id: 717cfde5-dd81-400d-adfe-270b89003c50
+name: Checkout
+order: 500
+path: /:locale/shopping-cart/checkout
+type: composition
+pathSegment: checkout
+data: {}
+compositionId: 90ea578e-aa29-4fa7-8b2d-4b2b1473d036
+projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c

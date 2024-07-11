@@ -1,0 +1,127 @@
+composition:
+  _name: Hero - Promotion (cs)
+  _id: 056dd248-18e8-4997-aa1f-5727bb268979
+  type: hero
+  variant: imageLeft
+  parameters:
+    image:
+      type: asset
+      value:
+        - _id: 6a023ef7-31eb-4d1b-a5e5-9581d20a04f5
+          type: image
+          fields:
+            url:
+              type: text
+              value: ${#jptr:/Promotion Content/entry/image}
+          _source: custom-url
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Promotion Content/entry/title}
+        en-GB: ${#jptr:/Promotion Content/entry/title}
+        en-NL: ${#jptr:/Promotion Content/entry/title}
+        en-US: ${#jptr:/Promotion Content/entry/title}
+        fr-CA: ${#jptr:/Promotion Content/entry/title}
+        nl-NL: ${#jptr:/Promotion Content/entry/title}
+    marginTop:
+      type: select
+      value: None
+    textColor:
+      type: tp-color-palette-parameter
+      value: primary-content
+    paddingTop:
+      type: select
+      value: None
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h2
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Promotion Content/entry/description}
+        en-GB: ${#jptr:/Promotion Content/entry/description}
+        en-NL: ${#jptr:/Promotion Content/entry/description}
+        en-US: ${#jptr:/Promotion Content/entry/description}
+        fr-CA: ${#jptr:/Promotion Content/entry/description}
+        nl-NL: ${#jptr:/Promotion Content/entry/description}
+    eyebrowText:
+      type: text
+      locales:
+        en-CA: promotions
+        en-GB: promotions
+        en-NL: promotions
+        en-US: promotions
+        fr-CA: promotions
+        nl-NL: promoties
+    marginBottom:
+      type: select
+      value: None
+    paddingBottom:
+      type: select
+      value: None
+    backgroundColor:
+      type: tp-color-palette-parameter
+      value: primary
+    containerVariant:
+      type: select
+      value: fluidContent
+  _dataResources:
+    Promotion Content:
+      type: contentstackPromotion
+      variables:
+        query: ''
+        locale: ${locale}
+        include: ''
+        entry_uid: blta231cffd0dec3719
+        content_type_uid: content_block
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      delay: 'yes'
+      image: 'yes'
+      title: 'yes'
+      video: 'yes'
+      duration: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      textColor: 'yes'
+      fullHeight: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      animationType: 'yes'
+      paddingBottom: 'yes'
+      animationOrder: 'yes'
+      backgroundType: 'yes'
+      overlayOpacity: 'yes'
+      backgroundColor: 'yes'
+      animationPreview: 'yes'
+      containerVariant: 'yes'
+      textColorVariant: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      primaryButtonStyle: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:53.697935+00:00'
+modified: '2024-02-28T13:35:50.00516+00:00'
+pattern: true
+description: Marketing Promotion in a hero layout
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Hero_promotion_preview_image
+categoryId: 04ee1e2d-be2f-412f-8ce5-d1d9dd56f27d

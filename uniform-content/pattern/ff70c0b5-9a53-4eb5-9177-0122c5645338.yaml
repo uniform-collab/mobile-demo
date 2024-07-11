@@ -1,0 +1,127 @@
+composition:
+  _name: Form - with CTA (cf)
+  _id: ff70c0b5-9a53-4eb5-9177-0122c5645338
+  type: emailSignupForm
+  parameters:
+    image:
+      type: asset
+      value:
+        - _id: 15ee7789-695d-486a-84fa-9eb38257ea3b
+          type: image
+          fields:
+            id:
+              type: text
+              value: f6526b0d-5c64-4d58-bf35-c3df3aeb5c53
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Zo91Jh6MRy-m3OYcS3kw4A-rectangle.png
+              type: text
+            file:
+              type: file
+              value: 39c873d8-f618-46a0-974e-f66548498a92
+            size:
+              value: 1995981
+              type: number
+            title:
+              type: text
+              value: rectangle.png
+            width:
+              value: 1600
+              type: number
+            height:
+              value: 689
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Call To Action Content/fields/title}
+        en-GB: ${#jptr:/Call To Action Content/fields/title}
+        en-NL: ${#jptr:/Call To Action Content/fields/title}
+        en-US: ${#jptr:/Call To Action Content/fields/title}
+        fr-CA: ${#jptr:/Call To Action Content/fields/title}
+        nl-NL: ${#jptr:/Call To Action Content/fields/title}
+    marginTop:
+      type: select
+      value: None
+    objectFit:
+      type: select
+      value: fill
+    buttonCopy:
+      type: text
+      locales:
+        en-US: Register
+    paddingTop:
+      type: select
+      value: None
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h2
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Call To Action Content/fields/description}
+        en-GB: ${#jptr:/Call To Action Content/fields/description}
+        en-NL: ${#jptr:/Call To Action Content/fields/description}
+        en-US: ${#jptr:/Call To Action Content/fields/description}
+        fr-CA: ${#jptr:/Call To Action Content/fields/description}
+        nl-NL: ${#jptr:/Call To Action Content/fields/description}
+    marginBottom:
+      type: select
+      value: None
+    overlayColor:
+      type: tp-color-style-parameter
+      value: base-300
+    paddingBottom:
+      type: select
+      value: None
+    overlayOpacity:
+      type: tp-slider-parameter
+      value: 50%
+    containerVariant:
+      type: select
+      value: fluidContent
+  _dataResources:
+    Call To Action Content:
+      type: contentfulCallToAction
+      variables:
+        locale: ${locale}
+        entryIds: 4ffZtYHwQooZM5QExWRfu8
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    parameters:
+      image: 'yes'
+      title: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      buttonCopy: 'yes'
+      buttonLink: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      buttonStyle: 'yes'
+      description: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      paddingBottom: 'yes'
+      backgroundType: 'yes'
+      overlayOpacity: 'yes'
+      containerVariant: 'yes'
+      buttonAnimationType: 'yes'
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T13:35:52.582946+00:00'
+modified: '2024-02-28T13:35:52.582946+00:00'
+pattern: true
+description: Opt-in form with CTA in Hero type layout
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Form_with_CTA_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

@@ -1,0 +1,292 @@
+created: '2024-02-28T12:53:39.528119+00:00'
+modified: '2024-02-28T13:36:58.007611+00:00'
+pattern: false
+entry:
+  _id: 72b49ac2-bbf3-48a7-b522-0947483e9131
+  _name: Medium Roast Coffee
+  _slug: medium-roast-coffee-81
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EeI8KpOBRdeqCKQgjGeANg-medium-roast-coffee-81-1_jvv1jh_vu6o73.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Medium Roast Coffee: Our Breakfast Blend light roast whole
+                      bean coffee is the perfect morning coffee to ease you into
+                      your day. Sustainable Light Roast Coffee Beans: Our coffee
+                      is made with premium quality Arabica coffee beans from
+                      Central and South America. They are grown, sourced and
+                      packaged responsibly, after being roasted fresh in
+                      Seattle, USA.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Café à torréfaction moyenne\_: Notre café en grains entiers à torréfaction légère Breakfast Blend est le café du matin parfait pour vous faciliter la journée. Grains de café torréfiés durablement légers : notre café est fabriqué avec des grains de café Arabica de qualité supérieure provenant d'Amérique centrale et d'Amérique du Sud. Ils sont cultivés, achetés et emballés de manière responsable, après avoir été torréfiés frais à Seattle, aux États-Unis."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Medium Roast Coffee: Onze Breakfast Blend licht gebrande
+                      koffie van hele bonen is de perfecte ochtendkoffie om u op
+                      uw gemak te laten genieten van uw dag. Duurzame licht
+                      gebrande koffiebonen: onze koffie is gemaakt met
+                      Arabica-koffiebonen van topkwaliteit uit Midden- en
+                      Zuid-Amerika. Ze worden op verantwoorde wijze geteeld,
+                      ingekocht en verpakt, nadat ze vers zijn geroosterd in
+                      Seattle, VS.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Medium Roast Coffee
+    title:
+      type: text
+      value: Medium Roast Coffee
+    category:
+      type: select
+      value: liberica
+    variants:
+      type: $block
+      value:
+        - _id: 558a4616-4698-4be2-a0ad-e9748ca50d0d
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '81'
+            price:
+              type: number
+              locales:
+                en-US: '12.99'
+                fr-CA: '12.00'
+                nl-NL: '12.00'
+            title:
+              type: text
+              locales:
+                en-US: Medium Roast Coffee
+                fr-CA: Medium Roast Coffee
+                nl-NL: Medium Roast Coffee
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 6f42ff2d-0e45-4dfb-bd1f-490ebf02d1af
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 103306a0-7f42-42fb-805f-b77f3f91ee70
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/UqC1BHRERwGLt0hjxjlskw-medium-roast-coffee-81-2_g5le06_tcuz01.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: a7a609f3-4912-4488-b6fe-9e619ca2209f
+                    size:
+                      value: 753423
+                      type: number
+                    title:
+                      type: text
+                      value: medium-roast-coffee-81-2_g5le06_tcuz01.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: e8053891-6910-44e4-9063-9bb298d3649b
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: d6a37081-18dc-4ddc-b3a6-eb39279d5161
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/y8uuIMgwTl63f8Md71O-Hw-medium-roast-coffee-81-1_jvv1jh_vu6o73.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 29b56af5-efe8-4ce3-98c5-a17afa787608
+                    size:
+                      value: 93338
+                      type: number
+                    title:
+                      type: text
+                      value: medium-roast-coffee-81-1_jvv1jh_vu6o73.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 0c54d090-98dd-4d64-ae9a-23486bda83cf
+          type: image
+          fields:
+            id:
+              type: text
+              value: f7fb54c6-f2e4-4440-9940-947bd76ea415
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EeI8KpOBRdeqCKQgjGeANg-medium-roast-coffee-81-1_jvv1jh_vu6o73.jpg
+              type: text
+            file:
+              type: file
+              value: c726a158-cf95-47f8-853c-a74ebb2922d9
+            size:
+              value: 93338
+              type: number
+            title:
+              type: text
+              value: medium-roast-coffee-81-1_jvv1jh_vu6o73.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: d5432af7-315d-400a-bef5-2fac3c58cdf0
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 3a727298-7d0d-4626-89e9-adccce8109b0
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Medium Roast Coffee: Our Breakfast Blend light roast whole bean coffee
+          is the perfect morning coffee to ease you into your day. Sustainable
+          Light Roast Coffee Beans: Our coffee is made with premium quality
+          Arabica coffee beans from Central and South America. They are grown,
+          sourced and packaged responsibly, after being roasted fresh in
+          Seattle, USA.
+        fr-CA: "Café à torréfaction moyenne\_: Notre café en grains entiers à torréfaction légère Breakfast Blend est le café du matin parfait pour vous faciliter la journée. Grains de café torréfiés durablement légers : notre café est fabriqué avec des grains de café Arabica de qualité supérieure provenant d'Amérique centrale et d'Amérique du Sud. Ils sont cultivés, achetés et emballés de manière responsable, après avoir été torréfiés frais à Seattle, aux États-Unis."
+        nl-NL: >-
+          Medium Roast Coffee: Onze Breakfast Blend licht gebrande koffie van
+          hele bonen is de perfecte ochtendkoffie om u op uw gemak te laten
+          genieten van uw dag. Duurzame licht gebrande koffiebonen: onze koffie
+          is gemaakt met Arabica-koffiebonen van topkwaliteit uit Midden- en
+          Zuid-Amerika. Ze worden op verantwoorde wijze geteeld, ingekocht en
+          verpakt, nadat ze vers zijn geroosterd in Seattle, VS.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

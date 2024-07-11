@@ -1,0 +1,16 @@
+id: isCartEmpty
+name: Is Cart Empty
+cap: 1
+crit:
+  op: '&'
+  type: G
+  clauses:
+    - key: isCartEmpty
+      type: QK
+      match:
+        cs: false
+        op: '='
+        rhs: 'true'
+dur: t
+description: Visitor cart is empty
+str: 1

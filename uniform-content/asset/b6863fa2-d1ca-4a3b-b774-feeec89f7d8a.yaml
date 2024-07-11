@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: b6863fa2-d1ca-4a3b-b774-feeec89f7d8a
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: fold-away-frother_fkxh99_ngusb4.jpg
+    file:
+      type: file
+      value: a6e006d7-d5cf-40b9-9cbe-6b9c40ef863d
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/r9oT5ep_S9aZtywuQJj4pQ-fold-away-frother_fkxh99_ngusb4.jpg
+      type: text
+    size:
+      value: 3760
+      type: number
+    width:
+      value: 250
+      type: number
+    height:
+      value: 250
+      type: number
+    custom: {}
+created: '2024-02-28T12:49:21.150332+00:00'
+modified: '2024-02-28T13:33:58.079305+00:00'

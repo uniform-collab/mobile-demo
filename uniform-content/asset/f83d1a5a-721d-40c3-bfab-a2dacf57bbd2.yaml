@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: f83d1a5a-721d-40c3-bfab-a2dacf57bbd2
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: person_photo_3.jpg
+    file:
+      type: file
+      value: dc699639-71e4-461c-9f16-c1eb1133abed
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/ES0_6IEvRn-ToewkkjwuKw-person_photo_3.jpg
+      type: text
+    size:
+      value: 5865
+      type: number
+    width:
+      value: 256
+      type: number
+    height:
+      value: 256
+      type: number
+    custom: {}
+created: '2024-02-28T12:36:06.724077+00:00'
+modified: '2024-02-28T13:35:14.908278+00:00'

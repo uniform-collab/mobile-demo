@@ -1,0 +1,53 @@
+created: '2024-02-28T12:54:17.602005+00:00'
+modified: '2024-02-28T12:54:17.602005+00:00'
+pattern: false
+entry:
+  _id: 649b782f-9d2b-4240-b596-2175e55b0a5f
+  _name: Welcome to baseline
+  _slug: welcome-to-baseline
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/alV4ssE6QHy1X_4-wkPRGQ-smart_feature_2.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: ef879322-ac1e-4b06-ac23-457976e0f55e
+          type: image
+          fields:
+            id:
+              type: text
+              value: b8baf1d2-9f1e-47cd-be64-df16ac8cbf9d
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/alV4ssE6QHy1X_4-wkPRGQ-smart_feature_2.webp
+              type: text
+            file:
+              type: file
+              value: 47d04de5-cf37-4d95-881e-6c61f7cfde5f
+            size:
+              value: 46628
+              type: number
+            title:
+              type: text
+              value: smart_feature_2.webp
+            width:
+              value: 1224
+              type: number
+            height:
+              value: 872
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Welcome to baseline
+        fr-CA: Bienvenue à la ligne de base
+        nl-NL: Welkom bij Baseline
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

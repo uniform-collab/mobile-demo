@@ -1,0 +1,122 @@
+composition:
+  _name: Checkout
+  _id: 90ea578e-aa29-4fa7-8b2d-4b2b1473d036
+  _slug: checkout
+  type: page
+  parameters:
+    pageTitle:
+      type: text
+      locales:
+        en-CA: Checkout Page
+        en-GB: Checkout Page
+        en-NL: Checkout Page
+        en-US: Checkout Page
+        fr-CA: Page de paiement
+        nl-NL: Afrekenpagina
+  slots:
+    pageContent:
+      - _id: 57fd200f-027b-49dd-bf54-e2a5d8a7b06a
+        type: hero
+        variant: backgroundImage
+        parameters:
+          image:
+            type: asset
+            value:
+              - _id: e345f1ae-526a-455e-b940-69bd02da2e45
+                type: image
+                fields:
+                  id:
+                    type: text
+                    value: 257965d2-25e9-41fb-92b2-fc22ca5b10e2
+                  url:
+                    value: >-
+                      https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/8QTpF5EIRNe5lHQoQ8Ibiw-cervello_smart_landing_hero4.jpg
+                    type: text
+                  file:
+                    type: file
+                    value: 086a6410-2dbc-4c2a-a4e8-ef55cec5de80
+                  size:
+                    value: 945417
+                    type: number
+                  title:
+                    type: text
+                    value: cervello_smart_landing_hero4.jpg
+                  width:
+                    value: 2600
+                    type: number
+                  height:
+                    value: 1300
+                    type: number
+                  mediaType:
+                    value: image/jpeg
+                    type: text
+                _source: uniform-assets
+          title:
+            type: text
+            locales:
+              en-CA: >-
+                Don't wait! Click the "Checkout" button and experience the
+                difference today.
+              en-GB: >-
+                Don't wait! Click the "Checkout" button and experience the
+                difference today.
+              en-NL: >-
+                Don't wait! Click the "Checkout" button and experience the
+                difference today.
+              en-US: >-
+                Don't wait! Click the "Checkout" button and experience the
+                difference today.
+              fr-CA: >-
+                N'attendez pas ! Cliquez sur le bouton "Checkout" et découvrez
+                la différence dès aujourd'hui.
+              nl-NL: >-
+                Wacht niet langer! Klik op de knop "Afrekenen" en ervaar vandaag
+                nog het verschil.
+          objectFit:
+            type: select
+            value: cover
+          textColor:
+            type: tp-color-palette-parameter
+            value: primary-content
+          titleStyle:
+            type: tp-title-style-parameter
+            value: h1
+          eyebrowText:
+            type: text
+            locales:
+              en-CA: Ready to checkout?
+              en-GB: Ready to checkout?
+              en-NL: Ready to checkout?
+              en-US: Ready to checkout?
+              fr-CA: Prêt à passer à la caisse ?
+              nl-NL: Klaar om af te rekenen?
+          overlayColor:
+            type: tp-color-style-parameter
+            value: base-300
+          overlayOpacity:
+            type: tp-slider-parameter
+            value: 60%
+          containerVariant:
+            type: select
+            value: fluidContent
+      - _id: 8fe9cc48-9429-4bb3-bc9e-1a92d5c10117
+        type: container
+        slots:
+          container-inner:
+            - _id: 5a80befa-5a2a-4797-8afd-d5426620806d
+              type: checkoutContent
+        parameters:
+          title:
+            type: text
+            locales:
+              en-US: Checkout content
+  _locales:
+    - en-US
+    - fr-CA
+    - nl-NL
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:50:37.648584+00:00'
+modified: '2024-03-19T10:25:12.615257+00:00'
+pattern: false

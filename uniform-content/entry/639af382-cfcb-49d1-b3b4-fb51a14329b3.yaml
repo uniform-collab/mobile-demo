@@ -1,0 +1,1507 @@
+created: '2024-02-28T12:53:54.193565+00:00'
+modified: '2024-03-29T09:42:16.194914+00:00'
+pattern: false
+entry:
+  _id: 639af382-cfcb-49d1-b3b4-fb51a14329b3
+  _name: Site Translations
+  _slug: translations
+  type: translations
+  fields:
+    title:
+      type: text
+      value: Site Translations
+    translations:
+      type: $block
+      value:
+        - _id: 5e05935e-ad73-4354-9765-65a77eba0b86
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Home
+            value:
+              type: text
+              locales:
+                en-US: Home
+                fr-CA: Maison
+                nl-NL: Thuis
+        - _id: 2fdeb0b0-961a-4295-aba9-eeed00f9dc42
+          type: translation
+          fields:
+            key:
+              type: text
+              value: JavaDrip Specialty Launch
+            value:
+              type: text
+              locales:
+                en-US: JavaDrip Specialty Launch
+                fr-CA: Lancement de la spécialité JavaDrip
+                nl-NL: Lancering van JavaDrip-specialiteit
+        - _id: f130bd1e-3f41-468e-81a2-a5e1d9f8e437
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Coffee Makers
+            value:
+              type: text
+              locales:
+                en-US: Coffee Makers
+                fr-CA: Cafetières
+                nl-NL: Koffie makers
+        - _id: b3c732da-df0c-4da8-b150-39896692d76e
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Beans
+            value:
+              type: text
+              locales:
+                en-US: Beans
+                fr-CA: Haricots
+                nl-NL: Bonen
+        - _id: 1c43adeb-0558-425b-8d23-40a825221200
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Articles
+            value:
+              type: text
+              locales:
+                en-US: Articles
+                fr-CA: Des articles
+                nl-NL: Lidwoord
+        - _id: 5919cb4b-0136-49d1-90a8-a458a63dc672
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Shopping Cart
+            value:
+              type: text
+              locales:
+                en-US: Shopping Cart
+                fr-CA: Panier
+                nl-NL: Winkelmand
+        - _id: 24c7719f-3bbb-4952-ab06-a106a16a023b
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Checkout
+            value:
+              type: text
+              locales:
+                en-US: Checkout
+                fr-CA: Vérifier
+                nl-NL: Uitchecken
+        - _id: 6ce93c51-2cbd-445b-9b90-00f8356b1ca7
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Checkout Success
+            value:
+              type: text
+              locales:
+                en-US: Checkout Success
+                fr-CA: Réussite du paiement
+                nl-NL: Afrekenen succes
+        - _id: 989e61a4-8ede-4acb-a9b8-07dcac0f75c5
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Profile
+            value:
+              type: text
+              locales:
+                en-US: Profile
+                fr-CA: Profil
+                nl-NL: Profiel
+        - _id: eeb6c75e-d7a0-4684-a7b8-d527ba0a9fe8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: About Us
+            value:
+              type: text
+              locales:
+                en-US: About Us
+                fr-CA: À propos de nous
+                nl-NL: Over ons
+        - _id: 1a98a94f-e0f1-4d37-a516-d77c3769c2bf
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Built time
+            value:
+              type: text
+              locales:
+                en-US: Built time
+                fr-CA: Temps construit
+                nl-NL: Gebouwde tijd
+        - _id: f30f6b86-e00e-4649-a568-2d36ce909342
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Play Video
+            value:
+              type: text
+              locales:
+                en-US: Play Video
+                fr-CA: Lire la vidéo
+                nl-NL: Video afspelen
+        - _id: 34d9a99f-3f3c-4482-a9f5-ea12e7d93a26
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Cancel
+            value:
+              type: text
+              locales:
+                en-US: Cancel
+                fr-CA: Annuler
+                nl-NL: Annuleren
+        - _id: afde6a1f-8a83-4108-aa4a-4e263ed61abb
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Go to previous
+            value:
+              type: text
+              locales:
+                en-US: Go to previous
+                fr-CA: Aller au précédent
+                nl-NL: Ga naar vorige
+        - _id: 866e9dde-3980-4326-aeec-a747f80aec3e
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Go to next
+            value:
+              type: text
+              locales:
+                en-US: Go to next
+                fr-CA: Aller au suivant
+                nl-NL: Ga naar volgende
+        - _id: fe50c109-b736-41fb-b0e9-0420a77d5a8c
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Something went wrong
+            value:
+              type: text
+              locales:
+                en-US: Something went wrong
+                fr-CA: Quelque chose s'est mal passé
+                nl-NL: Er is iets fout gegaan
+        - _id: 27d14bf8-ee6f-4631-ab40-7662e1906bac
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Page content placeholder
+            value:
+              type: text
+              locales:
+                en-US: Page content placeholder
+                fr-CA: Espace réservé au contenu de la page
+                nl-NL: Tijdelijke aanduiding voor pagina-inhoud
+        - _id: e49cd1fe-d0b7-41c6-a432-0d661c863450
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Title goes here
+            value:
+              type: text
+              locales:
+                en-US: Title goes here
+                fr-CA: Le titre va ici
+                nl-NL: Titel komt hier
+        - _id: 128f97c6-ae7d-4c98-a505-db7c064bf069
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Subtitle goes here
+            value:
+              type: text
+              locales:
+                en-US: Subtitle goes here
+                fr-CA: Le sous-titre va ici
+                nl-NL: De ondertitel komt hier
+        - _id: e8241520-c1b5-444c-93be-fbc08cf0f5e8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Description goes here
+            value:
+              type: text
+              locales:
+                en-US: Description goes here
+                fr-CA: La description va ici
+                nl-NL: Beschrijving komt hier
+        - _id: dbf76140-4a84-4109-9780-7f6e7fbdd84a
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Highlight text goes here
+            value:
+              type: text
+              locales:
+                en-US: Highlight text goes here
+                fr-CA: Le texte surligné va ici
+                nl-NL: Markeer tekst komt hier
+        - _id: 1fd7844f-3d81-471a-b081-9ebcb7829dc0
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Text goes here
+            value:
+              type: text
+              locales:
+                en-US: Text goes here
+                fr-CA: Le texte va ici
+                nl-NL: Tekst komt hier
+        - _id: 75b8ef2b-07de-4c0d-9f39-4e853ef07d22
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Button copy goes here
+            value:
+              type: text
+              locales:
+                en-US: Button copy goes here
+                fr-CA: La copie du bouton va ici
+                nl-NL: Knopkopie gaat hierheen
+        - _id: fce11dd8-7f39-45fd-9e6c-ca39f4cc6862
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Eyebrow text goes here
+            value:
+              type: text
+              locales:
+                en-US: Eyebrow text goes here
+                fr-CA: Le texte des sourcils va ici
+                nl-NL: Wenkbrauwtekst komt hier
+        - _id: 8dbb45df-803b-4355-adad-1535c4e73507
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Badge goes here
+            value:
+              type: text
+              locales:
+                en-US: Badge goes here
+                fr-CA: Le badge va ici
+                nl-NL: Badge gaat hierheen
+        - _id: e98b5e21-259f-451e-af0a-f8286b57c301
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Price goes here
+            value:
+              type: text
+              locales:
+                en-US: Price goes here
+                fr-CA: Le prix va ici
+                nl-NL: Prijs gaat hierheen
+        - _id: eee7e2be-6ec5-4408-8f31-e739a2b69fad
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Label goes here
+            value:
+              type: text
+              locales:
+                en-US: Label goes here
+                fr-CA: L'étiquette va ici
+                nl-NL: Etiket gaat hier
+        - _id: 90f5dfe5-5146-481b-91b3-2399952f3701
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Reviewer goes here
+            value:
+              type: text
+              locales:
+                en-US: Reviewer goes here
+                fr-CA: Le critique va ici
+                nl-NL: Recensent gaat hierheen
+        - _id: 83408198-e870-447f-9dff-db735af73ec7
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Person Name goes here
+            value:
+              type: text
+              locales:
+                en-US: Person Name goes here
+                fr-CA: Le nom de la personne va ici
+                nl-NL: Naam van persoon komt hier
+        - _id: d8e9f2dd-f62b-4ad5-8367-cde7fed06a1c
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Person Position goes here
+            value:
+              type: text
+              locales:
+                en-US: Person Position goes here
+                fr-CA: La position de la personne va ici
+                nl-NL: Persoonspositie komt hier
+        - _id: 5aeb9822-aa76-40e0-a365-3dc31e9732f3
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Date goes here
+            value:
+              type: text
+              locales:
+                en-US: Date goes here
+                fr-CA: La date va ici
+                nl-NL: Datum komt hier
+        - _id: d70598e5-9aa6-4602-a68e-402d5b47078a
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Value goes here
+            value:
+              type: text
+              locales:
+                en-US: Value goes here
+                fr-CA: La valeur va ici
+                nl-NL: Waarde gaat hier
+        - _id: e3fcdd10-4ee5-4cd0-a3db-1b5fbdbb839c
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Email
+            value:
+              type: text
+              locales:
+                en-US: Email
+                fr-CA: E-mail
+                nl-NL: E-mail
+        - _id: 27a6e7f3-5724-4368-934e-f18faac5be29
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Name
+            value:
+              type: text
+              locales:
+                en-US: Name
+                fr-CA: Nom
+                nl-NL: Naam
+        - _id: 9c21ace0-b370-4c4a-998a-078b768a52af
+          type: translation
+          fields:
+            key:
+              type: text
+              value: This is add to cart event placeholder
+            value:
+              type: text
+              locales:
+                en-US: This is add to cart event placeholder
+                fr-CA: >-
+                  Il s'agit d'un espace réservé pour l'événement Ajouter au
+                  panier
+                nl-NL: >-
+                  Dit is een tijdelijke aanduiding voor de gebeurtenis 'Aan
+                  winkelwagen toevoegen'
+        - _id: f962d407-9799-4a88-a53b-68722f47a074
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Sorry there are no products for this filter
+            value:
+              type: text
+              locales:
+                en-US: Sorry there are no products for this filter
+                fr-CA: Désolé, il n'y a aucun produit pour ce filtre
+                nl-NL: Sorry, er zijn geen producten voor dit filter
+        - _id: 821b526f-1763-4591-b9d2-c8db219251d7
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Property 'indexName' was not defined for component
+            value:
+              type: text
+              locales:
+                en-US: Property 'indexName' was not defined for component
+                fr-CA: >-
+                  La propriété « indexName » n'a pas été définie pour le
+                  composant
+                nl-NL: Eigenschap 'indexName' is niet gedefinieerd voor component
+        - _id: be3ea1be-e524-42f3-80b7-95d9c8b26ec1
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Property 'attribute' was not defined for component
+            value:
+              type: text
+              locales:
+                en-US: Property 'attribute' was not defined for component
+                fr-CA: "La propriété «\_attribut\_» n'a pas été définie pour le composant"
+                nl-NL: Eigenschap 'attribuut' is niet gedefinieerd voor component
+        - _id: 8d068d5d-2798-4a8e-87b8-e437a3237dfd
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Facet field must be provided
+            value:
+              type: text
+              locales:
+                en-US: Facet field must be provided
+                fr-CA: Le champ de facettes doit être fourni
+                nl-NL: Er moet een facetveld worden opgegeven
+        - _id: 9dc639c1-5a92-422a-8090-e88f9d7e2cfe
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Results
+            value:
+              type: text
+              locales:
+                en-US: Results
+                fr-CA: Résultats
+                nl-NL: Resultaten
+        - _id: 907e6b4d-56fc-472a-bd4e-7dbb2475cdd9
+          type: translation
+          fields:
+            key:
+              type: text
+              value: of
+            value:
+              type: text
+              locales:
+                en-US: of
+                fr-CA: de
+                nl-NL: van
+        - _id: cc9e8448-14a9-425f-ba72-1055063d113a
+          type: translation
+          fields:
+            key:
+              type: text
+              value: for
+            value:
+              type: text
+              locales:
+                en-US: for
+                fr-CA: pour
+                nl-NL: voor
+        - _id: bed33672-ef85-4d1f-9f94-d6a04bd70967
+          type: translation
+          fields:
+            key:
+              type: text
+              value: in
+            value:
+              type: text
+              locales:
+                en-US: in
+                fr-CA: dans
+                nl-NL: in
+        - _id: 221e4f2a-521d-4337-940f-562144d420b2
+          type: translation
+          fields:
+            key:
+              type: text
+              value: milliseconds
+            value:
+              type: text
+              locales:
+                en-US: milliseconds
+                fr-CA: millisecondes
+                nl-NL: milliseconden
+        - _id: 9a892e9a-33df-46d8-880b-84669d5f32d7
+          type: translation
+          fields:
+            key:
+              type: text
+              value: seconds
+            value:
+              type: text
+              locales:
+                en-US: seconds
+                fr-CA: secondes
+                nl-NL: seconden
+        - _id: ea5aa325-e360-4283-98b0-212dae234aa3
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Add your custom Result Item
+            value:
+              type: text
+              locales:
+                en-US: Add your custom Result Item
+                fr-CA: Ajoutez votre élément de résultat personnalisé
+                nl-NL: Voeg uw aangepaste resultaatitem toe
+        - _id: 53e93938-278b-4cb2-a556-47c7cfdd8a72
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Ascending
+            value:
+              type: text
+              locales:
+                en-US: Ascending
+                fr-CA: Ascendant
+                nl-NL: Oplopend
+        - _id: 322f0579-ed3f-4ff0-89dd-7e51c7b37eb3
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Descending
+            value:
+              type: text
+              locales:
+                en-US: Descending
+                fr-CA: Descendant
+                nl-NL: Aflopend
+        - _id: 32ed2366-7747-435e-b823-76870e5d3bc1
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Relevance
+            value:
+              type: text
+              locales:
+                en-US: Relevance
+                fr-CA: Pertinence
+                nl-NL: Relevantie
+        - _id: c997d45f-b987-47c4-9cd3-920708d7bc39
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Date
+            value:
+              type: text
+              locales:
+                en-US: Date
+                fr-CA: Date
+                nl-NL: Datum
+        - _id: 5edd9e69-5027-44fb-ba01-f4d3a834d1e8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Proceed to Checkout
+            value:
+              type: text
+              locales:
+                en-US: Proceed to Checkout
+                fr-CA: Passer à la caisse
+                nl-NL: Ga naar de kassa
+        - _id: f45c1eab-604e-48f1-af4c-076b492e9553
+          type: translation
+          fields:
+            key:
+              type: text
+              value: There's nothing to check out with
+            value:
+              type: text
+              locales:
+                en-US: There's nothing to check out with
+                fr-CA: Il n'y a rien à vérifier
+                nl-NL: Er is niets om mee uit te checken
+        - _id: 4e49b5ef-accd-4e46-8493-466dfdaba4d8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Please add some products and try again
+            value:
+              type: text
+              locales:
+                en-US: Please add some products and try again
+                fr-CA: Veuillez ajouter des produits et réessayer
+                nl-NL: Voeg enkele producten toe en probeer het opnieuw
+        - _id: 40d3fdb6-f596-4042-9c40-2e066562b72c
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Your Products
+            value:
+              type: text
+              locales:
+                en-US: Your Products
+                fr-CA: Vos produits
+                nl-NL: Jouw producten
+        - _id: 770d46b5-104c-48a0-bcd4-b64b244610cf
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Billing Info
+            value:
+              type: text
+              locales:
+                en-US: Billing Info
+                fr-CA: Informations de facturation
+                nl-NL: Betaal informatie
+        - _id: e09a59c9-418f-4b9f-a948-0a6a0887825c
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Shipping Info
+            value:
+              type: text
+              locales:
+                en-US: Shipping Info
+                fr-CA: Informations d'expédition
+                nl-NL: Verzendingsinfo
+        - _id: 8e5d6d7f-99c9-4eea-9f58-2ef4e8ee4128
+          type: translation
+          fields:
+            key:
+              type: text
+              value: ITEM
+            value:
+              type: text
+              locales:
+                en-US: ITEM
+                fr-CA: ARTICLE
+                nl-NL: ITEM
+        - _id: 8843650f-e271-4c31-baca-dc14bafcbf19
+          type: translation
+          fields:
+            key:
+              type: text
+              value: QTY
+            value:
+              type: text
+              locales:
+                en-US: QTY
+                fr-CA: QTÉ
+                nl-NL: AANTAL
+        - _id: def292a4-c44f-465b-b362-09c7d65ef88f
+          type: translation
+          fields:
+            key:
+              type: text
+              value: PRICE
+            value:
+              type: text
+              locales:
+                en-US: PRICE
+                fr-CA: PRIX
+                nl-NL: PRIJS
+        - _id: 0e6e63a6-e2ee-4df8-bec8-9759bd4b33f0
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Total
+            value:
+              type: text
+              locales:
+                en-US: Total
+                fr-CA: Total
+                nl-NL: Totaal
+        - _id: 328d61dc-5dcb-40b8-9ce4-bc941c18b33d
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Subtotal
+            value:
+              type: text
+              locales:
+                en-US: Subtotal
+                fr-CA: Total
+                nl-NL: Subtotaal
+        - _id: 01df57c3-337f-4cd7-bb3e-f9bfb1ea58f2
+          type: translation
+          fields:
+            key:
+              type: text
+              value: delivery
+            value:
+              type: text
+              locales:
+                en-US: Delivery
+                fr-CA: Livraison
+                nl-NL: Levering
+        - _id: a1a3a83b-d61d-421e-a6c0-9dd5e53db209
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Free
+            value:
+              type: text
+              locales:
+                en-US: Free
+                fr-CA: Gratuit
+                nl-NL: Vrij
+        - _id: 3b4b2560-06a5-4e22-a890-59933f948f42
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Pay
+            value:
+              type: text
+              locales:
+                en-US: Pay
+                fr-CA: Payer
+                nl-NL: Betalen
+        - _id: fe79eea2-4b24-4f3d-bec6-f258fbb8ed11
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Address
+            value:
+              type: text
+              locales:
+                en-US: Address
+                fr-CA: Adresse
+                nl-NL: Adres
+        - _id: ed73e595-20cb-47e1-b3a1-c39b72911699
+          type: translation
+          fields:
+            key:
+              type: text
+              value: City
+            value:
+              type: text
+              locales:
+                en-US: City
+                fr-CA: Ville
+                nl-NL: Stad
+        - _id: 30a8c237-8b4a-44aa-ba05-96ec03212a0d
+          type: translation
+          fields:
+            key:
+              type: text
+              value: State
+            value:
+              type: text
+              locales:
+                en-US: State
+                fr-CA: État
+                nl-NL: Staat
+        - _id: dc7906d9-64e1-41dd-9a91-2bd4880580f9
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Zip
+            value:
+              type: text
+              locales:
+                en-US: Zip
+                fr-CA: Fermeture éclair
+                nl-NL: Ritssluiting
+        - _id: c43582b3-dcdf-4814-ad59-1414d9e28377
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Continue
+            value:
+              type: text
+              locales:
+                en-US: Continue
+                fr-CA: Continuer
+                nl-NL: Doorgaan
+        - _id: b1047cec-f9e7-42ac-9cfb-9293325cca37
+          type: translation
+          fields:
+            key:
+              type: text
+              value: This field is required
+            value:
+              type: text
+              locales:
+                en-US: This field is required
+                fr-CA: Ce champ est obligatoire
+                nl-NL: dit veld is verplicht
+        - _id: 9099375a-7e51-4396-acbc-b8b21378862b
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Your shopping cart is empty
+            value:
+              type: text
+              locales:
+                en-US: Your shopping cart is empty
+                fr-CA: Votre panier est vide
+                nl-NL: Uw winkelwagen is leeg
+        - _id: c1ce0d1b-be7f-4645-8970-46cb4eabc2f8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Products added to the cart will appear here
+            value:
+              type: text
+              locales:
+                en-US: Products added to the cart will appear here
+                fr-CA: Les produits ajoutés au panier apparaîtront ici
+                nl-NL: >-
+                  Producten die aan de winkelwagen zijn toegevoegd, verschijnen
+                  hier
+        - _id: 4981e43b-da5e-4a4d-bd00-d92de2cc9cde
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Close
+            value:
+              type: text
+              locales:
+                en-US: Close
+                fr-CA: Fermer
+                nl-NL: Dichtbij
+        - _id: 66f6b619-f902-4655-abea-bb7637bb8805
+          type: translation
+          fields:
+            key:
+              type: text
+              value: My Cart
+            value:
+              type: text
+              locales:
+                en-US: My Cart
+                fr-CA: Mon panier
+                nl-NL: Mijn wagen
+        - _id: 55cb7d27-8b5c-41cd-9bdc-1986b13838e8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Coupon Code
+            value:
+              type: text
+              locales:
+                en-US: Coupon Code
+                fr-CA: Code promo
+                nl-NL: coupon code
+        - _id: 5b81eb1d-2692-4418-b8c2-f7ebe4968077
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Please enter a valid email address
+            value:
+              type: text
+              locales:
+                en-US: Please enter a valid email address
+                fr-CA: S'il vous plaît, mettez une adresse email valide
+                nl-NL: Gelieve een geldig e-mailadres in te geven
+        - _id: 8f420a8e-a6fa-4b7c-9429-ed1e2d8d9087
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Log out and reset personalization
+            value:
+              type: text
+              locales:
+                en-US: Log out and reset personalization
+                fr-CA: Déconnectez-vous et réinitialisez la personnalisation
+                nl-NL: Meld u af en reset de personalisatie
+        - _id: bf1715fc-adcb-4b22-834d-894849e069c6
+          type: translation
+          fields:
+            key:
+              type: text
+              value: 'We couldn''t access the profile of the user with the id:'
+            value:
+              type: text
+              locales:
+                en-US: 'We couldn''t access the profile of the user with the id:'
+                fr-CA: "Nous n'avons pas pu accéder au profil de l'utilisateur avec l'identifiant\_:"
+                nl-NL: >-
+                  We hebben geen toegang gekregen tot het profiel van de
+                  gebruiker met de id:
+        - _id: 5f9ac9e5-6594-4552-b267-642961b289a8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Login
+            value:
+              type: text
+              locales:
+                en-US: Login
+                fr-CA: Se connecter
+                nl-NL: Log in
+        - _id: b5fff6c2-c74a-4e7a-940f-8f35228bed8f
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Sign In
+            value:
+              type: text
+              locales:
+                en-US: Sign In
+                fr-CA: Se connecter
+                nl-NL: Aanmelden
+        - _id: e31d4c72-7a35-4ddd-957e-96cdb9716756
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Log Out
+            value:
+              type: text
+              locales:
+                en-US: Log Out
+                fr-CA: Se déconnecter
+                nl-NL: Uitloggen
+        - _id: af7585f7-d5bf-4813-a4f3-d88eceec2f3b
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Register
+            value:
+              type: text
+              locales:
+                en-US: Register
+                fr-CA: Registre
+                nl-NL: Register
+        - _id: e3713e91-ca1c-4d17-b12b-0a5e6538e3a8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Back to login
+            value:
+              type: text
+              locales:
+                en-US: Back to login
+                fr-CA: Retour connexion
+                nl-NL: Terug naar Inloggen
+        - _id: 3834a35c-25f3-42fc-82a3-3a1a3a66adfd
+          type: translation
+          fields:
+            key:
+              type: text
+              value: or
+            value:
+              type: text
+              locales:
+                en-US: or
+                fr-CA: ou
+                nl-NL: of
+        - _id: 4e6d311d-4b58-4831-b69f-a2436c264c4e
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Welcome
+            value:
+              type: text
+              locales:
+                en-US: Welcome
+                fr-CA: Accueillir
+                nl-NL: Welkom
+        - _id: 671b6eae-dcc3-49c7-99aa-37c89e8c1ca6
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Oops, looks like something went wrong
+            value:
+              type: text
+              locales:
+                en-US: Oops, looks like something went wrong
+                fr-CA: Oups, on dirait que quelque chose s'est mal passé
+                nl-NL: Oeps, het lijkt erop dat er iets mis is gegaan
+        - _id: bf0af43f-8677-42e6-b559-f009c14171b9
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Order history is empty
+            value:
+              type: text
+              locales:
+                en-US: Order history is empty
+                fr-CA: L'historique des commandes est vide
+                nl-NL: Bestelgeschiedenis is leeg
+        - _id: f9466fd0-730d-4bf4-a946-6399b41d2de0
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Your purchase history will be displayed here
+            value:
+              type: text
+              locales:
+                en-US: Your purchase history will be displayed here
+                fr-CA: L'historique de vos achats sera affiché ici
+                nl-NL: Hier wordt uw aankoopgeschiedenis weergegeven
+        - _id: 94917f82-9680-45e4-b250-7c414c369b41
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Order history
+            value:
+              type: text
+              locales:
+                en-US: Order History
+                fr-CA: Historique des commandes
+                nl-NL: Bestelgeschiedenis
+        - _id: 98f4fb50-d220-4fa3-9a1e-ff7c843716eb
+          type: translation
+          fields:
+            key:
+              type: text
+              value: The last 20 orders
+            value:
+              type: text
+              locales:
+                en-US: The last 20 orders
+                fr-CA: Les 20 dernières commandes
+                nl-NL: De laatste 20 bestellingen
+        - _id: aabab96b-e158-4863-bc16-f64763b7572e
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Hello
+            value:
+              type: text
+              locales:
+                en-US: Hello
+                fr-CA: Bonjour
+                nl-NL: Hallo
+        - _id: 9a9291b1-9254-4357-8e43-e1fcec2a2a05
+          type: translation
+          fields:
+            key:
+              type: text
+              value: stranger
+            value:
+              type: text
+              locales:
+                en-US: stranger
+                fr-CA: étranger
+                nl-NL: vreemdeling
+        - _id: 05c51d30-2511-4e1c-af46-6d8b28bbb6ac
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Loading
+            value:
+              type: text
+              locales:
+                en-US: Loading
+                fr-CA: Chargement
+                nl-NL: Bezig met laden
+        - _id: 4da51e37-6b3b-480c-b93d-13dd5fdf49c1
+          type: translation
+          fields:
+            key:
+              type: text
+              value: My Profile
+            value:
+              type: text
+              locales:
+                en-US: My Profile
+                fr-CA: Mon profil
+                nl-NL: Mijn profiel
+        - _id: b6be511f-0539-450e-8617-77bd4230a60f
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Delete Profile
+            value:
+              type: text
+              locales:
+                en-US: Delete Profile
+                fr-CA: Supprimer le profil
+                nl-NL: Verwijder profiel
+        - _id: 99784a88-e84d-4cf6-97d7-a457a9d31b3b
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Are you sure you want to delete the user profile?
+            value:
+              type: text
+              locales:
+                en-US: Are you sure you want to delete your profile?
+                fr-CA: "Êtes-vous sûr de vouloir supprimer votre profil\_?"
+                nl-NL: Weet je zeker dat je je profiel wilt verwijderen?
+        - _id: 2d84bfdc-87b2-4971-81ee-e03c5d03b459
+          type: translation
+          fields:
+            key:
+              type: text
+              value: days
+            value:
+              type: text
+              locales:
+                en-US: days
+                fr-CA: jours
+                nl-NL: dagen
+        - _id: 6c03406e-1880-4712-bdd1-47d45464ebeb
+          type: translation
+          fields:
+            key:
+              type: text
+              value: hours
+            value:
+              type: text
+              locales:
+                en-US: hours
+                fr-CA: heures
+                nl-NL: uur
+        - _id: a0d68e76-936f-4816-b48c-44b7c85efa61
+          type: translation
+          fields:
+            key:
+              type: text
+              value: min
+            value:
+              type: text
+              locales:
+                en-US: min
+                fr-CA: min
+                nl-NL: min
+        - _id: f3662e82-dd2e-44c6-9ad2-fa495ace41bf
+          type: translation
+          fields:
+            key:
+              type: text
+              value: sec
+            value:
+              type: text
+              locales:
+                en-US: sec
+                fr-CA: seconde
+                nl-NL: sec
+        - _id: 79b19ee6-d59c-4076-a07f-79534ca2aea4
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Products
+            value:
+              type: text
+              locales:
+                en-US: Products
+                fr-CA: Des produits
+                nl-NL: Producten
+        - _id: 980ae1b5-42b5-44d9-9ee5-9f5c841498e3
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Product Details Page
+            value:
+              type: text
+              locales:
+                en-US: Product Details Page
+                fr-CA: Page de détails du produit
+                nl-NL: Pagina met productdetails
+        - _id: fe46b1ab-b00d-4383-8d76-07338af3c837
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Article Details Page
+            value:
+              type: text
+              locales:
+                en-US: Article Details Page
+                fr-CA: Page de détails de l'article
+                nl-NL: Pagina met artikeldetails
+        - _id: 080ab1ba-4d45-46cb-bc56-57d39a8b7f0c
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Custom Article Details Page
+            value:
+              type: text
+              locales:
+                en-US: Custom Article Details Page
+                fr-CA: Page de détails de l'article personnalisé
+                nl-NL: Aangepaste artikeldetailspagina
+        - _id: 7da4ff08-2860-48bd-980e-b2763f8dd783
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Price
+            value:
+              type: text
+              locales:
+                en-US: Price
+                fr-CA: Prix
+                nl-NL: Prijs
+        - _id: ce8ebfb3-e128-4936-92d7-6d51785ecee1
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Anonymous User
+            value:
+              type: text
+              locales:
+                en-US: Anonymous User
+                fr-CA: Anonyme gebruiker
+                nl-NL: Anonieme gebruiker
+        - _id: a91eea66-2b6d-4650-b4fd-8106ce81dc49
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Impersonate
+            value:
+              type: text
+              locales:
+                en-US: Impersonate
+                fr-CA: Imiter
+                nl-NL: Doe na
+        - _id: 601bb863-7c97-46eb-b4b8-a2c546509b92
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Fetch profile
+            value:
+              type: text
+              locales:
+                en-US: Fetch profile
+                fr-CA: Récupérer le profil
+                nl-NL: Profiel ophalen
+        - _id: 99b05c4b-3eff-4f02-a13f-c2a16eb8d345
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Reset profile
+            value:
+              type: text
+              locales:
+                en-US: Reset profile
+                fr-CA: Réinitialiser le profil
+                nl-NL: Profiel opnieuw instellen
+        - _id: 5e24daae-696e-410e-9224-66d1dd5423e8
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Allows you to fetch another profile by ID from Segment
+            value:
+              type: text
+              locales:
+                en-US: Allows you to fetch another profile by ID from Segment
+                fr-CA: >-
+                  Vous permet de récupérer un autre profil par ID à partir du
+                  segment
+                nl-NL: Hiermee kunt u een ander profiel op ID ophalen uit Segment
+        - _id: 7c363b99-91af-4423-b378-2a3fc220e75f
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Current visitor scores
+            value:
+              type: text
+              locales:
+                en-US: Current visitor scores
+                fr-CA: Scores actuels des visiteurs
+                nl-NL: Huidige bezoekersscores
+        - _id: 4b01fb6a-5229-4ad3-8d2c-77b9cc16529a
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Current visitor quirks
+            value:
+              type: text
+              locales:
+                en-US: Current visitor quirks
+                fr-CA: Les bizarreries actuelles des visiteurs
+                nl-NL: Eigenaardigheden van huidige bezoekers
+        - _id: 2f3f8127-4f86-45e4-8891-aecf1e08c36c
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Current visitor traits
+            value:
+              type: text
+              locales:
+                en-US: Current visitor traits
+                fr-CA: Caractéristiques actuelles des visiteurs
+                nl-NL: Huidige bezoekerskenmerken
+        - _id: f8d98eb1-1d73-4501-a6a7-02624f84c22a
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Enter a profile ID
+            value:
+              type: text
+              locales:
+                en-US: Enter a profile ID
+                fr-CA: Entrez un identifiant de profil
+                nl-NL: Voer een profiel-ID in
+        - _id: db166f83-b92b-411a-b027-61f0f71c755a
+          type: translation
+          fields:
+            key:
+              type: text
+              value: USD
+            value:
+              type: text
+              locales:
+                en-US: USD
+                fr-CA: EUR
+                nl-NL: EUR
+        - _id: 3ca43edf-f739-4799-812e-5dcf29d4ab0b
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Remove
+            value:
+              type: text
+              locales:
+                en-US: Remove
+                fr-CA: Retirer
+                nl-NL: Verwijderen
+        - _id: e36253f4-12cf-4601-acdc-ea32b584197d
+          type: translation
+          fields:
+            key:
+              type: text
+              value: United States
+            value:
+              type: text
+              locales:
+                en-US: United States
+                fr-CA: États-Unis
+                nl-NL: Verenigde Staten
+        - _id: 6e3d047b-de2f-422d-aa38-594bff4c5f02
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Netherlands
+            value:
+              type: text
+              locales:
+                en-US: Netherlands
+                fr-CA: Les Pays-Bas
+                nl-NL: Nederland
+        - _id: 2e9ffeaf-b5b8-49ef-902d-2f6007d4fa4c
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Canada
+            value:
+              type: text
+              locales:
+                en-US: Canada
+                fr-CA: Canada
+                nl-NL: Canada
+        - _id: 29ed50fa-2671-4df8-b7ed-6b7cce6d80a3
+          type: translation
+          fields:
+            key:
+              type: text
+              value: United Kingdom
+            value:
+              type: text
+              locales:
+                en-US: United Kingdom
+                fr-CA: Royaume-Uni
+                nl-NL: Verenigd Koninkrijk
+        - _id: 7fe74cb0-0f09-476f-83ca-d39bad496d91
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Country
+            value:
+              type: text
+              locales:
+                en-US: Country
+                fr-CA: Pays
+                nl-NL: Land
+        - _id: 7679e5b9-b336-4d66-86c9-7262bf7be6e0
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Language
+            value:
+              type: text
+              locales:
+                en-US: Language
+                fr-CA: Langue
+                nl-NL: Taal
+        - _id: 619d6b2f-0e3d-4be4-8712-d8c70fc144d1
+          type: translation
+          fields:
+            key:
+              type: text
+              value: Select language
+            value:
+              type: text
+              locales:
+                en-US: Select language
+                fr-CA: Choisir la langue
+                nl-NL: Selecteer taal
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

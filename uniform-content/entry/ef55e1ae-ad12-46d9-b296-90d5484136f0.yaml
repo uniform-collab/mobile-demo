@@ -1,0 +1,307 @@
+created: '2024-02-28T12:53:37.294052+00:00'
+modified: '2024-02-28T13:38:11.394493+00:00'
+pattern: false
+entry:
+  _id: ef55e1ae-ad12-46d9-b296-90d5484136f0
+  _name: Light Roast Coffee
+  _slug: light-roast-coffee-80
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/w-fT0WisSEOsWO90_WoD5w-light-roast-coffee-80-1_mqiwln_sevusg-(1).jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Light Roast Coffee: Our Breakfast Blend light roast whole
+                      bean coffee is the perfect morning coffee to ease you into
+                      your day. Sustainable Light Roast Coffee Beans: Our coffee
+                      is made with premium quality Arabica coffee beans from
+                      Central and South America. They are grown, sourced and
+                      packaged responsibly, after being roasted fresh in
+                      Seattle, USA.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Café torréfié léger : Notre café en grains entiers
+                      torréfié léger Breakfast Blend est le café du matin
+                      parfait pour vous faciliter la journée. Grains de café
+                      torréfiés durablement légers : notre café est fabriqué
+                      avec des grains de café Arabica de qualité supérieure
+                      provenant d'Amérique centrale et d'Amérique du Sud. Ils
+                      sont cultivés, achetés et emballés de manière responsable,
+                      après avoir été torréfiés frais à Seattle, aux États-Unis.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Licht gebrande koffie: Onze Breakfast Blend licht gebrande
+                      koffie van hele bonen is de perfecte ochtendkoffie om u op
+                      uw gemak te laten genieten van uw dag. Duurzame licht
+                      gebrande koffiebonen: onze koffie is gemaakt met
+                      Arabica-koffiebonen van topkwaliteit uit Midden- en
+                      Zuid-Amerika. Ze worden op verantwoorde wijze geteeld,
+                      ingekocht en verpakt, nadat ze vers zijn geroosterd in
+                      Seattle, VS.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Light Roast Coffee
+    title:
+      type: text
+      value: Light Roast Coffee
+    category:
+      type: select
+      value: arabica
+    variants:
+      type: $block
+      value:
+        - _id: 996454a6-24d6-4d62-b9a0-5970621cff69
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '80'
+            price:
+              type: number
+              locales:
+                en-US: '12.99'
+                fr-CA: '12.00'
+                nl-NL: '12.00'
+            title:
+              type: text
+              locales:
+                en-US: Light Roast Coffee
+                fr-CA: Light Roast Coffee
+                nl-NL: Light Roast Coffee
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 18e51870-22e3-4d66-bc85-2820a4d44e4b
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 6c7e8e04-8816-446f-8daa-46090b919206
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/HvUryvCzQ9iK0WuFm4Cb6g-light-roast-coffee-80-2_wdb87q_je7avh.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: dcd8b111-2b6d-4dd7-9971-ccb7ff052ae9
+                    size:
+                      value: 882339
+                      type: number
+                    title:
+                      type: text
+                      value: light-roast-coffee-80-2_wdb87q_je7avh.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: cc20c47f-5d04-4b81-94f1-d2d9dd737599
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: a55ab0d5-a07e-45d5-af68-41fd4c7182c2
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/f762anAQQqW0jsfXXsjFng-light-roast-coffee-80-1_mqiwln_sevusg-(1).jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 0749159a-9d06-4739-96e0-1f40e71abf27
+                    size:
+                      value: 96456
+                      type: number
+                    title:
+                      type: text
+                      value: light-roast-coffee-80-1_mqiwln_sevusg-(1).jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: a749eed2-6050-44fa-8381-0da1af9df2b2
+          type: image
+          fields:
+            id:
+              type: text
+              value: dbd3a5bc-4881-483f-b500-2e3141c2578d
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/w-fT0WisSEOsWO90_WoD5w-light-roast-coffee-80-1_mqiwln_sevusg-(1).jpg
+              type: text
+            file:
+              type: file
+              value: bab37330-5704-49da-a854-62120e68f4e5
+            size:
+              value: 96456
+              type: number
+            title:
+              type: text
+              value: light-roast-coffee-80-1_mqiwln_sevusg-(1).jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 6e23a5e1-7397-46c0-8e77-0f58017ddf34
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 4d5348a0-25b6-4e92-bfd5-b7acdc105bbe
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Light Roast Coffee: Our Breakfast Blend light roast whole bean coffee
+          is the perfect morning coffee to ease you into your day. Sustainable
+          Light Roast Coffee Beans: Our coffee is made with premium quality
+          Arabica coffee beans from Central and South America. They are grown,
+          sourced and packaged responsibly, after being roasted fresh in
+          Seattle, USA.
+        fr-CA: >-
+          Café torréfié léger : Notre café en grains entiers torréfié léger
+          Breakfast Blend est le café du matin parfait pour vous faciliter la
+          journée. Grains de café torréfiés durablement légers : notre café est
+          fabriqué avec des grains de café Arabica de qualité supérieure
+          provenant d'Amérique centrale et d'Amérique du Sud. Ils sont cultivés,
+          achetés et emballés de manière responsable, après avoir été torréfiés
+          frais à Seattle, aux États-Unis.
+        nl-NL: >-
+          Licht gebrande koffie: Onze Breakfast Blend licht gebrande koffie van
+          hele bonen is de perfecte ochtendkoffie om u op uw gemak te laten
+          genieten van uw dag. Duurzame licht gebrande koffiebonen: onze koffie
+          is gemaakt met Arabica-koffiebonen van topkwaliteit uit Midden- en
+          Zuid-Amerika. Ze worden op verantwoorde wijze geteeld, ingekocht en
+          verpakt, nadat ze vers zijn geroosterd in Seattle, VS.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - fr-CA
+    - nl-NL

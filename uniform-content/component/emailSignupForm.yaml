@@ -1,0 +1,199 @@
+# yaml-language-server: $schema=<https://canary.uniform.app/schemas/json-schema/component-definition/v1.json>
+$schema: https://canary.uniform.app/schemas/json-schema/component-definition/v1.json
+id: emailSignupForm
+name: Email Signup Form
+icon: screen
+parameters:
+  - id: title
+    name: Title
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: description
+    name: Description
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: titleStyle
+    name: Title Style
+    type: tp-title-style-parameter
+    helpText: ''
+    typeConfig: null
+  - id: group_imageSettings
+    name: Image Settings
+    type: group
+    typeConfig:
+      collapsed: true
+      childrenParams:
+        - image
+        - objectFit
+        - overlayColor
+        - overlayOpacity
+  - id: image
+    name: Image
+    type: asset
+    helpText: ''
+    typeConfig:
+      max: 1
+      min: 0
+  - id: objectFit
+    name: Object Fit
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Contain
+          value: contain
+        - text: Cover
+          value: cover
+        - text: Fill
+          value: fill
+        - text: None
+          value: none
+  - id: overlayColor
+    name: Overlay Color
+    type: tp-color-style-parameter
+    helpText: ''
+    typeConfig: null
+  - id: overlayOpacity
+    name: Overlay Opacity
+    type: tp-slider-parameter
+    helpText: ''
+    typeConfig:
+      step: 10
+      type: steps
+      unit: px
+      units: '%'
+      options: []
+      maxValue: 100
+      minValue: 0
+  - id: group_cta
+    name: CTA
+    type: group
+    typeConfig:
+      collapsed: true
+      childrenParams:
+        - buttonCopy
+        - buttonLink
+        - buttonStyle
+        - buttonAnimationType
+  - id: buttonCopy
+    name: Button Copy
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: buttonLink
+    name: Button Link
+    type: link
+    helpText: ''
+    typeConfig: null
+  - id: buttonStyle
+    name: Button Style
+    type: tp-button-style-parameter
+    helpText: ''
+    typeConfig: null
+  - id: buttonAnimationType
+    name: Button Animation Type
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Fade-In
+          value: fadeIn
+        - text: Fly-In
+          value: flyIn
+  - id: group_presentationSettings
+    name: Presentation Settings
+    type: group
+    typeConfig:
+      collapsed: true
+      childrenParams:
+        - containerVariant
+        - backgroundType
+        - paddingTop
+        - paddingBottom
+        - marginBottom
+        - marginTop
+  - id: containerVariant
+    name: Container Variant
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Background In Container
+          value: backgroundInContainer
+        - text: Fluid Content
+          value: fluidContent
+  - id: backgroundType
+    name: Background Type
+    type: tp-background-type-parameter
+    helpText: ''
+    typeConfig: null
+  - id: paddingTop
+    name: Padding Top
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Small
+          value: Small
+        - text: Medium
+          value: Medium
+        - text: Large
+          value: Large
+        - text: None
+          value: None
+  - id: paddingBottom
+    name: Padding Bottom
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Small
+          value: Small
+        - text: Medium
+          value: Medium
+        - text: Large
+          value: Large
+        - text: None
+          value: None
+  - id: marginBottom
+    name: Margin Bottom
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Small
+          value: Small
+        - text: Medium
+          value: Medium
+        - text: Large
+          value: Large
+        - text: None
+          value: None
+  - id: marginTop
+    name: Margin Top
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Small
+          value: Small
+        - text: Medium
+          value: Medium
+        - text: Large
+          value: Large
+        - text: None
+          value: None
+categoryId: 04ee1e2d-be2f-412f-8ce5-d1d9dd56f27d
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Components/Email_signup_form_preview_image
+useTeamPermissions: true
+slots: []
+titleParameter: title
+canBeComposition: false
+created: '2024-02-28T13:35:47.481225+00:00'
+updated: '2024-02-28T13:35:47.481225+00:00'

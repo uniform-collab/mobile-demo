@@ -1,0 +1,69 @@
+created: '2024-02-28T12:53:00.523511+00:00'
+modified: '2024-02-28T12:53:00.523511+00:00'
+pattern: false
+entry:
+  _id: da52fb01-4822-4aff-b08d-85beb1c7f410
+  _name: Fold-away frother
+  _slug: fold-away-frother
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/47ro9f2MTYWBpaU3ooBBlw-javaDrip_specialty_3.jpg
+  type: feature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: b5bd701e-4b94-4564-8a6b-1191534deeaf
+          type: image
+          fields:
+            id:
+              type: text
+              value: fe161b89-9e3d-479b-b4ac-254afa3f719f
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/47ro9f2MTYWBpaU3ooBBlw-javaDrip_specialty_3.jpg
+              type: text
+            file:
+              type: file
+              value: e5e3843b-e774-4c89-b2d0-5cd103cbfcf1
+            size:
+              value: 164677
+              type: number
+            title:
+              type: text
+              value: javaDrip_specialty_3.jpg
+            width:
+              value: 1000
+              type: number
+            height:
+              value: 1000
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Fold-away frother
+        fr-CA: Frottement pliant
+        nl-NL: Kleedkool
+    description:
+      type: text
+      locales:
+        en-US: >-
+          The Frother Whisk is compatible with the JavaDrip Coffee Bar® System
+          and JavaDrip Hot & Cold Brewed System™. Attach it to your brewer and
+          transform hot or cold milk into silky froth in seconds.
+        fr-CA: >-
+          Le fouet Frother est compatible avec le système Javadrip Coffee Bar®
+          et Javadrip Hot & Cold Brewed System ™.Fixez-le à votre brasseur et
+          transformez du lait chaud ou froid en mousse soyeuse en quelques
+          secondes.
+        nl-NL: >-
+          De fron -garde is compatibel met het Javadrip Coffee Bar® -systeem en
+          Javadrip Hot & Cold Brewed System ™.Bevestig het aan uw brouwer en
+          transformeer hete of koude melk in zijdezacht schuim in seconden.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

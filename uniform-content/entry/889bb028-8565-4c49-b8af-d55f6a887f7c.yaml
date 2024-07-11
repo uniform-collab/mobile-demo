@@ -1,0 +1,1071 @@
+created: '2024-02-28T12:53:15.246786+00:00'
+modified: '2024-02-28T12:53:15.246786+00:00'
+pattern: false
+entry:
+  _id: 889bb028-8565-4c49-b8af-d55f6a887f7c
+  _name: How To Clean ANY Espresso Machine!
+  _slug: how-to-clean-any-espresso-machine
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/tSIGr7gIR4uiErIT5bpw2g-cleaning_basket.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: CoffeeMakers
+    title:
+      type: text
+      locales:
+        en-US: How To Clean ANY Espresso Machine!
+        fr-CA: Comment nettoyer toute machine à expresso!
+        nl-NL: Hoe elke espressomachine schoon te maken!
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "At the core of every single home espresso machine, no matter how complicated, is a very basic and very familiar baseline of components. These components, no matter how different they may seem, can be cleaned with these\_BASIC\_and\_UNIVERSAL CLEANING Options."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "If you follow these simple steps that anyone can do on ANY espresso machine you will\_GREATLY\_improve your coffee’s flavour and extend the lifespan of your machine.\_\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "So let's break these steps down to EVERY COFFEE, EVERY DAY, EVERY WEEK and EVERY MONTH.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'NUMBER 1: PURGING - EVERY SHOT'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Before and after you run your espresso shot, press the
+                      “go” button and purge the water for a second before
+                      putting your portafilter in. The main goal here is to get
+                      rid of any grinds and gunk stuck on the dispersion screen.
+                      Just by running the water for a second before and after
+                      your espresso shot will do wonders to keeping your machine
+                      clean.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "NUMBER 2: CLEANING THE SURFACE - EVERY SHOT\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "It may seem silly to add such a simple thing to this list however it runs deeper than you think. As you run your clean cloth over the sleek stainless steel surface of your emotional investment make sure you are also wiping down the inside of your portafilter and even your basket. Just a simple wipe or a rinse can do wonders in keeping these parts clean and will also keep them in better condition for longer.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "NUMBER 3: BLACK FLUSH - EVERY DAY\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Depending on the machine you have, you should have a BLIND BASKET. This could be a stainless steel basket or a little rubber plug that sits in your portafilter. Regardless of what your one looks like they’re all used for the same job, backflushing. Pop in your blind basket and put your portafilter in the machine and run a shot. The water will hit the basket and won't be able to pass through, forcing the water back up into the grouphead. This helps clean out any grinds, oils or gunk trapped up inside of the machine. When you have full pressure, you can “crack” the portafilter out slightly and you will see all of the grinds and gunk spew out the sides. Do this over and over until you have completely clear water coming out.\_\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'NUMBER 4: CHEMICAL CLEANING YOUR TOOLS - Weekly'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "This is the step that so many people choose not to do. Be it out of ignorance or laziness, so many machines never get their parts cleaned with chemicals. This step is crucial to keeping a clean machine and getting great tasting coffee, without it the oils from your coffee will sit, fester and go rancid. Let me show you how you can do this on ANY coffee machine in just a few steps.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "First up, get yourself a tub of CAFETTO Cleaner. This cleaning powder works much better than the tablets that come with your machine, and are also 10x cheaper. A large tub of Cafetto will cost you around $20 and will last a home user years (1.5g dosing spoon with 500g of powder).\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Next up, place your blind basket into your portafilter and add one little scoop of cafetto into it (I tend to only use half a scoop even). Place that into the machine and run a shot. This will do exactly what the backflushing step is doing, however this time the added help of a cleaning agent makes short work of oils, grinds and other nasties lingering up in the pipes of the machine.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "After you have done this, place your regular basket as well as your portafilter into a jug (your milk jug if it fits), add in a scoop of cafetto powder and fill it with hot water so just the metal parts are underwater. Leave overnight and rinse off in the morning and it will clean your tools back to the stainless steel. Portafilters are not like cast iron, they do not taste better with age and they do not add to the flavor with every coffee. Keep it shiny and your coffee will taste delicious.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "*NOTE* Rinse off everything after soaking it in chemicals, then run a dummy shot through the machine just to get rid of any lingering chemical tastes and residue.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Number 5: THE DISPERSION SCREEN - MONTHLY\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      The dispersion screen is the little screen that sits at
+                      the bottom of the group head. This screen is responsible
+                      for the spread and the flow of water going onto your puck
+                      and can get absolutely riddled with grinds, oils and other
+                      gunk. When you pull an espresso shot, you are extracting
+                      the coffee at 9 atmospheres of pressure and when the shot
+                      is done it creates a vacuum above it and shoots all of the
+                      oils and grinds back at the dispersion screen. Even more
+                      reason to clean it!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Every machine is slightly different, however the principle here is the same. This screen will usually be held in place by either an allen key, a flat head screw or a phillips head screw. Some even don't have any screws, they have a pressure lock system that you can just slide out (like the Ascaso machines).\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Whichever machine you own, grab whichever tool is needed and remove the screw and the screen. I like to pop this screen in when I soak my basket and portafilter, and give the machine a simple backflush without the dispersion screen in it. After soaking, put it all back together and your machine will be factory new.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Au cœur de chaque machine à expresso domestique, aussi
+                      complexe soit-elle, se trouve une base de composants très
+                      basiques et très familiers. Ces composants, aussi
+                      différents qu'ils puissent paraître, peuvent être nettoyés
+                      avec ces options de NETTOYAGE DE BASE et UNIVERSEL.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Si vous suivez ces étapes simples que tout le monde peut
+                      suivre sur N'IMPORTE QUELLE machine à expresso, vous
+                      améliorerez considérablement la saveur de votre café et
+                      prolongerez la durée de vie de votre machine.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Décomposons donc ces étapes en CHAQUE CAFÉ, CHAQUE JOUR,
+                      CHAQUE SEMAINE et CHAQUE MOIS.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "NUMÉRO 1\_: PURGE – CHAQUE COUP"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Avant et après avoir fait couler votre expresso, appuyez sur le bouton «\_Go\_» et purgez l'eau pendant une seconde avant d'insérer votre porte-filtre. L'objectif principal ici est de vous débarrasser de la mouture et des saletés coincées sur le tamis de dispersion. Le simple fait de faire couler l’eau pendant une seconde avant et après votre expresso fera des merveilles pour garder votre machine propre."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "NUMÉRO 2\_: NETTOYER LA SURFACE - CHAQUE COUP"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Cela peut sembler idiot d’ajouter une chose aussi simple à
+                      cette liste, mais cela est plus profond que vous ne le
+                      pensez. Lorsque vous passez votre chiffon propre sur la
+                      surface élégante en acier inoxydable de votre
+                      investissement émotionnel, assurez-vous d'essuyer
+                      également l'intérieur de votre porte-filtre et même votre
+                      panier. Un simple essuyage ou un rinçage peut faire des
+                      merveilles pour garder ces pièces propres et les garder en
+                      meilleur état plus longtemps.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "NUMÉRO 3\_: BLACK FLUSH – TOUS LES JOURS"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Selon la machine que vous possédez, vous devriez avoir un
+                      PANIER BLIND. Il peut s'agir d'un panier en acier
+                      inoxydable ou d'un petit bouchon en caoutchouc placé dans
+                      votre porte-filtre. Quelle que soit l’apparence de votre
+                      produit, ils sont tous utilisés pour le même travail, le
+                      post-consommation. Mettez votre panier aveugle, placez
+                      votre porte-filtre dans la machine et lancez un tir. L'eau
+                      frappera le panier et ne pourra pas passer à travers,
+                      forçant l'eau à remonter dans la tête du groupe. Cela aide
+                      à nettoyer toute trace de mouture, d'huile ou de crasse
+                      coincée à l'intérieur de la machine. Lorsque vous avez la
+                      pleine pression, vous pouvez « casser » légèrement le
+                      porte-filtre et vous verrez toutes les saletés et crasses
+                      cracher sur les côtés. Répétez cette opération encore et
+                      encore jusqu'à ce que de l'eau complètement claire sorte.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "NUMÉRO 4\_: NETTOYAGE CHIMIQUE DE VOS OUTILS – Hebdomadaire"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      C’est une étape que tant de gens choisissent de ne pas
+                      faire. Que ce soit par ignorance ou par paresse, de
+                      nombreuses machines ne nettoient jamais leurs pièces avec
+                      des produits chimiques. Cette étape est cruciale pour
+                      garder une machine propre et obtenir un café au goût
+                      délicieux, sans laquelle les huiles de votre café
+                      resteront, s'infecteront et ranciront. Laissez-moi vous
+                      montrer comment procéder sur N'IMPORTE QUELLE machine à
+                      café en quelques étapes seulement.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Tout d’abord, procurez-vous un pot de nettoyant CAFETTO.
+                      Cette poudre nettoyante fonctionne bien mieux que les
+                      tablettes fournies avec votre machine et est également 10
+                      fois moins chère. Un grand pot de Cafetto vous coûtera
+                      environ 20 $ et durera des années pour un utilisateur
+                      domestique (cuillère doseuse de 1,5 g avec 500 g de
+                      poudre).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ensuite, placez votre panier aveugle dans votre
+                      porte-filtre et ajoutez-y une petite mesure de cafétto
+                      (j'ai même tendance à n'utiliser qu'une demi-cuillère).
+                      Placez-le dans la machine et lancez un tir. Cela fera
+                      exactement ce que fait l'étape de rétrolavage, mais cette
+                      fois, l'aide supplémentaire d'un agent de nettoyage ne
+                      fera qu'une bouchée des huiles, des moutures et autres
+                      saletés persistantes dans les tuyaux de la machine.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Après avoir fait cela, placez votre panier habituel ainsi
+                      que votre porte-filtre dans un pichet (votre pot à lait
+                      s'il convient), ajoutez une cuillère de poudre de cafétto
+                      et remplissez-le d'eau chaude pour que seules les parties
+                      métalliques soient sous l'eau. Laissez toute la nuit et
+                      rincez le matin pour nettoyer vos outils jusqu'à l'acier
+                      inoxydable. Les porte-filtres ne sont pas comme la fonte,
+                      ils n'ont pas meilleur goût avec l'âge et n'ajoutent pas
+                      de saveur à chaque café. Gardez-le brillant et votre café
+                      sera délicieux.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      *REMARQUE* Rincez tout après l'avoir trempé dans des
+                      produits chimiques, puis exécutez une injection factice
+                      dans la machine juste pour éliminer tout goût et résidu
+                      chimique persistants.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Numéro 5\_: L'ÉCRAN DE DISPERSION – MENSUEL"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L'écran de dispersion est le petit écran qui se trouve au
+                      bas de la tête du groupe. Cet écran est responsable de la
+                      propagation et du flux d'eau entrant sur votre rondelle et
+                      peut être absolument criblé de moutures, d'huiles et
+                      d'autres saletés. Lorsque vous tirez un espresso, vous
+                      extrayez le café à 9 atmosphères de pression et lorsque le
+                      shot est terminé, il crée un vide au-dessus et projette
+                      toutes les huiles et les broie vers le tamis de
+                      dispersion. Raison de plus pour le nettoyer !
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Chaque machine est légèrement différente, mais le principe
+                      ici est le même. Cet écran sera généralement maintenu en
+                      place soit par une clé Allen, une vis à tête plate ou une
+                      vis à tête cruciforme. Certaines n'ont même pas de vis,
+                      elles ont un système de verrouillage à pression que l'on
+                      peut simplement faire glisser (comme les machines Ascaso).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Quelle que soit la machine que vous possédez, saisissez
+                      l'outil nécessaire et retirez la vis et l'écran. J'aime
+                      insérer cet écran lorsque je trempe mon panier et mon
+                      porte-filtre, et donner à la machine un simple rinçage à
+                      contre-courant sans l'écran de dispersion dedans. Après le
+                      trempage, remettez le tout en place et votre machine sera
+                      neuve.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De kern van elke espressomachine voor thuisgebruik, hoe
+                      ingewikkeld ook, bestaat uit een zeer eenvoudige en zeer
+                      vertrouwde basis van componenten. Deze onderdelen, hoe
+                      verschillend ze ook lijken, kunnen worden gereinigd met
+                      deze BASIS- en UNIVERSELE REINIGINGSopties.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als u deze eenvoudige stappen volgt die iedereen op ELKE
+                      espressomachine kan uitvoeren, verbetert u de smaak van uw
+                      koffie ENORM en verlengt u de levensduur van uw machine.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Laten we deze stappen dus opsplitsen in ELKE KOFFIE, ELKE
+                      DAG, ELKE WEEK en ELKE MAAND.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'NUMMER 1: ZUIVEREN - ELK SCHOT'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Voor en nadat u uw espresso-shot heeft gemaakt, drukt u op
+                      de "go"-knop en laat u het water een seconde wegpompen
+                      voordat u uw portafilter erin plaatst. Het belangrijkste
+                      doel hier is om eventuele malingen en smurrie die op het
+                      dispersiescherm vastzitten te verwijderen. Gewoon door het
+                      water een seconde te laten stromen voor en na uw
+                      espresso-shot, zal wonderen doen om uw machine schoon te
+                      houden.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'NUMMER 2: HET OPPERVLAK REINIGEN - ELKE SCHOT'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het lijkt misschien raar om zoiets eenvoudigs aan deze
+                      lijst toe te voegen, maar het gaat dieper dan je denkt.
+                      Terwijl u met uw schone doek over het gladde
+                      roestvrijstalen oppervlak van uw emotionele investering
+                      veegt, zorg er dan voor dat u ook de binnenkant van uw
+                      portafilter en zelfs uw mandje schoonveegt. Gewoon afvegen
+                      of afspoelen kan wonderen doen om deze onderdelen schoon
+                      te houden en zorgt ervoor dat ze langer in betere staat
+                      blijven.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'NUMMER 3: BLACK FLUSH - ELKE DAG'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Afhankelijk van de machine die u heeft, heeft u een
+                      BLINDMAND nodig. Dit kan een roestvrijstalen mand zijn of
+                      een kleine rubberen plug die in uw portafilter zit. Hoe
+                      jouw exemplaar er ook uitziet, ze worden allemaal voor
+                      dezelfde taak gebruikt: backflushing. Doe je blinde mand
+                      erin, plaats je portafilter in de machine en maak een
+                      shot. Het water zal de mand raken en er niet doorheen
+                      kunnen, waardoor het water weer omhoog in de groepskop
+                      wordt gedwongen. Dit helpt bij het verwijderen van
+                      eventuele maling, olie of smurrie die in de machine
+                      vastzit. Als je volledige druk hebt, kun je het
+                      portafilter een beetje uitbreken en zie je dat alle grinds
+                      en smurrie uit de zijkanten spuwen. Doe dit steeds opnieuw
+                      totdat er volledig helder water uit komt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      NUMMER 4: CHEMISCHE REINIGING VAN UW GEREEDSCHAP -
+                      Wekelijks
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dit is de stap die zoveel mensen liever niet doen. Of het
+                      nu uit onwetendheid of luiheid is, bij veel machines
+                      worden de onderdelen nooit met chemicaliën gereinigd. Deze
+                      stap is cruciaal voor het schoonhouden van de machine en
+                      het verkrijgen van heerlijk smakende koffie. Zonder deze
+                      stap zullen de oliën uit uw koffie gaan zitten, gaan
+                      etteren en ranzig worden. Ik laat je zien hoe je dit in
+                      slechts een paar stappen op ELKE koffiemachine kunt doen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Koop eerst een bakje CAFETTO Cleaner. Dit reinigingspoeder
+                      werkt veel beter dan de tabletten die bij je machine
+                      worden geleverd, en is bovendien 10x goedkoper. Een grote
+                      pot Cafetto kost ongeveer €20,- en gaat bij een
+                      thuisgebruiker jaren mee (1,5 g doseerlepel met 500 g
+                      poeder).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Plaats vervolgens je blinde mandje in je portafilter en
+                      doe er een klein schepje cafetto in (ik gebruik zelfs maar
+                      een half schepje). Plaats dat in de machine en voer een
+                      schot uit. Dit zal precies doen wat de backflushing-stap
+                      doet, maar deze keer maakt de extra hulp van een
+                      reinigingsmiddel korte metten met olie, grind en andere
+                      nare stoffen die in de leidingen van de machine
+                      achterblijven.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Nadat je dit hebt gedaan, plaats je je gewone mandje en je
+                      portafilter in een kan (je melkkan als die past), voeg een
+                      schepje cafettopoeder toe en vul deze met heet water,
+                      zodat alleen de metalen delen onder water staan. Laat het
+                      een nacht staan en spoel het 's ochtends af. Uw
+                      gereedschap wordt dan weer tot op het roestvrij staal
+                      gereinigd. Portafilters zijn niet zoals gietijzer, ze
+                      smaken niet beter naarmate ze ouder worden en ze voegen
+                      niet bij elke koffie smaak toe. Houd het glanzend en uw
+                      koffie zal heerlijk smaken.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      *LET OP* Spoel alles af nadat je het in chemicaliën hebt
+                      gedrenkt en laat vervolgens een dummy-shot door de machine
+                      lopen om eventuele achtergebleven chemische smaken en
+                      resten te verwijderen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Nummer 5: HET VERSPREIDINGSCHERM - MAANDELIJKS'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het verspreidingsscherm is het kleine scherm dat zich
+                      onderaan het groepshoofd bevindt. Dit scherm is
+                      verantwoordelijk voor de verspreiding en de waterstroom
+                      die op je puck terechtkomt en kan absoluut bezaaid raken
+                      met grinds, oliën en andere smurrie. Wanneer u een
+                      espresso-shot maakt, extraheert u de koffie met een druk
+                      van 9 atmosfeer en wanneer het shot klaar is, ontstaat er
+                      een vacuüm erboven en schiet alle olie en maalt terug naar
+                      het dispersiescherm. Nog meer reden om hem schoon te
+                      maken!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Elke machine is iets anders, maar het principe is hier
+                      hetzelfde. Dit scherm wordt meestal op zijn plaats
+                      gehouden door een inbussleutel, een platte kopschroef of
+                      een kruiskopschroef. Sommige hebben zelfs geen schroeven,
+                      maar een drukvergrendelingssysteem dat je er gewoon uit
+                      kunt schuiven (zoals de Ascaso-machines).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Welke machine je ook bezit, pak het gereedschap dat je
+                      nodig hebt en verwijder de schroef en het scherm. Ik vind
+                      het leuk om dit scherm naar binnen te laten komen als ik
+                      mijn mandje en portafilter laat weken, en de machine een
+                      eenvoudige backflush geef zonder het verspreidingsscherm
+                      erin. Na het weken zet u alles weer in elkaar en is uw
+                      machine weer fabrieksnieuw.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: cd4039d2-b26d-45f3-9de8-d09e8d84467b
+          type: image
+          fields:
+            id:
+              type: text
+              value: d27460e2-4d0c-4e22-9b14-6fc450cb6f57
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/tSIGr7gIR4uiErIT5bpw2g-cleaning_basket.jpg
+              type: text
+            file:
+              type: file
+              value: 8695f977-3597-4f7e-beae-b1686b53f12e
+            size:
+              value: 83472
+              type: number
+            title:
+              type: text
+              value: cleaning_basket.jpg
+            width:
+              value: 660
+              type: number
+            height:
+              value: 440
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          It doesn't matter what coffee machine you own. These methods are
+          UNIVERSAL!   If you follow these steps you will greatly increase your
+          espresso taste as well increase the lifespan of your machine.
+        fr-CA: >-
+          Peu importe la machine à café que vous possédez.Ces méthodes sont
+          universelles!Si vous suivez ces étapes, vous augmentez
+          considérablement votre goût d'espresso et augmentera bien la durée de
+          vie de votre machine.
+        nl-NL: >-
+          Het maakt niet uit welk koffiezetapparaat u bezit.Deze methoden zijn
+          universeel!Als u deze stappen volgt, zult u uw espresso -smaak
+          aanzienlijk verhogen en de levensduur van uw machine verhogen.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

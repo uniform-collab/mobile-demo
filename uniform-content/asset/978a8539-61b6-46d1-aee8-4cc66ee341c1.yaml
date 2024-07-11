@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 978a8539-61b6-46d1-aee8-4cc66ee341c1
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: ai_generated_image_for_image.avif
+    file:
+      type: file
+      value: eb318f6f-1593-4c69-a01c-820201266078
+    mediaType:
+      value: image/avif
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/7L6uTF-JT9Srswy4cEzPxA-ai_generated_image_for_image.avif
+      type: text
+    size:
+      value: 56609
+      type: number
+    width:
+      value: 1024
+      type: number
+    height:
+      value: 1024
+      type: number
+    custom: {}
+created: '2024-02-28T12:34:25.44692+00:00'
+modified: '2024-02-28T13:33:39.39572+00:00'

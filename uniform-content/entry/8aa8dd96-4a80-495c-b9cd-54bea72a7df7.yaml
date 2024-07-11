@@ -1,0 +1,164 @@
+created: '2024-02-28T12:53:41.143933+00:00'
+modified: '2024-02-28T13:37:11.084493+00:00'
+pattern: false
+entry:
+  _id: 8aa8dd96-4a80-495c-b9cd-54bea72a7df7
+  _name: Milk carafe
+  _slug: milk-carafe-144
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/IBxGC5yyQKC41AhmUaVF6Q-milk_carafe__50631.1662555446.386.513_kognbj.jpg
+  type: product
+  fields:
+    name:
+      type: text
+      value: Milk carafe
+    title:
+      type: text
+      value: Milk carafe
+    category:
+      type: select
+      value: espresso-tools
+    variants:
+      type: $block
+      value:
+        - _id: 76b61f93-e9bb-4406-b708-8eb63637ad67
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '144'
+            price:
+              type: number
+              locales:
+                en-US: '44'
+                fr-CA: '40.64'
+                nl-NL: '40.64'
+            title:
+              type: text
+              locales:
+                en-US: Milk carafe
+                fr-CA: Milk carafe
+                nl-NL: Milk carafe
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 432ddb00-f69f-4975-b086-cdbaa47f6bf1
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: e0be08fb-636d-41ed-8ec9-9eb409ce9ba5
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/as7d-6SiSkyHjquRZfT_7Q-milk_carafe__50631.1662555446.386.513_kognbj.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 382dac14-9852-420e-9108-2d4347b3ab13
+                    size:
+                      value: 7369
+                      type: number
+                    title:
+                      type: text
+                      value: milk_carafe__50631.1662555446.386.513_kognbj.jpg
+                    width:
+                      value: 386
+                      type: number
+                    height:
+                      value: 386
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: c8edf551-f7c0-4084-8a71-c9e190ebf30a
+          type: image
+          fields:
+            id:
+              type: text
+              value: 78709555-1a8b-4bca-af6d-65760ad69bf8
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/IBxGC5yyQKC41AhmUaVF6Q-milk_carafe__50631.1662555446.386.513_kognbj.jpg
+              type: text
+            file:
+              type: file
+              value: 8d4a6024-5da8-42fc-b3ba-fc64b7190271
+            size:
+              value: 7369
+              type: number
+            title:
+              type: text
+              value: milk_carafe__50631.1662555446.386.513_kognbj.jpg
+            width:
+              value: 386
+              type: number
+            height:
+              value: 386
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 1ce17312-334c-4e72-9066-f916db3a465a
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: af3e6549-5016-4529-9076-93ceeb9c7b0a
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

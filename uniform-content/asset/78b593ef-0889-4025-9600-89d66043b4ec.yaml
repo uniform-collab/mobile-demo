@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 78b593ef-0889-4025-9600-89d66043b4ec
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: smart_feature.webp
+    file:
+      type: file
+      value: 9563fbe4-587a-4d83-ab5d-7376057019fd
+    mediaType:
+      value: image/webp
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/1Yn6SJsaQ3G-zoybIRHytw-smart_feature.webp
+      type: text
+    size:
+      value: 105498
+      type: number
+    width:
+      value: 1224
+      type: number
+    height:
+      value: 872
+      type: number
+    custom: {}
+created: '2024-02-28T12:33:54.766766+00:00'
+modified: '2024-02-28T13:33:07.685048+00:00'

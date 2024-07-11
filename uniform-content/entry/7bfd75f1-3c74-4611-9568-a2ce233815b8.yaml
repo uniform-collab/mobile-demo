@@ -1,0 +1,267 @@
+created: '2024-02-28T12:53:14.353693+00:00'
+modified: '2024-02-28T12:53:14.353693+00:00'
+pattern: false
+entry:
+  _id: 7bfd75f1-3c74-4611-9568-a2ce233815b8
+  _name: How to brew a proper cuppa'
+  _slug: how-to-brew-a-proper-cuppa
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Kpasg7LhSPul-y_YHuA2Pg-cuppa_article.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Beans
+    title:
+      type: text
+      locales:
+        en-US: How to brew a proper cuppa'
+        fr-CA: Comment préparer une tasse de thé bien '
+        nl-NL: Hoe u een goede cuppa kunt brouwen '
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kombucha nilgiri white london fog latte loose leaf
+                      lemongrass oolong tea gyokuro tea time rooibos focus boba.
+                      London fog nilgiri sencha hojicha infusion green oolong
+                      lapsang souchong mint tea kettle. Antioxidant bamboo whisk
+                      tisane boba nilgiri orange pekoe loose leaf hong
+                      kong-style milk keemun gaiwan herbal zen. Herbal pu’erh
+                      fair trade black assam guayusa nokcha shincha bamboo whisk
+                      guayusa scented camellia sinensis focus steep. Taro ginger
+                      assam mint lapsang souchong rooibos irish breakfast
+                      hojicha tea time taro rize earl grey camellia sinensis
+                      camellia sinensis
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kombucha nilgiri white london fog latte loose leaf
+                      lemongrass oolong tea gyokuro tea time rooibos focus boba.
+                      London fog nilgiri sencha hojicha infusion green oolong
+                      lapsang souchong mint tea kettle. Antioxidant bamboo whisk
+                      tisane boba nilgiri orange pekoe loose leaf hong
+                      kong-style milk keemun gaiwan herbal zen. Herbal pu’erh
+                      fair trade black assam guayusa nokcha shincha bamboo whisk
+                      guayusa scented camellia sinensis focus steep. Taro ginger
+                      assam mint lapsang souchong rooibos irish breakfast
+                      hojicha tea time taro rize earl grey camellia sinensis
+                      camellia sinensis.Kombucha nilgiri white london fog latte
+                      loose leaf lemongrass oolong tea gyokuro tea time rooibos
+                      focus boba. London fog nilgiri sencha hojicha infusion
+                      green oolong lapsang souchong mint tea kettle. Antioxidant
+                      bamboo whisk tisane boba nilgiri orange pekoe loose leaf
+                      hong kong-style milk keemun gaiwan herbal zen. Herbal
+                      pu’erh fair trade black assam guayusa nokcha shincha
+                      bamboo whisk guayusa scented camellia sinensis focus
+                      steep. Taro ginger assam mint lapsang souchong rooibos
+                      irish breakfast hojicha tea time taro rize earl grey
+                      camellia sinensis camellia sinensis.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kombucha nilgiri blanc brouillard de Londres latte
+                      feuilles mobiles citronnelle thé oolong gyokuro tea time
+                      rooibos focus boba. Bouilloire à thé à la menthe nilgiri
+                      sencha hojicha infusion de brouillard de Londres oolong
+                      vert lapsang souchong. Fouet en bambou antioxydant tisane
+                      boba nilgiri orange pekoe feuilles mobiles lait de style
+                      hong kong keemun gaiwan zen aux herbes. Pu'erh à base de
+                      plantes du commerce équitable noir assam guayusa nokcha
+                      shincha fouet en bambou guayusa parfumé camellia sinensis
+                      focus raide. Taro gingembre assam menthe lapsang souchong
+                      rooibos petit-déjeuner irlandais hojicha tea time taro
+                      rize earl gray camellia sinensis camellia sinensis
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kombucha nilgiri blanc brouillard de Londres latte
+                      feuilles mobiles citronnelle thé oolong gyokuro tea time
+                      rooibos focus boba. Bouilloire à thé à la menthe nilgiri
+                      sencha hojicha infusion de brouillard de Londres oolong
+                      vert lapsang souchong. Fouet en bambou antioxydant tisane
+                      boba nilgiri orange pekoe feuilles mobiles lait de style
+                      hong kong keemun gaiwan zen aux herbes. Pu'erh à base de
+                      plantes du commerce équitable noir assam guayusa nokcha
+                      shincha fouet en bambou guayusa parfumé camellia sinensis
+                      focus raide. Taro gingembre assam menthe lapsang souchong
+                      rooibos petit-déjeuner irlandais hojicha tea time taro
+                      rize earl gray camellia sinensis camellia
+                      sinensis.Kombucha nilgiri blanc london brouillard latte
+                      feuilles mobiles citronnelle oolong thé gyokuro tea time
+                      rooibos focus boba. Bouilloire à thé à la menthe nilgiri
+                      sencha hojicha infusion de brouillard de Londres oolong
+                      vert lapsang souchong. Fouet en bambou antioxydant tisane
+                      boba nilgiri orange pekoe feuilles mobiles lait de style
+                      hong kong keemun gaiwan zen aux herbes. Pu'erh à base de
+                      plantes du commerce équitable noir assam guayusa nokcha
+                      shincha fouet en bambou guayusa parfumé camellia sinensis
+                      focus raide. Taro gingembre assam menthe lapsang souchong
+                      rooibos petit-déjeuner irlandais hojicha tea time taro
+                      rize earl gray camellia sinensis camellia sinensis.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kombucha nilgiri wit londen mist latte losbladig
+                      citroengras oolong thee gyokuro theetijd rooibos focus
+                      boba. London fog nilgiri sencha hojicha infusie groene
+                      oolong lapsang souchong mint theeketel. Antioxidant bamboe
+                      garde tisane boba nilgiri sinaasappel pekoe losbladige
+                      hong kong-stijl melk keemun gaiwan kruiden zen. Kruiden
+                      pu'erh fairtrade zwarte assam guayusa nokcha shincha
+                      bamboe garde guayusa geurende camellia sinensis focus
+                      steil. Taro gember assam mint lapsang souchong rooibos
+                      Iers ontbijt hojicha theetijd taro rize Earl Grey camellia
+                      sinensis camellia sinensis
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kombucha nilgiri wit londen mist latte losbladig
+                      citroengras oolong thee gyokuro theetijd rooibos focus
+                      boba. London fog nilgiri sencha hojicha infusie groene
+                      oolong lapsang souchong mint theeketel. Antioxidant bamboe
+                      garde tisane boba nilgiri sinaasappel pekoe losbladige
+                      hong kong-stijl melk keemun gaiwan kruiden zen. Kruiden
+                      pu'erh fairtrade zwarte assam guayusa nokcha shincha
+                      bamboe garde guayusa geurende camellia sinensis focus
+                      steil. Taro gember assam munt lapsang souchong rooibos
+                      Iers ontbijt hojicha theetijd taro rize Earl Grey camellia
+                      sinensis camellia sinensis.Kombucha nilgiri wit londen
+                      mist latte los blad citroengras oolong thee gyokuro
+                      theetijd rooibos focus boba. London fog nilgiri sencha
+                      hojicha infusie groene oolong lapsang souchong mint
+                      theeketel. Antioxidant bamboe garde tisane boba nilgiri
+                      sinaasappel pekoe losbladige hong kong-stijl melk keemun
+                      gaiwan kruiden zen. Kruiden pu'erh fairtrade zwarte assam
+                      guayusa nokcha shincha bamboe garde guayusa geurende
+                      camellia sinensis focus steil. Taro gember assam mint
+                      lapsang souchong rooibos Iers ontbijt hojicha theetijd
+                      taro rize Earl Grey camellia sinensis camellia sinensis.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 0fa4c96e-e736-4df0-9f80-6862b78fd6ba
+          type: image
+          fields:
+            id:
+              type: text
+              value: 2ac6c28a-f708-4397-ae31-aee8d45162e4
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Kpasg7LhSPul-y_YHuA2Pg-cuppa_article.jpg
+              type: text
+            file:
+              type: file
+              value: f7ab1f6a-f279-4cae-b65b-b3e1e757282e
+            size:
+              value: 216920
+              type: number
+            title:
+              type: text
+              value: cuppa_article.jpg
+            width:
+              value: 686
+              type: number
+            height:
+              value: 338
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: A Brit's guide to the national drink
+        fr-CA: Un guide britannique sur la boisson nationale
+        nl-NL: Een Brit's Guide to the National Drink
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,70 @@
+created: '2024-02-28T12:54:06.766395+00:00'
+modified: '2024-02-28T12:54:06.766395+00:00'
+pattern: false
+entry:
+  _id: 0ee4ed9e-8215-4660-b4df-1176d7bacf57
+  _name: The drip on display
+  _slug: the-drip-on-display
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/7_GygsUZTyufnB3NwVpK5w-espressoGPT_hero_2.jpg
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 8b6a3a9e-6e40-4c59-a035-73d0edb2e461
+          type: image
+          fields:
+            id:
+              type: text
+              value: a13dd5cb-a03f-4e22-9214-954af5f1618f
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/7_GygsUZTyufnB3NwVpK5w-espressoGPT_hero_2.jpg
+              type: text
+            file:
+              type: file
+              value: e3d6fde9-c6ee-4824-931d-4d4bbb1d0b43
+            size:
+              value: 235654
+              type: number
+            title:
+              type: text
+              value: espressoGPT_hero_2.jpg
+            width:
+              value: 2048
+              type: number
+            height:
+              value: 1423
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: The drip on display
+        fr-CA: La goutte à exposition
+        nl-NL: De druppel op het display
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Crystal-clear clarity, ensuring users can easily select their desired
+          settings and monitor the brewing process in real-time. Its intuitive
+          interface and vibrant visuals elevate the user experience.
+        fr-CA: >-
+          Clarité cristalline, garantir que les utilisateurs peuvent facilement
+          sélectionner les paramètres souhaités et surveiller le processus de
+          brassage en temps réel.Son interface intuitive et ses visuels vibrants
+          élèvent l'expérience utilisateur.
+        nl-NL: >-
+          Kristalheldere duidelijkheid, ervoor zorgen dat gebruikers eenvoudig
+          hun gewenste instellingen kunnen selecteren en het brouwproces in
+          realtime kunnen bewaken.De intuïtieve interface en levendige visuals
+          verhogen de gebruikerservaring.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 5ec12905-0364-4ae6-b5ee-4bfebd5a487d
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: photo-161.png
+    file:
+      type: file
+      value: 450f4a40-3cf2-4994-a6bd-eb10965ced4c
+    mediaType:
+      value: image/png
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/q6CEp-k9RwaP9eTTatTf0g-photo-161.png
+      type: text
+    size:
+      value: 3024033
+      type: number
+    width:
+      value: 1974
+      type: number
+    height:
+      value: 1480
+      type: number
+    custom: {}
+created: '2024-02-28T12:38:21.962365+00:00'
+modified: '2024-02-28T13:32:43.348761+00:00'

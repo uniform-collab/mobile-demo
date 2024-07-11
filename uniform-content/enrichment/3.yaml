@@ -1,0 +1,13 @@
+id: '3'
+name: Topics
+cap: 500
+values:
+  - id: '1'
+    value: Brewing
+    sortOrder: 1
+  - id: '3'
+    value: Tips
+    sortOrder: 2
+  - id: '2'
+    value: Gear
+    sortOrder: 3

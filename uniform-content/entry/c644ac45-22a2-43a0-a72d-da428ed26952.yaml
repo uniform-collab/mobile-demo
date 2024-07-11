@@ -1,0 +1,72 @@
+created: '2024-02-28T12:52:06.535791+00:00'
+modified: '2024-02-28T12:52:06.535791+00:00'
+pattern: false
+entry:
+  _id: c644ac45-22a2-43a0-a72d-da428ed26952
+  _name: 6 Brew Sizes
+  _slug: 6-brew-sizes
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/sQi5QTYqRjuKhvM2qr8BKw-javaDrip_specialty_sizes.jpg
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 00bed5da-610d-46a7-bb6d-914c47332c01
+          type: image
+          fields:
+            id:
+              type: text
+              value: abb307ce-d43e-4bb5-9c0f-ebe28befca16
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/sQi5QTYqRjuKhvM2qr8BKw-javaDrip_specialty_sizes.jpg
+              type: text
+            file:
+              type: file
+              value: c1f63988-80d0-4bea-9d7e-74c745cd259a
+            size:
+              value: 13942
+              type: number
+            title:
+              type: text
+              value: javaDrip_specialty_sizes.jpg
+            width:
+              value: 250
+              type: number
+            height:
+              value: 250
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: 6 Brew Sizes
+        fr-CA: 6 tailles d'infusion
+        nl-NL: 6 brouwgroottes
+    productId:
+      type: text
+      value: javadrip-specialty-coffee-maker
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Brew anything from a single cup or travel size to a half carafe or a
+          full carafe in your coffee maker.  6 sizes include Cup, XL Cup, Travel
+          Mug, Multi-Serve Travel Mug, Half Carafe & Full Carafe.
+        fr-CA: >-
+          Brasser tout, d'une tasse ou d'une taille de voyage à une demi-carafe
+          ou une carafe complète dans votre cafetière.6 tailles incluent une
+          tasse, une tasse XL, une tasse de voyage, une tasse de voyage
+          multi-services, une demi-carafe et une carafe complète.
+        nl-NL: >-
+          Zet alles van een kopje of reismaat tot een halve karaf of een
+          volledige karaf in uw koffiezetapparaat.6 maten zijn onder meer beker,
+          XL Cup, reismok, multi-serve reismok, halve karaf en volle karaf.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

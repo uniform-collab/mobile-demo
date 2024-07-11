@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 8a84b5b5-2f5a-450e-b3a7-a956925e891c
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: ember-hammered-copper-pot-137-1_opkizg_dvuj5k.jpg
+    file:
+      type: file
+      value: c1379726-e441-4ed5-8ecd-d75cd6d759b1
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/x7-vkvATQ9-RrTMOTg_ogw-ember-hammered-copper-pot-137-1_opkizg_dvuj5k.jpg
+      type: text
+    size:
+      value: 168925
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:49:05.186788+00:00'
+modified: '2024-02-28T13:33:29.948435+00:00'

@@ -1,0 +1,58 @@
+id: variant
+name: Variant
+created: '2024-02-28T12:51:49.941444+00:00'
+updated: '2024-02-28T12:51:49.941444+00:00'
+slugSettings:
+  required: 'no'
+useTeamPermissions: true
+fields:
+  - id: title
+    name: Title
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: code
+    name: Code
+    type: text
+    helpText: ''
+    typeConfig: null
+  - id: price
+    name: Price
+    type: number
+    helpText: ''
+    typeConfig:
+      decimal: true
+      required: true
+    localizable: true
+  - id: currency
+    name: Currency
+    type: text
+    helpText: ''
+    typeConfig:
+      required: true
+    localizable: true
+  - id: imageGallery
+    name: Image Gallery
+    type: asset
+    helpText: ''
+    typeConfig:
+      max: 10
+      min: 1
+    localizable: false
+  - id: available
+    name: Available
+    type: checkbox
+    helpText: ''
+    typeConfig: null
+  - id: primary
+    name: Primary
+    type: checkbox
+    helpText: ''
+    typeConfig: null
+entryName: title
+thumbnailField: imageGallery
+description: ''
+icon: shopping-bag
+type: block
+permissions: []

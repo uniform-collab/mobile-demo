@@ -1,0 +1,134 @@
+composition:
+  _name: Hero (cf)
+  _id: b60d0fe0-c4cd-41f5-a2b7-e75f565095f6
+  type: hero
+  variant: backgroundImage
+  parameters:
+    image:
+      type: asset
+      value:
+        - _id: 265e4f5e-e20e-46d1-ab95-0971c6600fa7
+          type: image
+          fields:
+            url:
+              type: text
+              value: ${#jptr:/Hero Content/fields/image}
+          _source: custom-url
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Hero Content/fields/title}
+        en-GB: ${#jptr:/Hero Content/fields/title}
+        en-NL: ${#jptr:/Hero Content/fields/title}
+        en-US: ${#jptr:/Hero Content/fields/title}
+        fr-CA: ${#jptr:/Hero Content/fields/title}
+        nl-NL: ${#jptr:/Hero Content/fields/title}
+    duration:
+      type: select
+      value: medium
+    marginTop:
+      type: select
+      value: None
+    objectFit:
+      type: select
+      value: cover
+    textColor:
+      type: tp-color-palette-parameter
+      value: primary-content
+    paddingTop:
+      type: select
+      value: None
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h1
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Hero Content/fields/description}
+        en-GB: ${#jptr:/Hero Content/fields/description}
+        en-NL: ${#jptr:/Hero Content/fields/description}
+        en-US: ${#jptr:/Hero Content/fields/description}
+        fr-CA: ${#jptr:/Hero Content/fields/description}
+        nl-NL: ${#jptr:/Hero Content/fields/description}
+    marginBottom:
+      type: select
+      value: None
+    overlayColor:
+      type: tp-color-style-parameter
+      value: primary
+    animationType:
+      type: select
+      value: flyIn
+    paddingBottom:
+      type: select
+      value: None
+    animationOrder:
+      type: select
+      value: oneByOne
+    overlayOpacity:
+      type: tp-slider-parameter
+      value: 60%
+    containerVariant:
+      type: select
+      value: fluidContent
+  _dataResources:
+    Hero Content:
+      type: contentfulHero
+      variables:
+        locale: ${locale}
+        entryIds: 3pGJKD9wi8RKPMTsvfIHgt
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      delay: 'yes'
+      image: 'yes'
+      title: 'yes'
+      video: 'yes'
+      duration: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      textColor: 'yes'
+      fullHeight: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      animationType: 'yes'
+      group_content: 'yes'
+      paddingBottom: 'yes'
+      animationOrder: 'yes'
+      backgroundType: 'yes'
+      overlayOpacity: 'yes'
+      backgroundColor: 'yes'
+      animationPreview: 'yes'
+      containerVariant: 'yes'
+      group_primaryCta: 'yes'
+      textColorVariant: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      group_secondaryCta: 'yes'
+      primaryButtonStyle: 'yes'
+      group_imageSettings: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:50:48.572852+00:00'
+modified: '2024-02-28T12:50:48.572852+00:00'
+pattern: true
+description: Traditional hero component layout
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Hero_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

@@ -1,0 +1,1239 @@
+composition:
+  _name: Main Footer
+  _id: 319639e9-4bac-4fb3-8f0b-19088c969fcb
+  type: footer
+  parameters:
+    logo:
+      type: asset
+      value:
+        - _id: 5854d60c-9760-4be1-9691-923425397ad0
+          type: image
+          fields:
+            id:
+              type: text
+              value: aa1505c3-00d3-45be-8be6-749757dedd07
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/_SXOLOyZRWO89DHY-ga6Aw-uniform_logo_black.svg
+              type: text
+            file:
+              type: file
+              value: 842fb496-61fc-40f5-ac19-21bf0162bdc5
+            size:
+              value: 2288
+              type: number
+            title:
+              type: text
+              value: uniform_logo_black.svg
+            width:
+              value: 608
+              type: number
+            height:
+              value: 192
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    copyright:
+      type: text
+      locales:
+        en-CA: 2024 Uniform Systems, Inc. All rights reserved.
+        en-GB: 2024 Uniform Systems, Inc. All rights reserved.
+        en-NL: 2024 Uniform Systems, Inc. All rights reserved.
+        en-US: 2024 Uniform Systems, Inc. All rights reserved.
+        fr-CA: 2024 Uniform Systems, Inc. Tous droits réservés.
+        nl-NL: 2024 Uniform Systems, Inc. Alle rechten voorbehouden.
+    footerText:
+      type: richText
+      locales:
+        en-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Built with 💙 by folks at '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://uniform.dev
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Uniform
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: >-
+                      , standing on the shoulders of these awesome open-source
+                      projects: 
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://tailwindcss.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: TailwindCSS
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://daisyui.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: DaisyUI
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://react.dev/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: React
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', and '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://nextjs.org/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Next.js
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: '. Deployed to '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://vercel.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Vercel
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: .
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        en-GB:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Built with 💙 by folks at '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://uniform.dev
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Uniform
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: >-
+                      , standing on the shoulders of these awesome open-source
+                      projects: 
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://tailwindcss.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: TailwindCSS
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://daisyui.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: DaisyUI
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://react.dev/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: React
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', and '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://nextjs.org/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Next.js
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: '. Deployed to '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://vercel.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Vercel
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: .
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        en-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Built with 💙 by folks at '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://uniform.dev
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Uniform
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: >-
+                      , standing on the shoulders of these awesome open-source
+                      projects: 
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://tailwindcss.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: TailwindCSS
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://daisyui.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: DaisyUI
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://react.dev/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: React
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', and '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://nextjs.org/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Next.js
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: '. Deployed to '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://vercel.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Vercel
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: .
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Built with 💙 by folks at '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://uniform.dev
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Uniform
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: >-
+                      , standing on the shoulders of these awesome open-source
+                      projects: 
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://tailwindcss.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: TailwindCSS
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://daisyui.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: DaisyUI
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://react.dev/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: React
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', and '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://nextjs.org/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Next.js
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: '. Deployed to '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://vercel.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Vercel
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: .
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Construit avec 💙 par des gens '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://uniform.dev
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Uniform
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', s''appuyant sur ces superbes projets open source: '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://tailwindcss.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: TailwindCSS
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://daisyui.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: DaisyUI
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://react.dev/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: React
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', et '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://nextjs.org/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Next.js
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: '. Déployé à '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://vercel.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Vercel
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: .
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Gebouwd met 💙 door mensen van '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://uniform.dev
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Uniform
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: >-
+                      , staand op de schouders van deze geweldige open
+                      source-projecten: 
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://tailwindcss.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: TailwindCSS
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://daisyui.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: DaisyUI
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://react.dev/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: React
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: ', En '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://nextjs.org/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Next.js
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: '. Ingezet bij '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - link:
+                      path: https://vercel.com/
+                      type: url
+                    type: link
+                    format: ''
+                    indent: 0
+                    version: 1
+                    children:
+                      - mode: normal
+                        text: Vercel
+                        type: text
+                        style: ''
+                        detail: 0
+                        format: 0
+                        version: 1
+                    direction: ltr
+                  - mode: normal
+                    text: .
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+    displayBuildTimestamp:
+      type: checkbox
+      value: true
+  slots:
+    section:
+      - _id: 6d0c5ff7-19ef-48f2-9ec8-97c65cec38ac
+        type: navigationSection
+        slots:
+          links:
+            - _id: 6e5548bb-f480-4930-aa19-475a0b05f431
+              type: navigationLink
+              variant: footer
+              parameters:
+                link:
+                  type: link
+                  value:
+                    path: >-
+                      https://docs.uniform.app/docs/get-started/component-starter-kit
+                    type: url
+                title:
+                  type: text
+                  locales:
+                    en-CA: Documentation
+                    en-GB: Documentation
+                    en-NL: Documentation
+                    en-US: Documentation
+                    fr-CA: Documentation
+                    nl-NL: Documentatie
+            - _id: 5b5c7862-e6f7-40f6-9a51-f06299d3ecd7
+              type: navigationLink
+              variant: footer
+              parameters:
+                link:
+                  type: link
+                  value:
+                    path: https://components-storybook.uniform.app/
+                    type: url
+                title:
+                  type: text
+                  locales:
+                    en-CA: Storybook
+                    en-GB: Storybook
+                    en-NL: Storybook
+                    en-US: Storybook
+                    fr-CA: Livre d'histoires
+                    nl-NL: Verhalenboek
+            - _id: 4efac0ca-d602-46b7-8fe4-c8db6ea6ca42
+              type: navigationLink
+              variant: footer
+              parameters:
+                link:
+                  type: link
+                  value:
+                    path: /${locale}/about-us
+                    type: projectMapNode
+                    nodeId: 46d79867-b877-4ce7-9675-78fee55fc308
+                    projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+                    dynamicInputValues:
+                      locale: ${locale}
+                title:
+                  type: text
+                  locales:
+                    en-CA: About Us
+                    en-GB: About Us
+                    en-NL: About Us
+                    en-US: About Us
+                    fr-CA: À propos de nous
+                    nl-NL: Over ons
+            - _id: e5365d0c-00d9-42d2-90eb-4446084cc3c0
+              type: navigationLink
+              variant: footer
+              parameters:
+                link:
+                  type: link
+                  value:
+                    path: https://components.uniform.app/
+                    type: url
+                title:
+                  type: text
+                  locales:
+                    en-CA: Demo
+                    en-GB: Demo
+                    en-NL: Demo
+                    en-US: Demo
+                    fr-CA: Démo
+                    nl-NL: Demo
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Key resources
+              en-GB: Key resources
+              en-NL: Key resources
+              en-US: Key resources
+              fr-CA: Ressources clés
+              nl-NL: Belangrijkste bronnen
+    iconLinks:
+      - _id: 5ebfeac4-2e19-42fa-b71c-e3ffb179bc61
+        type: iconLink
+        parameters:
+          icon:
+            type: asset
+            value:
+              - _id: ad71eaaa-970b-4ea5-9d50-b1a08c9f09cf
+                type: image
+                fields:
+                  id:
+                    type: text
+                    value: 5825db43-46f7-4c67-90fe-9db22c886de4
+                  url:
+                    value: >-
+                      https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Rvag6H_hT8OtP8WZQNIOaQ-storybook_icon.svg
+                    type: text
+                  file:
+                    type: file
+                    value: d1f9c55a-0ec6-43de-92e1-d5cd66239a2d
+                  size:
+                    value: 7943
+                    type: number
+                  title:
+                    type: text
+                    value: storybook_icon.svg
+                  width:
+                    value: 38
+                    type: number
+                  height:
+                    value: 38
+                    type: number
+                  mediaType:
+                    value: image/svg+xml
+                    type: text
+                _source: uniform-assets
+          link:
+            type: link
+            value:
+              path: https://components-storybook.uniform.app/
+              type: url
+      - _id: a743d3e8-28d6-4d44-adfb-71590eba0118
+        type: iconLink
+        parameters:
+          icon:
+            type: asset
+            value:
+              - _id: e417bb6a-2a1c-4982-8432-681225d867d9
+                type: image
+                fields:
+                  id:
+                    type: text
+                    value: 3bbc89d6-e79d-4654-b467-381a3ba82c20
+                  url:
+                    value: >-
+                      https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/YmOpO_KURuuhGIy7HTgHGQ-github_icon_black.svg
+                    type: text
+                  file:
+                    type: file
+                    value: e791ba00-7af7-4241-a048-4896b10f5499
+                  size:
+                    value: 1327
+                    type: number
+                  title:
+                    type: text
+                    value: github_icon_black.svg
+                  width:
+                    value: 35
+                    type: number
+                  height:
+                    value: 34
+                    type: number
+                  mediaType:
+                    value: image/svg+xml
+                    type: text
+                _source: uniform-assets
+          link:
+            type: link
+            value:
+              path: https://github.com/uniformdev/uniform-component-starter-kit
+              type: url
+  _locales:
+    - en-US
+    - fr-CA
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:59.173336+00:00'
+modified: '2024-02-28T12:50:59.173336+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/Footer_preview_image
+categoryId: 1bf9504a-07c4-4873-bbca-f235a6da182b

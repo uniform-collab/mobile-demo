@@ -1,0 +1,72 @@
+created: '2024-02-28T12:53:46.724075+00:00'
+modified: '2024-02-28T12:53:46.724075+00:00'
+pattern: false
+entry:
+  _id: 6913f859-b7ff-497d-b50b-3994e6ebae5d
+  _name: Quantum heating technology
+  _slug: quantum-heating-technology
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/bDtvYuIiT2CR34WKOfv_NQ-cup.svg
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 02a192e3-80c3-4a02-a3c4-aaabfeb8c6c6
+          type: image
+          fields:
+            id:
+              type: text
+              value: 4b3b4e1a-4e40-4ecb-9598-775a14ab5247
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/bDtvYuIiT2CR34WKOfv_NQ-cup.svg
+              type: text
+            file:
+              type: file
+              value: 925e6f14-91d2-47f0-96f8-fdda58948125
+            size:
+              value: 1213
+              type: number
+            title:
+              type: text
+              value: cup.svg
+            width:
+              value: 60
+              type: number
+            height:
+              value: 47
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Quantum heating technology
+        fr-CA: Technologie de chauffage quantique
+        nl-NL: Kwantumverwarmingstechnologie
+    productId:
+      type: text
+      value: espresso-gpt-145
+    description:
+      type: text
+      locales:
+        en-US: >
+          Say goodbye to waiting. The EspressoGPT harnesses quantum mechanics to
+          heat your water in a fraction of a second, ensuring the perfect
+          temperature for your espresso every time.
+        fr-CA: >-
+          Dites au revoir à l'attente.L'espressogpt exploite la mécanique
+          quantique pour chauffer votre eau en une fraction de seconde,
+          garantissant la température parfaite pour votre expresso à chaque
+          fois.
+        nl-NL: >-
+          Zeg vaarwel tegen wachten.De espressogpt gebruikt de kwantummechanica
+          om uw water in een fractie van een seconde te verwarmen, waardoor de
+          perfecte temperatuur voor uw espresso elke keer wordt gewaarborgd.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

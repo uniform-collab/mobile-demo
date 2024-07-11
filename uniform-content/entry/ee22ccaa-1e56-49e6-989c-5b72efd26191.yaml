@@ -1,0 +1,891 @@
+created: '2024-02-28T12:52:08.805283+00:00'
+modified: '2024-02-28T12:52:08.805283+00:00'
+pattern: false
+entry:
+  _id: ee22ccaa-1e56-49e6-989c-5b72efd26191
+  _name: 7 Tips for Making the Best Coffee Ever
+  _slug: 7-tips-for-making-the-best-coffee-ever
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/iuQO0UqiTo26cvsU-wprrg-whole_bean.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Editorial
+    title:
+      type: text
+      locales:
+        en-US: 7 Tips for Making the Best Coffee Ever
+        fr-CA: 7 conseils pour faire le meilleur café de tous les temps
+        nl-NL: 7 tips voor het maken van de beste koffie ooit
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - tag: h1
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: A Better Brew
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      If you’re already a fan of the stuff, you likely don’t
+                      need convincing that coffee is a good thing. Not only does
+                      it wake up your senses and brain to prepare for the day,
+                      but it’s also been shown to reduce the risk of heart
+                      disease, certain cancers and mental deterioration. But
+                      really, those who sip coffee do so chiefly because it
+                      tastes good — and what if you could make that morning cup
+                      even better? Here are seven ways to improve your brew.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Start with Whole Beans
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Freshly ground coffee beans have a stronger, fresher flavor and retain more of coffee’s natural antioxidants and flavonoids than preground versions. Whole beans also last longer: An open bag of beans will remain tasty for two weeks, while the ground stuff will last for only one.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Don't Store Coffee in the Freezer (or Fridge)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Moisture is the enemy of a decent brew. When you dig into
+                      a bag of beans from the freezer every morning, you expose
+                      it to humidity — not to mention odors from the other foods
+                      around it. Plus, the beans can get freezer burn. Instead,
+                      keep beans in an airtight container in a cool, dark place
+                      like the pantry.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Buy Beans in Small Batches
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      When properly stored (remember, in the pantry!), coffee
+                      beans won’t ever really go bad. But as beans age, they
+                      will lose their flavor. Purchasing smaller quantities
+                      ensures that you always have fresh, tasty coffee
+                      available. Plus, it allows you to try new roasts and
+                      blends more often.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Heat More Than Just the Coffee
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      You know why they stack the coffee cups on top of the
+                      cappuccino machine at your favorite Italian restaurant? To
+                      keep them warm, which helps your coffee stay hot longer.
+                      To keep your mug toasty at home, fill it with hot water
+                      while you wait for the coffee to brew. If you take cream
+                      or milk, heat it in a mug in the microwave before you add
+                      your java.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Make Your Own Flavored Blend
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Don’t limit yourself to the varieties at the grocery
+                      store. Try adding a spent vanilla bean (meaning you’ve
+                      already scraped out the seeds), ground cinnamon (or other
+                      baking spices), fresh herbs, dried fruits or citrus zest
+                      to the filter before brewing. Or toss a cup of ground
+                      beans with some of your favorite flavor extract.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Fake Froth in a Microwave
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "If you're not ready to spring for a machine that makes the real thing, you can get very close with this trick: Heat 1/2 cup of milk in the microwave until small bubbles just start to form (about 1 minute). Whisk vigorously, scooping out the foam and transferring it to a small bowl as it rises to the top. Pour the warmed milk into 1/2 cup very strong coffee (or 1/3 cup espresso) and top it off with the reserved foam.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Old Coffee Is Good Coffee
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "You might not want to reheat it, but the leftover coffee from this morning's brew is worth saving. Make coffee ice cubes to chill an iced mocha without watering it down. Freeze coffee in a loaf pan and then scrape with a fork for a bracing granita. Or save old coffee in the fridge to add to chocolate cupcake batter, vanilla frosting, chili, marinades and braises.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - tag: h1
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Une meilleure infusion
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Si vous êtes déjà fan de ce produit, vous n’avez
+                      probablement pas besoin d’être convaincu que le café est
+                      une bonne chose. Non seulement il réveille vos sens et
+                      votre cerveau pour vous préparer à la journée, mais il a
+                      également été démontré qu’il réduit le risque de maladie
+                      cardiaque, de certains cancers et de détérioration
+                      mentale. Mais en réalité, ceux qui sirotent du café le
+                      font principalement parce qu’il a bon goût – et si vous
+                      pouviez rendre cette tasse du matin encore meilleure ?
+                      Voici sept façons d’améliorer votre infusion.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Commencez avec des haricots entiers
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les grains de café fraîchement moulus ont une saveur plus
+                      forte et plus fraîche et retiennent davantage
+                      d’antioxydants et de flavonoïdes naturels du café que les
+                      versions prémoulues. Les haricots entiers durent également
+                      plus longtemps : un sac de haricots ouvert restera
+                      savoureux pendant deux semaines, tandis que les grains
+                      moulus ne dureront qu'une seule.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ne conservez pas le café au congélateur (ou au
+                      réfrigérateur)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L’humidité est l’ennemi d’une bonne infusion. Lorsque vous
+                      sortez chaque matin un sac de haricots du congélateur,
+                      vous l’exposez à l’humidité, sans parler des odeurs des
+                      autres aliments qui l’entourent. De plus, les haricots
+                      peuvent être brûlés par le congélateur. Conservez plutôt
+                      les haricots dans un contenant hermétique dans un endroit
+                      frais et sombre comme le garde-manger.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Achetez des haricots en petits lots
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorsqu’ils sont correctement stockés (rappelez-vous, dans
+                      le garde-manger !), les grains de café ne se détérioreront
+                      jamais vraiment. Mais à mesure que les haricots
+                      vieillissent, ils perdent leur saveur. L'achat de petites
+                      quantités garantit que vous disposez toujours d'un café
+                      frais et savoureux. De plus, cela vous permet d’essayer de
+                      nouvelles torréfactions et mélanges plus souvent.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Chauffer plus que le café
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vous savez pourquoi ils empilent les tasses à café sur la
+                      machine à cappuccino de votre restaurant italien préféré ?
+                      Pour les garder au chaud, ce qui permet à votre café de
+                      rester chaud plus longtemps. Pour garder votre tasse bien
+                      au chaud à la maison, remplissez-la d'eau chaude en
+                      attendant que le café soit préparé. Si vous prenez de la
+                      crème ou du lait, faites-le chauffer dans une tasse au
+                      micro-ondes avant d'ajouter votre java.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Faites votre propre mélange aromatisé
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ne vous limitez pas aux variétés disponibles à l’épicerie.
+                      Essayez d'ajouter une gousse de vanille usagée (ce qui
+                      signifie que vous avez déjà gratté les graines), de la
+                      cannelle moulue (ou d'autres épices à pâtisserie), des
+                      herbes fraîches, des fruits secs ou du zeste d'agrumes au
+                      filtre avant l'infusion. Ou mélangez une tasse de haricots
+                      moulus avec un peu de votre extrait de saveur préféré.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Fausse mousse au micro-ondes
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Si vous n'êtes pas prêt à vous lancer dans une machine qui fabrique le vrai, vous pouvez vous en rapprocher avec cette astuce\_: faites chauffer 1/2 tasse de lait au micro-ondes jusqu'à ce que de petites bulles commencent à se former (environ 1 minute). Fouettez vigoureusement en récupérant la mousse et en la transférant dans un petit bol au fur et à mesure qu'elle monte vers le haut. Versez le lait tiède dans 1/2 tasse de café très fort (ou 1/3 tasse d'espresso) et complétez avec la mousse réservée."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Le vieux café est du bon café
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vous ne voudrez peut-être pas le réchauffer, mais les
+                      restes de café de l'infusion de ce matin valent la peine
+                      d'être conservés. Préparez des glaçons au café pour
+                      refroidir un moka glacé sans le diluer. Congelez le café
+                      dans un moule à pain, puis grattez-le avec une fourchette
+                      pour obtenir un granité vivifiant. Ou conservez le vieux
+                      café au réfrigérateur pour l'ajouter à la pâte à cupcakes
+                      au chocolat, au glaçage à la vanille, au chili, aux
+                      marinades et aux braisés.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - tag: h1
+                type: heading
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Een beter brouwsel
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als je al fan bent van het spul, hoef je er waarschijnlijk
+                      niet van te overtuigen dat koffie een goede zaak is. Het
+                      maakt niet alleen je zintuigen en hersenen wakker om je
+                      voor te bereiden op de dag, maar er is ook aangetoond dat
+                      het het risico op hartziekten, bepaalde vormen van kanker
+                      en mentale achteruitgang vermindert. Maar eigenlijk doen
+                      degenen die koffie drinken dat vooral omdat het lekker
+                      smaakt – en wat als je dat ochtendkopje nog lekkerder zou
+                      kunnen maken? Hier zijn zeven manieren om je brouwsel te
+                      verbeteren.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Begin met hele bonen
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Versgemalen koffiebonen hebben een sterkere, frissere
+                      smaak en bevatten meer natuurlijke antioxidanten en
+                      flavonoïden van koffie dan voorgemalen versies. Ook hele
+                      bonen gaan langer mee: een geopende zak bonen blijft twee
+                      weken lekker, terwijl het gemalen spul maar één week
+                      houdbaar is.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Bewaar koffie niet in de vriezer (of koelkast)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vocht is de vijand van een fatsoenlijk brouwsel. Als je
+                      elke ochtend een zak bonen uit de vriezer haalt, stel je
+                      deze bloot aan vocht, om nog maar te zwijgen van de geuren
+                      van het andere voedsel eromheen. Bovendien kunnen de bonen
+                      vriesbrand krijgen. Bewaar bonen in plaats daarvan in een
+                      luchtdichte verpakking op een koele, donkere plaats zoals
+                      de voorraadkast.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Koop bonen in kleine batches
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als ze op de juiste manier worden bewaard (denk eraan: in
+                      de voorraadkast!), zullen koffiebonen nooit echt bederven.
+                      Maar naarmate bonen ouder worden, verliezen ze hun smaak.
+                      Door kleinere hoeveelheden in te kopen, weet je zeker dat
+                      je altijd verse, smaakvolle koffie ter beschikking hebt.
+                      Bovendien kunt u vaker nieuwe braadstukken en melanges
+                      uitproberen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Verwarm meer dan alleen de koffie
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Weet je waarom ze in jouw favoriete Italiaanse restaurant
+                      de koffiekopjes op de cappuccinomachine stapelen? Om ze
+                      warm te houden, waardoor je koffie langer warm blijft. Om
+                      je mok thuis lekker warm te houden, vul je hem met heet
+                      water terwijl je wacht tot de koffie klaar is. Als u room
+                      of melk neemt, verwarm deze dan in een mok in de magnetron
+                      voordat u uw java toevoegt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Maak je eigen gearomatiseerde mix
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Beperk jezelf niet tot de variëteiten in de supermarkt.
+                      Probeer een vanillestokje (wat betekent dat je de zaadjes
+                      er al uit hebt geschraapt), gemalen kaneel (of andere
+                      bakkruiden), verse kruiden, gedroogd fruit of citroenschil
+                      aan het filter toe te voegen voordat je gaat brouwen. Of
+                      gooi een kopje gemalen bonen met wat van je favoriete
+                      smaakextract.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Nepschuim in een magnetron
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als je nog niet klaar bent voor een machine die het echte
+                      werk maakt, kun je met deze truc heel dichtbij komen:
+                      verwarm een halve kop melk in de magnetron tot er zich
+                      kleine belletjes beginnen te vormen (ongeveer 1 minuut).
+                      Klop krachtig, schep het schuim eruit en doe het in een
+                      kleine kom terwijl het naar boven stijgt. Giet de
+                      opgewarmde melk in 1/2 kopje zeer sterke koffie (of 1/3
+                      kopje espresso) en maak af met het achtergehouden schuim.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Oude koffie is goede koffie
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Misschien wil je het niet opnieuw opwarmen, maar de
+                      overgebleven koffie van het brouwsel van vanochtend is de
+                      moeite waard om te bewaren. Maak koffie-ijsblokjes om een
+                      ijskoude mokka te koelen zonder deze te verwateren. Vries
+                      de koffie in een bakblik in en schraap het vervolgens met
+                      een vork los voor een verkwikkende granita. Of bewaar oude
+                      koffie in de koelkast om toe te voegen aan
+                      chocoladecupcakebeslag, vanilleglazuur, chili, marinades
+                      en stoofschotels.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 2552d064-3225-4d91-9758-ed4ed48fc2e7
+          type: image
+          fields:
+            id:
+              type: text
+              value: 06d09f53-9bb5-4a7e-a919-63ab1008eec4
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/iuQO0UqiTo26cvsU-wprrg-whole_bean.jpg
+              type: text
+            file:
+              type: file
+              value: 3e889c45-7077-4ade-82a8-3808aeee8bba
+            size:
+              value: 20075
+              type: number
+            title:
+              type: text
+              value: whole_bean.jpg
+            width:
+              value: 967
+              type: number
+            height:
+              value: 725
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Every coffee lover should consult these important rules (and handy
+          tricks) before brewing another pot of java.
+        fr-CA: >-
+          Chaque amateur de café devrait consulter ces règles importantes (et
+          astuces pratiques) avant de brasser un autre pot de java.
+        nl-NL: >-
+          Elke koffieliefhebber moet deze belangrijke regels (en handige trucs)
+          raadplegen voordat hij nog een pot Java brouwt.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,17 @@
+id: multipleFaq
+displayName: Multiple FAQ
+ttl: 30
+path: /multiple
+custom:
+  proposedName: Multiple FAQ
+  allowedContentTypes:
+    - faq
+method: GET
+purgeKey: 8ee0786d-7083-4189-a0c5-bbe390da0f20
+archetype: multipleEntries
+variables:
+  entryIds:
+    type: text
+    default: ''
+dataSourceId: uniformContent
+allowedOnComponents: []

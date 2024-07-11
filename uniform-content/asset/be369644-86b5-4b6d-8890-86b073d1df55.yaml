@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: be369644-86b5-4b6d-8890-86b073d1df55
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: nathan_dumlao.jpg
+    file:
+      type: file
+      value: b23fd645-24a4-44ce-9f62-afbbc4539466
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/sO9pFDmTSbWo1-ijexu8NQ-nathan_dumlao.jpg
+      type: text
+    size:
+      value: 2566538
+      type: number
+    width:
+      value: 6720
+      type: number
+    height:
+      value: 4480
+      type: number
+    custom: {}
+created: '2024-02-28T12:38:30.763697+00:00'
+modified: '2024-02-28T13:34:12.241512+00:00'

@@ -1,0 +1,95 @@
+composition:
+  _name: Accordion (ka)
+  _id: 6d6c0f6e-cc0b-4967-8618-165286705fdd
+  type: accordion
+  parameters:
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/FAQ Header Content/items/0/elements/title/value}
+        en-GB: ${#jptr:/FAQ Header Content/items/0/elements/title/value}
+        en-NL: ${#jptr:/FAQ Header Content/items/0/elements/title/value}
+        en-US: ${#jptr:/FAQ Header Content/items/0/elements/title/value}
+        fr-CA: ${#jptr:/FAQ Header Content/items/0/elements/title/value}
+        nl-NL: ${#jptr:/FAQ Header Content/items/0/elements/title/value}
+  slots:
+    items:
+      - _id: 444d78df-69e5-4747-95dc-56d59555e66d
+        type: $loop
+        slots:
+          body:
+            - _id: 0c0744e4-1779-42d7-bfc8-83c9fba50db3
+              type: accordionItem
+              parameters:
+                title:
+                  type: text
+                  locales:
+                    en-CA: ${#jptr:/FAQ Content items Loop Item/elements/title/value}
+                    en-GB: ${#jptr:/FAQ Content items Loop Item/elements/title/value}
+                    en-NL: ${#jptr:/FAQ Content items Loop Item/elements/title/value}
+                    en-US: ${#jptr:/FAQ Content items Loop Item/elements/title/value}
+                    fr-CA: ${#jptr:/FAQ Content items Loop Item/elements/title/value}
+                    nl-NL: ${#jptr:/FAQ Content items Loop Item/elements/title/value}
+                description:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/FAQ Content items Loop
+                      Item/elements/description/value}
+                    en-GB: >-
+                      ${#jptr:/FAQ Content items Loop
+                      Item/elements/description/value}
+                    en-NL: >-
+                      ${#jptr:/FAQ Content items Loop
+                      Item/elements/description/value}
+                    en-US: >-
+                      ${#jptr:/FAQ Content items Loop
+                      Item/elements/description/value}
+                    fr-CA: >-
+                      ${#jptr:/FAQ Content items Loop
+                      Item/elements/description/value}
+                    nl-NL: >-
+                      ${#jptr:/FAQ Content items Loop
+                      Item/elements/description/value}
+              _overridability:
+                parameters:
+                  title: 'yes'
+                  description: 'yes'
+        _dataResources:
+          FAQ Content items Loop Item:
+            type: sys-reserved-loop
+            variables:
+              connectedData: /FAQ Content/items
+  _dataResources:
+    FAQ Content:
+      type: kontentAiFAQs
+      variables:
+        language: ${locale}
+        itemsCodenames: >-
+          does_the_espressogpt_come_with_a_warranty_,can_i_change_my_ai_powered_taste_preferences_,what_if_the_holographic_display_isn_t_working_
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+    FAQ Header Content:
+      type: kontentAiFAQs
+      variables:
+        language: ${locale}
+        itemsCodenames: bean_there__asked_that_
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    parameters:
+      title: 'yes'
+      description: 'yes'
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:50:31.871743+00:00'
+modified: '2024-02-28T12:50:31.871743+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Accordion_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

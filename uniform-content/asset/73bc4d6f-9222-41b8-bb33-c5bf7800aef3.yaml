@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 73bc4d6f-9222-41b8-bb33-c5bf7800aef3
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: light-roast-coffee-80-1_mqiwln_sevusg.jpg
+    file:
+      type: file
+      value: a8988373-fab1-4b92-886e-687000f2fb11
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/1Kd5j0cPSwuZv09KNRuRtw-light-roast-coffee-80-1_mqiwln_sevusg.jpg
+      type: text
+    size:
+      value: 96456
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:48:42.042961+00:00'
+modified: '2024-02-28T13:32:54.967922+00:00'

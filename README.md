@@ -1,10 +1,23 @@
 # Uniform Mobile Demo
 
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This Uniform demo is based on a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
+## Pre-requisites
 
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+## Getting Started
+
+1. Create an empty Uniform project and generate API key with write permissions.
+2. Create `.env` (see `.env.example`)
+3. Provide Uniform env vars for your new project:
+   ```bash
+   UNIFORM_API_KEY=
+   UNIFORM_PROJECT_ID=
+   ```
+4. Run `npm run uniform:push` and `npm run uniform:publish` to sync content to your empty project.
+5. Run `npm run uniform:manifest` to reload the latest manifest.
+6. npm start
 
 ## Step 1: Start the Metro Server
 

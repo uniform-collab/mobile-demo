@@ -1,0 +1,16 @@
+id: abandoned
+name: Abandoned
+cap: 1
+crit:
+  op: '&'
+  type: G
+  clauses:
+    - key: abandoned
+      type: QK
+      match:
+        cs: false
+        op: '='
+        rhs: 'true'
+dur: t
+description: Visitor has abandoned items in their cart
+str: 1

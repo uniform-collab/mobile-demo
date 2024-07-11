@@ -1,0 +1,74 @@
+created: '2024-02-28T12:53:12.313668+00:00'
+modified: '2024-02-28T12:53:12.313668+00:00'
+pattern: false
+entry:
+  _id: a122c2d2-c7dc-4aeb-b6d8-8d667a4cef3b
+  _name: Holographic interface
+  _slug: holographic-interface
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/8nHrXUqESmGzJxqiwWqNGA-diamond.svg
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 268f2dc6-14e1-467e-be6a-d1cc797d012c
+          type: image
+          fields:
+            id:
+              type: text
+              value: 4392dc5d-5ccc-480d-b6cb-2741b75a14c3
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/8nHrXUqESmGzJxqiwWqNGA-diamond.svg
+              type: text
+            file:
+              type: file
+              value: 7a237773-421e-4b78-89ea-4bd2946e8071
+            size:
+              value: 535
+              type: number
+            title:
+              type: text
+              value: diamond.svg
+            width:
+              value: 60
+              type: number
+            height:
+              value: 54
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Holographic interface
+        fr-CA: Interface holographique
+        nl-NL: Holografische interface
+    productId:
+      type: text
+      value: espresso-gpt-145
+    description:
+      type: text
+      locales:
+        en-US: >
+          Touchscreens are a thing of the past. EspressoGPT 's floating
+          holographic interface offers an intuitive user experience. Adjust
+          settings, browse recipes, or get a virtual barista tutorial with a
+          simple hand gesture.
+        fr-CA: >-
+          Les écrans tactiles appartiennent au passé.L'interface holographique
+          flottante d'Espressogpt offre une expérience utilisateur
+          intuitive.Ajustez les paramètres, parcourez les recettes ou obtenez un
+          tutoriel virtuel barista avec un simple geste de la main.
+        nl-NL: >-
+          Touchscreens behoren tot het verleden.De drijvende holografische
+          interface van Espressogpt biedt een intuïtieve gebruikerservaring.Pas
+          instellingen aan, blader door recepten of ontvang een virtuele barista
+          -tutorial met een eenvoudig handgebaar.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

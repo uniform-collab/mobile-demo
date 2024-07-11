@@ -1,0 +1,129 @@
+id: product
+name: Product
+created: '2024-02-28T12:51:47.252818+00:00'
+updated: '2024-02-28T12:51:47.252818+00:00'
+slugSettings:
+  required: 'no'
+useTeamPermissions: true
+fields:
+  - id: title
+    name: Title
+    type: text
+    helpText: ''
+    typeConfig:
+      required: true
+      multiline: false
+  - id: name
+    name: Product Name
+    type: text
+    helpText: ''
+    typeConfig:
+      required: true
+  - id: shortDescription
+    name: Short Description
+    type: text
+    helpText: ''
+    typeConfig:
+      multiline: true
+      linesCount: '4'
+    localizable: true
+  - id: body
+    name: Body
+    type: richText
+    helpText: ''
+    typeConfig:
+      elements:
+        builtIn:
+          - h2
+          - h3
+          - h4
+          - unorderedList
+          - orderedList
+          - link
+          - quote
+      required: false
+      formatting:
+        builtIn:
+          - bold
+          - italic
+          - underline
+    localizable: true
+  - id: group_taxonomy
+    name: Taxonomy
+    type: group
+    typeConfig:
+      collapsed: true
+      childrenParams:
+        - category
+        - brand
+        - variants
+        - recommendations
+  - id: category
+    name: Category
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Coffee Makers
+          value: coffee-makers
+        - text: Coffee Makers - French Press
+          value: french-press
+        - text: Coffee Makers - Turkish
+          value: turkish
+        - text: Coffee Makers - Espresso
+          value: espresso
+        - text: Coffee Makers - Percolators
+          value: percolators
+        - text: Coffee Makers - Pour-Over
+          value: pour-over
+        - text: Beans
+          value: beans
+        - text: Beans - Arabica
+          value: arabica
+        - text: Beans - Robusta
+          value: robusta
+        - text: Beans - Liberica
+          value: liberica
+        - text: Accessories
+          value: accessories
+        - text: Accessories - Espresso Tools
+          value: espresso-tools
+      required: true
+    localizable: false
+  - id: brand
+    name: Brand
+    type: text
+    helpText: ''
+    typeConfig: null
+  - id: variants
+    name: Variants
+    type: $block
+    helpText: ''
+    typeConfig:
+      min: 1
+      allowedTypes:
+        - variant
+        - $loop
+  - id: recommendations
+    name: Recommendations
+    type: $block
+    helpText: ''
+    typeConfig:
+      allowedTypes:
+        - $loop
+        - productRecommendation
+  - id: primaryImage
+    name: Primary Image
+    type: asset
+    helpText: ''
+    typeConfig:
+      max: 1
+      min: 0
+      required: true
+    localizable: false
+entryName: title
+thumbnailField: primaryImage
+description: ''
+icon: shopping-cart
+type: contentType
+permissions: []

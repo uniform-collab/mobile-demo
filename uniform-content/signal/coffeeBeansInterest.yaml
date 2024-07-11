@@ -1,0 +1,16 @@
+id: coffeeBeansInterest
+name: Coffee Beans Interest
+cap: 100
+crit:
+  op: '&'
+  type: G
+  clauses:
+    - key: interest
+      type: QK
+      match:
+        cs: false
+        op: '='
+        rhs: Coffee Beans
+dur: t
+description: ''
+str: 50

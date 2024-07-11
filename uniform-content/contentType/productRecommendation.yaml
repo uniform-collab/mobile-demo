@@ -1,0 +1,72 @@
+id: productRecommendation
+name: Product Recommendation
+created: '2024-02-28T12:51:47.932776+00:00'
+updated: '2024-02-28T12:51:47.932776+00:00'
+slugSettings:
+  required: 'no'
+useTeamPermissions: true
+fields:
+  - id: slug
+    name: Slug
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: false
+  - id: title
+    name: Title
+    type: text
+    helpText: ''
+    typeConfig:
+      required: true
+      multiline: false
+  - id: shortDescription
+    name: Description
+    type: text
+    helpText: ''
+    typeConfig:
+      multiline: true
+      linesCount: '4'
+  - id: category
+    name: Category
+    type: select
+    helpText: ''
+    typeConfig:
+      options:
+        - text: Coffee Makers
+          value: coffee-makers
+        - text: Coffee Makers - French Press
+          value: french-press
+        - text: Coffee Makers - Turkish
+          value: turkish
+        - text: Coffee Makers - Espresso
+          value: espresso
+        - text: Coffee Makers - Percolators
+          value: percolators
+        - text: Coffee Makers - Pour-Over
+          value: pour-over
+        - text: Beans
+          value: beans
+        - text: Beans - Arabica
+          value: arabica
+        - text: Beans - Robusta
+          value: robusta
+        - text: Beans - Liberica
+          value: liberica
+        - text: Accessories
+          value: accessories
+        - text: Accessories - Espresso Tools
+          value: espresso-tools
+      required: false
+    localizable: false
+  - id: productImage
+    name: Product Image
+    type: asset
+    helpText: ''
+    typeConfig: {}
+    localizable: false
+entryName: title
+thumbnailField: productImage
+description: ''
+icon: bulb
+type: block
+permissions: []

@@ -1,0 +1,27 @@
+id: translations
+name: Translations
+created: '2024-02-28T12:51:49.376659+00:00'
+updated: '2024-02-28T12:51:49.376659+00:00'
+slugSettings:
+  required: 'no'
+useTeamPermissions: true
+fields:
+  - id: title
+    name: Title
+    type: text
+    helpText: Used just to display Title Parameter
+    typeConfig: null
+    localizable: false
+  - id: translations
+    name: Translations
+    type: $block
+    helpText: ''
+    typeConfig:
+      required: true
+      allowedTypes:
+        - translation
+entryName: title
+description: ''
+icon: details-more
+type: contentType
+permissions: []

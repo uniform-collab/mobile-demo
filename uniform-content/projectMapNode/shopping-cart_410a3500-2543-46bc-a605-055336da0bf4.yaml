@@ -1,0 +1,9 @@
+id: 410a3500-2543-46bc-a605-055336da0bf4
+name: Shopping Cart
+order: 187
+path: /:locale/shopping-cart
+type: composition
+pathSegment: shopping-cart
+data: {}
+compositionId: bb141407-8f27-4cf0-af4d-a4868c7634b9
+projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c

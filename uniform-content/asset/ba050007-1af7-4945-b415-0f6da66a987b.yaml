@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: ba050007-1af7-4945-b415-0f6da66a987b
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: javaDrip_specialty_flavor_extractor.jpg
+    file:
+      type: file
+      value: 0fc6132d-ecf1-49d2-9383-3b44c93b687d
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/UWy3nkWWRdCPpvIsUALRiQ-javaDrip_specialty_flavor_extractor.jpg
+      type: text
+    size:
+      value: 447567
+      type: number
+    width:
+      value: 2000
+      type: number
+    height:
+      value: 2000
+      type: number
+    custom: {}
+created: '2024-02-28T12:37:57.600094+00:00'
+modified: '2024-02-28T13:34:12.122362+00:00'

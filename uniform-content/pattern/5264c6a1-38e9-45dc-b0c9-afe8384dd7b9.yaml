@@ -1,0 +1,187 @@
+composition:
+  _name: Product Feature Cards (ka)
+  _id: 5264c6a1-38e9-45dc-b0c9-afe8384dd7b9
+  type: grid
+  parameters:
+    gapX:
+      type: tp-slider-parameter
+      value: medium
+    gapY:
+      type: tp-slider-parameter
+      value: none
+    title:
+      type: text
+      locales:
+        en-CA: Features
+        en-GB: Features
+        en-NL: Features
+        en-US: Features
+        fr-CA: Caractéristiques
+        nl-NL: Kenmerken
+    marginTop:
+      type: select
+      value: None
+    paddingTop:
+      type: select
+      value: None
+    columnsCount:
+      type: tp-slider-parameter
+      value: '4'
+    marginBottom:
+      type: select
+      value: None
+    paddingBottom:
+      type: select
+      value: None
+    backgroundType:
+      type: tp-background-type-parameter
+      value: Dark
+    containerVariant:
+      type: select
+      value: fluidContent
+  slots:
+    grid-inner:
+      - _id: 0897e47b-024f-470c-b959-39da4dd7e2b3
+        type: $loop
+        slots:
+          body:
+            - _id: 8b05735f-2206-4fdb-8836-73a6a560a01c
+              type: card
+              variant: ''
+              parameters:
+                image:
+                  type: asset
+                  value:
+                    - _id: e6efe487-33b4-4bac-9962-2bf0f48ddf4f
+                      type: image
+                      fields:
+                        url:
+                          type: text
+                          value: >-
+                            ${#jptr:/Features Content items Loop
+                            Item/elements/image/value}
+                        title:
+                          type: text
+                          value: >-
+                            ${#jptr:/Features Content items Loop
+                            Item/elements/title/value}
+                        description:
+                          type: text
+                          value: >-
+                            ${#jptr:/Features Content items Loop
+                            Item/elements/title/value}
+                      _source: custom-url
+                title:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/title/value}
+                    en-GB: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/title/value}
+                    en-NL: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/title/value}
+                    en-US: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/title/value}
+                    fr-CA: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/title/value}
+                    nl-NL: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/title/value}
+                objectFit:
+                  type: select
+                  value: contain
+                buttonStyle:
+                  type: tp-button-style-parameter
+                  value: secondary
+                description:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/description/value}
+                    en-GB: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/description/value}
+                    en-NL: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/description/value}
+                    en-US: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/description/value}
+                    fr-CA: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/description/value}
+                    nl-NL: >-
+                      ${#jptr:/Features Content items Loop
+                      Item/elements/description/value}
+                textColorVariant:
+                  type: select
+                  value: Light
+                lineCountRestriction:
+                  type: tp-slider-parameter
+                  value: none
+              _overridability:
+                variants: true
+                parameters:
+                  badge: 'yes'
+                  delay: 'yes'
+                  image: 'yes'
+                  title: 'yes'
+                  duration: 'yes'
+                  badgeSize: 'yes'
+                  objectFit: 'yes'
+                  badgeStyle: 'yes'
+                  buttonCopy: 'yes'
+                  buttonLink: 'yes'
+                  buttonStyle: 'yes'
+                  description: 'yes'
+                  overlayColor: 'yes'
+                  animationType: 'yes'
+                  overlayOpacity: 'yes'
+                  animationPreview: 'yes'
+                  textColorVariant: 'yes'
+                  buttonAnimationType: 'yes'
+                  lineCountRestriction: 'yes'
+        _dataResources:
+          Features Content items Loop Item:
+            type: sys-reserved-loop
+            variables:
+              connectedData: /Features Content/items
+  _dataResources:
+    Features Content:
+      type: kontentAiFeatures
+      variables:
+        language: ${locale}
+        itemsCodenames: ai_powered_taste_customization,carbon_neutral_energy_source
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    parameters:
+      gapX: 'yes'
+      gapY: 'yes'
+      title: 'yes'
+      marginTop: 'yes'
+      paddingTop: 'yes'
+      columnsCount: 'yes'
+      marginBottom: 'yes'
+      paddingBottom: 'yes'
+      backgroundType: 'yes'
+      containerVariant: 'yes'
+  _locales:
+    - en-US
+    - fr-CA
+    - nl-NL
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:51:02.120737+00:00'
+modified: '2024-02-28T12:51:02.120737+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Product_feature_cards_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

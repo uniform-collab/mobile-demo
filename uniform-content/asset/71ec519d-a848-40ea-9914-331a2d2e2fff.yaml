@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 71ec519d-a848-40ea-9914-331a2d2e2fff
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: ember-luxury-ottoman-coffee-espresso-set-138-1_ytrous_jpdoha.jpg
+    file:
+      type: file
+      value: 89424111-fa78-4120-a5d4-6414401a8220
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/-48q6tKBTiaa_9uqSfsVoQ-ember-luxury-ottoman-coffee-espresso-set-138-1_ytrous_jpdoha.jpg
+      type: text
+    size:
+      value: 262696
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:43:47.28773+00:00'
+modified: '2024-02-28T13:32:55.763124+00:00'

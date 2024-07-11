@@ -1,0 +1,55 @@
+created: '2024-02-28T12:54:03.319068+00:00'
+modified: '2024-02-28T12:54:03.319068+00:00'
+pattern: false
+entry:
+  _id: 27d060b0-ed67-4d7d-acaf-910c2271dc32
+  _name: Test
+  _slug: new-entry-testimonial
+  type: testimonial
+  fields:
+    date:
+      type: text
+      locales:
+        en-US: testimonial
+        fr-CA: témoignage
+        nl-NL: getuigenis-
+    stars:
+      type: text
+      value: testimonial
+    title:
+      type: text
+      locales:
+        en-US: Test
+        fr-CA: Test
+        nl-NL: Test
+    lastName:
+      type: text
+      locales:
+        en-US: testimonial
+        fr-CA: témoignage
+        nl-NL: getuigenis-
+    location:
+      type: text
+      locales:
+        en-US: testimonial
+        fr-CA: témoignage
+        nl-NL: getuigenis-
+    firstName:
+      type: text
+      locales:
+        en-US: testimonial
+        fr-CA: témoignage
+        nl-NL: getuigenis-
+    productId:
+      type: text
+      value: testimonial
+    experience:
+      type: text
+      locales:
+        en-US: testimonial
+        fr-CA: témoignage
+        nl-NL: getuigenis-
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

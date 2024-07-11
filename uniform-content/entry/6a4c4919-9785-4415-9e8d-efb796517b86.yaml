@@ -1,0 +1,71 @@
+created: '2024-02-28T12:52:30.688321+00:00'
+modified: '2024-02-28T12:52:30.688321+00:00'
+pattern: false
+entry:
+  _id: 6a4c4919-9785-4415-9e8d-efb796517b86
+  _name: Carbon-neutral energy source
+  _slug: carbon-neutral-energy-source
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/QOngw_6zTCShLyXod6GR3w-icon_flower.svg
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 271fd90a-87e0-40da-a936-f96307984361
+          type: image
+          fields:
+            id:
+              type: text
+              value: e3876415-f919-470f-874e-51cb68117e56
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/QOngw_6zTCShLyXod6GR3w-icon_flower.svg
+              type: text
+            file:
+              type: file
+              value: 81c8a7c0-f377-40e7-a319-fc284cacf87f
+            size:
+              value: 2629
+              type: number
+            title:
+              type: text
+              value: icon_flower.svg
+            width:
+              value: 60
+              type: number
+            height:
+              value: 57
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Carbon-neutral energy source
+        fr-CA: Source d'énergie neutre en carbone
+        nl-NL: Koolstofneutrale energiebron
+    productId:
+      type: text
+      value: espresso-gpt-145
+    description:
+      type: text
+      locales:
+        en-US: >-
+          We care for the planet as much as you do. Our espresso machine is
+          powered by a sustainable and recyclable energy cell that has zero
+          carbon footprint.
+        fr-CA: >-
+          Nous nous soucions de la planète autant que vous.Notre machine à
+          expresso est alimentée par une cellule d'énergie durable et recyclable
+          qui n'a aucune empreinte carbone.
+        nl-NL: >-
+          Wij zorgen zoveel voor de planeet als jij.Onze espressomachine wordt
+          aangedreven door een duurzame en recyclebare energiecel met nul
+          koolstofvoetafdruk.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

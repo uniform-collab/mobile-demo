@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 7d3c45ba-68a1-4c4d-820c-c18534514f5c
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: impresso-12-cup-perk-coffee-maker-94-1_dbowpa_baiyy8.jpg
+    file:
+      type: file
+      value: 98119fe5-41aa-4b48-81a8-7248833ad13c
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/4-U0Zy4rQMqkWQGa10wYLQ-impresso-12-cup-perk-coffee-maker-94-1_dbowpa_baiyy8.jpg
+      type: text
+    size:
+      value: 272467
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:44:12.422237+00:00'
+modified: '2024-02-28T13:33:18.108426+00:00'

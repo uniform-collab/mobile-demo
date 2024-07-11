@@ -1,0 +1,321 @@
+created: '2024-02-28T12:52:41.153668+00:00'
+modified: '2024-02-28T13:38:01.448938+00:00'
+pattern: false
+entry:
+  _id: dd9a7e4d-56a3-4a0b-9679-345d19e6da49
+  _name: Dark Roast Coffee
+  _slug: dark-roast-coffee-113
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/YQ6PUVy_QgiO1DbrGhEmQw-dark-roast-coffee-113-1_lc3mmx_afngmj.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dark Roast Coffee: Our Breakfast Blend light roast whole
+                      bean coffee is the perfect morning coffee to ease you into
+                      your day. Sustainable Light Roast Coffee Beans: Our coffee
+                      is made with premium quality Arabica coffee beans from
+                      Central and South America. They are grown, sourced and
+                      packaged responsibly, after being roasted fresh in
+                      Seattle, USA.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Café torréfié foncé\_: Notre café en grains entiers torréfié léger Breakfast Blend est le café du matin parfait pour vous faciliter la journée. Grains de café torréfiés durablement légers : notre café est fabriqué avec des grains de café Arabica de qualité supérieure provenant d'Amérique centrale et d'Amérique du Sud. Ils sont cultivés, achetés et emballés de manière responsable, après avoir été torréfiés frais à Seattle, aux États-Unis."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dark Roast Coffee: Onze Breakfast Blend licht gebrande
+                      koffie met hele bonen is de perfecte ochtendkoffie om u op
+                      uw gemak te laten genieten van uw dag. Duurzame licht
+                      gebrande koffiebonen: onze koffie is gemaakt met
+                      Arabica-koffiebonen van topkwaliteit uit Midden- en
+                      Zuid-Amerika. Ze worden op verantwoorde wijze geteeld,
+                      ingekocht en verpakt, nadat ze vers zijn geroosterd in
+                      Seattle, VS.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Dark Roast Coffee
+    title:
+      type: text
+      value: Dark Roast Coffee
+    category:
+      type: select
+      value: arabica
+    variants:
+      type: $block
+      value:
+        - _id: eb10fc9a-98f3-4452-989d-1ae7b3262a48
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '113'
+            price:
+              type: number
+              locales:
+                en-US: '12.99'
+                fr-CA: '12.00'
+                nl-NL: '12.00'
+            title:
+              type: text
+              locales:
+                en-US: Dark Roast Coffee
+                fr-CA: Dark Roast Coffee
+                nl-NL: Dark Roast Coffee
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 3eb0050f-1348-47fd-9e30-1bb1b51bf113
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 4ed2d241-4fd5-4a7b-bf9f-c68be92c320c
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xF-Ba_PRT8WopbOQhReDMA-dark-roast-coffee-113-1_lc3mmx_afngmj.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: d8c825d7-c52b-4ad9-bdda-8345f7091b44
+                    size:
+                      value: 91441
+                      type: number
+                    title:
+                      type: text
+                      value: dark-roast-coffee-113-1_lc3mmx_afngmj.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: bf3bf07c-ece3-47c6-bb88-c85574d0501e
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 550a06f0-d794-43eb-a4ba-90bbd4d3ce79
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/yuLnqCLSQU6gAbuJTgbNtA-dark-roast-coffee-113-3_s1ocnh_iwypwf.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: e4ea5a56-d669-4928-a387-4b9099040ded
+                    size:
+                      value: 66899
+                      type: number
+                    title:
+                      type: text
+                      value: dark-roast-coffee-113-3_s1ocnh_iwypwf.jpg
+                    width:
+                      value: 720
+                      type: number
+                    height:
+                      value: 480
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 67bf54d1-5946-483f-addd-12321f78c3a0
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: cb53122f-101d-4915-adf2-96775a80f209
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/zPtySCTSRt6C37A8WT6WWg-dark-roast-coffee-113-2_w1kwrp_qvucfh.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 76bb480a-087a-4cdd-9f36-c9380b1af824
+                    size:
+                      value: 58187
+                      type: number
+                    title:
+                      type: text
+                      value: dark-roast-coffee-113-2_w1kwrp_qvucfh.jpg
+                    width:
+                      value: 450
+                      type: number
+                    height:
+                      value: 300
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: d6cef76a-af38-47a3-b750-07fe17cae340
+          type: image
+          fields:
+            id:
+              type: text
+              value: c51f6235-df5e-4cee-88ed-765204bb7eb6
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/YQ6PUVy_QgiO1DbrGhEmQw-dark-roast-coffee-113-1_lc3mmx_afngmj.jpg
+              type: text
+            file:
+              type: file
+              value: 3a30e7d9-faf7-42b5-ae4b-8f556bf98823
+            size:
+              value: 91441
+              type: number
+            title:
+              type: text
+              value: dark-roast-coffee-113-1_lc3mmx_afngmj.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 2135ada7-e2be-4a2c-84c4-790fca4d603a
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 99babfbd-76eb-434c-98aa-c7fdc62f751d
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Dark Roast Coffee: Our Breakfast Blend light roast whole bean coffee
+          is the perfect morning coffee to ease you into your day. Sustainable
+          Light Roast Coffee Beans: Our coffee is made with premium quality
+          Arabica coffee beans from Central and South America. They are grown,
+          sourced and packaged responsibly, after being roasted fresh in
+          Seattle, USA.
+        fr-CA: "Café torréfié foncé\_: Notre café en grains entiers torréfié léger Breakfast Blend est le café du matin parfait pour vous faciliter la journée. Grains de café torréfiés durablement légers : notre café est fabriqué avec des grains de café Arabica de qualité supérieure provenant d'Amérique centrale et d'Amérique du Sud. Ils sont cultivés, achetés et emballés de manière responsable, après avoir été torréfiés frais à Seattle, aux États-Unis."
+        nl-NL: >-
+          Dark Roast Coffee: Onze Breakfast Blend licht gebrande koffie met hele
+          bonen is de perfecte ochtendkoffie om u op uw gemak te laten genieten
+          van uw dag. Duurzame licht gebrande koffiebonen: onze koffie is
+          gemaakt met Arabica-koffiebonen van topkwaliteit uit Midden- en
+          Zuid-Amerika. Ze worden op verantwoorde wijze geteeld, ingekocht en
+          verpakt, nadat ze vers zijn geroosterd in Seattle, VS.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 2188bcec-5123-42e3-be16-b8d076e67a4a
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: irish-blend-coffee-132-2_stnhzm_aeftc3.jpg
+    file:
+      type: file
+      value: 0f74f3d5-5110-4d7f-882d-49832e22430a
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/s-1fA7G2QFe90S8BxfxXbQ-irish-blend-coffee-132-2_stnhzm_aeftc3.jpg
+      type: text
+    size:
+      value: 882339
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:40:50.463615+00:00'
+modified: '2024-02-28T13:31:40.201454+00:00'

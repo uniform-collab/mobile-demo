@@ -1,0 +1,43 @@
+created: '2024-02-28T12:54:20.397034+00:00'
+modified: '2024-02-28T12:54:20.397034+00:00'
+pattern: false
+entry:
+  _id: d69abe1c-6d49-4eeb-bdbe-65fdc015090f
+  _name: What is JavaDrip doing to protect my privacy?
+  _slug: what-is-javadrip-doing-to-protect-my-privacy
+  type: faq
+  fields:
+    title:
+      type: text
+      locales:
+        en-US: What is JavaDrip doing to protect my privacy?
+        fr-CA: Que fait Javadrip pour protéger ma vie privée?
+        nl-NL: Wat doet Javadrip om mijn privacy te beschermen?
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Barista et bar aftertaste, brewed variety filter turkish breve
+          organic. Mug french press rich doppio barista redeye cream. Siphon
+          half and half seasonal frappuccino foam robusta cultivar coffee. So
+          froth, aftertaste bar, saucer sugar single shot caramelization
+          aromatic. Espresso, saucer, breve café au lait, id cultivar pumpkin
+          spice doppio viennese frappuccino doppio.
+        fr-CA: >-
+          Barista et Bar Aftertaste, Varied Varied Filtre Turc Breve Organic.Mug
+          French Press Rich Doppio barista Redeye Cream.Siphon à moitié et
+          demi-café de la mousse frappuccino Robusta Cultivar.So mousse, barre
+          arrière, sucre à sucre à un seul tir caramélisation
+          aromatique.Espresso, soucoupe, Breve Café au Lait, id cultivar Pumpkin
+          Spice Doppio Viensese Frappuccino Doppio.
+        nl-NL: >-
+          Barista et bar nasmaste, gebrouwen variëteit filterfilter Turkish
+          Breve organisch.MUG French Press Rich Doppio Barista Redeye
+          Cream.Sifon half en half seizoensgebonden frappuccino schuim robusta
+          cultivar koffie.Dus schuim, nasmaakbar, schotelsuiker single shot
+          karamelisatie aromatisch.Espresso, Saucer, Breve Café Au Lait, ID
+          Cultivar Pumpkin Spice Doppio Veense Frappuccino Doppio.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

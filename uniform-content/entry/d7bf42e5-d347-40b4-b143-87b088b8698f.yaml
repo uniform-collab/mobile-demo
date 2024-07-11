@@ -1,0 +1,65 @@
+created: '2024-02-28T12:52:17.508807+00:00'
+modified: '2024-02-28T13:37:54.926085+00:00'
+pattern: false
+entry:
+  _id: d7bf42e5-d347-40b4-b143-87b088b8698f
+  _name: Become a world-class barista
+  _slug: become-a-world-class-barista
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/LnbBfqslTpqG6tu7RbMkqg-glass_of_coffee.jpg
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: a5905e21-71aa-4325-bda8-2c9fa93b3d46
+          type: image
+          fields:
+            id:
+              type: text
+              value: 9d1ba7a6-4f9a-4889-a2f9-f4ad9e3bb331
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/LnbBfqslTpqG6tu7RbMkqg-glass_of_coffee.jpg
+              type: text
+            file:
+              type: file
+              value: e0d41827-74f0-41b3-bdd8-2fd9396f529c
+            size:
+              value: 3253418
+              type: number
+            title:
+              type: text
+              value: glass_of_coffee.jpg
+            width:
+              value: 4000
+              type: number
+            height:
+              value: 6000
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Become a world-class barista
+        fr-CA: Devenir un barista de classe mondiale
+        nl-NL: Word een barista van wereldklasse
+    description:
+      type: text
+      locales:
+        en-US: >-
+          our excellent coffee machines turn any newb into a an experienced
+          barista.
+        fr-CA: >-
+          Nos excellentes machines à café transforment tout nouveau en un
+          barista expérimenté.
+        nl-NL: >-
+          Onze uitstekende koffiemachines veranderen van alle newb in een
+          ervaren barista.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

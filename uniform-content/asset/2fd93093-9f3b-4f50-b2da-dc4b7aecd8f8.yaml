@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 2fd93093-9f3b-4f50-b2da-dc4b7aecd8f8
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: impresso-pump-espresso-118-2_w7tco9_lbmscn.jpg
+    file:
+      type: file
+      value: de144275-af37-4964-bfd4-f99735bc940f
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/bbkfAk-hTsuacQQG_cTk1g-impresso-pump-espresso-118-2_w7tco9_lbmscn.jpg
+      type: text
+    size:
+      value: 120880
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:41:28.197821+00:00'
+modified: '2024-02-28T13:31:53.826614+00:00'

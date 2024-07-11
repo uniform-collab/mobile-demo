@@ -1,0 +1,321 @@
+created: '2024-02-28T12:53:34.595427+00:00'
+modified: '2024-02-28T13:37:27.774518+00:00'
+pattern: false
+entry:
+  _id: a555a586-ef6b-4ae2-978b-af3590ec8060
+  _name: Kosmic Coffee Stainless Steel Precision Brewer
+  _slug: kosmic-coffee-stainless-steel-precision-brewer-116
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/AMWLbh_4TkCIUOmk8P8SHQ-kosmic-coffee-stainless-steel-precision-brewer-116-2_eiuhbc_clvdgm.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      The Breville Precision Brewer Thermal is a 60 oz drip
+                      coffee maker with thermal carafe that allows you to brew
+                      third wave specialty coffee at home, automatically;
+                      Experience your favorite coffee at its best with precise
+                      temperature and brewing time AUTOMATIC PRESETS AND
+                      CUSTOMIZABLE: 6 unique brewing modes ensure you enjoy the
+                      perfect balanced coffee every time; Preset modes include
+                      Gold, Fast, Strong, Iced, Cold Brew and My Brew, all so
+                      you can experience your favorite coffee at its best
+                      PRECISE &amp; ADJUSTABLE TEMPERATURE: Coffee maker with
+                      precise digital temperature control (PID), 3 different
+                      flow rates to optimize contact time and Thermo Coil
+                      Heating System delivering water that is more pure than
+                      typical brewing systems that use aluminium
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "La Breville Precision Brewer Thermal est une cafetière filtre de 60 oz avec carafe thermique qui vous permet de préparer automatiquement du café de spécialité de troisième vague à la maison ; Découvrez votre café préféré à son meilleur avec une température et un temps d'infusion précis. PRÉRÉGLAGES AUTOMATIQUES ET PERSONNALISABLES\_: 6 modes d'infusion uniques vous garantissent de profiter d'un café parfaitement équilibré à chaque fois\_; Les modes prédéfinis incluent Gold, Fast, Strong, Iced, Cold Brew et My Brew, le tout pour que vous puissiez profiter de votre café préféré à son meilleur. TEMPÉRATURE RÉGLABLE\_:\_cafetière avec contrôle numérique précis de la température (PID), 3 débits différents pour optimiser le temps de contact et système de chauffage à bobine thermique fournissant une eau plus pure que les systèmes d'infusion classiques utilisant de l'aluminium."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De Breville Precision Brewer Thermal is een
+                      druppelkoffiezetapparaat van 60 oz met thermische karaf
+                      waarmee u thuis automatisch derde golf speciale koffie
+                      kunt zetten; Ervaar uw favoriete koffie op zijn best met
+                      nauwkeurige temperatuur en zettijd AUTOMATISCHE
+                      VOORINSTELLINGEN EN AANPASBAAR: 6 unieke zetmodi zorgen
+                      ervoor dat u elke keer van de perfect uitgebalanceerde
+                      koffie geniet; Vooraf ingestelde modi zijn onder meer
+                      Gold, Fast, Strong, Iced, Cold Brew en My Brew, zodat u uw
+                      favoriete koffie op zijn best kunt ervaren. VERSTELBARE
+                      TEMPERATUUR: Koffiezetapparaat met nauwkeurige digitale
+                      temperatuurregeling (PID), 3 verschillende stroomsnelheden
+                      om de contacttijd te optimaliseren en Thermo Coil Heating
+                      System dat water levert dat zuiverder is dan typische
+                      koffiezetsystemen die aluminium gebruiken
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Kosmic Coffee Stainless Steel Precision Brewer
+    title:
+      type: text
+      value: Kosmic Coffee Stainless Steel Precision Brewer
+    category:
+      type: select
+      value: percolators
+    variants:
+      type: $block
+      value:
+        - _id: bc316f79-467e-4cdc-b770-251f4735ed84
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '116'
+            price:
+              type: number
+              locales:
+                en-US: '299.99'
+                fr-CA: '277.09'
+                nl-NL: '277.09'
+            title:
+              type: text
+              locales:
+                en-US: Kosmic Coffee Stainless Steel Precision Brewer
+                fr-CA: Kosmic Coffee Stainless Steel Precision Brewer
+                nl-NL: Kosmic Coffee Stainless Steel Precision Brewer
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: a57bec35-4702-45c7-a783-16f1462356cb
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 19dd4799-7907-4e89-858c-ed402c5c36e4
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/8P6PpK5XRxmBJJTvVx2LQg-kosmic-coffee-stainless-steel-precision-brewer-116-2_eiuhbc_clvdgm.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: adc8886f-cfd5-40b7-8ff8-3c43c5dfadbf
+                    size:
+                      value: 102116
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        kosmic-coffee-stainless-steel-precision-brewer-116-2_eiuhbc_clvdgm.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: cae8dc02-a8e0-4a1f-b63a-d5ccf42dee25
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 4a956308-c123-4747-b257-b7652cde2dcd
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Nq7U6y7nQYuh1EwUoKN6uQ-kosmic-coffee-stainless-steel-precision-brewer-116-1_djiz7h_dao4he.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 3c4dde4d-97ad-40a5-bb45-be0abf23b9c3
+                    size:
+                      value: 277929
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        kosmic-coffee-stainless-steel-precision-brewer-116-1_djiz7h_dao4he.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: cc7de468-57af-4776-a95a-35dad3d78419
+          type: image
+          fields:
+            id:
+              type: text
+              value: 5885b22d-fea8-420d-b862-c1ec799a76b6
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/AMWLbh_4TkCIUOmk8P8SHQ-kosmic-coffee-stainless-steel-precision-brewer-116-2_eiuhbc_clvdgm.jpg
+              type: text
+            file:
+              type: file
+              value: 1b7f0433-2276-40ce-b66a-90336f8f68c2
+            size:
+              value: 102116
+              type: number
+            title:
+              type: text
+              value: >-
+                kosmic-coffee-stainless-steel-precision-brewer-116-2_eiuhbc_clvdgm.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 2f636955-be27-454d-a31f-abf463df671a
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 164458c6-a439-44f2-b254-e32d4f14cbfc
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          The Breville Precision Brewer Thermal is a 60 oz drip coffee maker
+          with thermal carafe that allows you to brew third wave specialty
+          coffee at home, automatically; Experience your favorite coffee at its
+          best with precise temperature and brewing time AUTOMATIC PRESETS AND
+          CUSTOMIZABLE: 6 unique brewing modes ensure you enjoy the perfect
+          balanced coffee every time; Preset modes include Gold, Fast, Strong,
+          Iced, Cold Brew and My Brew, all so you can experience your favorite
+          coffee at its best PRECISE &amp; ADJUSTABLE TEMPERATURE: Coffee maker
+          with precise digital temperature control (PID), 3 different flow rates
+          to optimize contact time and Thermo Coil Heating System delivering
+          water that is more pure than typical brewing systems that use
+          aluminium
+        fr-CA: "La Breville Precision Brewer Thermal est une cafetière filtre de 60 oz avec carafe thermique qui vous permet de préparer automatiquement du café de spécialité de troisième vague à la maison ; Découvrez votre café préféré à son meilleur avec une température et un temps d'infusion précis. PRÉRÉGLAGES AUTOMATIQUES ET PERSONNALISABLES\_: 6 modes d'infusion uniques vous garantissent de profiter d'un café parfaitement équilibré à chaque fois\_; Les modes prédéfinis incluent Gold, Fast, Strong, Iced, Cold Brew et My Brew, le tout pour que vous puissiez profiter de votre café préféré à son meilleur. TEMPÉRATURE RÉGLABLE\_:\_cafetière avec contrôle numérique précis de la température (PID), 3 débits différents pour optimiser le temps de contact et système de chauffage à bobine thermique fournissant une eau plus pure que les systèmes d'infusion classiques utilisant de l'aluminium."
+        nl-NL: >-
+          De Breville Precision Brewer Thermal is een druppelkoffiezetapparaat
+          van 60 oz met thermische karaf waarmee u thuis automatisch derde golf
+          speciale koffie kunt zetten; Ervaar uw favoriete koffie op zijn best
+          met nauwkeurige temperatuur en zettijd AUTOMATISCHE VOORINSTELLINGEN
+          EN AANPASBAAR: 6 unieke zetmodi zorgen ervoor dat u elke keer van de
+          perfect uitgebalanceerde koffie geniet; Vooraf ingestelde modi zijn
+          onder meer Gold, Fast, Strong, Iced, Cold Brew en My Brew, zodat u uw
+          favoriete koffie op zijn best kunt ervaren. VERSTELBARE TEMPERATUUR:
+          Koffiezetapparaat met nauwkeurige digitale temperatuurregeling (PID),
+          3 verschillende stroomsnelheden om de contacttijd te optimaliseren en
+          Thermo Coil Heating System dat water levert dat zuiverder is dan
+          typische koffiezetsystemen die aluminium gebruiken
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

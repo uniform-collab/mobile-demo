@@ -1,0 +1,298 @@
+created: '2024-02-28T12:53:49.759467+00:00'
+modified: '2024-02-28T13:36:17.05103+00:00'
+pattern: false
+entry:
+  _id: 1de3fddc-edee-40d6-8f8d-1f9f94144c77
+  _name: Royale Butte Camping Coffee Pot
+  _slug: royale-butte-camping-coffee-pot-121
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/XVbuwzVWQaWOgyfhOvXL7A-royale-butte-camping-coffee-pot-121_sgc0ks_p61oqr.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      CAMP COFFEE POT. Steel wire handle for hanging over a
+                      campfire; great for destination camping, weekends at the
+                      cabin or the backyard fire-pit. Also works great on a
+                      stovetop, grill, or grate. NO ALUMINUM OR PLASTIC: Named
+                      after the rugged city of Butte, this beautiful yet rugged
+                      camping coffee maker is made of 18/8 stainless steel, with
+                      a glass preview knob and rosewood handle. LARGE:
+                      Percolating for the entire camp is easy with this large 14
+                      CUP coffee pot. Pack-in the Butte 14 Cup camping coffee
+                      percolator to your next outdoor adventure! BUILT TO LAST:
+                      Made of heavy gauge, food-grade 18/8 stainless steel for
+                      excellent resistance to corrosion; rugged construction
+                      withstands rigors of camping stove, fire, and outdoor uses
+                      for percolators. LIFETIME REPLACEMENT GUARANTEE - Top
+                      materials & workmanship enable a superb promise. Shop with
+                      confidence.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Cafetière de camping. Poignée en fil d'acier à suspendre au-dessus d'un feu de camp\_; idéal pour le camping de destination, les week-ends au chalet ou le foyer du jardin. Fonctionne également très bien sur une cuisinière, un gril ou une grille. PAS D'ALUMINIUM NI DE PLASTIQUE\_: Nommée d'après la ville accidentée de Butte, cette belle mais robuste cafetière de camping est fabriquée en acier inoxydable 18/8, avec un bouton de prévisualisation en verre et une poignée en palissandre. GRAND : La percolation pour tout le camp est facile avec cette grande cafetière de 14 TASSES. Emportez le percolateur à café de camping Butte 14 Cup pour votre prochaine aventure en plein air\_! Construit pour durer : fabriqué en acier inoxydable 18/8 de qualité alimentaire pour une excellente résistance à la corrosion ; la construction robuste résiste aux rigueurs du réchaud de camping, du feu et des utilisations extérieures des percolateurs. GARANTIE DE REMPLACEMENT À VIE - Les matériaux et la fabrication de qualité supérieure permettent une superbe promesse. Achetez en toute confiance."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      KAMP KOFFIEPOT. Staaldraadhandvat om boven een kampvuur te
+                      hangen; geweldig voor kamperen op de bestemming, weekenden
+                      in de hut of in de vuurplaats in de achtertuin. Werkt ook
+                      prima op een kookplaat, grill of rooster. GEEN ALUMINIUM
+                      OF PLASTIC: Dit mooie maar robuuste
+                      campingkoffiezetapparaat is vernoemd naar de ruige stad
+                      Butte en is gemaakt van 18/8 roestvrij staal, met een
+                      glazen preview-knop en een handvat van palissanderhout.
+                      GROOT: Percoleren voor het hele kamp is eenvoudig met deze
+                      grote koffiepot met 14 kopjes. Neem de Butte 14 Cup
+                      campingkoffiepercolator mee op je volgende buitenavontuur!
+                      Gebouwd om lang mee te gaan: Gemaakt van zwaar,
+                      voedselveilig 18/8 roestvrij staal voor uitstekende
+                      weerstand tegen corrosie; De robuuste constructie is
+                      bestand tegen de ontberingen van kampeerkachels, vuur en
+                      gebruik buitenshuis voor percolators. LEVENSLANGE
+                      VERVANGINGSGARANTIE - Topmaterialen en vakmanschap maken
+                      een uitstekende belofte mogelijk. Shop Met Vertrouwen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Royale Butte Camping Coffee Pot
+    title:
+      type: text
+      value: Royale Butte Camping Coffee Pot
+    category:
+      type: select
+      value: french-press
+    variants:
+      type: $block
+      value:
+        - _id: b5fc92a4-45e9-4f69-a6c2-e2d5a3bb99ab
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '121'
+            price:
+              type: number
+              locales:
+                en-US: '45.66'
+                fr-CA: '42.17'
+                nl-NL: '42.17'
+            title:
+              type: text
+              locales:
+                en-US: Royale Butte Camping Coffee Pot
+                fr-CA: Royale Butte Camping Coffee Pot
+                nl-NL: Royale Butte Camping Coffee Pot
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 363a429f-bd25-49f6-a314-bdfbe461a02e
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 14e9a033-0e92-42a5-aabe-5a76ab36df6d
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/0sd9ZX4_SqW61T8EigjKBQ-royale-butte-camping-coffee-pot-121_sgc0ks_p61oqr.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 43180cab-7869-415e-8191-c8e197194f30
+                    size:
+                      value: 12357
+                      type: number
+                    title:
+                      type: text
+                      value: royale-butte-camping-coffee-pot-121_sgc0ks_p61oqr.jpg
+                    width:
+                      value: 386
+                      type: number
+                    height:
+                      value: 386
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 1461cf27-72e1-40b9-aeaa-4d614218b812
+          type: image
+          fields:
+            id:
+              type: text
+              value: 916292af-2980-45d2-af6b-be1453ab9c88
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/XVbuwzVWQaWOgyfhOvXL7A-royale-butte-camping-coffee-pot-121_sgc0ks_p61oqr.jpg
+              type: text
+            file:
+              type: file
+              value: 3c1784af-6b0b-4201-9cf2-24f60bea27b7
+            size:
+              value: 12357
+              type: number
+            title:
+              type: text
+              value: royale-butte-camping-coffee-pot-121_sgc0ks_p61oqr.jpg
+            width:
+              value: 386
+              type: number
+            height:
+              value: 386
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 77f93377-3532-4fe3-9d7d-7148fdfd5dd6
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: debf365a-ca88-4d0e-ae54-cb9a62e0db62
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          CAMP COFFEE POT. Steel wire handle for hanging over a campfire; great
+          for destination camping, weekends at the cabin or the backyard
+          fire-pit. Also works great on a stovetop, grill, or grate. NO ALUMINUM
+          OR PLASTIC: Named after the rugged city of Butte, this beautiful yet
+          rugged camping coffee maker is made of 18/8 stainless steel, with a
+          glass preview knob and rosewood handle. LARGE: Percolating for the
+          entire camp is easy with this large 14 CUP coffee pot. Pack-in the
+          Butte 14 Cup camping coffee percolator to your next outdoor adventure!
+          BUILT TO LAST: Made of heavy gauge, food-grade 18/8 stainless steel
+          for excellent resistance to corrosion; rugged construction withstands
+          rigors of camping stove, fire, and outdoor uses for percolators.
+          LIFETIME REPLACEMENT GUARANTEE - Top materials & workmanship enable a
+          superb promise. Shop with confidence.
+        fr-CA: "Cafetière de camping. Poignée en fil d'acier à suspendre au-dessus d'un feu de camp\_; idéal pour le camping de destination, les week-ends au chalet ou le foyer du jardin. Fonctionne également très bien sur une cuisinière, un gril ou une grille. PAS D'ALUMINIUM NI DE PLASTIQUE\_: Nommée d'après la ville accidentée de Butte, cette belle mais robuste cafetière de camping est fabriquée en acier inoxydable 18/8, avec un bouton de prévisualisation en verre et une poignée en palissandre. GRAND : La percolation pour tout le camp est facile avec cette grande cafetière de 14 TASSES. Emportez le percolateur à café de camping Butte 14 Cup pour votre prochaine aventure en plein air\_! Construit pour durer : fabriqué en acier inoxydable 18/8 de qualité alimentaire pour une excellente résistance à la corrosion ; la construction robuste résiste aux rigueurs du réchaud de camping, du feu et des utilisations extérieures des percolateurs. GARANTIE DE REMPLACEMENT À VIE - Les matériaux et la fabrication de qualité supérieure permettent une superbe promesse. Achetez en toute confiance."
+        nl-NL: >-
+          KAMP KOFFIEPOT. Staaldraadhandvat om boven een kampvuur te hangen;
+          geweldig voor kamperen op de bestemming, weekenden in de hut of in de
+          vuurplaats in de achtertuin. Werkt ook prima op een kookplaat, grill
+          of rooster. GEEN ALUMINIUM OF PLASTIC: Dit mooie maar robuuste
+          campingkoffiezetapparaat is vernoemd naar de ruige stad Butte en is
+          gemaakt van 18/8 roestvrij staal, met een glazen preview-knop en een
+          handvat van palissanderhout. GROOT: Percoleren voor het hele kamp is
+          eenvoudig met deze grote koffiepot met 14 kopjes. Neem de Butte 14 Cup
+          campingkoffiepercolator mee op je volgende buitenavontuur! Gebouwd om
+          lang mee te gaan: Gemaakt van zwaar, voedselveilig 18/8 roestvrij
+          staal voor uitstekende weerstand tegen corrosie; De robuuste
+          constructie is bestand tegen de ontberingen van kampeerkachels, vuur
+          en gebruik buitenshuis voor percolators. LEVENSLANGE
+          VERVANGINGSGARANTIE - Topmaterialen en vakmanschap maken een
+          uitstekende belofte mogelijk. Shop Met Vertrouwen.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

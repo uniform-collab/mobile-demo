@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: cc03534e-1498-46d3-bfbe-86343cc56e78
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: roma_article.jpg
+    file:
+      type: file
+      value: 5d90a4db-9c29-49e9-9651-5d05ffc82390
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/gVaDnl2GTwGyr235dtA-HQ-roma_article.jpg
+      type: text
+    size:
+      value: 135191
+      type: number
+    width:
+      value: 686
+      type: number
+    height:
+      value: 338
+      type: number
+    custom: {}
+created: '2024-02-28T12:37:24.451028+00:00'
+modified: '2024-02-28T13:34:25.466681+00:00'

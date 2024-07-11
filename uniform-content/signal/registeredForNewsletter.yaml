@@ -1,0 +1,16 @@
+id: registeredForNewsletter
+name: Registered for Newsletter
+cap: 1
+crit:
+  op: '&'
+  type: G
+  clauses:
+    - type: QS
+      match:
+        cs: false
+        op: '='
+        rhs: 'true'
+      queryName: registered
+dur: p
+description: Filled out the form on LP to register for newsletter and / or promotions
+str: 1

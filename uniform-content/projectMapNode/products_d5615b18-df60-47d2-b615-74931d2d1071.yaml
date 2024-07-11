@@ -1,0 +1,9 @@
+id: d5615b18-df60-47d2-b615-74931d2d1071
+name: Products
+order: 137
+path: /:locale/products
+type: composition
+pathSegment: products
+data: {}
+compositionId: 2c292df5-1525-40a8-80a1-bbbab2c1caf9
+projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c

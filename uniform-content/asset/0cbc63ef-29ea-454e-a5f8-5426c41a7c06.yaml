@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 0cbc63ef-29ea-454e-a5f8-5426c41a7c06
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: three_cups.jpg
+    file:
+      type: file
+      value: 2fffac66-a6eb-451f-a4ca-cb106fe0ecad
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/LP0fTXaLQVGdc9nbsqYWCg-three_cups.jpg
+      type: text
+    size:
+      value: 5356855
+      type: number
+    width:
+      value: 4480
+      type: number
+    height:
+      value: 6720
+      type: number
+    custom: {}
+created: '2024-02-28T12:38:12.457848+00:00'
+modified: '2024-02-28T13:31:09.279675+00:00'

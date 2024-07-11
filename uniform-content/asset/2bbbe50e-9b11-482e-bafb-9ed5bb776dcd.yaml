@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 2bbbe50e-9b11-482e-bafb-9ed5bb776dcd
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: organic-blend-coffee-133-1_ws3k5y_cxow31.jpg
+    file:
+      type: file
+      value: 9151949b-dd57-4904-aaee-2c1fa82b9ff6
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/XZkpOs3ATgOtxeoWYijNOw-organic-blend-coffee-133-1_ws3k5y_cxow31.jpg
+      type: text
+    size:
+      value: 113951
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:41:32.301845+00:00'
+modified: '2024-02-28T13:31:48.097884+00:00'

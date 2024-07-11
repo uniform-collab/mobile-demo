@@ -1,0 +1,269 @@
+composition:
+  _name: Shopping Cart
+  _id: bb141407-8f27-4cf0-af4d-a4868c7634b9
+  _slug: shopping-cart
+  type: page
+  parameters:
+    pageTitle:
+      type: text
+      locales:
+        en-CA: Shopping Cart Page
+        en-GB: Shopping Cart Page
+        en-NL: Shopping Cart Page
+        en-US: Shopping Cart Page
+        fr-CA: Page du panier d'achat
+        nl-NL: Pagina Winkelwagen
+  slots:
+    pageContent:
+      - _id: 470fd711-9013-44a8-b506-4ebe62a0868b
+        type: container
+        slots:
+          container-inner:
+            - _id: c623ea35-b6ec-4f42-ae5e-55798ae478e2
+              type: $personalization
+              slots:
+                pz:
+                  - _id: 3b6303ee-41f5-4c3b-8ba1-901235672d1c
+                    type: shoppingCartContent
+                    parameters:
+                      $pzCrit:
+                        type: $pzCrit
+                        value:
+                          crit:
+                            - l: isCartEmpty
+                              r: 0
+                              op: '='
+                          name: ''
+                  - _id: 4c3b271a-3bcc-4a1f-958e-ae447d193493
+                    type: cardBlock
+                    _pattern: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+                    _dataResources:
+                      Products Content:
+                        type: products
+                        variables:
+                          locale: ${locale}
+                          entryIds: >-
+                            72b49ac2-bbf3-48a7-b522-0947483e9131,4d95682d-7de0-4b19-a0f5-13e4e6f780c1,df7a5d21-9a3c-49db-92d2-662b0fecce21,c7e72a37-47db-4202-800d-09540a4b9181,c2fe7f3a-9b46-4e6e-bb11-b38fde7852ba,3505d6f5-ba58-4c8e-aea0-9803582ff19c,dd9a7e4d-56a3-4a0b-9679-345d19e6da49
+              parameters:
+                count:
+                  type: number
+                  value: '1'
+                trackingEventName:
+                  type: text
+                  value: Cart or Recommended Products
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Shopping Cart Content
+              en-GB: Shopping Cart Content
+              en-NL: Shopping Cart Content
+              en-US: Shopping Cart Content
+              fr-CA: Contenu du panier d'achat
+              nl-NL: Inhoud winkelwagentje
+          marginTop:
+            type: select
+            value: None
+          paddingTop:
+            type: select
+            value: None
+          marginBottom:
+            type: select
+            value: None
+          paddingBottom:
+            type: select
+            value: None
+      - _id: 32c72240-5668-42ce-b944-69ac4956d306
+        type: $personalization
+        slots:
+          pz:
+            - _id: 0eb303e9-e836-47a3-bb79-800b2ba67b1d
+              type: cardBlock
+              _pattern: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+              _dataResources:
+                Products Content:
+                  type: products
+                  variables:
+                    locale: ${locale}
+                    entryIds: >-
+                      df7a5d21-9a3c-49db-92d2-662b0fecce21,c7e72a37-47db-4202-800d-09540a4b9181,c2fe7f3a-9b46-4e6e-bb11-b38fde7852ba,3505d6f5-ba58-4c8e-aea0-9803582ff19c
+            - _id: 791c1048-cdc1-4a31-a66d-fecc795a15f9
+              type: cardBlock
+              _pattern: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+              _dataResources:
+                Products Content:
+                  type: products
+                  variables:
+                    locale: ${locale}
+                    entryIds: >-
+                      82b84782-4236-4b06-a994-59f088896b91,dd9a7e4d-56a3-4a0b-9679-345d19e6da49,72b49ac2-bbf3-48a7-b522-0947483e9131,8ad35da9-07b6-4532-8e13-47ab158e30ef
+        parameters:
+          count:
+            type: number
+            value: '1'
+          trackingEventName:
+            type: text
+            value: Shopping Cart
+  _overrides:
+    0eb303e9-e836-47a3-bb79-800b2ba67b1d:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Popular Coffee Makers
+            en-GB: Popular Coffee Makers
+            en-NL: Popular Coffee Makers
+            en-US: Popular Coffee Makers
+            fr-CA: Cafetières populaires
+            nl-NL: Populaire koffiezetapparaten
+        $pzCrit:
+          type: $pzCrit
+          value:
+            crit:
+              - l: isCartEmpty
+                r: 0
+                op: '='
+              - l: coffeeBeansInterest
+                op: +
+            name: 'Card Block: Popular Coffee Makers'
+        description:
+          type: text
+          locales:
+            en-CA: Why not pair your beans with a brand new coffee maker?
+            en-GB: Why not pair your beans with a brand new coffee maker?
+            en-NL: Why not pair your beans with a brand new coffee maker?
+            en-US: Why not pair your beans with a brand new coffee maker?
+            fr-CA: >-
+              Pourquoi ne pas associer vos grains à une toute nouvelle cafetière
+              ?
+    4c3b271a-3bcc-4a1f-958e-ae447d193493:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Products
+            en-GB: Products
+            en-NL: Products
+            en-US: Products
+            fr-CA: Produits
+            nl-NL: Producten
+        $pzCrit:
+          type: $pzCrit
+          value:
+            crit:
+              - l: isCartEmpty
+                r: '1'
+                op: '='
+            name: 'Card Block: Products'
+        description:
+          type: text
+          locales:
+            en-CA: >-
+              You don't have anything in your cart yet - check out favorite
+              products
+            en-GB: >-
+              You don't have anything in your cart yet - check out favorite
+              products
+            en-NL: >-
+              You don't have anything in your cart yet - check out favorite
+              products
+            en-US: >-
+              You don't have anything in your cart yet - check out favorite
+              products
+            fr-CA: >-
+              Vous n'avez encore rien dans votre panier - voir vos produits
+              préférés
+            nl-NL: >-
+              Je hebt nog niets in je winkelwagen - bekijk je favoriete
+              producten
+    791c1048-cdc1-4a31-a66d-fecc795a15f9:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Popular Coffee Beans
+            en-GB: Popular Coffee Beans
+            en-NL: Popular Coffee Beans
+            en-US: Popular Coffee Beans
+            fr-CA: Grains de café populaires
+            nl-NL: Populaire koffiebonen
+        $pzCrit:
+          type: $pzCrit
+          value:
+            crit:
+              - l: isCartEmpty
+                r: 0
+                op: '='
+              - l: coffeeMakersInterest
+                op: +
+            name: 'Card Block: Popular Coffee Beans'
+        description:
+          type: text
+          locales:
+            en-CA: >-
+              Why not pair your new coffee maker with a some of our best selling
+              beans?
+            en-GB: >-
+              Why not pair your new coffee maker with a some of our best selling
+              beans?
+            en-NL: >-
+              Why not pair your new coffee maker with a some of our best selling
+              beans?
+            en-US: >-
+              Why not pair your new coffee maker with a some of our best selling
+              beans?
+            fr-CA: >-
+              Pourquoi ne pas associer votre nouvelle cafetière à quelques-uns
+              de nos grains les plus vendus ?
+            nl-NL: >-
+              Waarom combineer je je nieuwe koffiezetapparaat niet met een paar
+              van onze best verkochte bonen?
+    0eb303e9-e836-47a3-bb79-800b2ba67b1d|98ef4404-7adc-4d1b-bd62-e17bc229352b:
+      parameters:
+        buttonLink:
+          type: link
+          value:
+            path: /:locale/products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+              product-slug: ${#jptr:/Product Content results Loop Item/entry/_slug}
+    4c3b271a-3bcc-4a1f-958e-ae447d193493|98ef4404-7adc-4d1b-bd62-e17bc229352b:
+      parameters:
+        buttonLink:
+          type: link
+          value:
+            path: /:locale/products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+              product-slug: ${#jptr:/Product Content results Loop Item/entry/_slug}
+        buttonStyle:
+          type: tp-button-style-parameter
+          value: secondary
+    791c1048-cdc1-4a31-a66d-fecc795a15f9|98ef4404-7adc-4d1b-bd62-e17bc229352b:
+      parameters:
+        buttonLink:
+          type: link
+          value:
+            path: /:locale/products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+              product-slug: ${#jptr:/Product Content results Loop Item/entry/_slug}
+  _locales:
+    - en-US
+    - fr-CA
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:51:08.694755+00:00'
+modified: '2024-03-18T13:49:47.589722+00:00'
+pattern: false

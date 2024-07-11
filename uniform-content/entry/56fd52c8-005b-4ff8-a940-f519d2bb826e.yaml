@@ -1,0 +1,59 @@
+created: '2024-02-28T12:53:55.044413+00:00'
+modified: '2024-02-28T13:36:44.513379+00:00'
+pattern: false
+entry:
+  _id: 56fd52c8-005b-4ff8-a940-f519d2bb826e
+  _name: So... you want some beans?
+  _slug: so-you-want-some-beans
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/1Yn6SJsaQ3G-zoybIRHytw-smart_feature.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 1ac531f1-9131-4b47-b088-cf69750223d0
+          type: image
+          fields:
+            id:
+              type: text
+              value: 78b593ef-0889-4025-9600-89d66043b4ec
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/1Yn6SJsaQ3G-zoybIRHytw-smart_feature.webp
+              type: text
+            file:
+              type: file
+              value: 40a1e2f5-22e9-4129-9b8a-6783878f12c8
+            size:
+              value: 105498
+              type: number
+            title:
+              type: text
+              value: smart_feature.webp
+            width:
+              value: 1224
+              type: number
+            height:
+              value: 872
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: So... you want some beans?
+        fr-CA: Alors ... tu veux des haricots?
+        nl-NL: Dus ... wil je wat bonen?
+    description:
+      type: text
+      locales:
+        en-US: We got awesome beans
+        fr-CA: Nous avons des haricots géniaux
+        nl-NL: We hebben geweldige bonen
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

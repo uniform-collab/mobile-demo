@@ -1,0 +1,85 @@
+composition:
+  _name: Image Gallery (uc)
+  _id: 92f3a50f-098f-4448-88dd-4005e384559d
+  type: imageGallery
+  variant: fluidContent
+  parameters:
+    items:
+      type: asset
+      value: >-
+        ${#jptr:/Product
+        Content/entry/fields/variants/value/0/fields/imageGallery/value}
+    title:
+      type: text
+      locales:
+        en-CA: Image Gallery
+        en-GB: Image Gallery
+        en-NL: Image Gallery
+        en-US: Image Gallery
+        fr-CA: Galerie d'images
+        nl-NL: Afbeeldingen Galerij
+    duration:
+      type: select
+      value: slow
+    maxItems:
+      type: number
+      value: '5'
+    paddingTop:
+      type: select
+      value: Small
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h4
+    animationType:
+      type: select
+      value: flyIn
+    paddingBottom:
+      type: select
+      value: Small
+    animationOrder:
+      type: select
+      value: oneByOne
+    backgroundType:
+      type: tp-background-type-parameter
+      value: Dark
+  _dataResources:
+    Product Content:
+      type: product
+      variables:
+        body: >-
+          {"requests":[{"indexName":"products-ngm","objectID":"espresso-gpt-145"}]}
+        slug: espresso-gpt-145
+        locale: ${locale}
+        entryId: c7e72a37-47db-4202-800d-09540a4b9181
+        entryIds: espresso-gpt-145
+        facetValue: ''
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      delay: 'yes'
+      title: 'yes'
+      duration: 'yes'
+      maxItems: 'yes'
+      marginTop: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      marginBottom: 'yes'
+      animationType: 'yes'
+      paddingBottom: 'yes'
+      animationOrder: 'yes'
+      backgroundType: 'yes'
+      animationPreview: 'yes'
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:56.543966+00:00'
+modified: '2024-02-28T12:50:56.543966+00:00'
+pattern: true
+categoryId: 2da8c924-14d5-470b-9fe4-1e56521551e5

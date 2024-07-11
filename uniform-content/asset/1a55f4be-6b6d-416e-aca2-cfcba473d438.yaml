@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 1a55f4be-6b6d-416e-aca2-cfcba473d438
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: acidity.jpg
+    file:
+      type: file
+      value: f3c298f2-cfda-4e6f-b3cc-205ec436caa3
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/11nJ0qh6RRC9RyiufffJAA-acidity.jpg
+      type: text
+    size:
+      value: 72477
+      type: number
+    width:
+      value: 684
+      type: number
+    height:
+      value: 450
+      type: number
+    custom: {}
+created: '2024-02-28T12:32:32.358371+00:00'
+modified: '2024-02-28T13:31:26.505036+00:00'

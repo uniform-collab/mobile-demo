@@ -1,0 +1,996 @@
+created: '2024-02-28T12:54:08.945196+00:00'
+modified: '2024-02-28T12:54:08.945196+00:00'
+pattern: false
+entry:
+  _id: 5875657f-c38b-4ba5-a127-bd95b72e56c5
+  _name: THE GOLDEN RATIO of COFFEE
+  _slug: the-golden-ratio-of-coffee
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xgTc_0zgQy2a9yZIk1ZM0Q-flavor_ratios.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Beans
+    title:
+      type: text
+      locales:
+        en-US: THE GOLDEN RATIO of COFFEE
+        fr-CA: Le rapport doré du café
+        nl-NL: De gouden verhouding van koffie
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Water is essential for all life on earth, however we rely
+                      on a balance of water to sustain life. Too little and we
+                      dry up, too much and we flood.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Now, I know what you are asking, what does WATER have to
+                      do with my COFFEE?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Like all fine things in life, complex flavors rely on
+                      balance to really bring to life all the amazing tastes and
+                      sensations. The same applies to coffee, with its inability
+                      to cope with unbalanced or over balanced dosing.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      I tend to refer to coffee as being allergic to the 21st
+                      century, and if you thought hipsters were fussy about
+                      their coffee, you’ll be surprised to know that their
+                      coffee is WAY more fussy than they are!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Here is a sneaky tip to help get the most out of your
+                      espresso shot!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lets focus on RATIOs. Specifically the WATER:COFFEE ratio
+                      in both your BASKET and your CUP!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The Golden Ratios for\_Espresso are:"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Basket – 2:1
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Cup – 7:1
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Let’s assume you have a 16g basket (most breville,
+                      delonghi and sunbeam baskets are 16g-18g). If you are
+                      unsure, go have a quick read of your manual and come back.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Now if you have a 16g basket you are wanting to add 16g of
+                      ground coffee into your basket, and hoping for 32ml of
+                      espresso pouring out the other end.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      This is a guide, not a rule, the bigger that basket means
+                      more grinds and more espresso. We have a 22g basket in the
+                      Cafe, and we run 22.5g In, hoping for a 50ml extraction.
+                      Adjust the guide to your machine and preference, whilst
+                      keeping as much to this ratio as possible
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      All of this, however, should be done within an extraction
+                      time of about 30-35 Seconds. Almost every espresso coffee
+                      is made in the golden 30 Second timer, and is just the
+                      best output when placed against HEAT and PRESSURE. Science
+                      tells us that coffee cannot taste good if the time it
+                      extracts in is any more or any less than 30 seconds,
+                      however that is a can of worms we can open another day!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Back to the coffee in question!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Now that you have your perfect golden ratio espresso, and
+                      you are pouring that beautifully made espresso into your
+                      cup. The best way to get the best flavors is finding an
+                      8oz cup, for your 1oz of espresso. Adding 7oz of water,
+                      milk, whatever, into your 1oz of espresso creates the
+                      perfect balance of coffee to additive ratio.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Obviously if you are playing along at home, you won’t be
+                      scientifically measuring how many ounces your coffee cups
+                      are, I recommend finding your favorite and adjusting to
+                      taste from there. (Everyone should have a favorite coffee
+                      cup, it’s part of adulthood). A standard cup being 250ml
+                      will do, however 7oz is around the 200ml mark, again the
+                      ratio is a GUIDE rather than a RULE!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      And that’s that, a perfectly ratioed cup of coffee in its
+                      purest form. Now keep in mind a larger cup will require
+                      more coffee, however as long as you are following the
+                      GOLDEN RATIO you are good as gold!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Give it a try with our coffee and see it for yourself.
+                      Honestly you will not believe the difference this little
+                      trick will do to make your coffee at home EVEN BETTER!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L'eau est essentielle à toute vie sur terre, mais nous
+                      dépendons d'un équilibre hydrique pour maintenir la vie.
+                      Trop peu et on s'assèche, trop et on inonde.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Maintenant, je sais ce que vous demandez, qu'est-ce que l'EAU a à voir avec mon CAFÉ\_?"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Comme toutes les belles choses de la vie, les saveurs
+                      complexes reposent sur l’équilibre pour donner vie à tous
+                      les goûts et sensations incroyables. Il en va de même pour
+                      le café, incapable de gérer un dosage déséquilibré ou
+                      suréquilibré.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      J'ai tendance à parler du café comme d'une allergie au 21e
+                      siècle, et si vous pensiez que les hipsters étaient
+                      difficiles à propos de leur café, vous serez surpris de
+                      savoir que leur café est BEAUCOUP plus difficile qu'eux !
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Voici une astuce sournoise pour vous aider à tirer le meilleur parti de votre expresso\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Concentrons-nous sur les RATIO. Plus précisément le ratio
+                      EAU:CAFÉ dans votre PANIER et votre TASSE !
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Les nombres d'or pour l'espresso sont\_:"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Panier – 2:1
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Coupe – 7:1
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Supposons que vous ayez un panier de 16 g (la plupart des
+                      paniers Breville, Delonghi et Sunbeam pèsent entre 16 et
+                      18 g). Si vous n'êtes pas sûr, allez lire rapidement votre
+                      manuel et revenez.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Maintenant, si vous avez un panier de 16 g, vous souhaitez
+                      ajouter 16 g de café moulu dans votre panier et espérer
+                      que 32 ml d'espresso s'écoulent à l'autre extrémité.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ceci est un guide, pas une règle, plus ce panier est grand
+                      signifie plus de mouture et plus d'espresso. Nous avons un
+                      panier de 22 g au Café et nous en mettons 22,5 g en
+                      espérant une extraction de 50 ml. Ajustez le guide à votre
+                      machine et à vos préférences, tout en respectant au
+                      maximum ce ratio.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Cependant, tout cela doit être effectué dans un temps
+                      d'extraction d'environ 30 à 35 secondes. Presque tous les
+                      cafés expresso sont préparés avec la minuterie dorée de 30
+                      secondes et constituent le meilleur résultat lorsqu'ils
+                      sont placés contre la CHALEUR et la PRESSION. La science
+                      nous dit que le café ne peut pas avoir bon goût si le
+                      temps d'extraction est supérieur ou inférieur à 30
+                      secondes, mais c'est une boîte de Pandore que nous
+                      pourrons ouvrir un autre jour !
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Revenons au café en question !
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Maintenant que vous avez votre expresso au nombre d’or
+                      parfait et que vous versez cet expresso magnifiquement
+                      préparé dans votre tasse. La meilleure façon d’obtenir les
+                      meilleures saveurs est de trouver une tasse de 8 onces
+                      pour votre 1 once d’espresso. L'ajout de 7 onces d'eau, de
+                      lait, peu importe, dans votre 1 once d'espresso crée
+                      l'équilibre parfait entre le rapport café/additif.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Évidemment, si vous jouez le jeu à la maison, vous ne mesurerez pas scientifiquement le nombre d’onces de vos tasses de café, je vous recommande de trouver votre favori et de l’ajuster au goût à partir de là. (Tout le monde devrait avoir sa tasse de café préférée, cela fait partie de l’âge adulte). Une tasse standard de 250 ml fera l'affaire, mais 7 oz se situe autour de la barre des 200 ml, encore une fois, le rapport est un GUIDE plutôt qu'une RÈGLE\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Et c’est tout, une tasse de café parfaitement dosée dans sa forme la plus pure. Maintenant, gardez à l’esprit qu’une tasse plus grande nécessitera plus de café, mais tant que vous suivez le RATIO D’OR, vous êtes bon comme de l’or\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Essayez-le avec notre café et voyez par vous-même. Honnêtement, vous ne croirez pas la différence que cette petite astuce fera pour rendre votre café à la maison ENCORE MEILLEUR\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Water is essentieel voor al het leven op aarde, maar we
+                      zijn afhankelijk van een waterbalans om het leven in stand
+                      te houden. Te weinig en we drogen uit, te veel en we
+                      overstromen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Nu weet ik wat je vraagt: wat heeft WATER met mijn KOFFIE
+                      te maken?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Zoals alle mooie dingen in het leven zijn complexe smaken
+                      afhankelijk van evenwicht om alle geweldige smaken en
+                      sensaties echt tot leven te brengen. Hetzelfde geldt voor
+                      koffie, omdat het niet in staat is om met een
+                      onevenwichtige of overgebalanceerde dosering om te gaan.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ik heb de neiging om koffie te beschouwen als allergisch
+                      voor de 21e eeuw, en als je dacht dat hipsters kieskeurig
+                      waren over hun koffie, zul je verrast zijn te weten dat
+                      hun koffie VEEL kieskeuriger is dan zij!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Hier is een stiekeme tip om het meeste uit uw espressoshot
+                      te halen!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Laten we ons concentreren op RATIO's. Specifiek de
+                      WATER:KOFFIE verhouding in zowel uw MAND als uw KOPje!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'De gulden sneden voor espresso zijn:'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Mand – 2:1
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Beker – 7:1
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Laten we aannemen dat je een mand van 16 gram hebt (de
+                      meeste breville-, delonghi- en zonnestraalmanden zijn 16
+                      gram-18 gram). Als u het niet zeker weet, lees dan snel de
+                      handleiding en kom terug.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als je nu een mandje van 16 gram hebt, wil je 16 gram
+                      gemalen koffie aan je mandje toevoegen en hopen dat er aan
+                      de andere kant 32 ml espresso uitstroomt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dit is een richtlijn, geen regel: hoe groter de mand, hoe
+                      meer maling en meer espresso. We hebben een mand van 22
+                      gram in het café en we laten 22,5 gram erin lopen, in de
+                      hoop op een extractie van 50 ml. Pas de geleiding aan uw
+                      machine en voorkeur aan, waarbij u zoveel mogelijk deze
+                      verhouding aanhoudt
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dit alles moet echter binnen een extractietijd van
+                      ongeveer 30-35 seconden worden gedaan. Bijna elke
+                      espressokoffie wordt gemaakt in de gouden timer van 30
+                      seconden en levert het beste resultaat wanneer deze tegen
+                      HITTE en DRUK wordt geplaatst. De wetenschap vertelt ons
+                      dat koffie niet lekker kan smaken als de tijd die het
+                      inneemt langer of korter is dan 30 seconden, maar dat is
+                      een blik wormen die we op een andere dag kunnen openen!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Terug naar de koffie in kwestie!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Nu u uw perfecte espresso met de gouden verhouding heeft,
+                      en u die prachtig gemaakte espresso in uw kopje giet. De
+                      beste manier om de beste smaken te krijgen, is door een
+                      kopje van 8 oz te vinden voor je 1 oz espresso. Door 7 oz
+                      water, melk of wat dan ook toe te voegen aan uw 1 oz
+                      espresso, ontstaat de perfecte balans tussen koffie en
+                      additiefverhouding.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als je thuis meespeelt, meet je natuurlijk niet
+                      wetenschappelijk hoeveel gram je koffiekopjes zijn. Ik
+                      raad aan om je favoriet te vinden en vanaf daar aan te
+                      passen aan je smaak. (Iedereen zou een favoriet
+                      koffiekopje moeten hebben, dat hoort bij de
+                      volwassenheid). Een standaardbeker van 250 ml is
+                      voldoende, maar 7 oz ligt rond de 200 ml. Ook hier is de
+                      verhouding eerder een GIDS dan een REGEL!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      En dat is dat: een perfect geportioneerde kop koffie in
+                      zijn puurste vorm. Houd er rekening mee dat voor een
+                      groter kopje meer koffie nodig is, maar zolang u de GOUDEN
+                      RATIO volgt, bent u zo goed als goud!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Probeer het eens met onze koffie en ervaar het zelf.
+                      Eerlijk gezegd zul je niet geloven welk verschil dit
+                      kleine trucje zal maken om je koffie thuis NOG BETER te
+                      maken!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 51fb3a3c-5cdf-41c8-887c-56f5555a9217
+          type: image
+          fields:
+            id:
+              type: text
+              value: c811d74f-882c-4a24-a8cf-5d465787a2ad
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xgTc_0zgQy2a9yZIk1ZM0Q-flavor_ratios.jpg
+              type: text
+            file:
+              type: file
+              value: 0b8cb811-8585-4087-8b0d-57157a890cc3
+            size:
+              value: 47343
+              type: number
+            title:
+              type: text
+              value: flavor_ratios.jpg
+            width:
+              value: 676
+              type: number
+            height:
+              value: 544
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Like all fine things in life, complex flavours rely on balance to
+          really bring to life all the amazing tastes and sensations.
+        fr-CA: >-
+          Comme toutes les belles choses dans la vie, les saveurs complexes
+          comptent sur l'équilibre pour vraiment donner vie à tous les goûts et
+          sensations incroyables.
+        nl-NL: >-
+          Zoals alle goede dingen in het leven, vertrouwen complexe smaken op
+          balans om alle verbazingwekkende smaken en sensaties echt tot leven te
+          brengen.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

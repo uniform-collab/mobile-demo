@@ -1,0 +1,57 @@
+created: '2024-02-28T12:54:12.848753+00:00'
+modified: '2024-02-28T12:54:12.848753+00:00'
+pattern: false
+entry:
+  _id: 4a5c9f7d-07fc-4b5a-93be-f301acf50afd
+  _name: Try our International Beans
+  _slug: try-our-international-beans
+  type: callToAction
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 1ec7bba9-7bd1-455c-acf0-6b7e26d2def5
+          type: image
+          fields:
+            id:
+              type: text
+              value: 7c444bac-7e3b-4ecb-9b0b-184fb372517d
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/LohQKKjxS6yHL__f0W5zMQ-25_off.svg
+              type: text
+            file:
+              type: file
+              value: 0e619900-bdb3-4686-89e5-0034738df5ff
+            size:
+              value: 3718
+              type: number
+            title:
+              type: text
+              value: 25_off.svg
+            width:
+              value: 113
+              type: number
+            height:
+              value: 113
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Try our International Beans
+        fr-CA: Essayez nos haricots internationaux
+        nl-NL: Probeer onze internationale bonen
+    description:
+      type: text
+      locales:
+        en-US: Sign up and get 25% off taster bundle
+        fr-CA: Inscrivez-vous et obtenez 25% de réduction sur le pack de dégustation
+        nl-NL: Meld u aan en krijg 25% korting op proeverijbundel
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

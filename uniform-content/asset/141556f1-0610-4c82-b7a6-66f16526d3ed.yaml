@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 141556f1-0610-4c82-b7a6-66f16526d3ed
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: ember-turkish-arabic-hammered-copper-coffee-pot-136-2_vdxouh_iz1awu.jpg
+    file:
+      type: file
+      value: 555a8cfd-3956-4daf-9035-719428cc22c1
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/YmuNNkvXRPGJxUvZiD-qEQ-ember-turkish-arabic-hammered-copper-coffee-pot-136-2_vdxouh_iz1awu.jpg
+      type: text
+    size:
+      value: 147317
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:40:16.472086+00:00'
+modified: '2024-02-28T13:31:17.730315+00:00'

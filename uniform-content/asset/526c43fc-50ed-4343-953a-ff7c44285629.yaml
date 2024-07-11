@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 526c43fc-50ed-4343-953a-ff7c44285629
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: french_press_header_image.jpg
+    file:
+      type: file
+      value: 3df3b419-5b35-4170-834e-3c8493488c01
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/ICbp4-PWSySPGGtt5qyhlA-french_press_header_image.jpg
+      type: text
+    size:
+      value: 82076
+      type: number
+    width:
+      value: 1440
+      type: number
+    height:
+      value: 520
+      type: number
+    custom: {}
+created: '2024-02-28T12:33:05.049692+00:00'
+modified: '2024-02-28T13:32:23.1628+00:00'

@@ -1,0 +1,115 @@
+composition:
+  _name: Testimonial Hero (cs-uc)
+  _id: b41fe6ea-06ea-4fe3-aab6-f230a56c28d3
+  type: hero
+  variant: imageLeft
+  parameters:
+    image:
+      type: asset
+      value: ${#jptr:/Product Content/entry/fields/primaryImage/value}
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Testimonial Content/entry/title}
+        en-GB: ${#jptr:/Testimonial Content/entry/title}
+        en-NL: ${#jptr:/Testimonial Content/entry/title}
+        en-US: ${#jptr:/Testimonial Content/entry/title}
+        fr-CA: ${#jptr:/Testimonial Content/entry/title}
+        nl-NL: ${#jptr:/Testimonial Content/entry/title}
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h1
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Testimonial Content/entry/experience}
+        en-GB: ${#jptr:/Testimonial Content/entry/experience}
+        en-NL: ${#jptr:/Testimonial Content/entry/experience}
+        en-US: ${#jptr:/Testimonial Content/entry/experience}
+        fr-CA: ${#jptr:/Testimonial Content/entry/experience}
+        nl-NL: ${#jptr:/Testimonial Content/entry/experience}
+    primaryButtonCopy:
+      type: text
+      locales:
+        en-CA: Learn more
+        en-GB: Learn more
+        en-NL: Learn more
+        en-US: Learn more
+        fr-CA: Apprendre encore plus
+        nl-NL: Kom meer te weten
+    primaryButtonLink:
+      type: link
+      value:
+        path: /${locale}/products/${#jptr:/Product Content/results/0/slug}
+        type: projectMapNode
+        nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+        projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+        dynamicInputValues:
+          locale: ${locale}
+          product-slug: ${#jptr:/Product Content/results/0/slug}
+  _dataResources:
+    Product Content:
+      type: product
+      variables:
+        slug: espresso-gpt-145
+        locale: ${locale}
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+    Testimonial Content:
+      type: contentstackTestimonial
+      variables:
+        query: ''
+        locale: ${locale}
+        include: ''
+        entry_uid: blt0e8276a2610e13b8
+        content_type_uid: testimonial
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      delay: 'yes'
+      image: 'yes'
+      title: 'yes'
+      video: 'yes'
+      duration: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      textColor: 'yes'
+      fullHeight: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      animationType: 'yes'
+      paddingBottom: 'yes'
+      animationOrder: 'yes'
+      backgroundType: 'yes'
+      overlayOpacity: 'yes'
+      backgroundColor: 'yes'
+      animationPreview: 'yes'
+      containerVariant: 'yes'
+      textColorVariant: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      primaryButtonStyle: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:51:09.336066+00:00'
+modified: '2024-02-28T12:51:09.336066+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Hero_testimonial_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

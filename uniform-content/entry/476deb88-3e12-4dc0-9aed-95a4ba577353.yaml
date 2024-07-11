@@ -1,0 +1,77 @@
+created: '2024-02-28T12:52:52.713977+00:00'
+modified: '2024-02-28T12:52:52.713977+00:00'
+pattern: false
+entry:
+  _id: 476deb88-3e12-4dc0-9aed-95a4ba577353
+  _name: Excellent Coffee maker
+  _slug: excellent-coffee-maker
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/GuPHcStWTQyo9LXhc4_NoA-person_photo_2.jpg
+  type: testimonial
+  fields:
+    stars:
+      type: text
+      value: '4'
+    title:
+      type: text
+      locales:
+        en-US: Excellent Coffee maker
+        fr-CA: Excellent cafetière
+        nl-NL: Uitstekend koffiezetapparaat
+    picture:
+      type: asset
+      value:
+        - _id: e4ee8b0a-f349-4fe6-860e-da8d721559f7
+          type: image
+          fields:
+            id:
+              type: text
+              value: f0d14b90-22fc-4f68-896c-847bc3cc7c4f
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/GuPHcStWTQyo9LXhc4_NoA-person_photo_2.jpg
+              type: text
+            file:
+              type: file
+              value: 87d04ecd-89cd-483f-b063-47994cd85e32
+            size:
+              value: 18613
+              type: number
+            title:
+              type: text
+              value: person_photo_2.jpg
+            width:
+              value: 256
+              type: number
+            height:
+              value: 256
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    lastName:
+      type: text
+      locales:
+        en-US: Selman
+        fr-CA: Selman
+        nl-NL: Selman
+    firstName:
+      type: text
+      locales:
+        en-US: Emily
+        fr-CA: Emilie
+        nl-NL: Emily
+    productId:
+      type: text
+      value: javadrip-specialty-coffee-maker
+    experience:
+      type: text
+      locales:
+        en-US: brews delicious coffee and easy to use
+        fr-CA: Brews délicieux café et facile à utiliser
+        nl-NL: Zet heerlijke koffie en gemakkelijk te gebruiken
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 32804ab1-5027-4290-9cbb-ac3dcd277273
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: in_bed_lukrep.jpg
+    file:
+      type: file
+      value: a6b4fa1c-9e27-4190-896e-5fc2a3a969f8
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/jSd235aOTlWJL3BrnQYmZQ-in_bed_lukrep.jpg
+      type: text
+    size:
+      value: 1516696
+      type: number
+    width:
+      value: 2008
+      type: number
+    height:
+      value: 3072
+      type: number
+    custom: {}
+created: '2024-02-28T12:36:11.497852+00:00'
+modified: '2024-02-28T13:31:58.503298+00:00'

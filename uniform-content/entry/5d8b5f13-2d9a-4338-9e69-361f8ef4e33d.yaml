@@ -1,0 +1,114 @@
+created: '2024-02-28T12:53:56.602891+00:00'
+modified: '2024-02-28T12:53:56.602891+00:00'
+pattern: false
+entry:
+  _id: 5d8b5f13-2d9a-4338-9e69-361f8ef4e33d
+  _name: Specialty Features
+  _slug: specialty-features
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/sQi5QTYqRjuKhvM2qr8BKw-javaDrip_specialty_sizes.jpg
+  type: feature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 28dc8af1-8321-4931-93a2-192cf82e6b5d
+          type: image
+          fields:
+            id:
+              type: text
+              value: abb307ce-d43e-4bb5-9c0f-ebe28befca16
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/sQi5QTYqRjuKhvM2qr8BKw-javaDrip_specialty_sizes.jpg
+              type: text
+            file:
+              type: file
+              value: c1f63988-80d0-4bea-9d7e-74c745cd259a
+            size:
+              value: 13942
+              type: number
+            title:
+              type: text
+              value: javaDrip_specialty_sizes.jpg
+            width:
+              value: 250
+              type: number
+            height:
+              value: 250
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Specialty Features
+        fr-CA: Caractéristiques de spécialité
+        nl-NL: Speciale functies
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Specialty Brew: Brew super-rich coffee concentrate that you can use to
+          create delicious lattes, macchiatos, cappuccinos, and other
+          coffeehouse-style drinks.
+
+
+          Iced Coffee: Brew fresh over ice for flavorful iced coffee that's
+          never watered down
+
+
+          6 Brew Sizes: Brew anything from a single cup or travel size to a half
+          carafe or a full carafe in your coffee maker
+
+
+          No Pods Required: Up to $200 in annual savings using grounds vs. pods*
+
+
+          Fold-Away Frother: Turns hot or cold milk into silky-smooth froth
+        fr-CA: >-
+          Brew Specialty: Brew Super riche Concentré de café que vous pouvez
+          utiliser pour créer de délicieux lattes, des macchiatos, des
+          cappuccinos et d'autres boissons de style café.
+
+
+          Café glacé: brasser frais sur la glace pour un café glacé savoureux
+          qui n'est jamais édulcoré
+
+
+          6 tailles d'infusion: brassage tout, d'une seule tasse ou d'une taille
+          de voyage à une demi-carafe ou une carafe complète dans votre
+          cafetière
+
+
+          Aucune gousse requise: jusqu'à 200 $ d'économies annuelles en
+          utilisant des terrains vs pods *
+
+
+          Frother pliant: transforme le lait chaud ou froid en mousse soyeuse et
+          douce
+        nl-NL: >-
+          Specialty Brew: Brew Super Rich Coffee Concentrate die u kunt
+          gebruiken om heerlijke lattes, macchiatos, cappuccinos en andere
+          drankjes in coffeeshouse-stijl te maken.
+
+
+          Iced Coffee: Brew vers boven ijs voor smaakvolle ijskoffie die nooit
+          is afgezwakt
+
+
+          6 brouwgroottes: brouwt alles van één kopje of reismaat tot een halve
+          karaf of een volle karaf in uw koffiezetapparaat
+
+
+          Geen pods vereist: tot $ 200 jaarlijkse besparingen met gronden versus
+          pods*
+
+
+          Folaway-froner: verandert hete of koude melk in zijdezachtige schuim
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

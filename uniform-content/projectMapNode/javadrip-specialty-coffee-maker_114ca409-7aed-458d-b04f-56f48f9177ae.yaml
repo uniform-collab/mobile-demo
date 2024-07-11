@@ -1,0 +1,8 @@
+id: 114ca409-7aed-458d-b04f-56f48f9177ae
+name: JavaDrip Specialty
+order: 400
+path: /:locale/products/javadrip-specialty-coffee-maker
+type: placeholder
+pathSegment: javadrip-specialty-coffee-maker
+data: {}
+projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c

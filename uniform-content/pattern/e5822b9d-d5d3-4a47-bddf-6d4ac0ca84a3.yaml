@@ -1,0 +1,133 @@
+composition:
+  _name: Hero (ka)
+  _id: e5822b9d-d5d3-4a47-bddf-6d4ac0ca84a3
+  type: hero
+  variant: backgroundImage
+  parameters:
+    image:
+      type: asset
+      value:
+        - _id: aea5d4c7-0094-45eb-bc5e-f5571fa11c67
+          type: image
+          fields:
+            url:
+              type: text
+              value: ${#jptr:/Hero Content/item/elements/image/value}
+          _source: custom-url
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Hero Content/item/elements/title/value}
+        en-GB: ${#jptr:/Hero Content/item/elements/title/value}
+        en-NL: ${#jptr:/Hero Content/item/elements/title/value}
+        en-US: ${#jptr:/Hero Content/item/elements/title/value}
+        fr-CA: ${#jptr:/Hero Content/item/elements/title/value}
+        nl-NL: ${#jptr:/Hero Content/item/elements/title/value}
+    duration:
+      type: select
+      value: medium
+    marginTop:
+      type: select
+      value: None
+    objectFit:
+      type: select
+      value: cover
+    textColor:
+      type: tp-color-palette-parameter
+      value: primary-content
+    paddingTop:
+      type: select
+      value: None
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h1
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Hero Content/item/elements/description/value}
+        en-GB: ${#jptr:/Hero Content/item/elements/description/value}
+        en-NL: ${#jptr:/Hero Content/item/elements/description/value}
+        en-US: ${#jptr:/Hero Content/item/elements/description/value}
+        fr-CA: ${#jptr:/Hero Content/item/elements/description/value}
+        nl-NL: ${#jptr:/Hero Content/item/elements/description/value}
+    marginBottom:
+      type: select
+      value: None
+    overlayColor:
+      type: tp-color-style-parameter
+      value: primary
+    animationType:
+      type: select
+      value: fadeIn
+    paddingBottom:
+      type: select
+      value: None
+    animationOrder:
+      type: select
+      value: oneByOne
+    overlayOpacity:
+      type: tp-slider-parameter
+      value: 60%
+    containerVariant:
+      type: select
+      value: fluidContent
+  _dataResources:
+    Hero Content:
+      type: kontentAiHero
+      variables:
+        language: ${locale}
+        itemsCodenames: announcing_the_javadrip_specialty_coffee_maker___
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      delay: 'yes'
+      image: 'yes'
+      title: 'yes'
+      video: 'yes'
+      duration: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      textColor: 'yes'
+      fullHeight: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      animationType: 'yes'
+      group_content: 'yes'
+      paddingBottom: 'yes'
+      animationOrder: 'yes'
+      backgroundType: 'yes'
+      overlayOpacity: 'yes'
+      backgroundColor: 'yes'
+      animationPreview: 'yes'
+      containerVariant: 'yes'
+      group_primaryCta: 'yes'
+      textColorVariant: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      group_secondaryCta: 'yes'
+      primaryButtonStyle: 'yes'
+      group_imageSettings: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:51.262185+00:00'
+modified: '2024-02-28T12:50:51.262185+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Hero_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

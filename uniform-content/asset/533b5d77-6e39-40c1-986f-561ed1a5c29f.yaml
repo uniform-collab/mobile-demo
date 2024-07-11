@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 533b5d77-6e39-40c1-986f-561ed1a5c29f
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: EspressoGPT_image_3.jpg
+    file:
+      type: file
+      value: 38e044d8-24c0-459a-b4d7-6702e0b5ea50
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/jQQ3O2adTN6Ky1Glh8iUHw-EspressoGPT_image_3.jpg
+      type: text
+    size:
+      value: 132926
+      type: number
+    width:
+      value: 743
+      type: number
+    height:
+      value: 480
+      type: number
+    custom: {}
+created: '2024-02-28T12:42:26.868846+00:00'
+modified: '2024-02-28T13:32:24.110895+00:00'

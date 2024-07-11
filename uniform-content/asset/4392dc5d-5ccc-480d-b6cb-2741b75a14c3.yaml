@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 4392dc5d-5ccc-480d-b6cb-2741b75a14c3
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: diamond.svg
+    file:
+      type: file
+      value: ed2dca8c-31e2-4178-b711-58448bde9a72
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/8nHrXUqESmGzJxqiwWqNGA-diamond.svg
+      type: text
+    size:
+      value: 535
+      type: number
+    width:
+      value: 60
+      type: number
+    height:
+      value: 54
+      type: number
+    custom: {}
+created: '2024-02-28T12:32:44.831477+00:00'
+modified: '2024-02-28T13:32:12.743767+00:00'

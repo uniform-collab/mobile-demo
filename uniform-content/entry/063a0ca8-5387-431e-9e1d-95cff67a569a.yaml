@@ -1,0 +1,793 @@
+created: '2024-02-28T12:54:03.017977+00:00'
+modified: '2024-02-28T12:54:03.017977+00:00'
+pattern: false
+entry:
+  _id: 063a0ca8-5387-431e-9e1d-95cff67a569a
+  _name: 'Tech Meets Espresso Makers: The Future of Coffee Brewing'
+  _slug: tech-meets-espresso-makers-the-future-of-coffee-brewing
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/V2JCzG1_QmSAdutLgQNWsw-future_espresso_machine_with_touch_screen.png
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Tech
+    title:
+      type: text
+      locales:
+        en-US: 'Tech Meets Espresso Makers: The Future of Coffee Brewing'
+        fr-CA: 'Tech rencontre des fabricants d''espresso: l''avenir du café Brewing'
+        nl-NL: 'Tech ontmoet Espresso Makers: The Future of Coffee Brewing'
+    content:
+      type: richText
+      value:
+        root:
+          type: root
+          format: ''
+          indent: 0
+          version: 1
+          children:
+            - type: paragraph
+              format: ''
+              indent: 0
+              version: 1
+              children:
+                - mode: normal
+                  text: >-
+                    In a world where technology continues to evolve at a rapid
+                    pace, it's no surprise that even the simplest of appliances
+                    are getting a high-tech makeover. Coffee makers, once a
+                    humble kitchen staple, have now entered the realm of the
+                    digital age with touch screens and internet access. This
+                    marriage of technology and coffee culture has given rise to
+                    a new generation of coffee makers that promise convenience,
+                    customization, and connectivity like never before.
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 0
+                  version: 1
+              direction: ltr
+            - type: paragraph
+              format: ''
+              indent: 0
+              version: 1
+              children:
+                - mode: normal
+                  text: The Rise of Touch Screen Coffee Makers
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 1
+                  version: 1
+                - mode: normal
+                  text: >-
+                    Traditional coffee makers served their purpose admirably,
+                    but they lacked the finesse and personalization that today's
+                    coffee connoisseurs demand. Touch screen coffee makers are
+                    changing the game by providing users with an intuitive
+                    interface that allows them to tailor their coffee experience
+                    to perfection. These machines come equipped with
+                    high-resolution touch screens that guide users through the
+                    brewing process, making it as simple as a few taps on the
+                    display.The touch screen interface allows users to choose
+                    their preferred coffee type, grind size, brewing strength,
+                    and even water temperature with precision. Whether you
+                    prefer a bold espresso shot or a creamy cappuccino, these
+                    coffee makers have you covered. With a touch of your finger,
+                    you can have your coffee just the way you like it, ensuring
+                    that each cup is a personalized masterpiece.
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 0
+                  version: 1
+              direction: ltr
+            - type: paragraph
+              format: ''
+              indent: 0
+              version: 1
+              children:
+                - mode: normal
+                  text: 'Internet Access and Coffee Makers: A Perfect Blend'
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 1
+                  version: 1
+                - mode: normal
+                  text: >-
+                    But the innovation doesn't stop at touch screens. Internet
+                    connectivity has taken coffee makers to a whole new level of
+                    convenience and versatility. Imagine being able to start
+                    your coffee maker from bed, or even have it ready and
+                    waiting for you as you walk in the door after a long day.
+                    With internet-enabled coffee makers, these scenarios are now
+                    a reality.Through smartphone apps or web interfaces, users
+                    can remotely control their coffee makers. You can schedule
+                    brewing times, adjust settings, and even receive
+                    notifications when it's time to refill the water reservoir
+                    or change the coffee grounds. These smart features make
+                    coffee preparation more effortless than ever and ensure that
+                    you never have to wait for your morning caffeine fix.
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 0
+                  version: 1
+              direction: ltr
+            - type: paragraph
+              format: ''
+              indent: 0
+              version: 1
+              children:
+                - mode: normal
+                  text: Customization and Coffee Expertise
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 1
+                  version: 1
+                - mode: normal
+                  text: >-
+                    One of the standout features of tech-savvy coffee makers is
+                    their ability to store user preferences and create
+                    customized brewing profiles. These machines learn from your
+                    choices and adapt over time, fine-tuning the brewing process
+                    to match your taste. This level of personalization allows
+                    coffee enthusiasts to explore the intricate flavors and
+                    aromas of different coffee beans, all with the push of a
+                    button.Moreover, these coffee makers often come with
+                    built-in databases of coffee recipes and recommendations.
+                    You can explore a world of coffee flavors and styles, guided
+                    by the expertise of baristas and coffee aficionados. This
+                    not only elevates your coffee experience but also helps you
+                    discover new blends and brewing methods you might not have
+                    considered before.
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 0
+                  version: 1
+              direction: ltr
+            - type: paragraph
+              format: ''
+              indent: 0
+              version: 1
+              children:
+                - mode: normal
+                  text: The Future of Coffee Brewing
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 1
+                  version: 1
+                - mode: normal
+                  text: >-
+                    As technology continues to advance, the marriage of tech and
+                    coffee makers is poised to redefine the way we enjoy our
+                    daily brew. Innovations such as artificial intelligence,
+                    machine learning, and voice control are likely to find their
+                    way into these devices, further enhancing their capabilities
+                    and convenience.Tech meets espresso makers are not just
+                    about brewing coffee; they're about crafting a coffee
+                    experience tailored to your individual preferences. With
+                    touch screens, internet access, and a world of coffee
+                    expertise at your fingertips, these coffee makers are
+                    transforming the morning ritual into a journey of taste and
+                    convenience. So, whether you're a coffee aficionado or
+                    simply someone who enjoys a good cup of joe, prepare to be
+                    amazed by the future of coffee brewing.
+                  type: text
+                  style: ''
+                  detail: 0
+                  format: 0
+                  version: 1
+              direction: ltr
+          direction: ltr
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      In a world where technology continues to evolve at a rapid
+                      pace, it's no surprise that even the simplest of
+                      appliances are getting a high-tech makeover. Coffee
+                      makers, once a humble kitchen staple, have now entered the
+                      realm of the digital age with touch screens and internet
+                      access. This marriage of technology and coffee culture has
+                      given rise to a new generation of coffee makers that
+                      promise convenience, customization, and connectivity like
+                      never before.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: The Rise of Touch Screen Coffee Makers
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Traditional coffee makers served their purpose admirably,
+                      but they lacked the finesse and personalization that
+                      today's coffee connoisseurs demand. Touch screen coffee
+                      makers are changing the game by providing users with an
+                      intuitive interface that allows them to tailor their
+                      coffee experience to perfection. These machines come
+                      equipped with high-resolution touch screens that guide
+                      users through the brewing process, making it as simple as
+                      a few taps on the display.The touch screen interface
+                      allows users to choose their preferred coffee type, grind
+                      size, brewing strength, and even water temperature with
+                      precision. Whether you prefer a bold espresso shot or a
+                      creamy cappuccino, these coffee makers have you covered.
+                      With a touch of your finger, you can have your coffee just
+                      the way you like it, ensuring that each cup is a
+                      personalized masterpiece.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'Internet Access and Coffee Makers: A Perfect Blend'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      But the innovation doesn't stop at touch screens. Internet
+                      connectivity has taken coffee makers to a whole new level
+                      of convenience and versatility. Imagine being able to
+                      start your coffee maker from bed, or even have it ready
+                      and waiting for you as you walk in the door after a long
+                      day. With internet-enabled coffee makers, these scenarios
+                      are now a reality.Through smartphone apps or web
+                      interfaces, users can remotely control their coffee
+                      makers. You can schedule brewing times, adjust settings,
+                      and even receive notifications when it's time to refill
+                      the water reservoir or change the coffee grounds. These
+                      smart features make coffee preparation more effortless
+                      than ever and ensure that you never have to wait for your
+                      morning caffeine fix.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Customization and Coffee Expertise
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      One of the standout features of tech-savvy coffee makers
+                      is their ability to store user preferences and create
+                      customized brewing profiles. These machines learn from
+                      your choices and adapt over time, fine-tuning the brewing
+                      process to match your taste. This level of personalization
+                      allows coffee enthusiasts to explore the intricate flavors
+                      and aromas of different coffee beans, all with the push of
+                      a button.Moreover, these coffee makers often come with
+                      built-in databases of coffee recipes and recommendations.
+                      You can explore a world of coffee flavors and styles,
+                      guided by the expertise of baristas and coffee
+                      aficionados. This not only elevates your coffee experience
+                      but also helps you discover new blends and brewing methods
+                      you might not have considered before.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: The Future of Coffee Brewing
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      As technology continues to advance, the marriage of tech
+                      and coffee makers is poised to redefine the way we enjoy
+                      our daily brew. Innovations such as artificial
+                      intelligence, machine learning, and voice control are
+                      likely to find their way into these devices, further
+                      enhancing their capabilities and convenience.Tech meets
+                      espresso makers are not just about brewing coffee; they're
+                      about crafting a coffee experience tailored to your
+                      individual preferences. With touch screens, internet
+                      access, and a world of coffee expertise at your
+                      fingertips, these coffee makers are transforming the
+                      morning ritual into a journey of taste and convenience.
+                      So, whether you're a coffee aficionado or simply someone
+                      who enjoys a good cup of joe, prepare to be amazed by the
+                      future of coffee brewing.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: racine
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraphe
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraphe
+                    text: normale
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraphe
+              - type: paragraphe
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraphe
+                    text: normale
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: paragraphe
+                    text: normale
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraphe
+              - type: paragraphe
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraphe
+                    text: normale
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: paragraphe
+                    text: normale
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraphe
+              - type: paragraphe
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraphe
+                    text: normale
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: paragraphe
+                    text: normale
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraphe
+              - type: paragraphe
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraphe
+                    text: normale
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: paragraphe
+                    text: texte
+                    type: >-
+                      Dans un monde où la technologie continue d'évoluer à un
+                      rythme rapide, il n'est pas surprenant que même les
+                      appareils les plus simples obtiennent une cure de jouvence
+                      de haute technologie.Les cafetières, autrefois une humble
+                      aliment de cuisine, sont maintenant entrées dans le
+                      domaine de l'ère numérique avec des écrans tactiles et un
+                      accès Internet.Ce mariage de technologie et de culture du
+                      café a donné naissance à une nouvelle génération de
+                      cafetières qui promettent la commodité, la
+                      personnalisation et la connectivité comme jamais
+                      auparavant.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraphe
+            direction: paragraphe
+        nl-NL:
+          root:
+            type: wortel
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraaf
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraaf
+                    text: normaal
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraaf
+              - type: paragraaf
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraaf
+                    text: normaal
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: paragraaf
+                    text: normaal
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraaf
+              - type: paragraaf
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraaf
+                    text: normaal
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: paragraaf
+                    text: normaal
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraaf
+              - type: paragraaf
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraaf
+                    text: normaal
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: paragraaf
+                    text: normaal
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraaf
+              - type: paragraaf
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: paragraaf
+                    text: normaal
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: paragraaf
+                    text: tekst
+                    type: >-
+                      In een wereld waar technologie in een snel tempo blijft
+                      evolueren, is het geen verrassing dat zelfs de
+                      eenvoudigste apparaten een hightech make-over
+                      krijgen.Koffiezetapparaten, ooit een nederige keuken
+                      nietje, zijn nu het rijk van het digitale tijdperk
+                      binnengegaan met aanraakschermen en internettoegang.Dit
+                      huwelijk van technologie en koffiecultuur heeft geleid tot
+                      een nieuwe generatie koffiezetapparaten die gemak,
+                      aanpassing en connectiviteit beloven zoals nooit tevoren.
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: paragraaf
+            direction: paragraaf
+    thumbnail:
+      type: asset
+      value:
+        - _id: 1a703686-11f2-4127-bb3d-dccf0cdebf47
+          type: image
+          fields:
+            id:
+              type: text
+              value: ac2fc33f-12c6-4b4f-a882-b891783d5752
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/V2JCzG1_QmSAdutLgQNWsw-future_espresso_machine_with_touch_screen.png
+              type: text
+            file:
+              type: file
+              value: 6c9dd7b2-5b9a-477d-b580-77cab00cb52d
+            size:
+              value: 1271200
+              type: number
+            title:
+              type: text
+              value: future_espresso_machine_with_touch_screen.png
+            width:
+              value: 1680
+              type: number
+            height:
+              value: 720
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Experience coffee like never before with touch screen coffee makers
+          featuring internet connectivity. Customize your brew, schedule
+          remotely, and discover new flavors with the future of coffee at your
+          fingertips.
+        fr-CA: >-
+          Découvrez un café comme jamais auparavant avec des cafetières à écran
+          tactile avec une connectivité Internet.Personnalisez votre infusion,
+          planifiez à distance et découvrez de nouvelles saveurs avec l'avenir
+          du café à portée de main.
+        nl-NL: >-
+          Ervaar koffie als nooit tevoren met koffiezetapparaten voor
+          touchscreen met internetconnectiviteit.Pas uw brouwsel aan, plan op
+          afstand en ontdek nieuwe smaken met de toekomst van koffie binnen
+          handbereik.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

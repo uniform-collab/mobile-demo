@@ -1,0 +1,292 @@
+created: '2024-02-28T12:53:43.974535+00:00'
+modified: '2024-02-28T13:37:05.953407+00:00'
+pattern: false
+entry:
+  _id: 82b84782-4236-4b06-a994-59f088896b91
+  _name: Organic Blend Coffee
+  _slug: organic-blend-coffee-133
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/XZkpOs3ATgOtxeoWYijNOw-organic-blend-coffee-133-1_ws3k5y_cxow31.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Light Roast Coffee: Our Organic Blend light roast whole
+                      bean coffee is the perfect morning coffee to ease you into
+                      your day. Sustainable Light Roast Coffee Beans: Our coffee
+                      is made with premium quality Arabica coffee beans from
+                      Central and South America. They are grown, sourced and
+                      packaged responsibly, after being roasted fresh in
+                      Seattle, USA.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Café torréfié léger\_: Notre café en grains entiers torréfié légèrement biologique est le café du matin parfait pour vous faciliter la journée. Grains de café torréfiés durablement légers : notre café est fabriqué avec des grains de café Arabica de qualité supérieure provenant d'Amérique centrale et d'Amérique du Sud. Ils sont cultivés, achetés et emballés de manière responsable, après avoir été torréfiés frais à Seattle, aux États-Unis."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Licht gebrande koffie: Onze licht gebrande koffie van hele
+                      bonen uit een biologische mix is ​​de perfecte
+                      ochtendkoffie om je dag op een ontspannen manier te
+                      beginnen. Duurzame licht gebrande koffiebonen: onze koffie
+                      is gemaakt met Arabica-koffiebonen van topkwaliteit uit
+                      Midden- en Zuid-Amerika. Ze worden op verantwoorde wijze
+                      geteeld, ingekocht en verpakt, nadat ze vers zijn
+                      geroosterd in Seattle, VS.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Organic Blend Coffee
+    title:
+      type: text
+      value: Organic Blend Coffee
+    category:
+      type: select
+      value: robusta
+    variants:
+      type: $block
+      value:
+        - _id: 85851356-0a37-417c-a988-ea5c20b62959
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '133'
+            price:
+              type: number
+              locales:
+                en-US: '12.99'
+                fr-CA: '12.00'
+                nl-NL: '12.00'
+            title:
+              type: text
+              locales:
+                en-US: Organic Blend Coffee
+                fr-CA: Organic Blend Coffee
+                nl-NL: Organic Blend Coffee
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: cd031949-80fb-4d03-83c8-39ef3a724602
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: b6195806-bbcf-4a6b-86f4-8f74d4611b3d
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Sl7ix425Rc6XUp-lSuBzNw-organic-blend-coffee-133-1_ws3k5y_cxow31.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 69e27949-4182-46d1-940f-edee28b73f76
+                    size:
+                      value: 113951
+                      type: number
+                    title:
+                      type: text
+                      value: organic-blend-coffee-133-1_ws3k5y_cxow31.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 4a01326b-eda1-4c81-b1f7-349d20405b49
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: d275db83-56aa-41bc-ad9d-725c5d4d1612
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/WJSQVwzNTKGw2bzPz4MySQ-organic-blend-coffee-133-2_dkltlw_bki2zl.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: ac5aee0e-8337-4124-89df-cdd4641bdce9
+                    size:
+                      value: 753423
+                      type: number
+                    title:
+                      type: text
+                      value: organic-blend-coffee-133-2_dkltlw_bki2zl.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: ad6651ff-558f-4312-a3a8-73bc7c199002
+          type: image
+          fields:
+            id:
+              type: text
+              value: 2bbbe50e-9b11-482e-bafb-9ed5bb776dcd
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/XZkpOs3ATgOtxeoWYijNOw-organic-blend-coffee-133-1_ws3k5y_cxow31.jpg
+              type: text
+            file:
+              type: file
+              value: 4136e0f4-8485-43e1-81f3-20720be50308
+            size:
+              value: 113951
+              type: number
+            title:
+              type: text
+              value: organic-blend-coffee-133-1_ws3k5y_cxow31.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 74d423db-eb6e-4bd1-a557-7056d840e75a
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 95dc49e2-e9e8-45b1-b482-fc9abfbabdab
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Light Roast Coffee: Our Organic Blend light roast whole bean coffee is
+          the perfect morning coffee to ease you into your day. Sustainable
+          Light Roast Coffee Beans: Our coffee is made with premium quality
+          Arabica coffee beans from Central and South America. They are grown,
+          sourced and packaged responsibly, after being roasted fresh in
+          Seattle, USA.
+        fr-CA: "Café torréfié léger\_: Notre café en grains entiers torréfié légèrement biologique est le café du matin parfait pour vous faciliter la journée. Grains de café torréfiés durablement légers : notre café est fabriqué avec des grains de café Arabica de qualité supérieure provenant d'Amérique centrale et d'Amérique du Sud. Ils sont cultivés, achetés et emballés de manière responsable, après avoir été torréfiés frais à Seattle, aux États-Unis."
+        nl-NL: >-
+          Licht gebrande koffie: Onze licht gebrande koffie van hele bonen uit
+          een biologische mix is ​​de perfecte ochtendkoffie om je dag op een
+          ontspannen manier te beginnen. Duurzame licht gebrande koffiebonen:
+          onze koffie is gemaakt met Arabica-koffiebonen van topkwaliteit uit
+          Midden- en Zuid-Amerika. Ze worden op verantwoorde wijze geteeld,
+          ingekocht en verpakt, nadat ze vers zijn geroosterd in Seattle, VS.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

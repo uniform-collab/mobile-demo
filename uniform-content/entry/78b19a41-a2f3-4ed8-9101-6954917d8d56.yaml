@@ -1,0 +1,314 @@
+created: '2024-02-28T12:52:22.549999+00:00'
+modified: '2024-02-28T13:37:03.147776+00:00'
+pattern: false
+entry:
+  _id: 78b19a41-a2f3-4ed8-9101-6954917d8d56
+  _name: Black Mountain Pour-Over Coffee Maker
+  _slug: black-mountain-pour-over-coffee-maker-97
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/c1ylkB68THicTEY6QcLbiw-black-mountain-pour-over-coffee-maker-97-2_ehz3rr_agm9gl.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Here's a three tiered wire basket to clean up your
+                      countertop and elevate your storage space. Display a
+                      selection of fresh fruit to encourage healthy snacking:
+                      pile it high and watch it fly. Can also be used as a caddy
+                      for dinner time fixings. Gather up a nice display of baked
+                      buns or cupcakes and usher them off to the table with the
+                      handy carry ring at the top. Measures 63 x 30 cm/25 x 12
+                      in
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Voici un panier métallique à trois niveaux pour nettoyer
+                      votre comptoir et élever votre espace de stockage.
+                      Présentez une sélection de fruits frais pour encourager
+                      une collation saine : empilez-les en hauteur et
+                      regardez-les voler. Peut également être utilisé comme
+                      panier pour les préparations à l'heure du dîner.
+                      Rassemblez une belle présentation de petits pains ou de
+                      cupcakes et placez-les à table avec l'anneau de transport
+                      pratique en haut. Mesure 63 x 30 cm/25 x 12 pouces
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Hier is een draadmand met drie niveaus om uw aanrecht op
+                      te ruimen en uw opslagruimte naar een hoger niveau te
+                      tillen. Laat een selectie vers fruit zien om gezond
+                      tussendoortjes te stimuleren: stapel het hoog op en kijk
+                      hoe het vliegt. Kan ook worden gebruikt als caddy voor het
+                      bevestigen van etenstijd. Verzamel een mooie presentatie
+                      van gebakken broodjes of cupcakes en zet ze op tafel met
+                      de handige draagring aan de bovenkant. Afmetingen 63 x 30
+                      cm/25 x 12 inch
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Black Mountain Pour-Over Coffee Maker
+    title:
+      type: text
+      value: Black Mountain Pour-Over Coffee Maker
+    category:
+      type: select
+      value: pour-over
+    variants:
+      type: $block
+      value:
+        - _id: 1edc0b71-50ae-4e71-a370-4339e43af0c3
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '97'
+            price:
+              type: number
+              locales:
+                en-US: '27.95'
+                fr-CA: '25.82'
+                nl-NL: '25.82'
+            title:
+              type: text
+              locales:
+                en-US: Black Mountain Pour-Over Coffee Maker
+                fr-CA: Black Mountain Pour-Over Coffee Maker
+                nl-NL: Black Mountain Pour-Over Coffee Maker
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: d83539f2-6bca-44b3-8246-6e1053bc30f4
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 8617866a-ad8c-41a9-a6f5-c2af783b16df
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/JY-j3q9zTu2dVrx3149oBg-black-mountain-pour-over-coffee-maker-97-2_ehz3rr_agm9gl.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 41107879-615a-4b57-a834-16a6f71be4f0
+                    size:
+                      value: 101721
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        black-mountain-pour-over-coffee-maker-97-2_ehz3rr_agm9gl.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 50127ea7-cee1-4dc4-a59a-90a2449a8727
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: eb18914a-f1f0-4fd3-acd6-89053f5622ae
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/CiceFm4wTX-I_ZQ66P2WBw-black-mountain-pour-over-coffee-maker-97-1_szwrzl_gszbgz.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: ccf232a9-037c-4985-80ca-02934a88e966
+                    size:
+                      value: 349117
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        black-mountain-pour-over-coffee-maker-97-1_szwrzl_gszbgz.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 838802bd-6f5f-41e9-a1d3-63602e07a53e
+          type: image
+          fields:
+            id:
+              type: text
+              value: dec5b71b-f63a-4049-ab5c-71837bf019ca
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/c1ylkB68THicTEY6QcLbiw-black-mountain-pour-over-coffee-maker-97-2_ehz3rr_agm9gl.jpg
+              type: text
+            file:
+              type: file
+              value: aa70a9bf-3746-4889-beea-100678b5dbdb
+            size:
+              value: 101721
+              type: number
+            title:
+              type: text
+              value: black-mountain-pour-over-coffee-maker-97-2_ehz3rr_agm9gl.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: a0b7f36a-5b47-4493-8f10-0978d4abed73
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 524ca554-cab4-48dc-aa1a-11b88655a499
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Here's a three tiered wire basket to clean up your countertop and
+          elevate your storage space. Display a selection of fresh fruit to
+          encourage healthy snacking: pile it high and watch it fly. Can also be
+          used as a caddy for dinner time fixings. Gather up a nice display of
+          baked buns or cupcakes and usher them off to the table with the handy
+          carry ring at the top. Measures 63 x 30 cm/25 x 12 in
+        fr-CA: >-
+          Voici un panier métallique à trois niveaux pour nettoyer votre
+          comptoir et élever votre espace de stockage. Présentez une sélection
+          de fruits frais pour encourager une collation saine : empilez-les en
+          hauteur et regardez-les voler. Peut également être utilisé comme
+          panier pour les préparations à l'heure du dîner. Rassemblez une belle
+          présentation de petits pains ou de cupcakes et placez-les à table avec
+          l'anneau de transport pratique en haut. Mesure 63 x 30 cm/25 x 12
+          pouces
+        nl-NL: >-
+          Hier is een draadmand met drie niveaus om uw aanrecht op te ruimen en
+          uw opslagruimte naar een hoger niveau te tillen. Laat een selectie
+          vers fruit zien om gezond tussendoortjes te stimuleren: stapel het
+          hoog op en kijk hoe het vliegt. Kan ook worden gebruikt als caddy voor
+          het bevestigen van etenstijd. Verzamel een mooie presentatie van
+          gebakken broodjes of cupcakes en zet ze op tafel met de handige
+          draagring aan de bovenkant. Afmetingen 63 x 30 cm/25 x 12 inch
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

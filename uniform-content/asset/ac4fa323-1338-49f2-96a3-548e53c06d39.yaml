@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: ac4fa323-1338-49f2-96a3-548e53c06d39
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: coffee_makers.webp
+    file:
+      type: file
+      value: 0c0522c0-1be1-4c3c-bc66-d3507b6cac10
+    mediaType:
+      value: image/webp
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/F8PVSXBSTZ-HOlYjFvIPgA-coffee_makers.webp
+      type: text
+    size:
+      value: 64522
+      type: number
+    width:
+      value: 2600
+      type: number
+    height:
+      value: 1300
+      type: number
+    custom: {}
+created: '2024-02-28T12:35:46.331138+00:00'
+modified: '2024-02-28T13:33:54.112606+00:00'

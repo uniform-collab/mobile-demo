@@ -1,0 +1,53 @@
+created: '2024-02-28T12:52:56.219619+00:00'
+modified: '2024-02-28T12:52:56.219619+00:00'
+pattern: false
+entry:
+  _id: 1fc896fa-8a97-4108-aea4-33550ab8c26b
+  _name: Find the perfect cup without leaving your home.
+  _slug: find-the-perfect-cup-without-leaving-your-home
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EurZ6yjWQ8ao2FK-giuZKQ-hero_3.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 61304db3-f4ef-4c7e-8804-dc878811c4e8
+          type: image
+          fields:
+            id:
+              type: text
+              value: f088c2d9-47a2-483c-9eec-4a63b0a85fcd
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EurZ6yjWQ8ao2FK-giuZKQ-hero_3.webp
+              type: text
+            file:
+              type: file
+              value: f8d04e3f-5d44-446d-85d4-ae4614df5bcd
+            size:
+              value: 85290
+              type: number
+            title:
+              type: text
+              value: hero_3.webp
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Find the perfect cup without leaving your home.
+        fr-CA: Trouvez la tasse parfaite sans quitter votre maison.
+        nl-NL: Vind de perfecte beker zonder uw huis te verlaten.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 346efeba-a4ca-4c1a-938d-849e1c2df4f8
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: impresso-perk-119_mojbik_bt9lhn.jpg
+    file:
+      type: file
+      value: a371917f-909e-485a-a2bc-a1ca754ea453
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/9xEjbwDjRy-woECaTeA3iA-impresso-perk-119_mojbik_bt9lhn.jpg
+      type: text
+    size:
+      value: 15046
+      type: number
+    width:
+      value: 386
+      type: number
+    height:
+      value: 386
+      type: number
+    custom: {}
+created: '2024-02-28T12:41:40.372801+00:00'
+modified: '2024-02-28T13:32:02.790229+00:00'

@@ -1,0 +1,43 @@
+created: '2024-02-28T12:54:19.20965+00:00'
+modified: '2024-02-28T12:54:19.20965+00:00'
+pattern: false
+entry:
+  _id: f21248f8-f3b4-44ae-bb51-75a4d11d0cd5
+  _name: What if the holographic display isn’t working?
+  _slug: what-if-the-holographic-display-isnt-working
+  type: faq
+  fields:
+    title:
+      type: text
+      locales:
+        en-US: What if the holographic display isn’t working?
+        fr-CA: Et si l'affichage holographique ne fonctionne pas?
+        nl-NL: Wat als het holografische display niet werkt?
+    description:
+      type: text
+      locales:
+        en-US: >-
+          The zero-gravity brewing mode is not just a feature; it's an
+          experience that takes you on a journey every single time. And the
+          self-cleaning mechanism? Pure genius! I never thought I'd be this
+          excited about a coffee machine, but the EspressoGPT isn't just any
+          machine. It's a testament to how far technology can go to perfect
+          something as timeless as coffee.
+        fr-CA: >-
+          Le mode de brassage zéro-gravité n'est pas seulement une
+          fonctionnalité;C'est une expérience qui vous emmène à chaque fois.Et
+          le mécanisme d'autonomie?Pure génie!Je n'ai jamais pensé que je serais
+          aussi excité par une machine à café, mais l'espressogpt n'est pas
+          n'importe quelle machine.C'est un témoignage de la distance qui peut
+          aller pour perfectionner quelque chose d'aussi intemporel que le café.
+        nl-NL: >-
+          De brouwmodus met nul-zwaartekracht is niet alleen een functie;Het is
+          een ervaring die je elke keer op reis neemt.En het zelfreinigende
+          mechanisme?Puur genie!Ik had nooit gedacht dat ik zo enthousiast zou
+          zijn over een koffiezetapparaat, maar de espressogpt is niet zomaar
+          een machine.Het is een bewijs van hoe ver technologie kan gaan om iets
+          zo tijdloos als koffie te perfectioneren.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

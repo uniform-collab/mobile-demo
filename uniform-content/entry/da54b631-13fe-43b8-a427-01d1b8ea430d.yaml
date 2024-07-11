@@ -1,0 +1,76 @@
+created: '2024-02-28T12:54:09.487224+00:00'
+modified: '2024-02-28T12:54:09.487224+00:00'
+pattern: false
+entry:
+  _id: da54b631-13fe-43b8-a427-01d1b8ea430d
+  _name: The home of coffee obsessives
+  _slug: the-home-of-coffee-obsessives
+  type: callToAction
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: bb05ae7b-c9e2-41d7-a557-ee3946dd8fa0
+          type: image
+          fields:
+            id:
+              type: text
+              value: 68c015b8-8932-48a4-9b2f-56fc978d43ac
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/PhI9Lv4oQVKkOYwYG3aN2Q-hero_1.png
+              type: text
+            file:
+              type: file
+              value: cdd93828-6905-4ff5-929d-2cde68782fff
+            size:
+              value: 1515655
+              type: number
+            title:
+              type: text
+              value: hero_1.png
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: The home of coffee obsessives
+        fr-CA: La maison des obsédations de café
+        nl-NL: Het huis van koffieobsessieven
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Welcome to JavaDrip. We are a boutique coffee company obsessed with
+          the perfect cup of coffee. We believe that the perfect cup starts with
+          the perfect bean and that those beans require the perfect brewing
+          method. This means that we offer both high quality beans and products
+          to meet any occasion and mood. Have a look around and let us know if
+          you have any questions.
+        fr-CA: >-
+          Bienvenue à Javadrip.Nous sommes une compagnie de café de boutique
+          obsédé par la tasse de café parfaite.Nous pensons que la tasse
+          parfaite commence par le haricot parfait et que ces haricots
+          nécessitent la méthode de brassage parfaite.Cela signifie que nous
+          offrons à la fois des haricots et des produits de haute qualité pour
+          répondre à toute occasion et à toute humeur.Jetez un coup d'œil et
+          faites-nous savoir si vous avez des questions.
+        nl-NL: >-
+          Welkom bij Javadrip.Wij zijn een boetiek koffiebedrijf geobsedeerd
+          door de perfecte kop koffie.Wij geloven dat de perfecte beker begint
+          met de perfecte boon en dat die bonen de perfecte brouwmethode
+          vereisen.Dit betekent dat we zowel bonen als van producten van hoge
+          kwaliteit bieden om elke gelegenheid en stemming te ontmoeten.Kijk
+          rond en laat het ons weten als u vragen heeft.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

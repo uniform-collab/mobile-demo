@@ -1,0 +1,19 @@
+created: '2024-02-28T12:52:16.710674+00:00'
+modified: '2024-02-28T12:52:16.710674+00:00'
+pattern: false
+entry:
+  _id: 22e29bf5-7563-4010-8981-0c83162a1f5a
+  _name: 'Bean There, Asked That:'
+  _slug: bean-there-asked-that
+  type: faq
+  fields:
+    title:
+      type: text
+      locales:
+        en-US: 'Bean There, Asked That:'
+        fr-CA: 'Bean là-bas, a demandé cela:'
+        nl-NL: 'Boon daar, vroeg dat:'
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

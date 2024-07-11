@@ -1,0 +1,189 @@
+composition:
+  _name: Product Feature Cards (uc)
+  _id: c93696ab-56f6-43df-90b9-bf4a610f202e
+  type: grid
+  parameters:
+    gapX:
+      type: tp-slider-parameter
+      value: medium
+    gapY:
+      type: tp-slider-parameter
+      value: none
+    title:
+      type: text
+      locales:
+        en-CA: Features
+        en-GB: Features
+        en-NL: Features
+        en-US: Features
+        fr-CA: Caractéristiques
+        nl-NL: Kenmerken
+    marginTop:
+      type: select
+      value: None
+    paddingTop:
+      type: select
+      value: None
+    columnsCount:
+      type: tp-slider-parameter
+      value: '4'
+    marginBottom:
+      type: select
+      value: None
+    paddingBottom:
+      type: select
+      value: None
+    backgroundType:
+      type: tp-background-type-parameter
+      value: Dark
+    containerVariant:
+      type: select
+      value: fluidContent
+  slots:
+    grid-inner:
+      - _id: 0897e47b-024f-470c-b959-39da4dd7e2b3
+        type: $loop
+        slots:
+          body:
+            - _id: 8b05735f-2206-4fdb-8836-73a6a560a01c
+              type: card
+              variant: ''
+              parameters:
+                image:
+                  type: asset
+                  value:
+                    - _id: 7fc3627c-5554-4e50-a23f-6ee4d5553689
+                      type: image
+                      fields:
+                        url:
+                          type: text
+                          value: >-
+                            ${#jptr:/Features Content entries Loop
+                            Item/entry/fields/image/value/0/fields/url/value}
+                        title:
+                          type: text
+                          value: >-
+                            ${#jptr:/Features Content entries Loop
+                            Item/entry/fields/title/value}
+                        description:
+                          type: text
+                          value: >-
+                            ${#jptr:/Features Content entries Loop
+                            Item/entry/fields/title/value}
+                      _source: custom-url
+                title:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/title/value}
+                    en-GB: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/title/value}
+                    en-NL: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/title/value}
+                    en-US: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/title/value}
+                    fr-CA: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/title/value}
+                    nl-NL: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/title/value}
+                objectFit:
+                  type: select
+                  value: contain
+                buttonStyle:
+                  type: tp-button-style-parameter
+                  value: secondary
+                description:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/description/value}
+                    en-GB: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/description/value}
+                    en-NL: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/description/value}
+                    en-US: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/description/value}
+                    fr-CA: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/description/value}
+                    nl-NL: >-
+                      ${#jptr:/Features Content entries Loop
+                      Item/entry/fields/description/value}
+                textColorVariant:
+                  type: select
+                  value: Light
+                lineCountRestriction:
+                  type: tp-slider-parameter
+                  value: '6'
+              _overridability:
+                variants: true
+                parameters:
+                  badge: 'yes'
+                  delay: 'yes'
+                  image: 'yes'
+                  title: 'yes'
+                  duration: 'yes'
+                  badgeSize: 'yes'
+                  objectFit: 'yes'
+                  badgeStyle: 'yes'
+                  buttonCopy: 'yes'
+                  buttonLink: 'yes'
+                  buttonStyle: 'yes'
+                  description: 'yes'
+                  overlayColor: 'yes'
+                  animationType: 'yes'
+                  overlayOpacity: 'yes'
+                  animationPreview: 'yes'
+                  textColorVariant: 'yes'
+                  buttonAnimationType: 'yes'
+                  lineCountRestriction: 'yes'
+        _dataResources:
+          Features Content entries Loop Item:
+            type: sys-reserved-loop
+            variables:
+              limit: '0'
+              connectedData: /Features Content/entries
+  _dataResources:
+    Features Content:
+      type: features
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          da52fb01-4822-4aff-b08d-85beb1c7f410,54b1d075-800d-4170-8776-78d0f3b4b5a2
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    parameters:
+      gapX: 'yes'
+      gapY: 'yes'
+      title: 'yes'
+      marginTop: 'yes'
+      paddingTop: 'yes'
+      columnsCount: 'yes'
+      marginBottom: 'yes'
+      paddingBottom: 'yes'
+      backgroundType: 'yes'
+      containerVariant: 'yes'
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:51:02.482789+00:00'
+modified: '2024-02-28T12:51:02.482789+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Product_feature_cards_preview_image
+categoryId: ea001653-1f96-4f07-9187-a1626a4965e5

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=<https://canary.uniform.app/schemas/json-schema/component-definition/v1.json>
+$schema: https://canary.uniform.app/schemas/json-schema/component-definition/v1.json
+id: algolia-searchBox
+name: Search Box
+icon: screen
+parameters:
+  - id: searchBoxParams
+    name: Search Box Parameters
+    type: algolia-components
+    helpText: ''
+    typeConfig:
+      selectedComponent: Search Box
+categoryId: ad5aebd7-ae43-4cb3-a2a7-8425ad0e2f44
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/Algolia/Algolia_search_box_preview_image
+useTeamPermissions: true
+slots: []
+canBeComposition: false
+created: '2024-02-28T13:35:47.059107+00:00'
+updated: '2024-02-28T13:35:47.059107+00:00'

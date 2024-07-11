@@ -1,0 +1,16 @@
+id: bigSpender
+name: Big Spender
+cap: 100
+crit:
+  op: '&'
+  type: G
+  clauses:
+    - key: bigspenders
+      type: QK
+      match:
+        cs: false
+        op: '='
+        rhs: 'true'
+dur: t
+description: Attribute from CDP based upon purchase history
+str: 50

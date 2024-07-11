@@ -1,0 +1,50 @@
+composition:
+  _name: Content - Article (cf)
+  _id: 715b544e-11ac-4418-9b8e-c6a294db5169
+  type: content
+  parameters:
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Article by Slug Content/items/0/fields/title}
+        en-GB: ${#jptr:/Article by Slug Content/items/0/fields/title}
+        en-NL: ${#jptr:/Article by Slug Content/items/0/fields/title}
+        en-US: ${#jptr:/Article by Slug Content/items/0/fields/title}
+        fr-CA: ${#jptr:/Article by Slug Content/items/0/fields/title}
+        nl-NL: ${#jptr:/Article by Slug Content/items/0/fields/title}
+    content:
+      type: json
+      value: ${#jptr:/Article by Slug Content/items/0/fields/content}
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h1
+  _dataResources:
+    Article by Slug Content:
+      type: contentfulArticleBySlug
+      variables:
+        slug: how-to-get-the-perfect-grind-for-your-beans
+        locale: ${locale}
+        slugField: fields.slug[in]
+        contentType: article
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    parameters:
+      link: 'yes'
+      text: 'yes'
+      title: 'yes'
+      content: 'yes'
+      titleStyle: 'yes'
+  _locales:
+    - fr-CA
+    - nl-NL
+    - en-US
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:38.727103+00:00'
+modified: '2024-02-28T12:50:38.727103+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Content_preview_image
+categoryId: 94a7a423-8c09-4264-8495-c562c17d811e

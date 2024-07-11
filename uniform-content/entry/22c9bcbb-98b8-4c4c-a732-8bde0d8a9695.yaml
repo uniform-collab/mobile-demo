@@ -1,0 +1,345 @@
+created: '2024-02-28T12:53:25.7493+00:00'
+modified: '2024-02-28T12:53:25.7493+00:00'
+pattern: false
+entry:
+  _id: 22c9bcbb-98b8-4c4c-a732-8bde0d8a9695
+  _name: Is the slow drip coffee maker for you?
+  _slug: is-the-slow-drip-coffee-maker-for-you
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/F8PVSXBSTZ-HOlYjFvIPgA-coffee_makers.webp
+  type: article
+  fields:
+    tag:
+      type: select
+      value: CoffeeMakers
+    title:
+      type: text
+      locales:
+        en-US: Is the slow drip coffee maker for you?
+        fr-CA: La cafetière lente est-elle pour vous?
+        nl-NL: Is het trage druppel koffiezetapparaat voor u?
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Is the slow drip actually making better coffee? Or is it
+                      just some hipster thing that doesn’t really matter?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua. Turpis egestas pretium aenean pharetra. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc vel risus commodo. Nisi vitae
+                      suscipit tellus mauris. Posuere morbi leo urna molestie at
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie at elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua. Turpis egestas pretium aenean pharetra. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc vel risus commodo. Nisi vitae
+                      suscipit tellus mauris. Posuere morbi leo urna molestie at
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie at elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua. Turpis egestas pretium aenean pharetra. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc vel risus commodo. Nisi vitae
+                      suscipit tellus mauris. Posuere morbi leo urna molestie at
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie at elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Is the slow drip actually making better coffee? Or is it
+                      just some hipster thing that doesn’t really matter?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua. Turpis egestas pretium aenean pharetra. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc vel risus commodo. Nisi vitae
+                      suscipit tellus mauris. Posuere morbi leo urna molestie at
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie at elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua. Turpis egestas pretium aenean pharetra. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc vel risus commodo. Nisi vitae
+                      suscipit tellus mauris. Posuere morbi leo urna molestie at
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie at elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut labore et dolore magna
+                      aliqua. Turpis egestas pretium aenean pharetra. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc vel risus commodo. Nisi vitae
+                      suscipit tellus mauris. Posuere morbi leo urna molestie at
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie at elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Avez-vous choisi la langue du processus de fabrication pour votre meilleur café\_? Est-ce qu'il y a un hipster-ding qui n'est pas vraiment un orteil?"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut arbeid en dolore magna
+                      aliqua. Turpis egestas pretium pharetra énéen. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc est un commodo. Nisi vitae suscipit
+                      tellus mauris. Posuere morbi leo urna molestie bij
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie bij elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut arbeid en dolore magna
+                      aliqua. Turpis egestas pretium pharetra énéen. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc est un commodo. Nisi vitae suscipit
+                      tellus mauris. Posuere morbi leo urna molestie bij
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie bij elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor incididunt ut arbeid en dolore magna
+                      aliqua. Turpis egestas pretium pharetra énéen. Orci eu
+                      lobortis elementum nibh tellus molestie. Vulputate
+                      dignissim suspendisse in est. Vel pharetra vel turpis
+                      nunc. Malesuada nunc est un commodo. Nisi vitae suscipit
+                      tellus mauris. Posuere morbi leo urna molestie bij
+                      elementum eu. Urna duis convallis convallis tellus. Urna
+                      molestie bij elementum eu. Nunc sed blandit libero
+                      volutpat.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: c6a32fbe-343c-4109-a09a-df9c6ec69b78
+          type: image
+          fields:
+            id:
+              type: text
+              value: ac4fa323-1338-49f2-96a3-548e53c06d39
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/F8PVSXBSTZ-HOlYjFvIPgA-coffee_makers.webp
+              type: text
+            file:
+              type: file
+              value: 1695afa2-f62a-4cf5-b186-be4a5d482d2b
+            size:
+              value: 64522
+              type: number
+            title:
+              type: text
+              value: coffee_makers.webp
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Is the slow drip actually making better coffee? Or is it just some
+          hipster thing that doesn’t really matter?
+        fr-CA: >-
+          La goutte lente fait-elle réellement un meilleur café?Ou est-ce juste
+          quelque chose de hipster qui n'a pas vraiment d'importance?
+        nl-NL: >-
+          Is de langzame druppel daadwerkelijk betere koffie?Of is het gewoon
+          een hipster -ding dat er niet echt toe doet?
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

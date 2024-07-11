@@ -1,0 +1,87 @@
+created: '2024-02-28T12:53:47.017477+00:00'
+modified: '2024-02-28T12:53:47.017477+00:00'
+pattern: false
+entry:
+  _id: f0932427-ec90-4f33-a99c-5bc5dfe0bddb
+  _name: Remarkable
+  _slug: remarkable
+  type: testimonial
+  fields:
+    date:
+      type: text
+    stars:
+      type: text
+      value: ''
+    title:
+      type: text
+      locales:
+        en-US: Remarkable
+        fr-CA: Remarquable
+        nl-NL: Opmerkelijk
+    picture:
+      type: asset
+      value: []
+    lastName:
+      type: text
+      locales:
+        en-US: Tinsley
+        fr-CA: Gras
+        nl-NL: Tinsley
+    location:
+      type: text
+      locales:
+        en-US: London
+        fr-CA: Londres
+        nl-NL: Londen
+    firstName:
+      type: text
+      locales:
+        en-US: Cooper
+        fr-CA: Tonnelier
+        nl-NL: Kuiper
+    productId:
+      type: text
+      value: black-mountain-pour-over-coffee-maker-97
+    experience:
+      type: text
+      locales:
+        en-US: >-
+          I am absolutely thrilled to share my glowing review for this
+          remarkable coffee bean vendor! Their beans are nothing short of
+          extraordinary, delivering an exquisite and rich flavor that lingers on
+          the palate with every sip. The aroma alone is enough to awaken the
+          senses and set the perfect tone for the day. The attention to detail
+          and commitment to quality truly shine through in each batch of beans,
+          and it's evident that they take great pride in their craft. From the
+          smooth customer experience to the prompt delivery, this vendor has
+          undoubtedly won me over as a loyal customer. If you're a coffee
+          enthusiast seeking perfection in every cup, look no further – this
+          vendor is a true gem!
+        fr-CA: >-
+          Je suis absolument ravi de partager ma critique élogieuse pour ce
+          remarquable vendeur de grains de café!Leurs haricots sont tout
+          simplement extraordinaires, offrant une saveur exquise et riche qui
+          persiste en bouche à chaque gorgée.L'arôme seul est suffisant pour
+          éveiller les sens et donner le ton parfait pour la journée.L'attention
+          aux détails et l'engagement envers la qualité brillent vraiment dans
+          chaque lot de haricots, et il est évident qu'ils sont très fiers de
+          leur métier.De l'expérience client fluide à la livraison rapide, ce
+          fournisseur m'a sans aucun doute conquis en tant que client fidèle.Si
+          vous êtes un passionné de café qui cherche la perfection dans chaque
+          tasse, ne cherchez pas plus loin - ce vendeur est un vrai bijou!
+        nl-NL: >-
+          Ik ben absoluut blij om mijn gloeiende recensie te delen voor deze
+          opmerkelijke verkoper van Coffee Bean!Hun bonen zijn ronduit
+          buitengewoon en leveren een prachtige en rijke smaak die bij elke slok
+          in de mond blijft hangen.Het aroma alleen is voldoende om de zintuigen
+          te wekken en de perfecte toon te zetten voor de dag.De aandacht voor
+          detail en toewijding aan kwaliteit schijnen echt door in elke reeks
+          bonen, en het is duidelijk dat ze grote trots zijn op hun vak.Van de
+          soepele klantervaring tot de snelle levering, deze leverancier heeft
+          me ongetwijfeld gewonnen als een loyale klant.Als je een
+          koffieliefhebber bent die in elke beker perfectie zoekt, zoek dan niet
+          verder - deze verkoper is een echte juweeltje!
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

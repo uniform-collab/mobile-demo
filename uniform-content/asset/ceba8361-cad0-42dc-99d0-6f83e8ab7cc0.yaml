@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: ceba8361-cad0-42dc-99d0-6f83e8ab7cc0
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: grinding_article.jpg
+    file:
+      type: file
+      value: c6c3c3dc-0de6-453a-8a2c-07538d984d2f
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/uSUuV-8PSSOF51pSzncWKw-grinding_article.jpg
+      type: text
+    size:
+      value: 205856
+      type: number
+    width:
+      value: 686
+      type: number
+    height:
+      value: 338
+      type: number
+    custom: {}
+created: '2024-02-28T12:37:40.612216+00:00'
+modified: '2024-02-28T13:34:26.5367+00:00'

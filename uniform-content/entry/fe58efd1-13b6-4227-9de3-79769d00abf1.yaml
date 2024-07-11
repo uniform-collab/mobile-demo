@@ -1,0 +1,59 @@
+created: '2024-02-28T12:53:28.047817+00:00'
+modified: '2024-02-28T12:53:28.047817+00:00'
+pattern: false
+entry:
+  _id: fe58efd1-13b6-4227-9de3-79769d00abf1
+  _name: It's your birthday!
+  _slug: its-your-birthday
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/I7IPjoE4SKmzh6QQbOQjuw-photo-153.png
+  type: promotion
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 8e5c9f0c-9bdc-4544-a3fe-f117663c54e3
+          type: image
+          fields:
+            id:
+              type: text
+              value: 85db9777-2c15-479a-9c8c-2458674962d5
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/I7IPjoE4SKmzh6QQbOQjuw-photo-153.png
+              type: text
+            file:
+              type: file
+              value: 2dae9c36-8205-4846-8ab1-6fdce71c3422
+            size:
+              value: 2976657
+              type: number
+            title:
+              type: text
+              value: photo-153.png
+            width:
+              value: 3570
+              type: number
+            height:
+              value: 2381
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: It's your birthday!
+        fr-CA: C'est ton anniversaire!
+        nl-NL: Het is jouw verjaardag!
+    description:
+      type: text
+      locales:
+        en-US: 15% off all products.
+        fr-CA: 15% de réduction sur tous les produits.
+        nl-NL: 15% korting op alle producten.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

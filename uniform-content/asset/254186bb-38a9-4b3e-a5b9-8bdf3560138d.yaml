@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 254186bb-38a9-4b3e-a5b9-8bdf3560138d
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: 118kkwcp30_01_aawcfl.webp
+    file:
+      type: file
+      value: 7097616e-1789-4678-bab9-1dd125c7e530
+    mediaType:
+      value: image/webp
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/932m1gKRRyq65fYJWuYXMA-118kkwcp30_01_aawcfl.webp
+      type: text
+    size:
+      value: 10362
+      type: number
+    width:
+      value: 800
+      type: number
+    height:
+      value: 600
+      type: number
+    custom: {}
+created: '2024-02-28T12:47:27.093766+00:00'
+modified: '2024-02-28T13:31:41.907585+00:00'

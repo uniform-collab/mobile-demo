@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 799e6e2b-6077-4ad9-b1a4-50ed05a2d0ea
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: royale-butte-camping-coffee-pot-121_sgc0ks_p61oqr.jpg
+    file:
+      type: file
+      value: 4b1feaad-e52d-4d0f-a004-f56245eb782e
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Z4FamdeFQr6J58DdPBSffA-royale-butte-camping-coffee-pot-121_sgc0ks_p61oqr.jpg
+      type: text
+    size:
+      value: 12357
+      type: number
+    width:
+      value: 386
+      type: number
+    height:
+      value: 386
+      type: number
+    custom: {}
+created: '2024-02-28T12:43:35.169223+00:00'
+modified: '2024-02-28T13:33:08.310646+00:00'

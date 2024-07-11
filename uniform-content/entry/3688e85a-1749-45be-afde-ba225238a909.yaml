@@ -1,0 +1,68 @@
+created: '2024-02-28T12:53:44.740447+00:00'
+modified: '2024-02-28T12:53:44.740447+00:00'
+pattern: false
+entry:
+  _id: 3688e85a-1749-45be-afde-ba225238a909
+  _name: Perfect specs
+  _slug: perfect-specs
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/zlhU66rtS0CSgrgclRmoIw-espressoGPT_hero_1.png
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: d3b73031-c8d5-4d24-802d-ee52e28c6e00
+          type: image
+          fields:
+            id:
+              type: text
+              value: 4d2e4a85-61a8-4465-9753-d1a20fb3589a
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/zlhU66rtS0CSgrgclRmoIw-espressoGPT_hero_1.png
+              type: text
+            file:
+              type: file
+              value: 373efa49-0b30-4ce8-8d20-d07b0b58c9e5
+            size:
+              value: 286635
+              type: number
+            title:
+              type: text
+              value: espressoGPT_hero_1.png
+            width:
+              value: 2788
+              type: number
+            height:
+              value: 1552
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Perfect specs
+        fr-CA: Spécifications parfaites
+        nl-NL: Perfecte specificaties
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Modern design seamlessly blends minimalistic elegance with
+          cutting-edge functionality, making it a statement piece in any
+          contemporary kitchen.
+        fr-CA: >-
+          Le design moderne mélange parfaitement une élégance minimaliste avec
+          des fonctionnalités de pointe, ce qui en fait une pièce de déclaration
+          dans n'importe quelle cuisine contemporaine.
+        nl-NL: >-
+          Modern ontwerp combineert naadloos minimalistische elegantie met
+          geavanceerde functionaliteit, waardoor het een statement-stuk in elke
+          hedendaagse keuken is.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

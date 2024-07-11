@@ -1,0 +1,53 @@
+created: '2024-02-28T12:52:36.649495+00:00'
+modified: '2024-02-28T12:52:36.649495+00:00'
+pattern: false
+entry:
+  _id: f8fa3c15-c0a7-4d54-a578-e38dddb39bf7
+  _name: Coffee makers for all your brewing needs
+  _slug: coffee-makers-for-all-your-brewing-needs
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EpWAJ1W5SB2fMPf9eYR14w-hero_coffee_makers.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 909b3754-a866-44bd-829a-35093e883e9a
+          type: image
+          fields:
+            id:
+              type: text
+              value: 0851fb0a-c616-469b-8871-3d28a2efbe06
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EpWAJ1W5SB2fMPf9eYR14w-hero_coffee_makers.webp
+              type: text
+            file:
+              type: file
+              value: 79457321-b881-4c8d-9be5-109b4dbc4bdc
+            size:
+              value: 68680
+              type: number
+            title:
+              type: text
+              value: hero_coffee_makers.webp
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Coffee makers for all your brewing needs
+        fr-CA: Cafetières pour tous vos besoins de brassage
+        nl-NL: Koffiezetapparaten voor al uw brouwbehoeften
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

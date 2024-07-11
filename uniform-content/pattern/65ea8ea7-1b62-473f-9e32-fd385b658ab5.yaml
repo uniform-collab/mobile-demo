@@ -1,0 +1,178 @@
+composition:
+  _name: Reviews (ka)
+  _id: 65ea8ea7-1b62-473f-9e32-fd385b658ab5
+  type: grid
+  parameters:
+    gapX:
+      type: tp-slider-parameter
+      value: medium
+    gapY:
+      type: tp-slider-parameter
+      value: none
+    title:
+      type: text
+      locales:
+        en-CA: Reviews
+        en-GB: Reviews
+        en-NL: Reviews
+        en-US: Reviews
+        fr-CA: Commentaires
+        nl-NL: Recensies
+    marginTop:
+      type: select
+      value: None
+    paddingTop:
+      type: select
+      value: None
+    columnsCount:
+      type: tp-slider-parameter
+      value: '2'
+    marginBottom:
+      type: select
+      value: None
+    paddingBottom:
+      type: select
+      value: None
+  slots:
+    grid-inner:
+      - _id: 46df9f2d-a2b9-4011-b16a-6ed4a83b214b
+        type: $loop
+        slots:
+          body:
+            - _id: 4aeee2e3-e311-4d19-a047-1c3a7e68d443
+              type: review
+              parameters:
+                date:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/date/value}
+                    en-GB: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/date/value}
+                    en-NL: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/date/value}
+                    en-US: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/date/value}
+                    fr-CA: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/date/value}
+                    nl-NL: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/date/value}
+                stars:
+                  type: tp-slider-parameter
+                  value: '5'
+                personName:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/first_name/value} ${#jptr:/Reviews Content
+                      items Loop Item/elements/last_name/value}
+                    en-GB: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/first_name/value} ${#jptr:/Reviews Content
+                      items Loop Item/elements/last_name/value}
+                    en-NL: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/first_name/value} ${#jptr:/Reviews Content
+                      items Loop Item/elements/last_name/value}
+                    en-US: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/first_name/value} ${#jptr:/Reviews Content
+                      items Loop Item/elements/last_name/value}
+                    fr-CA: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/first_name/value} ${#jptr:/Reviews Content
+                      items Loop Item/elements/last_name/value}
+                    nl-NL: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/first_name/value} ${#jptr:/Reviews Content
+                      items Loop Item/elements/last_name/value}
+                description:
+                  type: text
+                  locales:
+                    en-CA: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/experience/value}
+                    en-GB: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/experience/value}
+                    en-NL: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/experience/value}
+                    en-US: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/experience/value}
+                    fr-CA: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/experience/value}
+                    nl-NL: >-
+                      ${#jptr:/Reviews Content items Loop
+                      Item/elements/experience/value}
+                lineCountRestriction:
+                  type: tp-slider-parameter
+                  value: none
+              _overridability:
+                variants: true
+                parameters:
+                  date: 'yes'
+                  stars: 'yes'
+                  title: 'yes'
+                  picture: 'yes'
+                  personName: 'yes'
+                  starsColor: 'yes'
+                  description: 'yes'
+                  showReviewLabel: 'yes'
+                  textColorVariant: 'yes'
+                  lineCountRestriction: 'yes'
+        _dataResources:
+          Reviews Content items Loop Item:
+            type: sys-reserved-loop
+            variables:
+              connectedData: /Reviews Content/items
+  _dataResources:
+    Reviews Content:
+      type: kontentAiTestimonial
+      variables:
+        limit: '2'
+        order: ''
+        keyword: ''
+        language: ${locale}
+        sortOrder: desc
+        contentType: testimonial
+        sortElement: ''
+        languageQuery: '&language=${locale}'
+        searchByQuery: ''
+        contentTypeQuery: '&system.type[eq]=testimonial'
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    parameters:
+      gapX: 'yes'
+      gapY: 'yes'
+      title: 'yes'
+      marginTop: 'yes'
+      paddingTop: 'yes'
+      columnsCount: 'yes'
+      marginBottom: 'yes'
+      paddingBottom: 'yes'
+      backgroundType: 'yes'
+      containerVariant: 'yes'
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:51:08.026001+00:00'
+modified: '2024-02-28T12:51:08.026001+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Reviews_preview_image
+categoryId: 2da8c924-14d5-470b-9fe4-1e56521551e5

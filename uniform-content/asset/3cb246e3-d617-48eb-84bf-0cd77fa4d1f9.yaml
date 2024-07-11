@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 3cb246e3-d617-48eb-84bf-0cd77fa4d1f9
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: jd_commerce_logo.svg
+    file:
+      type: file
+      value: 6f28edb4-d26f-4aea-b9f1-b97cff9f0d11
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/qAD0H9keQYWNJ8bvKFmBWw-jd_commerce_logo.svg
+      type: text
+    size:
+      value: 5214
+      type: number
+    width:
+      value: 408
+      type: number
+    height:
+      value: 65
+      type: number
+    custom: {}
+created: '2024-02-28T12:35:17.252892+00:00'
+modified: '2024-02-28T13:32:08.145566+00:00'

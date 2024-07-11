@@ -1,0 +1,359 @@
+created: '2024-02-28T12:52:33.85171+00:00'
+modified: '2024-02-28T13:37:41.728574+00:00'
+pattern: false
+entry:
+  _id: c2fe7f3a-9b46-4e6e-bb11-b38fde7852ba
+  _name: Cervello di Caffe® - SmartHQ enabled espresso machine
+  _slug: cervello-di-caffe-140
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xK1yh7_sRLW04x27ml3PsQ-cervello-di-caffe-140-1_uzzqks_n8x6sd.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Caffé is distinct by design- created for those who want to
+                      reflect their true style! Backed by showstopping features,
+                      every Caffé appliance gives you trend forward style paired
+                      with the function you've been craving.  Now you can bring
+                      that exceptional style to your countertops thanks to
+                      elegant and innovative espresso machines that are as
+                      intelligent as they are beautiful.  All Caffé espresso
+                      machines are WiFi enabled and feature drink customization
+                      capabilities, connected through the SmartHQ app and
+                      compatible with Alexa and Google Home.  The Built-in Steam
+                      Frother creates a variety of textures and thicknesses and
+                      the Built-in Conical Burr Grinder delivers a consistent
+                      grind with any bean roast and features an adjustable grind
+                      size for ideal taste and aroma extraction.  Built to
+                      showcase individual style, this modern espresso machine is
+                      adorned with signature copper accents that add
+                      sophistication to any countertop.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Caffé se distingue par son design, créé pour ceux qui veulent refléter leur vrai style\_! Soutenu par des fonctionnalités époustouflantes, chaque appareil Caffé vous offre un style avant-gardiste associé à la fonction dont vous rêvez. Vous pouvez désormais apporter ce style exceptionnel à vos comptoirs grâce à des machines à expresso élégantes et innovantes, aussi intelligentes que belles. Toutes les machines à expresso Caffé sont compatibles WiFi et disposent de capacités de personnalisation des boissons, connectées via l'application SmartHQ et compatibles avec Alexa et Google Home. Le mousseur à vapeur intégré crée une variété de textures et d'épaisseurs et le broyeur à meules conique intégré offre une mouture constante avec n'importe quel grain torréfié et dispose d'une taille de mouture réglable pour une extraction idéale du goût et de l'arôme. Conçue pour mettre en valeur un style individuel, cette machine à expresso moderne est ornée d'accents de cuivre emblématiques qui ajoutent de la sophistication à n'importe quel comptoir."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Caffé onderscheidt zich door zijn ontwerp, gemaakt voor
+                      degenen die hun ware stijl willen weerspiegelen! Elk
+                      Caffé-apparaat, ondersteund door spectaculaire kenmerken,
+                      biedt u een trendy stijl gecombineerd met de functie waar
+                      u naar verlangde. Nu kunt u die uitzonderlijke stijl op uw
+                      werkbladen brengen dankzij elegante en innovatieve
+                      espressomachines die even intelligent als mooi zijn. Alle
+                      Caffé-espressomachines zijn voorzien van WiFi en bieden
+                      mogelijkheden voor het aanpassen van drankjes, verbonden
+                      via de SmartHQ-app en compatibel met Alexa en Google Home.
+                      De ingebouwde stoomopschuimer creëert een verscheidenheid
+                      aan texturen en diktes en de ingebouwde conische
+                      braammolen zorgt voor een consistente maling bij elke
+                      bonenbranding en beschikt over een instelbare maalgrootte
+                      voor een ideale smaak- en aroma-extractie. Deze moderne
+                      espressomachine is gebouwd om een ​​individuele stijl te
+                      benadrukken en is versierd met kenmerkende koperen
+                      accenten die verfijning toevoegen aan elk aanrecht.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Cervello di Caffe® - SmartHQ enabled espresso machine
+    title:
+      type: text
+      value: Cervello di Caffe® - SmartHQ enabled espresso machine
+    category:
+      type: select
+      value: espresso
+    variants:
+      type: $block
+      value:
+        - _id: 43bf5000-f186-46c8-ac3c-dec09151fdea
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '140'
+            price:
+              type: number
+              locales:
+                en-US: '113.66'
+                fr-CA: '104.98'
+                nl-NL: '104.98'
+            title:
+              type: text
+              locales:
+                en-US: Cervello di Caffe® - SmartHQ enabled espresso machine
+                fr-CA: Cervello di Caffe® - SmartHQ enabled espresso machine
+                nl-NL: Cervello di Caffe® - SmartHQ enabled espresso machine
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: be824342-fc20-4bdd-b35f-d8f62c655de2
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 219fcaa8-a4dc-457a-be62-3d4a11585424
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/jX9i0EB9Rq6ncDQ1YFxmQg-cervello-di-caffe-140-2_wey6er_wus6ou.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 1a904618-e9d0-473e-a48e-046ccc299d14
+                    size:
+                      value: 122566
+                      type: number
+                    title:
+                      type: text
+                      value: cervello-di-caffe-140-2_wey6er_wus6ou.jpg
+                    width:
+                      value: 980
+                      type: number
+                    height:
+                      value: 1021
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 0d8501e2-a8af-49e9-8ec7-6bc556a8aa14
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 424b159b-fc83-4a1a-afd2-63bf29335e0b
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/PaY8DbvOROOJO_pJl63L2A-cervello-di-caffe-140-1_uzzqks_n8x6sd.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 071458f0-d5cb-4b91-8e3f-505cb4d34dfb
+                    size:
+                      value: 113554
+                      type: number
+                    title:
+                      type: text
+                      value: cervello-di-caffe-140-1_uzzqks_n8x6sd.jpg
+                    width:
+                      value: 987
+                      type: number
+                    height:
+                      value: 987
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 1654c8af-2c4a-4526-8536-7fcba2a7f4ac
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 7efa776a-bd04-4610-8fc1-f5337ddf09a5
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/lB8tNOZhQUiCrWzL3bk1Hg-cervello-di-caffe-140-3_krgy47_fyqqr6.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 950690ef-5144-4eb2-bf92-ad7d4d41dc46
+                    size:
+                      value: 116001
+                      type: number
+                    title:
+                      type: text
+                      value: cervello-di-caffe-140-3_krgy47_fyqqr6.jpg
+                    width:
+                      value: 980
+                      type: number
+                    height:
+                      value: 1021
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 7b328dc2-f995-4bd8-872c-cb2ccdc5d44c
+          type: image
+          fields:
+            id:
+              type: text
+              value: 1a9d0f8d-691e-42ef-a9db-c859d92e8494
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xK1yh7_sRLW04x27ml3PsQ-cervello-di-caffe-140-1_uzzqks_n8x6sd.jpg
+              type: text
+            file:
+              type: file
+              value: d37ae912-c56d-4eb9-a872-82f15d197444
+            size:
+              value: 113554
+              type: number
+            title:
+              type: text
+              value: cervello-di-caffe-140-1_uzzqks_n8x6sd.jpg
+            width:
+              value: 987
+              type: number
+            height:
+              value: 987
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 966c18d3-dbb9-4dff-9198-aa199a5f6674
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 4e7b6db0-ffed-4731-baf4-7459ad7a5f31
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Caffé is distinct by design- created for those who want to reflect
+          their true style! Backed by showstopping features, every Caffé
+          appliance gives you trend forward style paired with the function
+          you've been craving.  Now you can bring that exceptional style to your
+          countertops thanks to elegant and innovative espresso machines that
+          are as intelligent as they are beautiful.  All Caffé espresso machines
+          are WiFi enabled and feature drink customization capabilities,
+          connected through the SmartHQ app and compatible with Alexa and Google
+          Home.  The Built-in Steam Frother creates a variety of textures and
+          thicknesses and the Built-in Conical Burr Grinder delivers a
+          consistent grind with any bean roast and features an adjustable grind
+          size for ideal taste and aroma extraction.  Built to showcase
+          individual style, this modern espresso machine is adorned with
+          signature copper accents that add sophistication to any countertop.
+        fr-CA: "Caffé se distingue par son design, créé pour ceux qui veulent refléter leur vrai style\_! Soutenu par des fonctionnalités époustouflantes, chaque appareil Caffé vous offre un style avant-gardiste associé à la fonction dont vous rêvez. Vous pouvez désormais apporter ce style exceptionnel à vos comptoirs grâce à des machines à expresso élégantes et innovantes, aussi intelligentes que belles. Toutes les machines à expresso Caffé sont compatibles WiFi et disposent de capacités de personnalisation des boissons, connectées via l'application SmartHQ et compatibles avec Alexa et Google Home. Le mousseur à vapeur intégré crée une variété de textures et d'épaisseurs et le broyeur à meules conique intégré offre une mouture constante avec n'importe quel grain torréfié et dispose d'une taille de mouture réglable pour une extraction idéale du goût et de l'arôme. Conçue pour mettre en valeur un style individuel, cette machine à expresso moderne est ornée d'accents de cuivre emblématiques qui ajoutent de la sophistication à n'importe quel comptoir."
+        nl-NL: >-
+          Caffé onderscheidt zich door zijn ontwerp, gemaakt voor degenen die
+          hun ware stijl willen weerspiegelen! Elk Caffé-apparaat, ondersteund
+          door spectaculaire kenmerken, biedt u een trendy stijl gecombineerd
+          met de functie waar u naar verlangde. Nu kunt u die uitzonderlijke
+          stijl op uw werkbladen brengen dankzij elegante en innovatieve
+          espressomachines die even intelligent als mooi zijn. Alle
+          Caffé-espressomachines zijn voorzien van WiFi en bieden mogelijkheden
+          voor het aanpassen van drankjes, verbonden via de SmartHQ-app en
+          compatibel met Alexa en Google Home. De ingebouwde stoomopschuimer
+          creëert een verscheidenheid aan texturen en diktes en de ingebouwde
+          conische braammolen zorgt voor een consistente maling bij elke
+          bonenbranding en beschikt over een instelbare maalgrootte voor een
+          ideale smaak- en aroma-extractie. Deze moderne espressomachine is
+          gebouwd om een ​​individuele stijl te benadrukken en is versierd met
+          kenmerkende koperen accenten die verfijning toevoegen aan elk
+          aanrecht.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

@@ -1,0 +1,64 @@
+created: '2024-02-28T12:53:36.303408+00:00'
+modified: '2024-02-28T12:53:36.303408+00:00'
+pattern: false
+entry:
+  _id: 950de49d-7e2c-4594-add1-f5bd9924fd3b
+  _name: Let us know how you have bean.
+  _slug: let-us-know-how-you-have-bean
+  type: callToAction
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 70146ec4-1a26-4867-b626-03a9a27cca12
+          type: image
+          fields:
+            id:
+              type: text
+              value: d0605d43-4a74-49b0-808a-329678faf212
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/k01zVMtKQb-bgeq7q2If5A-photo_16.jpg
+              type: text
+            file:
+              type: file
+              value: 5958e165-0a35-4889-913a-91283c2dae68
+            size:
+              value: 152293
+              type: number
+            title:
+              type: text
+              value: photo_16.jpg
+            width:
+              value: 1470
+              type: number
+            height:
+              value: 980
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Let us know how you have bean.
+        fr-CA: Faites-nous savoir comment vous avez du haricot.
+        nl-NL: Laat ons weten hoe je boon hebt.
+    description:
+      type: text
+      locales:
+        en-US: >-
+          See what we did there? 😀 But seriously, please let us know if you
+          have any questions and we will get back with you shortly. Thank you.
+        fr-CA: >-
+          Vous voyez ce que nous avons fait là-bas?😀 Mais sérieusement,
+          veuillez nous faire savoir si vous avez des questions et nous
+          reviendrons avec vous sous peu.Merci.
+        nl-NL: >-
+          Zie je wat we daar hebben gedaan?😀 Maar serieus, laat het ons weten
+          als u vragen heeft en we zullen binnenkort terugkomen.Bedankt.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

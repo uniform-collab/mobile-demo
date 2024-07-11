@@ -1,0 +1,407 @@
+created: '2024-02-28T12:52:49.775688+00:00'
+modified: '2024-02-28T13:37:45.808246+00:00'
+pattern: false
+entry:
+  _id: c7e72a37-47db-4202-800d-09540a4b9181
+  _name: EspressoGPT
+  _slug: espresso-gpt-145
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/-OIe5r2tRJeZBA6ZtPKLKw-EspressoGPT_image_1.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Experience coffee like never before. From the moment you
+                      power up the EspressoGPT, you're not just brewing an
+                      espresso—you're entering the future of coffee. Welcome to
+                      a universe of unparalleled taste and sophistication.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Découvrez le café comme jamais auparavant. À partir du
+                      moment où vous allumez l'EspressoGPT, vous ne vous
+                      contentez pas de préparer un expresso : vous entrez dans
+                      l'avenir du café. Bienvenue dans un univers de goût et de
+                      sophistication sans précédent.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ervaar koffie als nooit tevoren. Vanaf het moment dat u de
+                      EspressoGPT aanzet, zet u niet alleen een espresso, maar
+                      betreedt u de toekomst van koffie. Welkom in een universum
+                      van ongeëvenaarde smaak en verfijning.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: EspressoGPT
+    title:
+      type: text
+      value: EspressoGPT
+    category:
+      type: select
+      value: espresso
+    variants:
+      type: $block
+      value:
+        - _id: 5d5dd4ce-6356-408b-9e63-9a4c1a44318f
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '145'
+            price:
+              type: number
+              locales:
+                en-US: '1899.95'
+                fr-CA: '1754.90'
+                nl-NL: '1754.90'
+            title:
+              type: text
+              locales:
+                en-US: EspressoGPT
+                fr-CA: EspressoGPT
+                nl-NL: EspressoGPT
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 1a9faa46-752d-4ee5-91a5-9247d08aa314
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 23095380-5167-42fc-975e-28dfe1af40fd
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/-OIe5r2tRJeZBA6ZtPKLKw-EspressoGPT_image_1.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 3208d574-cda4-4a74-be11-3cc81e32a02e
+                    size:
+                      value: 123117
+                      type: number
+                    title:
+                      type: text
+                      value: EspressoGPT_image_1.jpg
+                    width:
+                      value: 1486
+                      type: number
+                    height:
+                      value: 960
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: f8366033-bd8d-4366-8062-1628c6afe7ab
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 2e61c4ea-ca2f-4c95-81f7-e7e5927ccdb8
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/nKXN8tzhRZSzZYUC0GhciQ-EspressoGPT_image_2.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 73289300-bdc6-4c0f-bb4f-78f5f56f02df
+                    size:
+                      value: 74607
+                      type: number
+                    title:
+                      type: text
+                      value: EspressoGPT_image_2.jpg
+                    width:
+                      value: 743
+                      type: number
+                    height:
+                      value: 480
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 0886295b-be71-4eae-9314-06ab1b850dc7
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 3f8c61b9-b0c3-4251-a19e-67f6c0a1373a
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/ootEaliqS7yt69kpJ5Fnlg-EspressoGPT_image_4.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 5aa33e42-fe2c-4d26-b984-e10234e4f1c9
+                    size:
+                      value: 18991
+                      type: number
+                    title:
+                      type: text
+                      value: EspressoGPT_image_4.jpg
+                    width:
+                      value: 743
+                      type: number
+                    height:
+                      value: 480
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: ef25b0ad-ee73-416e-a3a4-b01729d59774
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 533b5d77-6e39-40c1-986f-561ed1a5c29f
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/jQQ3O2adTN6Ky1Glh8iUHw-EspressoGPT_image_3.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 19dc76a2-e567-4484-8372-2d065fa8fa52
+                    size:
+                      value: 132926
+                      type: number
+                    title:
+                      type: text
+                      value: EspressoGPT_image_3.jpg
+                    width:
+                      value: 743
+                      type: number
+                    height:
+                      value: 480
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: d20d9612-fb7b-4d23-a853-1ff5bd4037d1
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 677501c5-01eb-4da5-9627-403edf7f45af
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/YsK-fr07SQmmxzu6FYR0yw-EspressoGPT_image.png
+                      type: text
+                    file:
+                      type: file
+                      value: 77b6e0c1-de72-4df1-a3eb-d70214c6649a
+                    size:
+                      value: 449290
+                      type: number
+                    title:
+                      type: text
+                      value: EspressoGPT_image.png
+                    width:
+                      value: 1400
+                      type: number
+                    height:
+                      value: 681
+                      type: number
+                    mediaType:
+                      value: image/png
+                      type: text
+                  _source: uniform-assets
+                - _id: f98f03ec-0207-419e-aee5-91ac7d83930b
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: d3f4dea3-2cf4-4793-9bc5-5eaad236aa95
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/KbwIDyDfQwG8CW4P29eijQ-EspressoGPT_image_5.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 48819c47-83b7-4141-b2ff-ddcf89eff251
+                    size:
+                      value: 29957
+                      type: number
+                    title:
+                      type: text
+                      value: EspressoGPT_image_5.jpg
+                    width:
+                      value: 743
+                      type: number
+                    height:
+                      value: 480
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: e4f37ac0-ff3b-40a4-b3ef-46942846ab4d
+          type: image
+          fields:
+            id:
+              type: text
+              value: 23095380-5167-42fc-975e-28dfe1af40fd
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/-OIe5r2tRJeZBA6ZtPKLKw-EspressoGPT_image_1.jpg
+              type: text
+            file:
+              type: file
+              value: 3208d574-cda4-4a74-be11-3cc81e32a02e
+            size:
+              value: 123117
+              type: number
+            title:
+              type: text
+              value: EspressoGPT_image_1.jpg
+            width:
+              value: 1486
+              type: number
+            height:
+              value: 960
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 78a2dd59-3812-438a-8248-d18f8af2d803
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 98e88010-513b-435f-b2fd-1ae0617166d2
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                limit: '0'
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Experience coffee like never before. From the moment you power up the
+          EspressoGPT, you're not just brewing an espresso—you're entering the
+          future of coffee. Welcome to a universe of unparalleled taste and
+          sophistication.
+        fr-CA: >-
+          Découvrez le café comme jamais auparavant. À partir du moment où vous
+          allumez l'EspressoGPT, vous ne vous contentez pas de préparer un
+          expresso : vous entrez dans l'avenir du café. Bienvenue dans un
+          univers de goût et de sophistication sans précédent.
+        nl-NL: >-
+          Ervaar koffie als nooit tevoren. Vanaf het moment dat u de EspressoGPT
+          aanzet, zet u niet alleen een espresso, maar betreedt u de toekomst
+          van koffie. Welkom in een universum van ongeëvenaarde smaak en
+          verfijning.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

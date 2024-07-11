@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: c57ce5b7-eaf3-4bf1-9307-1d2ca12c27e4
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: impresso-pump-espresso-118-1_dbhr6e_nsyboc.jpg
+    file:
+      type: file
+      value: d89b4323-6217-4fb9-bef8-bf941b9d6f58
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xF_-gCbmR5OUaioyfRQQLg-impresso-pump-espresso-118-1_dbhr6e_nsyboc.jpg
+      type: text
+    size:
+      value: 116222
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:49:36.169355+00:00'
+modified: '2024-02-28T13:34:19.273423+00:00'

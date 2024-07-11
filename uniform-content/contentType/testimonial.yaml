@@ -1,0 +1,70 @@
+id: testimonial
+name: Testimonial
+created: '2024-02-28T12:51:48.548695+00:00'
+updated: '2024-02-28T12:51:48.548695+00:00'
+slugSettings:
+  required: 'no'
+useTeamPermissions: true
+fields:
+  - id: title
+    name: Title
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: experience
+    name: Experience
+    type: text
+    helpText: ''
+    typeConfig:
+      multiline: true
+      linesCount: 5
+    localizable: true
+  - id: firstName
+    name: First Name
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: lastName
+    name: Last Name
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: location
+    name: Location
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: productId
+    name: Product Id
+    type: text
+    helpText: ''
+    typeConfig: null
+  - id: stars
+    name: Stars
+    type: text
+    helpText: ''
+    typeConfig: null
+  - id: picture
+    name: Picture
+    type: asset
+    helpText: ''
+    typeConfig:
+      max: 1
+      min: 0
+    localizable: false
+  - id: date
+    name: Date
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+entryName: title
+thumbnailField: picture
+description: ''
+icon: file-document
+type: contentType
+permissions: []

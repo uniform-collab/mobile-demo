@@ -1,0 +1,28 @@
+id: productsQuery
+displayName: Products Query
+ttl: 30
+path: /query
+custom:
+  proposedName: Query Product
+  allowedOrderBy:
+    - name_ASC
+  allowedContentTypes:
+    - product
+method: GET
+purgeKey: 6b27260d-c4aa-4a1a-976b-cb11a44ed17b
+archetype: queryEntries
+variables:
+  limit:
+    type: text
+    default: '10'
+  offset:
+    type: text
+    default: '0'
+  orderBy:
+    type: text
+    default: ''
+  contentTypes:
+    type: text
+    default: ''
+dataSourceId: uniformContent
+allowedOnComponents: []

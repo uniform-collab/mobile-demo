@@ -1,0 +1,19 @@
+id: features
+displayName: Features
+ttl: 30
+body: ''
+path: /multiple
+custom:
+  proposedName: Multiple Feature or Product Feature
+  allowedContentTypes:
+    - feature
+    - productFeature
+method: GET
+purgeKey: 814847f5-6614-46ff-960d-96600efb9128
+archetype: multipleEntries
+variables:
+  entryIds:
+    type: text
+    default: ''
+dataSourceId: uniformContent
+allowedOnComponents: []

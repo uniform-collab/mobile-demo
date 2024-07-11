@@ -1,0 +1,74 @@
+created: '2024-02-28T12:52:04.288011+00:00'
+modified: '2024-02-28T12:52:04.288011+00:00'
+pattern: false
+entry:
+  _id: 4ff180cb-3a00-4cd6-b19b-5e4d779c0dff
+  _name: 25% your next purchase
+  _slug: 25percent-your-next-purchase
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/LohQKKjxS6yHL__f0W5zMQ-25_off.svg
+  type: promotion
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 5e74e5cb-502f-4c80-9acc-32ddb7a5d7de
+          type: image
+          fields:
+            id:
+              type: text
+              value: 7c444bac-7e3b-4ecb-9b0b-184fb372517d
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/LohQKKjxS6yHL__f0W5zMQ-25_off.svg
+              type: text
+            file:
+              type: file
+              value: 0e619900-bdb3-4686-89e5-0034738df5ff
+            size:
+              value: 3718
+              type: number
+            title:
+              type: text
+              value: 25_off.svg
+            width:
+              value: 113
+              type: number
+            height:
+              value: 113
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: 25% your next purchase
+        fr-CA: 25% votre prochain achat
+        nl-NL: 25% uw volgende aankoop
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Save 25% on your next purchase. This discount applies to your entire
+          order, excluding shipping.
+
+
+          JD-25-OFF
+        fr-CA: >-
+          Économisez 25% sur votre prochain achat.Cette remise s'applique à
+          l'intégralité de votre commande, à l'exclusion de l'expédition.
+
+
+          JD-25-off
+        nl-NL: >-
+          Bespaar 25% op uw volgende aankoop.Deze korting is van toepassing op
+          uw hele bestelling, exclusief verzending.
+
+
+          JD-25-off
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

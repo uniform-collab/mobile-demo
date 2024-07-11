@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: d628a010-2545-4d06-b4f9-90b535038e0e
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: kosmic-coffee-pour-over-glass-coffeemaker-120-2_avqwuf_hvca1y.jpg
+    file:
+      type: file
+      value: aa9d0604-b00e-4e70-9027-a9ea2a24c9ab
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/pIF1ZC1lSSyZgyOdu2DzRA-kosmic-coffee-pour-over-glass-coffeemaker-120-2_avqwuf_hvca1y.jpg
+      type: text
+    size:
+      value: 214220
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:46:09.175356+00:00'
+modified: '2024-02-28T13:34:32.588771+00:00'

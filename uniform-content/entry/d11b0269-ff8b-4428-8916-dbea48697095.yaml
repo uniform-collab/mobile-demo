@@ -1,0 +1,349 @@
+created: '2024-02-28T12:53:48.785543+00:00'
+modified: '2024-02-28T13:37:50.787218+00:00'
+pattern: false
+entry:
+  _id: d11b0269-ff8b-4428-8916-dbea48697095
+  _name: Royale Boulder Camping French Press
+  _slug: royale-boulder-camping-french-press-122
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xTdEsm_3RaKk-1-Mekvf1g-royale-boulder-camping-french-press-122-1_xheeel_ykryly.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      KEEPS COFFEE HOT FOR 4+ HOURS - This vacuum insulated
+                      Camping French Press keeps coffee steaming hot for 4+
+                      hours and warm for many more. Our patent-pending design
+                      provides superior insulation. Don&rsquo;t settle for cold
+                      coffee. Bring the Boulder LIFETIME REPLACEMENT GUARANTEE -
+                      This large camping coffee press is made of AISI 304
+                      stainless-steel with the same 14-gauge industry standard
+                      material used for building construction &ndash; a metal
+                      French Press coffee maker built to last ENOUGH TO SHARE -
+                      Does your spouse drink from your French Press? Is there
+                      enough? We have the answer. The Boulder is the only 10 Cup
+                      (42 oz) press on the market. The standard 8 Cup presses
+                      (34 oz) are often not big enough &ndash; especially while
+                      camping
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      GARDE LE CAFÉ CHAUD PENDANT PLUS DE 4 HEURES - Cette
+                      presse française de camping isolée sous vide garde le café
+                      chaud pendant plus de 4 heures et chaud pendant bien plus
+                      encore. Notre conception en attente de brevet offre une
+                      isolation supérieure. Ne vous contentez pas d'un café
+                      froid. Apportez la GARANTIE DE REMPLACEMENT À VIE de
+                      Boulder - Cette grande presse à café de camping est
+                      fabriquée en acier inoxydable AISI 304 avec le même
+                      matériau standard de l'industrie de calibre 14 utilisé
+                      pour la construction de bâtiments - et est fabriqué en
+                      acier inoxydable AISI 304. une cafetière à piston en métal
+                      conçue pour durer ASSEZ À PARTAGER - Votre conjoint
+                      boit-il dans votre cafetière à piston ? Y at-il assez?
+                      Nous avons la réponse. La Boulder est la seule presse de
+                      10 tasses (42 oz) sur le marché. Les presses standard de 8
+                      tasses (34 oz) ne sont souvent pas assez grandes. surtout
+                      en camping
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      HOUDT KOFFIE 4+ UUR WARM - Deze vacuümgeïsoleerde Camping
+                      French Press houdt de koffie 4+ uur warm en nog veel meer
+                      warm. Ons ontwerp, waarvoor patent is aangevraagd, biedt
+                      superieure isolatie. Neem geen genoegen met koude koffie.
+                      Neem de Boulder LEVENSLANGE VERVANGINGSGARANTIE mee - Deze
+                      grote campingkoffiepers is gemaakt van AISI 304 roestvrij
+                      staal met hetzelfde 14-gauge industriestandaardmateriaal
+                      dat wordt gebruikt voor de bouwconstructie - een metalen
+                      French Press-koffiezetapparaat, gebouwd om lang mee te
+                      gaan GENOEG OM TE DELEN - Drinkt uw partner uit uw French
+                      Press? Is er genoeg? Wij hebben het antwoord. De Boulder
+                      is de enige 10 Cup (42 oz) pers op de markt. De standaard
+                      8 Cup-persen (34 oz) zijn vaak niet groot genoeg - vooral
+                      tijdens het kamperen
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Royale Boulder Camping French Press
+    title:
+      type: text
+      value: Royale Boulder Camping French Press
+    category:
+      type: select
+      value: french-press
+    variants:
+      type: $block
+      value:
+        - _id: 516d84e4-ac27-43bb-a2a2-2c5728a5e06d
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '122'
+            price:
+              type: number
+              locales:
+                en-US: '49.95'
+                fr-CA: '46.14'
+                nl-NL: '46.14'
+            title:
+              type: text
+              locales:
+                en-US: Royale Boulder Camping French Press
+                fr-CA: Royale Boulder Camping French Press
+                nl-NL: Royale Boulder Camping French Press
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: d4aed792-ec97-4535-9e90-0665c842052c
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 87c88148-645b-4fcc-8668-a46aa1780003
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/5esgfaq6QHu2vLyYwwRaZg-royale-boulder-camping-french-press-122-2_sjj6lo_rgkz6v.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: e582f89f-6c19-4c13-abb5-94449feed3e2
+                    size:
+                      value: 135296
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        royale-boulder-camping-french-press-122-2_sjj6lo_rgkz6v.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 5e7b4d13-1eb9-4a73-bc1d-dd0224a11c60
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: f8fa8791-28fc-4852-8e27-344b113f552f
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/omNNkfjtQfCatpu8394w5Q-royale-boulder-camping-french-press-122-1_xheeel_ykryly.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: ff958e3f-642d-460f-a941-3c3556da318f
+                    size:
+                      value: 103345
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        royale-boulder-camping-french-press-122-1_xheeel_ykryly.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: b039c6a3-b6f3-4eea-a2d2-d4071f4f36fb
+          type: image
+          fields:
+            id:
+              type: text
+              value: 31b43ce9-f243-41b5-8ae8-ca03ddc553c6
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xTdEsm_3RaKk-1-Mekvf1g-royale-boulder-camping-french-press-122-1_xheeel_ykryly.jpg
+              type: text
+            file:
+              type: file
+              value: b8d6ab70-022a-4276-b12d-57bf23adb8f3
+            size:
+              value: 103345
+              type: number
+            title:
+              type: text
+              value: royale-boulder-camping-french-press-122-1_xheeel_ykryly.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: b4fab3dd-f6ca-4232-a66c-9be2267e376b
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 3ffbdca9-50e3-4be0-89f4-cb36871ebb17
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          KEEPS COFFEE HOT FOR 4+ HOURS - This vacuum insulated Camping French
+          Press keeps coffee steaming hot for 4+ hours and warm for many more.
+          Our patent-pending design provides superior insulation. Don&rsquo;t
+          settle for cold coffee. Bring the Boulder LIFETIME REPLACEMENT
+          GUARANTEE - This large camping coffee press is made of AISI 304
+          stainless-steel with the same 14-gauge industry standard material used
+          for building construction &ndash; a metal French Press coffee maker
+          built to last ENOUGH TO SHARE - Does your spouse drink from your
+          French Press? Is there enough? We have the answer. The Boulder is the
+          only 10 Cup (42 oz) press on the market. The standard 8 Cup presses
+          (34 oz) are often not big enough &ndash; especially while camping
+        fr-CA: >-
+          GARDE LE CAFÉ CHAUD PENDANT PLUS DE 4 HEURES - Cette presse française
+          de camping isolée sous vide garde le café chaud pendant plus de 4
+          heures et chaud pendant bien plus encore. Notre conception en attente
+          de brevet offre une isolation supérieure. Ne vous contentez pas d'un
+          café froid. Apportez la GARANTIE DE REMPLACEMENT À VIE de Boulder -
+          Cette grande presse à café de camping est fabriquée en acier
+          inoxydable AISI 304 avec le même matériau standard de l'industrie de
+          calibre 14 utilisé pour la construction de bâtiments - et est fabriqué
+          en acier inoxydable AISI 304. une cafetière à piston en métal conçue
+          pour durer ASSEZ À PARTAGER - Votre conjoint boit-il dans votre
+          cafetière à piston ? Y at-il assez? Nous avons la réponse. La Boulder
+          est la seule presse de 10 tasses (42 oz) sur le marché. Les presses
+          standard de 8 tasses (34 oz) ne sont souvent pas assez grandes.
+          surtout en camping
+        nl-NL: >-
+          HOUDT KOFFIE 4+ UUR WARM - Deze vacuümgeïsoleerde Camping French Press
+          houdt de koffie 4+ uur warm en nog veel meer warm. Ons ontwerp,
+          waarvoor patent is aangevraagd, biedt superieure isolatie. Neem geen
+          genoegen met koude koffie. Neem de Boulder LEVENSLANGE
+          VERVANGINGSGARANTIE mee - Deze grote campingkoffiepers is gemaakt van
+          AISI 304 roestvrij staal met hetzelfde 14-gauge
+          industriestandaardmateriaal dat wordt gebruikt voor de bouwconstructie
+          - een metalen French Press-koffiezetapparaat, gebouwd om lang mee te
+          gaan GENOEG OM TE DELEN - Drinkt uw partner uit uw French Press? Is er
+          genoeg? Wij hebben het antwoord. De Boulder is de enige 10 Cup (42 oz)
+          pers op de markt. De standaard 8 Cup-persen (34 oz) zijn vaak niet
+          groot genoeg - vooral tijdens het kamperen
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: f6526b0d-5c64-4d58-bf35-c3df3aeb5c53
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: rectangle.png
+    file:
+      type: file
+      value: 689f778d-98cd-4f5d-8827-2808cf84a93b
+    mediaType:
+      value: image/png
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Zo91Jh6MRy-m3OYcS3kw4A-rectangle.png
+      type: text
+    size:
+      value: 1995981
+      type: number
+    width:
+      value: 1600
+      type: number
+    height:
+      value: 689
+      type: number
+    custom: {}
+created: '2024-02-28T12:38:48.398475+00:00'
+modified: '2024-02-28T13:35:01.54757+00:00'

@@ -1,0 +1,68 @@
+created: '2024-02-28T12:53:21.74408+00:00'
+modified: '2024-02-28T12:53:21.74408+00:00'
+pattern: false
+entry:
+  _id: bea2dd15-e2fc-4f95-b681-ae3869840bf9
+  _name: International Bean taster
+  _slug: international-bean-taster
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Vigv6f6MTvKhRe-zP8Udfw-bundle_deal.svg
+  type: promotion
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 362790d0-414c-47bb-8f08-c7e95ffc6f2f
+          type: image
+          fields:
+            id:
+              type: text
+              value: d7a51d38-2bdb-48e2-a084-62bfeab8cfa1
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Vigv6f6MTvKhRe-zP8Udfw-bundle_deal.svg
+              type: text
+            file:
+              type: file
+              value: 9f40ecb8-2bac-40a5-9982-7ed4a88012a5
+            size:
+              value: 3418
+              type: number
+            title:
+              type: text
+              value: bundle_deal.svg
+            width:
+              value: 113
+              type: number
+            height:
+              value: 113
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: International Bean taster
+        fr-CA: Pristage international de haricots
+        nl-NL: International Beaster
+    description:
+      type: text
+      locales:
+        en-US: |-
+          Try our International Bean bundle for 25% off!
+
+          global-taster
+        fr-CA: |-
+          Essayez notre bundle international pour 25% de réduction!
+
+          détruit mondial
+        nl-NL: |-
+          Probeer onze internationale bonenbundel voor 25% korting!
+
+          globale voorganger
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

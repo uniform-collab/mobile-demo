@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: d27460e2-4d0c-4e22-9b14-6fc450cb6f57
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: cleaning_basket.jpg
+    file:
+      type: file
+      value: ddaf6ac7-6053-451e-a19d-91c3bc5621a1
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/tSIGr7gIR4uiErIT5bpw2g-cleaning_basket.jpg
+      type: text
+    size:
+      value: 83472
+      type: number
+    width:
+      value: 660
+      type: number
+    height:
+      value: 440
+      type: number
+    custom: {}
+created: '2024-02-28T12:36:18.977254+00:00'
+modified: '2024-02-28T13:34:31.24908+00:00'

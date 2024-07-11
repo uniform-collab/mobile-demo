@@ -1,0 +1,80 @@
+composition:
+  _name: Box - Article (uc)
+  _id: 7e719fa8-9ed6-4866-bd1f-a45ca74f7acd
+  type: box
+  parameters:
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+        en-GB: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+        en-NL: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+        en-US: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+        fr-CA: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+        nl-NL: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+  slots:
+    content:
+      - _id: 720aa603-c8d3-4a74-98d7-19984e0a5138
+        type: content
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+              en-GB: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+              en-NL: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+              en-US: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+              fr-CA: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+              nl-NL: ${#jptr:/Article by Slug Content/entry/fields/title/value}
+          content:
+            type: json
+            value: ${#jptr:/Article by Slug Content/entry/fields/content}
+          titleStyle:
+            type: tp-title-style-parameter
+            value: h1
+        _overridability:
+          parameters:
+            link: 'yes'
+            text: 'yes'
+            title: 'yes'
+            content: 'yes'
+            titleStyle: 'yes'
+      - _id: 851516a6-3970-47a3-a2db-fb915af33164
+        type: richText
+        parameters:
+          content:
+            type: richText
+            locales:
+              en-CA: ${#jptr:/Article by Slug Content/entry/fields/content/value}
+              en-GB: ${#jptr:/Article by Slug Content/entry/fields/content/value}
+              en-NL: ${#jptr:/Article by Slug Content/entry/fields/content/value}
+              en-US: ${#jptr:/Article by Slug Content/entry/fields/content/value}
+              fr-CA: ${#jptr:/Article by Slug Content/entry/fields/content/value}
+              nl-NL: ${#jptr:/Article by Slug Content/entry/fields/content/value}
+  _dataResources:
+    Article by Slug Content:
+      type: articleBySlug
+      variables:
+        slug: uncomplicating-coffee
+        query: >-
+          { "slug":
+          "espresso-gpt-elevating-coffee-brewing-to-futuristic-heights" }
+        locale: ${locale}
+        include: ''
+        entriesValue: espresso-gpt-elevating-coffee-brewing-to-futuristic-heights
+        contentTypeUid: article
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:34.789224+00:00'
+modified: '2024-02-28T12:50:34.789224+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1701959176/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Box_article_preview_image.jpg
+categoryId: 94a7a423-8c09-4264-8495-c562c17d811e

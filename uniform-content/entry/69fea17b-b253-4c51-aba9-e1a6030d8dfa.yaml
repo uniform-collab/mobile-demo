@@ -1,0 +1,318 @@
+created: '2024-02-28T12:52:21.208119+00:00'
+modified: '2024-02-28T13:36:53.106236+00:00'
+pattern: false
+entry:
+  _id: 69fea17b-b253-4c51-aba9-e1a6030d8dfa
+  _name: Black Mountain French Press Coffee Maker
+  _slug: black-mountain-french-press-coffee-maker-126
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Ox9uJlCZRj2XIkiwyUegcQ-black-mountain-french-press-coffee-maker-126-1_qzapz7_halnww.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      French press: French press brews a premium cup of Coffee
+                      in just 4 minutes, simply add course ground Coffee, hot
+                      water and press Stainless steel: 3-part stainless steel
+                      plunger has a mesh filter that helps extract your coffee's
+                      aromatic oils and subtle flavors instead of being absorbed
+                      by a paper filter. Made of plastic Durable design: Coffee
+                      press features Bodum Patented safety lid to keep contents
+                      from spilling and is dishwasher safe for easy cleaning
+                      Maximum flavor: pressed Coffee extracts the perfect amount
+                      of essentials oils and acids from the Coffee bean for
+                      maximum flavor; the preferred method for brewing for
+                      Coffee enthusiasts everywhere Servings: premium French
+                      press Coffee maker makes 8 cups of Coffee, 4 oz each
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Presse française : la presse française prépare une tasse de café de qualité supérieure en seulement 4 minutes, ajoutez simplement du café moulu, de l'eau chaude et pressez. Acier inoxydable : le piston en acier inoxydable en 3 parties est doté d'un filtre à mailles qui aide à extraire les huiles aromatiques et les saveurs subtiles de votre café. d'être absorbé par un filtre en papier. Fabriqué en plastique Conception durable\_: la presse à café est dotée d'un couvercle de sécurité breveté Bodum pour empêcher le contenu de se renverser et passe au lave-vaisselle pour un nettoyage facile. Saveur maximale\_: le café pressé extrait la quantité parfaite d'huiles essentielles et d'acides du grain de café pour une saveur maximale\_; la méthode de préparation préférée des amateurs de café du monde entier. Portions\_: cafetière à piston haut de gamme permettant de préparer 8 tasses de café de 4 oz chacune."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Franse pers: Franse pers zet een eersteklas kop koffie in
+                      slechts 4 minuten. Voeg eenvoudig gemalen koffie, heet
+                      water toe en pers. Roestvrij staal: 3-delige
+                      roestvrijstalen plunjer heeft een gaasfilter dat helpt de
+                      aromatische oliën en subtiele smaken van uw koffie te
+                      extraheren geabsorbeerd worden door een papieren filter.
+                      Gemaakt van kunststof Duurzaam ontwerp: koffiepers met
+                      Bodum Gepatenteerd veiligheidsdeksel om morsen van de
+                      inhoud te voorkomen en is vaatwasmachinebestendig voor
+                      eenvoudige reiniging Maximale smaak: geperste koffie
+                      extraheert de perfecte hoeveelheid essentiële oliën en
+                      zuren uit de koffieboon voor maximale smaak; de
+                      voorkeursmethode voor het zetten van koffie voor
+                      koffieliefhebbers overal Porties: premium Franse pers
+                      Koffiezetapparaat maakt 8 kopjes koffie, elk 4 oz
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Black Mountain French Press Coffee Maker
+    title:
+      type: text
+      value: Black Mountain French Press Coffee Maker
+    category:
+      type: select
+      value: french-press
+    variants:
+      type: $block
+      value:
+        - _id: 3d3d0420-3c7f-4396-b1b2-b261b05b74fa
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '126'
+            price:
+              type: number
+              locales:
+                en-US: '25.88'
+                fr-CA: '23.90'
+                nl-NL: '23.90'
+            title:
+              type: text
+              locales:
+                en-US: Black Mountain French Press Coffee Maker
+                fr-CA: Black Mountain French Press Coffee Maker
+                nl-NL: Black Mountain French Press Coffee Maker
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 458129ca-13f9-49de-8e56-6b67c36e891e
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 08e7c053-a8d2-4d70-8887-ead670bca2ad
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/9sNBtDdHTsG5P25qvKBekg-black-mountain-french-press-coffee-maker-126-2_rxijuz_ays9nx.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 57003729-ada7-45f1-b3b5-da1912703b7e
+                    size:
+                      value: 159228
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        black-mountain-french-press-coffee-maker-126-2_rxijuz_ays9nx.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: b0a39383-0e6e-44ba-878d-3e3ec5554b28
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 345beb62-a562-4094-8215-e6c87b79fc2a
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xqF63NK-QH-9YdLjgycsKQ-black-mountain-french-press-coffee-maker-126-1_qzapz7_halnww.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 049a52aa-3f8c-479f-923b-789937895c5b
+                    size:
+                      value: 318005
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        black-mountain-french-press-coffee-maker-126-1_qzapz7_halnww.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 48b25472-e0e8-416d-bd8e-3f764786c915
+          type: image
+          fields:
+            id:
+              type: text
+              value: 0bcb7320-a560-4997-8bb8-eb8e9382b26b
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Ox9uJlCZRj2XIkiwyUegcQ-black-mountain-french-press-coffee-maker-126-1_qzapz7_halnww.jpg
+              type: text
+            file:
+              type: file
+              value: 96ff449a-53f3-4013-b0c5-9d8d845301b9
+            size:
+              value: 318005
+              type: number
+            title:
+              type: text
+              value: black-mountain-french-press-coffee-maker-126-1_qzapz7_halnww.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: d0b56ca9-f62f-4a03-9151-bc521c432e56
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 09160cea-01ac-4385-b288-7ef5cb459810
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          French press: French press brews a premium cup of Coffee in just 4
+          minutes, simply add course ground Coffee, hot water and press
+          Stainless steel: 3-part stainless steel plunger has a mesh filter that
+          helps extract your coffee's aromatic oils and subtle flavors instead
+          of being absorbed by a paper filter. Made of plastic Durable design:
+          Coffee press features Bodum Patented safety lid to keep contents from
+          spilling and is dishwasher safe for easy cleaning Maximum flavor:
+          pressed Coffee extracts the perfect amount of essentials oils and
+          acids from the Coffee bean for maximum flavor; the preferred method
+          for brewing for Coffee enthusiasts everywhere Servings: premium French
+          press Coffee maker makes 8 cups of Coffee, 4 oz each
+        fr-CA: "Presse française : la presse française prépare une tasse de café de qualité supérieure en seulement 4 minutes, ajoutez simplement du café moulu, de l'eau chaude et pressez. Acier inoxydable : le piston en acier inoxydable en 3 parties est doté d'un filtre à mailles qui aide à extraire les huiles aromatiques et les saveurs subtiles de votre café. d'être absorbé par un filtre en papier. Fabriqué en plastique Conception durable\_: la presse à café est dotée d'un couvercle de sécurité breveté Bodum pour empêcher le contenu de se renverser et passe au lave-vaisselle pour un nettoyage facile. Saveur maximale\_: le café pressé extrait la quantité parfaite d'huiles essentielles et d'acides du grain de café pour une saveur maximale\_; la méthode de préparation préférée des amateurs de café du monde entier. Portions\_: cafetière à piston haut de gamme permettant de préparer 8 tasses de café de 4 oz chacune."
+        nl-NL: >-
+          Franse pers: Franse pers zet een eersteklas kop koffie in slechts 4
+          minuten. Voeg eenvoudig gemalen koffie, heet water toe en pers.
+          Roestvrij staal: 3-delige roestvrijstalen plunjer heeft een gaasfilter
+          dat helpt de aromatische oliën en subtiele smaken van uw koffie te
+          extraheren geabsorbeerd worden door een papieren filter. Gemaakt van
+          kunststof Duurzaam ontwerp: koffiepers met Bodum Gepatenteerd
+          veiligheidsdeksel om morsen van de inhoud te voorkomen en is
+          vaatwasmachinebestendig voor eenvoudige reiniging Maximale smaak:
+          geperste koffie extraheert de perfecte hoeveelheid essentiële oliën en
+          zuren uit de koffieboon voor maximale smaak; de voorkeursmethode voor
+          het zetten van koffie voor koffieliefhebbers overal Porties: premium
+          Franse pers Koffiezetapparaat maakt 8 kopjes koffie, elk 4 oz
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

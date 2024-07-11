@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: b6f294b6-7ef2-4e32-bc19-5217ff6d54ae
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: medium-roast-coffee-81-1_jvv1jh_vu6o73.jpg
+    file:
+      type: file
+      value: e6f69ba0-5f19-467d-b2cd-7025834b42eb
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/1JgQI2U6RJi2RTBHpn4ntQ-medium-roast-coffee-81-1_jvv1jh_vu6o73.jpg
+      type: text
+    size:
+      value: 93338
+      type: number
+    width:
+      value: 1280
+      type: number
+    height:
+      value: 1280
+      type: number
+    custom: {}
+created: '2024-02-28T12:49:25.05864+00:00'
+modified: '2024-02-28T13:33:59.927765+00:00'

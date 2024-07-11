@@ -1,0 +1,57 @@
+composition:
+  _name: Content - Article (ka)
+  _id: de7174d9-b59f-414b-988d-3a7c0544146a
+  type: content
+  parameters:
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Article by Slug Content/items/0/elements/title/value}
+        en-GB: ${#jptr:/Article by Slug Content/items/0/elements/title/value}
+        en-NL: ${#jptr:/Article by Slug Content/items/0/elements/title/value}
+        en-US: ${#jptr:/Article by Slug Content/items/0/elements/title/value}
+        fr-CA: ${#jptr:/Article by Slug Content/items/0/elements/title/value}
+        nl-NL: ${#jptr:/Article by Slug Content/items/0/elements/title/value}
+    content:
+      type: json
+      value: ${#jptr:/Article by Slug Content/items/0/elements/content/value}
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h1
+  _dataResources:
+    Article by Slug Content:
+      type: kontentAiArticleBySlug
+      variables:
+        limit: '5'
+        order: ''
+        keyword: how-to-get-the-perfect-grind-for-your-beans
+        language: ${locale}
+        sortOrder: asc
+        contentType: article
+        sortElement: ''
+        languageQuery: '&language=${locale}'
+        searchByQuery: >-
+          elements.slug[range]=how-to-get-the-perfect-grind-for-your-beans,how-to-get-the-perfect-grind-for-your-beans~
+        contentTypeQuery: '&system.type[eq]=article'
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    parameters:
+      link: 'yes'
+      text: 'yes'
+      title: 'yes'
+      content: 'yes'
+      titleStyle: 'yes'
+  _locales:
+    - fr-CA
+    - nl-NL
+    - en-US
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:39.37968+00:00'
+modified: '2024-02-28T12:50:39.37968+00:00'
+pattern: true
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Content_preview_image
+categoryId: 94a7a423-8c09-4264-8495-c562c17d811e

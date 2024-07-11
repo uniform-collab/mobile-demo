@@ -1,0 +1,25 @@
+id: faq
+name: FAQ
+created: '2024-02-28T12:51:45.8152+00:00'
+updated: '2024-02-28T12:51:45.8152+00:00'
+slugSettings:
+  required: 'no'
+useTeamPermissions: true
+fields:
+  - id: title
+    name: Title
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: description
+    name: Description
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+entryName: title
+description: ''
+icon: file-document
+type: contentType
+permissions: []

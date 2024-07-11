@@ -1,0 +1,105 @@
+created: '2024-02-28T12:53:28.796111+00:00'
+modified: '2024-02-28T12:53:28.796111+00:00'
+pattern: false
+entry:
+  _id: cc496bcd-97cc-4580-9c40-636acd66b81e
+  _name: JavaDrip Specialty Coffee Maker
+  _slug: javadrip-specialty-coffee-maker
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/kwUYLAoYQSqtzM7C4mtLAw-javaDrip_specialty_primary.jpg
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 691240df-1ab8-4f6a-ac3a-ad97f19c8d7d
+          type: image
+          fields:
+            id:
+              type: text
+              value: fb0316e0-29ff-4cf3-bf3e-5ffcbeaadb3f
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/kwUYLAoYQSqtzM7C4mtLAw-javaDrip_specialty_primary.jpg
+              type: text
+            file:
+              type: file
+              value: d275fc3b-90c3-4b07-9844-14c4e4e4218a
+            size:
+              value: 112636
+              type: number
+            title:
+              type: text
+              value: javaDrip_specialty_primary.jpg
+            width:
+              value: 1000
+              type: number
+            height:
+              value: 1000
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: JavaDrip Specialty Coffee Maker
+        fr-CA: Cafetière spécialisée de Javadrip
+        nl-NL: Javadrip Specialty Coffee Maker
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Start each and every morning off right with tasty coffee brewed with
+          this JavaDrip coffee maker! An essential small appliance for any
+          kitchen, a coffee maker is sure to be used on a daily basis. No matter
+          if you're a decaf drinker, or are looking to brew a strong cup of joe
+          to get you up and moving, this JavaDrip coffee maker is sure to get
+          the job done!
+
+
+          The Specialty coffee maker offers plenty of features that help you
+          create a fresh-brewed cup of your favorite beverage. Combine
+          super-rich coffee concentrates with hot or cold frothed milk to create
+          delicious coffeehouse-style drinks, or enjoy flavorful iced coffee
+          that never tastes watered down. The unique design also allows you to
+          brew anything from a single cup to a half- or full-carafe using your
+          favorite grounds - no pods required.
+        fr-CA: >-
+          Commencez chaque matin avec un café savoureux brassée avec cette
+          cafetière Javadrip!Un petit appareil essentiel pour toute cuisine, une
+          cafetière est sûre d'être utilisée quotidiennement.Peu importe si vous
+          êtes un buveur décaféré ou que vous cherchez à préparer une bonne
+          tasse de Joe pour vous monter et bouger, cette cafetière Javadrip est
+          sûre de faire le travail!
+
+
+          La cafetière spécialisée offre de nombreuses fonctionnalités qui vous
+          aident à créer une tasse fraîche de votre boisson préférée.Mélanger
+          les concentrés de café super riches avec du lait mousseux chaud ou
+          froid pour créer de délicieuses boissons de style café, ou déguster un
+          café glacé savoureux qui ne goûte jamais.Le design unique vous permet
+          également de brasser de tout, d'une seule tasse à un mi-carafon à
+          l'aide de vos terrains préférés - pas de gousses requises.
+        nl-NL: >-
+          Begin elke ochtend goed met smakelijke koffie gebrouwen met dit
+          Javadrip -koffiezetapparaat!Een essentieel klein apparaat voor elke
+          keuken, een koffiezetapparaat zal zeker dagelijks worden gebruikt.Het
+          maakt niet uit of je een decaf -drinker bent, of op zoek bent naar een
+          sterk kopje Joe om je op te gaan en te bewegen, dit Javadrip
+          -koffiezetapparaat zal de klus zeker doen!
+
+
+          Het speciale koffiezetapparaat biedt veel functies die u helpen een
+          vers gebrouwen kopje van uw favoriete drankje te maken.Combineer
+          superrijke koffieconcentraten met warme of koude schuim met melk om
+          heerlijke drankjes in koffiehuis-stijl te creëren, of geniet van
+          smaakvolle ijskoffie die nooit naar beneden wordt geslagen.Met het
+          unieke ontwerp kunt u ook alles brouwen, van één beker tot een half-
+          of volledige carafe met behulp van uw favoriete terrein- geen pods
+          vereist.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,49 @@
+id: blog
+name: Blog
+created: '2024-02-28T12:51:44.944313+00:00'
+updated: '2024-02-28T12:51:44.944313+00:00'
+slugSettings:
+  required: 'no'
+useTeamPermissions: true
+fields:
+  - id: title
+    name: Title
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+  - id: content
+    name: Content
+    type: richText
+    helpText: ''
+    typeConfig:
+      elements:
+        builtIn:
+          - h1
+          - h2
+          - h3
+          - h4
+          - h5
+          - h6
+          - unorderedList
+          - orderedList
+          - link
+          - quote
+          - code
+          - variable
+      required: false
+      formatting:
+        builtIn:
+          - bold
+          - italic
+          - underline
+          - strikethrough
+          - code
+          - superscript
+          - subscript
+    localizable: true
+entryName: title
+description: ''
+icon: file-document
+type: contentType
+permissions: []

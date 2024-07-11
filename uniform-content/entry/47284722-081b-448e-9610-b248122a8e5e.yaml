@@ -1,0 +1,75 @@
+created: '2024-02-28T12:52:28.809444+00:00'
+modified: '2024-02-28T12:52:28.809444+00:00'
+pattern: false
+entry:
+  _id: 47284722-081b-448e-9610-b248122a8e5e
+  _name: Buy one, get one free
+  _slug: buy-one-get-one-free
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/02uL2ilIQwKMNHoKd5coqA-bogo.svg
+  type: promotion
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 22ab64df-8159-42f7-87ad-095bc4f279ae
+          type: image
+          fields:
+            id:
+              type: text
+              value: 13d166ab-c490-4b03-a77a-82902f36d919
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/02uL2ilIQwKMNHoKd5coqA-bogo.svg
+              type: text
+            file:
+              type: file
+              value: 1866a3ed-1ec8-418b-81eb-e3bb2b00e582
+            size:
+              value: 4461
+              type: number
+            title:
+              type: text
+              value: bogo.svg
+            width:
+              value: 113
+              type: number
+            height:
+              value: 113
+              type: number
+            mediaType:
+              value: image/svg+xml
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Buy one, get one free
+        fr-CA: Acheter un en obtenir un gratuitement
+        nl-NL: Een plus een gratis
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Purchase one item and receive another item of equal or lesser value
+          for free. Now is your time to stock up on the products you love.
+
+
+          JD-BOGO
+        fr-CA: >-
+          Achetez un article et recevez un autre article de valeur égale ou
+          moindre gratuitement.Il est maintenant temps de faire le plein des
+          produits que vous aimez.
+
+
+          Jd-bogo
+        nl-NL: >-
+          Koop een item en ontvang gratis een ander item van gelijke of mindere
+          waarde.Dit is uw tijd om de producten waar u van houdt in te slaan.
+
+
+          Jd-bogo
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

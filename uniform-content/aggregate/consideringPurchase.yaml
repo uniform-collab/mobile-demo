@@ -1,0 +1,9 @@
+id: consideringPurchase
+name: Considering Purchase
+description: ''
+type: 1
+inputs:
+  - dim: coffeeBeansInterest
+    sign: +
+  - dim: int_c
+    sign: +

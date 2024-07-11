@@ -1,0 +1,70 @@
+composition:
+  _name: Profile
+  _id: b699eebe-b3ab-48c6-aa45-514aff125d8f
+  _slug: profile
+  type: page
+  parameters:
+    pageTitle:
+      type: text
+      locales:
+        en-CA: Profile Page
+        en-GB: Profile Page
+        en-NL: Profile Page
+        en-US: Profile Page
+        fr-CA: Page de profil
+        nl-NL: Profiel pagina
+  slots:
+    pageContent:
+      - _id: cb6fe7e5-94a9-44fc-a1b2-579027dca916
+        type: tabs
+        slots:
+          tabs:
+            - _id: 7d747a37-e063-4bb7-b4d1-8dddd5d9ea53
+              type: tab
+              slots:
+                content:
+                  - _id: 39c472ac-4487-45f0-94ec-29aa2374a66e
+                    type: userProfileContent
+                  - _id: e78f2e35-7de4-4884-9327-ac2c905ed70d
+                    type: segmentProfileContent
+              parameters:
+                title:
+                  type: text
+                  locales:
+                    en-CA: CDP
+                    en-GB: CDP
+                    en-NL: CDP
+                    en-US: CDP
+                    fr-CA: CDP
+                    nl-NL: CDP
+            - _id: bcebf75e-d663-44b7-bf14-bff467ae23fd
+              type: tab
+              slots:
+                content:
+                  - _id: 1320a943-00a3-4410-92f3-73045f00a103
+                    type: orderHistory
+              parameters:
+                title:
+                  type: text
+                  locales:
+                    en-CA: Order History
+                    en-GB: Order History
+                    en-NL: Order History
+                    en-US: Order History
+                    fr-CA: Historique des commandes
+                    nl-NL: Bestelgeschiedenis
+        variant: bordered
+        parameters:
+          size:
+            type: tp-slider-parameter
+            value: large
+  _locales:
+    - en-US
+    - fr-CA
+    - nl-NL
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:51:03.511674+00:00'
+modified: '2024-03-14T12:22:18.173903+00:00'
+pattern: false

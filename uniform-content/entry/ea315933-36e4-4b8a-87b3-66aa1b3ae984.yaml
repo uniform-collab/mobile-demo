@@ -1,0 +1,61 @@
+created: '2024-02-28T12:52:13.138599+00:00'
+modified: '2024-02-28T12:52:13.138599+00:00'
+pattern: false
+entry:
+  _id: ea315933-36e4-4b8a-87b3-66aa1b3ae984
+  _name: Announcing the JavaDrip Specialty Coffee Maker!!!
+  _slug: announcing-the-javadrip-specialty-coffee-maker
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/kwUYLAoYQSqtzM7C4mtLAw-javaDrip_specialty_primary.jpg
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 63817e6b-fa6e-4d1c-af21-3d8557cf82bc
+          type: image
+          fields:
+            id:
+              type: text
+              value: fb0316e0-29ff-4cf3-bf3e-5ffcbeaadb3f
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/kwUYLAoYQSqtzM7C4mtLAw-javaDrip_specialty_primary.jpg
+              type: text
+            file:
+              type: file
+              value: d275fc3b-90c3-4b07-9844-14c4e4e4218a
+            size:
+              value: 112636
+              type: number
+            title:
+              type: text
+              value: javaDrip_specialty_primary.jpg
+            width:
+              value: 1000
+              type: number
+            height:
+              value: 1000
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Announcing the JavaDrip Specialty Coffee Maker!!!
+        fr-CA: Annonçant la cafetière spécialisée de Javadrip !!!
+        nl-NL: Het aankondigen van de Javadrip Specialty Coffee Maker !!!
+    description:
+      type: text
+      locales:
+        en-US: Our first feature packed machine that won't break your budget
+        fr-CA: >-
+          Notre première caractéristique emballée qui ne cassera pas votre
+          budget
+        nl-NL: Onze eerste functie -machine die uw budget niet zal verbreken
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,17 @@
+id: blog
+displayName: Blog
+ttl: 30
+path: /single
+custom:
+  proposedName: Blog
+  allowedContentTypes:
+    - blog
+method: GET
+purgeKey: 9737a380-cdea-49a6-9d73-2008990a66d6
+archetype: singleEntry
+variables:
+  entryId:
+    type: text
+    default: ''
+dataSourceId: uniformContent
+allowedOnComponents: []

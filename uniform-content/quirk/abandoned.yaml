@@ -1,0 +1,8 @@
+id: abandoned
+name: Abandoned
+description: ''
+options:
+  - name: 'true'
+    value: 'true'
+  - name: 'false'
+    value: 'false'

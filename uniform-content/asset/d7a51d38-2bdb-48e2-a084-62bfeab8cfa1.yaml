@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: d7a51d38-2bdb-48e2-a084-62bfeab8cfa1
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: bundle_deal.svg
+    file:
+      type: file
+      value: 506b581d-ac35-4e6a-9557-68ddfa137f01
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Vigv6f6MTvKhRe-zP8Udfw-bundle_deal.svg
+      type: text
+    size:
+      value: 3418
+      type: number
+    width:
+      value: 113
+      type: number
+    height:
+      value: 113
+      type: number
+    custom: {}
+created: '2024-02-28T12:34:46.311509+00:00'
+modified: '2024-02-28T13:34:36.541424+00:00'

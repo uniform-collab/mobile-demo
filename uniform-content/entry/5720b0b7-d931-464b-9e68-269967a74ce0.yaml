@@ -1,0 +1,43 @@
+created: '2024-02-28T12:52:42.848291+00:00'
+modified: '2024-02-28T12:52:42.848291+00:00'
+pattern: false
+entry:
+  _id: 5720b0b7-d931-464b-9e68-269967a74ce0
+  _name: Do you have guides on how to use the Cervello di Caffè?
+  _slug: do-you-have-guides-on-how-to-use-the-cervello-di-caff
+  type: faq
+  fields:
+    title:
+      type: text
+      locales:
+        en-US: Do you have guides on how to use the Cervello di Caffè?
+        fr-CA: Avez-vous des guides sur la façon d'utiliser le Cervello di Caffè?
+        nl-NL: Heb je gidsen over hoe je de Cervello di Caffè kunt gebruiken?
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Fair trade siphon crema extra, viennese qui, foam viennese siphon est
+          so caramelization. Carajillo sit ut extra chicory aged instant crema
+          chicory. Et, dark a cup, cortado, siphon at arabica flavour macchiato.
+          Cream, at, acerbic redeye iced americano coffee white. To go et,
+          steamed a café au lait, single origin aftertaste frappuccino blue
+          mountain whipped.
+        fr-CA: >-
+          Fair Trade Siphon Crema Extra, viennois Qui, mousse Viennois Siphon
+          est So Caramelization.Carajillo assis ut extra chicorée âgée de Crema
+          Instant Crema Chicory.Et, noir A tasse, Cortado, siphon à l'arabica
+          saveur macchiato.Crème, à, acerbic redeye glacé Americano Coffee
+          White.Pour aller et cuit à la vapeur d'un Café au Lait, un
+          arrière-goût d'origine unique Frappuccino Blue Mountain fouetté.
+        nl-NL: >-
+          Fair Trade Siphon Crema Extra, Weense qui, schuim Weense sifon est dus
+          karamelisatie.Carajillo Sit Ut Extra witlof Aged Instant Crema
+          Chicory.ET, Dark A Cup, Cortado, Siphon bij Arabica Flavour
+          Macchiato.Cream, AT, Acerbic Redeye Iced Americano Coffee White.To Go
+          ET, stoomde een café au lait, single origin aftaste frappuccino blauwe
+          berg geslagen.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

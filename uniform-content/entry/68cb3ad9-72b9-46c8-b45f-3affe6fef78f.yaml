@@ -1,0 +1,1734 @@
+created: '2024-02-28T12:53:04.71008+00:00'
+modified: '2024-02-28T12:53:04.71008+00:00'
+pattern: false
+entry:
+  _id: 68cb3ad9-72b9-46c8-b45f-3affe6fef78f
+  _name: French Press - What is It and History of It
+  _slug: french-press-what-is-it-and-history-of-it
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/ICbp4-PWSySPGGtt5qyhlA-french_press_header_image.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Editorial
+    title:
+      type: text
+      locales:
+        en-US: French Press - What is It and History of It
+        fr-CA: Presse française - qu'est-ce que ça et l'histoire
+        nl-NL: Franse pers - wat is het en geschiedenis ervan
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "A coffee plunger, a cafetière, a press pot or plunger pot and of course, simply French press has many names. But why so many of us like it?\_I guess it's\_be because it brings a cafe experience to home and makes delicious, rich, full-bodied brew. French press is so common that one would not call it a specialty coffee brewer, and yet you just might be wrong. The famous James Hoffman (whose youtube video tutorial\_is the most\_viewed one) validated it to be a specialty coffee brewer – hooray. ?"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The\_History of La Cafetiere"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      So, a bit of history is necessary in any article, isn't
+                      so? The fact that the first design on earth was done by
+                      the Frenchmen in 1852, is correct, but it was without a
+                      seal inside the carafe. There‘s a bit of debate as you can
+                      imagine regarding who invented it. French or Italians?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "You might not know but the cafetiere was invented and first patented in Italy, by the Italian, Milanese designer Attilio Calimani in 1933 or some say even in 1929.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Later in the years of perfecting the device, a by Swiss guy Faliero Bondanini designed the coffee plunger in \_1958 we know or at least French do know – glass vessel, round handle, steel lid. \_The device became so popular as it was called by the company who produced it –\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Chambord. The Martin S.A company, called Chambord, produced it until it was bought by the Danish\_ Bodum\_in 1991. And that is why, younger generation might simply refer to cafetiere as Bodum (good danes kept the Chambord design original). \_But it took some time for the gadget to arrive to United States and also for dictionaries to accept the term."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      *Interesting fact: Bodum company attempted to register
+                      “French Press” as a trademark in several territories, but
+                      was cut out in the U.S.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      This timeless design of heat-resistant Pyrex glass beaker,
+                      black durable bakelite plastic, chrome frame and handle
+                      made its way to the big world. The popularity hasn‘t
+                      shrunk from the first launch. Why? Because the simple and
+                      modest design follows practicality: easy to dismantle,
+                      thus clean and replace any parts. Genius idea, huh? And
+                      cool thing is that those plunger pots have not deviated
+                      from the original design so much. Of course companies
+                      evolve and manufacture them in zillions of colors and
+                      materials, the simplicity and design remains almost the
+                      same, well-known and dear. Brands like Hario, Bialetti,
+                      Barista & Co and OXO all offer their own version of design
+                      and style.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Water temperature and quality play a big role in coffee
+                      brewing.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Just to remember, if somebody asks you – French press is a full immersion brewing device not a pour over and\_it brews\_full-bodied coffee with more oils and texture in the remaining product as well as sandy mouthfeel. While controlling water temperature, grind size and brew time, it is possible to experience more subtle aromas and flavors of each brew."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      So how to make fresh, delicious and full-bodied coffee?
+                      Let‘s get to it.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: How to brew with French press
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "So, one would say that they know it all and it is easy peasy to make coffee with French Press: put the coffee and hot water, wait four minutes, plunge and enjoy. And I would agree, but\_to make a great tasting coffee, I‘ll just leave the essentials here."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "So, nothing new to say when preparing to brew\_coffee: make sure your coffee is fresh, grind according to your method and take care of water temperature."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Remember to set aside a time for making coffee with
+                      excellent coffee beans on hand.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: French press requires a bit coarser grind.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Select a recipe – I\_would recommend 60 g of coffee to 900 ml- 1000 ml\_of water, water temperature 92-94 C (a small French Press, then 30 g of coffee and 500 ml of water)."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Grind size – medium coarse, granules rather than sand
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Coffee dose or brew ratio is rather simple, 1:15 – or 15 g
+                      of coffee per every 225 g of water. Adjust until you find
+                      what suits your taste best.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Water temperature and fresh, filtered, soft water – try
+                      brewing with 94 C, 92C and 90 C of water and experiment
+                      with taste.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Brew time – 4 minutes is a recommended time, a golden
+                      standard so to say.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: BREW PROCESS - INSPIRED BY JAMES HOFFMAN
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Pour the freshly ground coffee
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Pour the water slowly to ensure that all of\_the grounds are saturated."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Wait for 4 minutes
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      After 4 minutes, stir the crust, take whats left on the
+                      surface with the spoon, discard
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Wait for 5 or 7 more minutes – it‘s still too hot to drink so go make breakfast, gaze thru the window or read. Because the longer you leave it, the better it will taste.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "After 5-7 minutes of waiting impatiently, plunge it down delicately till its sitting on the surface of the coffee (do not press heavily down as you will stir all the sediments).\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Now pour the most delicious coffee to your favorite cup.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Enjoy the coffee moment you just made for yourself.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'FRENCH PRESS WHAT IFS:'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Quite hard to press the filter down? Your grind is too
+                      fine; conversely if there is minimal resistance then the
+                      grind is too coarse. Play with all the variables if the
+                      taste doesn't please you. Making coffee should be
+                      enjoyable and experimental!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Want real kick of caffeine – keep it in french press and drink it once cool. If not - serve immediately after brewing (The longer you keep coffee in cafetiere, the more bitter and more extracted your coffee will be). If you are not going to drink all the coffee at once, pour it into another glass or server.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Cleaning is really TOP priority for flavorful coffee, so
+                      clean often and really thoroughly, as old coffee grounds
+                      have the tendency to stuck in the filters, will have no
+                      mercy on your fresh coffee. Most filters can be
+                      disassembled for cleaning
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      *Interesting fact no. 2: George Howell, an American
+                      specialty coffee pioneer in early 1970s, who started
+                      Coffee Connection who was later acquired by the Starbucks
+                      Corporation – he and the team used only French press to
+                      serve their origins coffee (and they would sometimes have
+                      12 origins on the menu). Imagine that, all brewed with a
+                      French press at that time. But hey, it does have a great
+                      potential to brew delicious cup.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Une cafetière à piston, une cafetière, une cafetière à piston ou une cafetière à piston et bien sûr, une simple presse française a de nombreux noms. Mais pourquoi tant d’entre nous l’aiment-ils ? Je suppose que c'est parce qu'il apporte une expérience de café à la maison et donne une bière délicieuse, riche et corsée. La presse française est si courante qu’on ne la qualifierait pas de machine à café de spécialité, et pourtant vous vous trompez peut-être. Le célèbre James Hoffman (dont le didacticiel vidéo sur YouTube\_est le plus\_vu) a validé qu'il s'agissait d'une cafetière de spécialité - hourra. ?"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: L'histoire de La Cafetière
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Alors, un peu d’histoire est nécessaire dans tout article,
+                      n’est-ce pas ? Le fait que le premier modèle sur terre ait
+                      été réalisé par les Français en 1852 est exact, mais il
+                      n'y avait pas de sceau à l'intérieur de la carafe. Comme
+                      vous pouvez l’imaginer, il y a un peu de débat quant à
+                      savoir qui l’a inventé. Français ou Italiens ?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vous ne le savez peut-être pas, mais la cafetière a été
+                      inventée et brevetée pour la première fois en Italie, par
+                      le designer italien et milanais Attilio Calimani en 1933
+                      ou même, disent certains, en 1929.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Plus tard, au cours des années de perfectionnement de l'appareil, le Suisse Faliero Bondanini a conçu le piston à café en 1958 que nous connaissons ou du moins les Français connaissent\_: récipient en verre, poignée ronde, couvercle en acier. L'appareil est devenu si populaire que l'a appelé l'entreprise qui l'a produit\_:"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Chambord. La société Martin S.A, appelée Chambord, l'a
+                      produit jusqu'à son rachat par le danois Bodum en 1991. Et
+                      c'est pourquoi la jeune génération pourrait simplement
+                      appeler la cafetière Bodum (les bons danois ont gardé le
+                      design original de Chambord). Mais il a fallu un certain
+                      temps pour que le gadget arrive aux États-Unis et que les
+                      dictionnaires acceptent le terme.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "*Fait intéressant\_: la société Bodum a tenté d'enregistrer « French Press » en tant que marque dans plusieurs territoires, mais a été supprimée aux États-Unis."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Ce design intemporel composé d'un bécher en verre Pyrex
+                      résistant à la chaleur, d'un plastique bakélite noir
+                      durable, d'un cadre et d'une poignée chromés a fait son
+                      chemin vers le grand monde. La popularité n’a pas diminué
+                      depuis le premier lancement. Pourquoi? Parce que le design
+                      simple et modeste suit l'aspect pratique : facile à
+                      démonter, donc à nettoyer et à remplacer toutes les
+                      pièces. Idée géniale, hein ? Et ce qui est cool, c'est que
+                      ces pots à piston ne se sont pas tellement écartés du
+                      design original. Bien sûr, les entreprises évoluent et les
+                      fabriquent dans des millions de couleurs et de matériaux,
+                      la simplicité et le design restent presque les mêmes, bien
+                      connus et chers. Des marques comme Hario, Bialetti,
+                      Barista & Co et OXO proposent toutes leur propre version
+                      du design et du style.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      La température et la qualité de l’eau jouent un rôle
+                      important dans la préparation du café.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "N'oubliez pas que si quelqu'un vous le demande\_: la presse française est un appareil d'infusion à immersion totale et non un système de versement et elle prépare un café corsé avec plus d'huiles et de texture dans le produit restant ainsi qu'une sensation en bouche sablonneuse. Tout en contrôlant la température de l'eau, la taille de la mouture et le temps d'infusion, il est possible de découvrir des arômes et des saveurs plus subtils de chaque infusion."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Alors comment préparer un café frais, délicieux et corsé ?
+                      Allons-y.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Comment brasser avec la presse française
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Alors on dirait qu'ils savent tout et que faire du café avec une French Press est très simple : mettre le café et l'eau chaude, attendre quatre minutes, plonger et déguster. Et je serais d’accord, mais\_pour préparer un café savoureux, je vais simplement laisser l’essentiel ici."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Rien de nouveau donc à dire lors de la préparation de la préparation du café\_: assurez-vous que votre café est frais, moudre selon votre méthode et faites attention à la température de l'eau."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      N'oubliez pas de prévoir un moment pour préparer le café
+                      avec d'excellents grains de café à portée de main.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      La presse française nécessite une mouture un peu plus
+                      grossière.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Sélectionnez une recette – je\_recommanderais 60\_g de café pour 900\_ml\_- 1\_000\_ml\_d'eau, température de l'eau 92-94\_C (une petite presse française, puis 30\_g de café et 500\_ml d'eau)."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Taille de mouture – moyennement grossière, granulés plutôt
+                      que sable
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      La dose de café ou le rapport d'infusion est plutôt
+                      simple, 1:15 – soit 15 g de café pour 225 g d'eau. Ajustez
+                      jusqu'à ce que vous trouviez ce qui convient le mieux à
+                      votre goût.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Température de l'eau et eau fraîche, filtrée et douce –
+                      essayez de brasser avec de l'eau à 94 °C, 92 °C et 90 °C
+                      et expérimentez le goût.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Temps d'infusion – 4 minutes est un temps recommandé, un
+                      standard d'or pour ainsi dire.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: PROCESSUS DE BRASSAGE - INSPIRÉ PAR JAMES HOFFMAN
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Versez le café fraîchement moulu
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Versez l'eau lentement pour vous assurer que tous les sols
+                      sont saturés.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Attendez 4 minutes
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Au bout de 4 minutes, remuez la croûte, prélevez ce qui
+                      reste à la surface avec la cuillère, jetez
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Attendez encore 5 ou 7 minutes – il fait encore trop chaud
+                      pour boire, alors allez préparer le petit-déjeuner,
+                      regardez par la fenêtre ou lisez. Parce que plus vous le
+                      laissez longtemps, meilleur sera son goût.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Après 5 à 7 minutes d'attente avec impatience, plongez-le
+                      délicatement jusqu'à ce qu'il repose à la surface du café
+                      (n'appuyez pas trop fort car vous remueriez tous les
+                      sédiments).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Versez maintenant le café le plus délicieux dans votre
+                      tasse préférée.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Profitez du moment café que vous venez de préparer pour
+                      vous-même.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "PRESSE FRANÇAISE ET SI\_:"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "C'est assez difficile d'appuyer sur le filtre ? Votre mouture est trop fine\_; à l'inverse, s'il y a une résistance minime, la mouture est trop grossière. Jouez avec toutes les variables si le goût ne vous plaît pas. Faire du café doit être agréable et expérimental\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vous voulez un vrai coup de caféine – conservez-le dans
+                      une presse française et buvez-le une fois refroidi. Sinon,
+                      servez immédiatement après l'infusion (plus vous conservez
+                      le café dans la cafetière longtemps, plus votre café sera
+                      amer et extrait). Si vous ne buvez pas tout le café d’un
+                      coup, versez-le dans un autre verre ou sur une autre
+                      cuillère.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Le nettoyage est vraiment la priorité absolue pour un café
+                      savoureux, donc nettoyez souvent et très soigneusement,
+                      car le vieux marc de café a tendance à rester coincé dans
+                      les filtres, n'aura aucune pitié pour votre café frais. La
+                      plupart des filtres peuvent être démontés pour le
+                      nettoyage
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "*Fait intéressant non. 2\_: George Howell, un pionnier américain du café de spécialité au début des années 1970, qui a lancé Coffee Connection, qui a ensuite été racheté par Starbucks Corporation. Lui et son équipe utilisaient uniquement une presse française pour servir leur café d'origine (et ils avaient parfois 12 origines sur le café). menu). Imaginez ça, le tout brassé avec une presse française à cette époque. Mais bon, elle a un grand potentiel pour préparer de délicieuses tasses."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Een koffieplunjer, een cafetière, een perspot of
+                      plunjerpot en natuurlijk gewoon French press kent vele
+                      namen. Maar waarom vinden zo velen van ons het leuk? Ik
+                      denk dat dit komt omdat het een café-ervaring in huis
+                      haalt en een heerlijk, rijk en vol brouwsel oplevert. De
+                      Franse pers is zo gangbaar dat je het geen koffiebrouwerij
+                      voor speciale koffie zou noemen, en toch heb je het
+                      misschien mis. De beroemde James Hoffman (wiens
+                      YouTube-video-tutorial de meest bekeken is) heeft
+                      bevestigd dat het een koffiebrouwer is – hoera. ?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: De geschiedenis van La Cafetière
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Een beetje geschiedenis is dus noodzakelijk in elk
+                      artikel, nietwaar? Het feit dat het eerste ontwerp op
+                      aarde in 1852 door de Fransen werd gedaan, klopt, maar het
+                      zat zonder zegel in de karaf. Er is wat discussie, zoals
+                      je je kunt voorstellen, over wie het heeft uitgevonden.
+                      Fransen of Italianen?
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Je weet het misschien niet, maar de koffiekan werd
+                      uitgevonden en voor het eerst gepatenteerd in Italië, door
+                      de Italiaanse, Milanese ontwerper Attilio Calimani in 1933
+                      of volgens sommigen zelfs in 1929.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Later in de jaren waarin het apparaat werd
+                      geperfectioneerd, ontwierp een Zwitser Faliero Bondanini
+                      in 1958 de koffieplunjer die we kennen of in ieder geval
+                      de Fransen kennen: glazen vat, rond handvat, stalen
+                      deksel. Het apparaat werd zo populair zoals het werd
+                      genoemd door het bedrijf dat het produceerde:
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Chambord. Het bedrijf Martin S.A, genaamd Chambord,
+                      produceerde het totdat het in 1991 werd gekocht door het
+                      Deense Bodum. En dat is de reden waarom de jongere
+                      generatie eenvoudigweg naar de koffiekan zou kunnen
+                      verwijzen als Bodum (goede Denen hielden het
+                      Chambord-ontwerp origineel). Maar het duurde enige tijd
+                      voordat het gadget in de Verenigde Staten arriveerde en
+                      ook voordat woordenboeken de term accepteerden.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      *Interessant feit: het bedrijf Bodum probeerde in
+                      verschillende gebieden ‘French Press’ als handelsmerk te
+                      registreren, maar werd in de VS uitgesloten.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dit tijdloze ontwerp van hittebestendige Pyrex glazen
+                      beker, zwart duurzaam bakeliet kunststof, chroom frame en
+                      handvat vond zijn weg naar de grote wereld. De
+                      populariteit is niet gekrompen vanaf de eerste lancering.
+                      Waarom? Omdat het eenvoudige en bescheiden ontwerp de
+                      praktijk volgt: gemakkelijk te demonteren, dus schoon te
+                      maken en eventuele onderdelen te vervangen. Geniaal idee,
+                      hè? En het leuke is dat die plunjerpotten niet zoveel zijn
+                      afgeweken van het originele ontwerp. Natuurlijk evolueren
+                      bedrijven en produceren ze in ontelbare kleuren en
+                      materialen, de eenvoud en het ontwerp blijven vrijwel
+                      hetzelfde, bekend en dierbaar. Merken als Hario, Bialetti,
+                      Barista & Co en OXO bieden allemaal hun eigen versie van
+                      design en stijl.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De watertemperatuur en -kwaliteit spelen een grote rol bij
+                      het zetten van koffie.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Om te onthouden: als iemand het je vraagt: de Franse pers
+                      is een brouwapparaat met volledige onderdompeling en geen
+                      overgietapparaat, en het zet volle koffie met meer oliën
+                      en textuur in het resterende product en een zanderig
+                      mondgevoel. Terwijl u de watertemperatuur, de maalgrootte
+                      en de zettijd regelt, is het mogelijk om subtielere
+                      aroma's en smaken van elk brouwsel te ervaren.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Dus hoe maak je verse, heerlijke en volle koffie? Laten we
+                      aan de slag gaan.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Hoe te brouwen met Franse pers
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Je zou dus kunnen zeggen dat ze het allemaal weten en dat
+                      het gemakkelijk is om koffie te zetten met de French
+                      Press: zet de koffie en het hete water, wacht vier
+                      minuten, duik erin en geniet ervan. En daar ben ik het mee
+                      eens, maar om een heerlijk smakende koffie te zetten, laat
+                      ik de essentie hier achter.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Er is dus niets nieuws te zeggen bij het voorbereiden van
+                      het zetten van koffie: zorg ervoor dat uw koffie vers is,
+                      maal volgens uw eigen methode en let op de
+                      watertemperatuur.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vergeet niet om tijd vrij te maken voor het zetten van
+                      koffie met uitstekende koffiebonen bij de hand.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Franse pers vereist een iets grovere maling.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Selecteer een recept – ik raad 60 g koffie aan op 900 ml -
+                      1000 ml water, watertemperatuur 92-94 C (een kleine French
+                      Press, daarna 30 g koffie en 500 ml water).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Maalgrootte – medium grof, korrels in plaats van zand
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De koffiedosis of zetverhouding is vrij eenvoudig, 1:15 –
+                      of 15 g koffie per 225 g water. Pas aan totdat u vindt wat
+                      het beste bij uw smaak past.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Watertemperatuur en vers, gefilterd, zacht water – probeer
+                      te brouwen met water van 94 C, 92 C en 90 C en
+                      experimenteer met smaak.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Zettijd – 4 minuten is een aanbevolen tijd, een gouden
+                      standaard om zo te zeggen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: BROUWPROCES - GEÏNSPIREERD DOOR JAMES HOFFMAN
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Giet de versgemalen koffie
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Giet het water langzaam om ervoor te zorgen dat alle
+                      koffiedik verzadigd is.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Wacht 4 minuten
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Roer na 4 minuten de korst om, neem met de lepel wat er
+                      nog over is van het oppervlak en gooi het weg
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Wacht nog 5 of 7 minuten – het is nog steeds te warm om te
+                      drinken, dus ga ontbijten, kijk door het raam of lees.
+                      Want hoe langer je het laat staan, hoe lekkerder het zal
+                      smaken.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Na 5-7 minuten ongeduldig wachten, dompelt u hem
+                      voorzichtig naar beneden totdat hij op het oppervlak van
+                      de koffie zit (druk niet zwaar naar beneden, want dan
+                      roert u alle bezinksel).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Schenk nu de lekkerste koffie in jouw favoriete kopje.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Geniet van het koffiemoment dat je zojuist voor jezelf
+                      hebt gemaakt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'FRANSE PERS WAT ALS:'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Is het moeilijk om het filter naar beneden te drukken? Je
+                      maling is te fijn; omgekeerd, als er minimale weerstand
+                      is, is de maling te grof. Speel met alle variabelen als de
+                      smaak je niet bevalt. Koffie zetten moet leuk en
+                      experimenteel zijn!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Wil je een echte kick van cafeïne? Bewaar het in een
+                      Franse pers en drink het eenmaal afgekoeld. Als dit niet
+                      het geval is, serveer dan onmiddellijk na het zetten (hoe
+                      langer u de koffie in de koffiekan bewaart, hoe bitterder
+                      en extractiever uw koffie zal zijn). Als u niet alle
+                      koffie in één keer wilt opdrinken, giet deze dan in een
+                      ander glas of serveerschaal.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Schoonmaken is echt de TOP-prioriteit voor smaakvolle
+                      koffie, dus maak vaak en heel grondig schoon, want oud
+                      koffiedik heeft de neiging in de filters te blijven zitten
+                      en zal geen genade hebben voor uw verse koffie. De meeste
+                      filters kunnen worden gedemonteerd om te worden gereinigd
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      *Interessant feit nr. 2: George Howell, een Amerikaanse
+                      pionier op het gebied van koffiespecialiteiten begin jaren
+                      zeventig, die Coffee Connection oprichtte, die later werd
+                      overgenomen door de Starbucks Corporation – hij en het
+                      team gebruikten alleen een Franse pers om hun
+                      originekoffie te serveren (en soms hadden ze twaalf
+                      origines op de menu). Stel je voor, allemaal destijds
+                      gebrouwen met een Franse pers. Maar goed, het heeft wel
+                      een groot potentieel om heerlijke kopjes te brouwen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 8a13b1c4-4aa0-4472-825a-a1d7b0bedc20
+          type: image
+          fields:
+            id:
+              type: text
+              value: 526c43fc-50ed-4343-953a-ff7c44285629
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/ICbp4-PWSySPGGtt5qyhlA-french_press_header_image.jpg
+              type: text
+            file:
+              type: file
+              value: 932f126a-386a-474d-b0c6-9205a039d6e8
+            size:
+              value: 82076
+              type: number
+            title:
+              type: text
+              value: french_press_header_image.jpg
+            width:
+              value: 1440
+              type: number
+            height:
+              value: 520
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          So, what do we know about French press? It comes from France, it‘s
+          famous all around the globe, it‘s brewed at minutes notice, serves
+          several people and gets you caffeinated so easily.  So let‘s dig into
+          the history and uses of French press.
+        fr-CA: >-
+          Alors, que savons-nous de la presse française?Il vient de la France,
+          il est célèbre partout dans le monde, il est brassé à quelques
+          minutes, sert plusieurs personnes et vous obtient une caféine si
+          facilement.Alors laissez-nous fouiller dans l'histoire et les
+          utilisations de la presse française.
+        nl-NL: >-
+          Dus, wat weten we over Franse pers?Het komt uit Frankrijk, het is
+          beroemd over de hele wereld, het is op een paar minuten op de hoogte
+          gebrouwen, serveert verschillende mensen en brengt je zo gemakkelijk
+          cafeïne.Dus laat de geschiedenis en het gebruik van de Franse pers
+          graven.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

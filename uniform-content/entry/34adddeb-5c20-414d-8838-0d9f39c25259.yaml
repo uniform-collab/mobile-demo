@@ -1,0 +1,1086 @@
+created: '2024-02-28T12:54:20.007875+00:00'
+modified: '2024-02-28T12:54:20.007875+00:00'
+pattern: false
+entry:
+  _id: 34adddeb-5c20-414d-8838-0d9f39c25259
+  _name: What is Acidity in Coffee? And is it good?
+  _slug: what-is-acidity-in-coffee-and-is-it-good
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/11nJ0qh6RRC9RyiufffJAA-acidity.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Editorial
+    title:
+      type: text
+      locales:
+        en-US: What is Acidity in Coffee? And is it good?
+        fr-CA: Qu'est-ce que l'acidité dans le café?Et est-ce bon?
+        nl-NL: Wat is zuurgraad in koffie?En is het goed?
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acidity in coffee
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Acidity is a central component of how coffee tastes. When
+                      coffee professionals discuss “acidity,” they are referring
+                      to the existence of certain acids that affect the taste of
+                      coffee. Acidity does not refer to the actual acid content;
+                      rather, it refers to a flavor note.Coffee with a high
+                      acidity level is commonly referred to as “bright.” But
+                      overall, the word “acid” can be a little perplexing, but
+                      when it comes to food, acidic isn’t really a bad thing.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acids found in coffee
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Coffee contains a wide range of acids. We will focus on
+                      the acids that survive the roasting process in this review
+                      because these are the acids that affect the final flavor
+                      of a coffee. The first ones on the list have a positive
+                      impact on coffee, while those further down the list can
+                      have both positive and negative effects.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Citric Acid
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Citric acid is found in arabica beans grown at higher
+                      elevations. This acid, commonly found in citrus fruits, is
+                      associated with lemon, lime, and grapefruit notes when
+                      mixed with phosphoric acid.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - mode: normal
+                    text: Phosphoric Acid
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                  - mode: normal
+                    text: >-
+                      Phosphoric acid tastes sweeter than most acids. It has the
+                      ability to turn a sour citrus taste into a sweeter
+                      grapefruit or mango flavor.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Malic Acid
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Although it is more common to taste apple or pear in a
+                      malic acid-containing coffee, it is often associated with
+                      hints of stone fruit, such as peaches or plums.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Chlorogenic Acids
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Chlorogenic acids (CGAs) are the primary cause of coffee’s
+                      perceived acidity. When compared to other acids, they
+                      disappear quickly during roasting and break down into
+                      Quinic and other acids. In a medium roast coffee, 50% of
+                      the CGAs have been destroyed which is why light roasts are
+                      often defined as “bright” and “acidic” rather than dark
+                      roasts.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acetic Acid
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Acetic acid, the same acid contained in vinegar, can
+                      provide a pleasant sharpness at lower concentrations.
+                      Higher acetic acid concentrations, on the other hand, are
+                      nasty. A coffee with a high acetic acid content was most
+                      likely improperly processed.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Tartaric Acid
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Tartaric acid, like acetic acid, has a bitter taste in
+                      high concentrations. It can, however, provide grape-like
+                      or wine-like notes at low concentrations, which is not
+                      surprising considering that it is found in grapes.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Quinic Acid
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Quinic acid is formed as a byproduct of the breakdown of
+                      other acids. It is abundant in darkly roasted coffee,
+                      stale coffee, and coffee that was brewed several hours ago
+                      but kept warm on a hot plate. Although it gives coffee a
+                      clean finish, quinic acid is the main acid that causes the
+                      sour feeling on your stomach.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: The Roasting Process and its Effects on Coffee Acids
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      The concentrations of specific acids change as green beans
+                      undergo chemical reactions during the roasting process.
+                      Most acids decay at higher temperatures, but some actually
+                      increase in temperature. In general, the roasting method
+                      attempts to bring out the best combination of naturally
+                      occurring acids present in a particular coffee, since
+                      these are the compounds that give the coffee its distinct
+                      characteristics.Simply put, coffee, in its purest form,
+                      contains a wide range of acids, both good and bad. Some
+                      disappear during the roasting process, while others
+                      remain, so roasting is all about finding the right
+                      combination of acidity, aroma, and body.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Finding a coffee with the right acidity
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Now you are aware that all of the flavors in a coffee can be specifically related to the acids found within it. If you can recognize the acids you want, you can look for coffees that have been grown or roasted in a way that produces certain acids and determine the best coffee for you.We’ve included fun facts on the individual product pages so you can easily find the right coffee with the right acidity that you will enjoy. You might also want to check out our\_decaf coffee beans\_if you prefer a coffee with light acidity but tastes just like regular coffee."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acidité du café
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "L'acidité est un élément central du goût du café. Lorsque les professionnels du café parlent d’« acidité », ils font référence à l’existence de certains acides qui affectent le goût du café. L'acidité ne fait pas référence à la teneur réelle en acide\_; il s’agit plutôt d’une note aromatique. Le café avec un niveau d’acidité élevé est communément appelé « brillant ». Mais dans l’ensemble, le mot « acide » peut prêter à confusion, mais lorsqu’il s’agit de nourriture, l’acide n’est pas vraiment une mauvaise chose."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acides trouvés dans le café
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Le café contient une large gamme d'acides. Nous nous
+                      concentrerons dans cette revue sur les acides qui
+                      survivent au processus de torréfaction, car ce sont ces
+                      acides qui affectent la saveur finale d'un café. Les
+                      premiers de la liste ont un impact positif sur le café,
+                      tandis que ceux plus bas dans la liste peuvent avoir des
+                      effets à la fois positifs et négatifs.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acide citrique
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L'acide citrique se trouve dans les grains arabica
+                      cultivés à des altitudes plus élevées. Cet acide, que l'on
+                      trouve couramment dans les agrumes, est associé à des
+                      notes de citron, de citron vert et de pamplemousse
+                      lorsqu'il est mélangé à de l'acide phosphorique. Acide
+                      phosphorique L'acide phosphorique a un goût plus sucré que
+                      la plupart des acides. Il a la capacité de transformer un
+                      goût d’agrumes aigre en une saveur plus sucrée de
+                      pamplemousse ou de mangue.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: L'acide malique
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Bien qu'il soit plus courant de goûter de la pomme ou de
+                      la poire dans un café contenant de l'acide malique, il est
+                      souvent associé à des notes de fruits à noyau, comme la
+                      pêche ou la prune.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acides chlorogéniques
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les acides chlorogéniques (CGA) sont la principale cause
+                      de l’acidité perçue du café. Comparés à d’autres acides,
+                      ils disparaissent rapidement pendant la torréfaction et se
+                      décomposent en acides quiniques et autres. Dans un café de
+                      torréfaction moyenne, 50 % des CGA ont été détruits, c'est
+                      pourquoi les torréfactions claires sont souvent définies
+                      comme des torréfactions « brillantes » et « acides »
+                      plutôt que des torréfactions foncées.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acide acétique
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L'acide acétique, le même acide contenu dans le vinaigre,
+                      peut fournir une agréable netteté à des concentrations
+                      plus faibles. En revanche, des concentrations plus élevées
+                      d’acide acétique sont désagréables. Un café à forte teneur
+                      en acide acétique a probablement été mal traité.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acide tartrique
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L'acide tartrique, comme l'acide acétique, a un goût amer
+                      à forte concentration. Il peut cependant donner des notes
+                      de raisin ou de vin à de faibles concentrations, ce qui
+                      n'est pas surprenant étant donné qu'on le trouve dans le
+                      raisin.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Acide Quinique
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      L'acide quinique est formé comme sous-produit de la
+                      dégradation d'autres acides. Il est abondant dans le café
+                      torréfié foncé, le café rassis et le café infusé il y a
+                      plusieurs heures mais conservé au chaud sur une plaque
+                      chauffante. Bien qu’il donne au café une finition nette,
+                      l’acide quinique est le principal acide à l’origine de la
+                      sensation d’aigreur dans l’estomac.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Le processus de torréfaction et ses effets sur les acides
+                      du café
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les concentrations d'acides spécifiques changent à mesure
+                      que les haricots verts subissent des réactions chimiques
+                      pendant le processus de torréfaction. La plupart des
+                      acides se désintègrent à des températures plus élevées,
+                      mais certains augmentent en réalité. En général, la
+                      méthode de torréfaction tente de faire ressortir la
+                      meilleure combinaison d'acides naturels présents dans un
+                      café particulier, puisque ce sont ces composés qui
+                      confèrent au café ses caractéristiques distinctes. En
+                      termes simples, le café, dans sa forme la plus pure,
+                      contient une large gamme d'acides, bons et mauvais.
+                      Certains disparaissent pendant le processus de
+                      torréfaction, tandis que d'autres restent. La torréfaction
+                      consiste donc à trouver la bonne combinaison d'acidité,
+                      d'arôme et de corps.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Trouver un café avec la bonne acidité
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Vous savez désormais que toutes les saveurs d’un café peuvent être spécifiquement liées aux acides qu’il contient. Si vous pouvez reconnaître les acides que vous souhaitez, vous pouvez rechercher des cafés qui ont été cultivés ou torréfiés de manière à produire certains acides et déterminer le meilleur café pour vous. Nous avons inclus des faits amusants sur les pages de chaque produit afin que vous puissiez facilement trouvez le bon café avec la bonne acidité que vous apprécierez. Vous pouvez également consulter nos\_grains de café décaféinés\_si vous préférez un café avec une légère acidité mais qui a le même goût que le café ordinaire."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Zuurgraad in koffie
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Zuurgraad is een centraal onderdeel van de smaak van
+                      koffie. Wanneer koffieprofessionals het hebben over
+                      ‘zuurgraad’, bedoelen ze het bestaan van bepaalde zuren
+                      die de smaak van koffie beïnvloeden. Zuurgraad verwijst
+                      niet naar het werkelijke zuurgehalte; het verwijst eerder
+                      naar een smaaknoot. Koffie met een hoge zuurgraad wordt
+                      gewoonlijk ‘helder’ genoemd. Maar over het algemeen kan
+                      het woord ‘zuur’ een beetje verwarrend zijn, maar als het
+                      om eten gaat, is zuur niet echt een slechte zaak.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Zuren gevonden in koffie
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Koffie bevat een breed scala aan zuren. In deze review
+                      zullen we ons concentreren op de zuren die het brandproces
+                      overleven, omdat dit de zuren zijn die de uiteindelijke
+                      smaak van een koffie beïnvloeden. De eerste op de lijst
+                      hebben een positieve impact op koffie, terwijl de
+                      producten verderop in de lijst zowel positieve als
+                      negatieve effecten kunnen hebben.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Citroenzuur
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Citroenzuur wordt aangetroffen in arabicabonen die op
+                      grotere hoogte worden geteeld. Dit zuur, dat veel voorkomt
+                      in citrusvruchten, wordt geassocieerd met tonen van
+                      citroen, limoen en grapefruit wanneer het wordt gemengd
+                      met fosforzuur. Fosforzuur Fosforzuur smaakt zoeter dan de
+                      meeste zuren. Het heeft het vermogen om een zure
+                      citrussmaak om te zetten in een zoetere grapefruit- of
+                      mangosmaak.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Appelzuur
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Hoewel het gebruikelijker is om appel of peer te proeven
+                      in een appelzuurhoudende koffie, wordt dit vaak
+                      geassocieerd met hints van steenfruit, zoals perziken of
+                      pruimen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Chlorogene zuren
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Chlorogene zuren (CGA’s) zijn de belangrijkste oorzaak van
+                      de waargenomen zuurgraad van koffie. In vergelijking met
+                      andere zuren verdwijnen ze tijdens het roosteren snel en
+                      worden ze afgebroken tot kinzuur en andere zuren. Bij
+                      medium gebrande koffie is 50% van de CGA’s vernietigd.
+                      Daarom worden lichte brandingen vaak gedefinieerd als
+                      “helder” en “zuur” in plaats van donkere brandingen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Azijnzuur
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Azijnzuur, hetzelfde zuur dat in azijn zit, kan bij lagere
+                      concentraties voor een aangename scherpte zorgen. Hogere
+                      azijnzuurconcentraties zijn daarentegen vervelend. Een
+                      koffie met een hoog azijnzuurgehalte is
+                      hoogstwaarschijnlijk verkeerd verwerkt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                  - mode: normal
+                    text: Tartaric Acid
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Tartaric acid, like acetic acid, has a bitter taste in
+                      high concentrations. It can, however, provide grape-like
+                      or wine-like notes at low concentrations, which is not
+                      surprising considering that it is found in grapes.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Kininezuur
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kininezuur wordt gevormd als bijproduct van de afbraak van
+                      andere zuren. Het is overvloedig aanwezig in donker
+                      gebrande koffie, oude koffie en koffie die enkele uren
+                      geleden is gezet maar warm is gehouden op een hete plaat.
+                      Hoewel het koffie een zuivere afdronk geeft, is kininezuur
+                      het belangrijkste zuur dat het zure gevoel op je maag
+                      veroorzaakt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Het brandproces en de effecten ervan op koffiezuren
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De concentraties van specifieke zuren veranderen doordat
+                      sperziebonen tijdens het roostproces chemische reacties
+                      ondergaan. De meeste zuren vervallen bij hogere
+                      temperaturen, maar sommige nemen zelfs toe in temperatuur.
+                      Over het algemeen probeert de brandmethode de beste
+                      combinatie van natuurlijk voorkomende zuren naar voren te
+                      brengen die in een bepaalde koffie aanwezig zijn,
+                      aangezien dit de verbindingen zijn die de koffie zijn
+                      onderscheidende kenmerken geven. Simpel gezegd: koffie, in
+                      zijn puurste vorm, bevat een breed scala aan van zuren,
+                      zowel goede als slechte. Sommige verdwijnen tijdens het
+                      brandproces, terwijl andere blijven bestaan. Bij het
+                      branden draait het dus allemaal om het vinden van de
+                      juiste combinatie van zuurgraad, aroma en body.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Een koffie vinden met de juiste zuurgraad
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Nu weet je dat alle smaken in koffie specifiek verband
+                      kunnen houden met de zuren die erin voorkomen. Als u de
+                      gewenste zuren kunt herkennen, kunt u op zoek gaan naar
+                      koffiesoorten die zo zijn geteeld of gebrand dat er
+                      bepaalde zuren vrijkomen en bepalen welke koffie voor u
+                      het beste is. Op de afzonderlijke productpagina's hebben
+                      wij leuke weetjes opgenomen, zodat u deze eenvoudig kunt
+                      vind de juiste koffie met de juiste zuurgraad waar u van
+                      zult genieten. Misschien wilt u ook onze cafeïnevrije
+                      koffiebonen eens bekijken als u de voorkeur geeft aan
+                      koffie met een lichte zuurgraad, maar die net zo smaakt
+                      als gewone koffie.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: c3774b2b-3e85-4044-8a22-cfc686ecec28
+          type: image
+          fields:
+            id:
+              type: text
+              value: 1a55f4be-6b6d-416e-aca2-cfcba473d438
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/11nJ0qh6RRC9RyiufffJAA-acidity.jpg
+              type: text
+            file:
+              type: file
+              value: 55d2272b-82ef-4332-be61-5d4459f86572
+            size:
+              value: 72477
+              type: number
+            title:
+              type: text
+              value: acidity.jpg
+            width:
+              value: 684
+              type: number
+            height:
+              value: 450
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Coffee is marketed as an acidic beverage, but it actually has a pH of
+          about five, making it less acidic than beer, orange juice, and even
+          soda. When we talk about acid and coffee, we aren’t really referring
+          to the pH level of the beverage.
+        fr-CA: >-
+          Le café est commercialisé comme une boisson acide, mais il a en fait
+          un pH d'environ cinq, ce qui le rend moins acide que la bière, le jus
+          d'orange et même le soda.Lorsque nous parlons d'acide et de café, nous
+          ne faisons pas vraiment référence au niveau de pH de la boisson.
+        nl-NL: >-
+          Koffie wordt op de markt gebracht als een zure drank, maar het heeft
+          eigenlijk een pH van ongeveer vijf, waardoor het minder zuur is dan
+          bier, sinaasappelsap en zelfs frisdrank.Als we het hebben over zuur en
+          koffie, verwijzen we niet echt naar het pH -niveau van de drank.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

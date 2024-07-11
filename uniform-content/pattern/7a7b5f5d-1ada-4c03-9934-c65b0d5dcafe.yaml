@@ -1,0 +1,136 @@
+composition:
+  _name: Hero - Product (cf) (from UC)
+  _id: 7a7b5f5d-1ada-4c03-9934-c65b0d5dcafe
+  type: hero
+  variant: imageLeft
+  parameters:
+    image:
+      type: asset
+      value:
+        - _id: 317cec06-7026-4d0a-95fd-9e9e5b6aae1f
+          type: image
+          fields:
+            url:
+              type: text
+              value: ${#jptr:/Feature Content/fields/image}
+          _source: custom-url
+    title:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Feature Content/fields/title}
+        en-GB: ${#jptr:/Feature Content/fields/title}
+        en-NL: ${#jptr:/Feature Content/fields/title}
+        en-US: ${#jptr:/Feature Content/fields/title}
+        fr-CA: ${#jptr:/Feature Content/fields/title}
+        nl-NL: ${#jptr:/Feature Content/fields/title}
+    marginTop:
+      type: select
+      value: None
+    textColor:
+      type: tp-color-palette-parameter
+      value: primary-content
+    paddingTop:
+      type: select
+      value: None
+    titleStyle:
+      type: tp-title-style-parameter
+      value: h2
+    description:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Feature Content/fields/description}
+        en-GB: ${#jptr:/Feature Content/fields/description}
+        en-NL: ${#jptr:/Feature Content/fields/description}
+        en-US: ${#jptr:/Feature Content/fields/description}
+        fr-CA: ${#jptr:/Feature Content/fields/description}
+        nl-NL: ${#jptr:/Feature Content/fields/description}
+    marginBottom:
+      type: select
+      value: None
+    paddingBottom:
+      type: select
+      value: None
+    backgroundColor:
+      type: tp-color-palette-parameter
+      value: primary
+    primaryButtonCopy:
+      type: text
+      locales:
+        en-CA: Learn More
+        en-GB: Learn More
+        en-NL: Learn More
+        en-US: Learn More
+        fr-CA: Apprendre encore plus
+        nl-NL: Kom meer te weten
+    primaryButtonLink:
+      type: link
+      value:
+        path: >-
+          /${locale}/products/${#jptr:/Feature
+          Content/entry/fields/productId/value}
+        type: projectMapNode
+        nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+        projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+        dynamicInputValues:
+          locale: ${locale}
+          product-slug: ${#jptr:/Feature Content/entry/fields/productId/value}
+    primaryButtonStyle:
+      type: tp-button-style-parameter
+      value: secondary
+  _dataResources:
+    Feature Content:
+      type: contentfulProductFeature
+      variables:
+        locale: ${locale}
+        entryIds: GvfGpbNn1R875zuIJ6MRo
+      isPatternParameter: true
+      ignorePatternParameterDefault: true
+  _overridability:
+    variants: true
+    parameters:
+      delay: 'yes'
+      image: 'yes'
+      title: 'yes'
+      video: 'yes'
+      duration: 'yes'
+      marginTop: 'yes'
+      objectFit: 'yes'
+      textColor: 'yes'
+      fullHeight: 'yes'
+      paddingTop: 'yes'
+      titleStyle: 'yes'
+      description: 'yes'
+      eyebrowText: 'yes'
+      marginBottom: 'yes'
+      overlayColor: 'yes'
+      animationType: 'yes'
+      paddingBottom: 'yes'
+      animationOrder: 'yes'
+      backgroundType: 'yes'
+      overlayOpacity: 'yes'
+      backgroundColor: 'yes'
+      animationPreview: 'yes'
+      containerVariant: 'yes'
+      textColorVariant: 'yes'
+      primaryButtonCopy: 'yes'
+      primaryButtonLink: 'yes'
+      primaryButtonStyle: 'yes'
+      secondaryButtonCopy: 'yes'
+      secondaryButtonLink: 'yes'
+      secondaryButtonStyle: 'yes'
+      primaryButtonAnimationType: 'yes'
+      secondaryButtonAnimationType: 'yes'
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA
+    - en-GB
+    - en-CA
+    - en-NL
+created: '2024-02-28T12:50:51.905909+00:00'
+modified: '2024-02-28T12:50:51.905909+00:00'
+pattern: true
+description: Product information in a hero layout
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Patterns/Hero_product_preview_image
+categoryId: 2da8c924-14d5-470b-9fe4-1e56521551e5

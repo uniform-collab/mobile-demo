@@ -1,0 +1,280 @@
+created: '2024-02-28T12:53:19.082322+00:00'
+modified: '2024-02-28T13:38:14.457354+00:00'
+pattern: false
+entry:
+  _id: f3ee97bb-fc98-417d-a386-4c34ac16bf37
+  _name: Impresso Perk for simple perfection
+  _slug: impresso-perk-119
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/9xEjbwDjRy-woECaTeA3iA-impresso-perk-119_mojbik_bt9lhn.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Here's a three tiered wire basket to clean up your
+                      countertop and elevate your storage space. Display a
+                      selection of fresh fruit to encourage healthy snacking:
+                      pile it high and watch it fly. Can also be used as a caddy
+                      for dinner time fixings. Gather up a nice display of baked
+                      buns or cupcakes and usher them off to the table with the
+                      handy carry ring at the top.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Voici un panier métallique à trois niveaux pour nettoyer
+                      votre comptoir et élever votre espace de stockage.
+                      Présentez une sélection de fruits frais pour encourager
+                      une collation saine : empilez-les en hauteur et
+                      regardez-les voler. Peut également être utilisé comme
+                      panier pour les préparations à l'heure du dîner.
+                      Rassemblez une belle présentation de petits pains ou de
+                      cupcakes et placez-les à table avec l'anneau de transport
+                      pratique en haut.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Hier is een draadmand met drie niveaus om uw aanrecht op
+                      te ruimen en uw opslagruimte naar een hoger niveau te
+                      tillen. Laat een selectie vers fruit zien om gezond
+                      tussendoortjes te stimuleren: stapel het hoog op en kijk
+                      hoe het vliegt. Kan ook worden gebruikt als caddy voor het
+                      bevestigen van etenstijd. Verzamel een mooie presentatie
+                      van gebakken broodjes of cupcakes en zet ze op tafel met
+                      de handige draagring aan de bovenkant.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Impresso Perk for simple perfection
+    title:
+      type: text
+      value: Impresso Perk for simple perfection
+    category:
+      type: select
+      value: percolators
+    variants:
+      type: $block
+      value:
+        - _id: e7268f75-fabe-40e4-92ae-b9a0c46c801a
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '119'
+            price:
+              type: number
+              locales:
+                en-US: '79.66'
+                fr-CA: '73.58'
+                nl-NL: '73.58'
+            title:
+              type: text
+              locales:
+                en-US: Impresso Perk for simple perfection
+                fr-CA: Impresso Perk for simple perfection
+                nl-NL: Impresso Perk for simple perfection
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 231c38a7-27ee-4995-a7f3-ae645911de86
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: ee8fa0ad-402e-4749-a4d9-583a4a1fa598
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Wk8aIxjnSy6bi1papU3_oA-impresso-perk-119_mojbik_bt9lhn.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 31371820-aeee-4ac9-ac2d-5ad1836f853b
+                    size:
+                      value: 15046
+                      type: number
+                    title:
+                      type: text
+                      value: impresso-perk-119_mojbik_bt9lhn.jpg
+                    width:
+                      value: 386
+                      type: number
+                    height:
+                      value: 386
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 031abcf6-6198-44d8-8661-00bc45bec0c5
+          type: image
+          fields:
+            id:
+              type: text
+              value: 346efeba-a4ca-4c1a-938d-849e1c2df4f8
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/9xEjbwDjRy-woECaTeA3iA-impresso-perk-119_mojbik_bt9lhn.jpg
+              type: text
+            file:
+              type: file
+              value: c92b846b-badc-4b86-a0bb-cf9c7f2df1f9
+            size:
+              value: 15046
+              type: number
+            title:
+              type: text
+              value: impresso-perk-119_mojbik_bt9lhn.jpg
+            width:
+              value: 386
+              type: number
+            height:
+              value: 386
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: cd6d95fd-f4da-4351-be42-6e2fdee83427
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 0a4127df-a114-42a8-8921-3c651e3613ae
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Here's a three tiered wire basket to clean up your countertop and
+          elevate your storage space. Display a selection of fresh fruit to
+          encourage healthy snacking: pile it high and watch it fly. Can also be
+          used as a caddy for dinner time fixings. Gather up a nice display of
+          baked buns or cupcakes and usher them off to the table with the handy
+          carry ring at the top.
+        fr-CA: >-
+          Voici un panier métallique à trois niveaux pour nettoyer votre
+          comptoir et élever votre espace de stockage. Présentez une sélection
+          de fruits frais pour encourager une collation saine : empilez-les en
+          hauteur et regardez-les voler. Peut également être utilisé comme
+          panier pour les préparations à l'heure du dîner. Rassemblez une belle
+          présentation de petits pains ou de cupcakes et placez-les à table avec
+          l'anneau de transport pratique en haut.
+        nl-NL: >-
+          Hier is een draadmand met drie niveaus om uw aanrecht op te ruimen en
+          uw opslagruimte naar een hoger niveau te tillen. Laat een selectie
+          vers fruit zien om gezond tussendoortjes te stimuleren: stapel het
+          hoog op en kijk hoe het vliegt. Kan ook worden gebruikt als caddy voor
+          het bevestigen van etenstijd. Verzamel een mooie presentatie van
+          gebakken broodjes of cupcakes en zet ze op tafel met de handige
+          draagring aan de bovenkant.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

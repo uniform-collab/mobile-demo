@@ -1,0 +1,141 @@
+composition:
+  _name: Checkout Success
+  _id: 7225d3ea-05a6-4fd8-bfbf-213bd01003a4
+  _slug: success
+  type: page
+  parameters:
+    pageTitle:
+      type: text
+      locales:
+        en-CA: Checkout Success Page
+        en-GB: Checkout Success Page
+        en-NL: Checkout Success Page
+        en-US: Checkout Success Page
+        fr-CA: Page de succès du paiement
+        nl-NL: Succespagina afrekenen
+  slots:
+    pageContent:
+      - _id: c7581107-ab3d-46e1-b064-c1ac1a73e5d3
+        type: hero
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Thank you for your order!
+              en-GB: Thank you for your order!
+              en-NL: Thank you for your order!
+              en-US: Thank you for your order!
+              fr-CA: Merci pour votre commande !
+              nl-NL: Bedankt voor uw bestelling!
+          paddingTop:
+            type: select
+            value: None
+          titleStyle:
+            type: tp-title-style-parameter
+            value: h1
+          description:
+            type: text
+            locales:
+              en-CA: >-
+                Congratulations on your successful purchase! We're delighted to
+                have you as our valued customer. Your order has been processed,
+                and you can expect your items to be on their way to you soon.
+                Keep an eye on your email for a confirmation and tracking
+                information. If you have any questions or need assistance, our
+                customer support team is here to help. We appreciate your
+                business and hope you enjoy your new purchase!
+              en-GB: >-
+                Congratulations on your successful purchase! We're delighted to
+                have you as our valued customer. Your order has been processed,
+                and you can expect your items to be on their way to you soon.
+                Keep an eye on your email for a confirmation and tracking
+                information. If you have any questions or need assistance, our
+                customer support team is here to help. We appreciate your
+                business and hope you enjoy your new purchase!
+              en-NL: >-
+                Congratulations on your successful purchase! We're delighted to
+                have you as our valued customer. Your order has been processed,
+                and you can expect your items to be on their way to you soon.
+                Keep an eye on your email for a confirmation and tracking
+                information. If you have any questions or need assistance, our
+                customer support team is here to help. We appreciate your
+                business and hope you enjoy your new purchase!
+              en-US: >-
+                Congratulations on your successful purchase! We're delighted to
+                have you as our valued customer. Your order has been processed,
+                and you can expect your items to be on their way to you soon.
+                Keep an eye on your email for a confirmation and tracking
+                information. If you have any questions or need assistance, our
+                customer support team is here to help. We appreciate your
+                business and hope you enjoy your new purchase!
+              fr-CA: >-
+                Félicitations pour votre achat ! Nous sommes ravis de vous
+                compter parmi nos clients. Votre commande a été traitée et vous
+                pouvez vous attendre à ce que vos articles vous parviennent
+                bientôt. Surveillez votre courrier électronique pour obtenir une
+                confirmation et des informations de suivi. Si vous avez des
+                questions ou si vous avez besoin d'aide, notre équipe
+                d'assistance à la clientèle est là pour vous aider. Nous vous
+                remercions de votre confiance et espérons que vous apprécierez
+                votre nouvel achat !
+              nl-NL: >-
+                Gefeliciteerd met uw succesvolle aankoop! We zijn blij dat je
+                onze gewaardeerde klant bent. Je bestelling is verwerkt en je
+                kunt verwachten dat je artikelen binnenkort naar je onderweg
+                zijn. Houd je e-mail in de gaten voor een bevestiging en
+                trackinginformatie. Als je vragen hebt of hulp nodig hebt, staat
+                onze klantenservice voor je klaar. We stellen je zaken op prijs
+                en wensen je veel plezier met je nieuwe aankoop!
+          eyebrowText:
+            type: text
+            locales:
+              en-CA: Checkout Successful
+              en-GB: Checkout Successful
+              en-NL: Checkout Successful
+              en-US: Checkout Successful
+              fr-CA: Vérification réussie
+              nl-NL: Succesvol afrekenen
+          overlayColor:
+            type: tp-color-style-parameter
+            value: base-300
+          paddingBottom:
+            type: select
+            value: None
+          overlayOpacity:
+            type: tp-slider-parameter
+            value: 50%
+          containerVariant:
+            type: select
+            value: fluidContent
+      - _id: 54530bea-cef7-47f2-8074-00209cf98636
+        type: cardBlock
+        _pattern: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+        _dataResources:
+          Products Content:
+            type: products
+            variables:
+              locale: ${locale}
+              entryIds: >-
+                d11b0269-ff8b-4428-8916-dbea48697095,72b49ac2-bbf3-48a7-b522-0947483e9131,ef55e1ae-ad12-46d9-b296-90d5484136f0,3b15349b-aac2-4a0f-9d62-a30fc016a704,4d95682d-7de0-4b19-a0f5-13e4e6f780c1,3505d6f5-ba58-4c8e-aea0-9803582ff19c,a555a586-ef6b-4ae2-978b-af3590ec8060
+  _overrides:
+    54530bea-cef7-47f2-8074-00209cf98636:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Our Top Picks for You
+            en-GB: Our Top Picks for You
+            en-NL: Our Top Picks for You
+            en-US: Our Top Picks for You
+            fr-CA: Nos meilleurs choix pour vous
+            nl-NL: Onze topaanbiedingen voor jou
+  _locales:
+    - en-US
+    - fr-CA
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T12:50:38.075867+00:00'
+modified: '2024-03-20T11:45:38.138953+00:00'
+pattern: false

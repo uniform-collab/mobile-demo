@@ -1,0 +1,92 @@
+created: '2024-02-28T12:53:22.739891+00:00'
+modified: '2024-02-28T12:53:22.739891+00:00'
+pattern: false
+entry:
+  _id: d7a14748-4970-47f1-80a9-344d3bffae08
+  _name: Introducing the Espresso GPT, a groundbreaking new Coffee
+  _slug: introducing-the-espresso-gpt-a-groundbreaking-new-coffee
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/STVlIfLlSEauJjLKUtjtnQ-espressoGPT_image.png
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 7e89083a-86c7-4f64-9dd1-ab44cb867e34
+          type: image
+          fields:
+            id:
+              type: text
+              value: 1b176a0b-03d3-40f2-8d9d-96d28adc8504
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/STVlIfLlSEauJjLKUtjtnQ-espressoGPT_image.png
+              type: text
+            file:
+              type: file
+              value: e9f7caf3-6fae-4c82-9658-72a5d64c5959
+            size:
+              value: 449290
+              type: number
+            title:
+              type: text
+              value: espressoGPT_image.png
+            width:
+              value: 1400
+              type: number
+            height:
+              value: 681
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Introducing the Espresso GPT, a groundbreaking new Coffee Maker
+        fr-CA: Présentation de l'espresso GPT, une nouvelle cafetière révolutionnaire
+        nl-NL: >-
+          Introductie van de Espresso GPT, een baanbrekend nieuw
+          koffiezetapparaat
+    description:
+      type: text
+      locales:
+        en-US: >-
+          What sets Espresso GPT apart is its ability to learn and adapt to
+          individual taste preferences. Through a user-friendly interface,
+          coffee lovers can fine-tune their espresso experience, from bean
+          selection to grind size and brewing temperature. Espresso GPT analyzes
+          your choices and refines the brewing process, ensuring each shot is
+          perfectly tailored to your palate. With this machine, every morning is
+          a coffee masterpiece, bringing the finest cafe-quality espresso to
+          your home. Welcome to the future of coffee brewing with Espresso GPT,
+          where technology and coffee expertise unite to redefine how we savor
+          the best espresso.
+        fr-CA: >-
+          Ce qui distingue GPT ESPRESSO, c'est sa capacité à apprendre et à
+          s'adapter aux préférences de goût individuelles.Grâce à une interface
+          conviviale, les amateurs de café peuvent affiner leur expérience
+          d'espresso, de la sélection des grains à la taille de la taille et de
+          la température de brassage.Espresso GPT analyse vos choix et affine le
+          processus de brassage, garantissant que chaque plan est parfaitement
+          adapté à votre palais.Avec cette machine, chaque matin est un
+          chef-d'œuvre de café, apportant le meilleur espresso de qualité de
+          café à votre maison.Bienvenue dans le futur du café avec Espresso GPT,
+          où l'expertise technologique et le café s'unit pour redéfinir la façon
+          dont nous savourons le meilleur expresso.
+        nl-NL: >-
+          Wat espresso GPT onderscheidt, is het vermogen om te leren en zich aan
+          te passen aan individuele smaakvoorkeuren.Via een gebruiksvriendelijke
+          interface kunnen koffieliefhebbers hun espresso-ervaring verfijnen,
+          van bonenkeuze tot sleurgrootte en brouwtemperatuur.Espresso GPT
+          analyseert uw keuzes en verfijnt het brouwproces, zodat elke schot
+          perfect is afgestemd op uw gehemelte.Met deze machine is elke ochtend
+          een coffee meesterwerk dat de beste espresso van café-kwaliteit naar
+          uw huis brengt.Welkom bij de toekomst van koffie brouwen met Espresso
+          GPT, waar technologie en koffie -expertise verenigen om te
+          herdefiniëren hoe we genieten van de beste espresso.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

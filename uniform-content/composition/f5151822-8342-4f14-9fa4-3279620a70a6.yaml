@@ -1,0 +1,652 @@
+composition:
+  _name: Espresso GPT
+  _id: f5151822-8342-4f14-9fa4-3279620a70a6
+  _slug: espresso-gpt-145
+  type: productDetailsPage
+  parameters:
+    pageTitle:
+      type: text
+      locales:
+        en-CA: ${#jptr:/Product Content/entry/fields/title/value}  Details Page
+        en-GB: ${#jptr:/Product Content/entry/fields/title/value}  Details Page
+        en-NL: ${#jptr:/Product Content/entry/fields/title/value}  Details Page
+        en-US: ${#jptr:/Product Content/entry/fields/title/value}  Details Page
+        fr-CA: ${#jptr:/Product Content/entry/fields/name/value} Détails de la page
+        nl-NL: ${#jptr:/Product Content/entry/fields/name/value} Details Pagina
+    pageSubcategories:
+      type: json
+      value: ${#jptr:/Product Content/entry/fields/category/value}
+  slots:
+    pageFooter:
+      - _id: f8566a73-f4e9-4be2-85e7-2ba42a9a4a71
+        type: footer
+        _pattern: 319639e9-4bac-4fb3-8f0b-19088c969fcb
+    pageHeader:
+      - _id: c0724a48-c128-4f25-be18-2f6febd338e3
+        type: header
+        _pattern: e46c8336-acfd-43e8-ac59-8be8f4c33b7d
+    pageContent:
+      - _id: 83d56693-3fc3-4548-a3bd-772f27e6b8d0
+        type: $personalization
+        slots:
+          pz:
+            - _id: 60b15c06-b3f8-4a4f-b672-ead4cf181613
+              type: hero
+              _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+              _dataResources:
+                Hero Content:
+                  type: hero
+                  variables:
+                    locale: ${locale}
+                    entryId: 49d0524c-52c5-486e-afec-e3d00554de59
+            - _id: 8671e444-fd32-467c-b869-c0ffbd79f86b
+              type: hero
+              _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+              _dataResources:
+                Hero Content:
+                  type: hero
+                  variables:
+                    locale: ${locale}
+                    entryId: 49d0524c-52c5-486e-afec-e3d00554de59
+        parameters:
+          count:
+            type: number
+            value: 1
+          trackingEventName:
+            type: text
+            value: Espresso GPT-Hero
+      - _id: 8dc1b12a-ce2c-48e6-9754-18802c47d13a
+        type: productInfo
+        _pattern: f80964a3-4000-4a5d-8d8d-1400b03bceb3
+        _dataResources:
+          Product Content:
+            type: product
+            variables:
+              slug: espresso-gpt-145
+              locale: ${locale}
+      - _id: 0e8b69e5-8fa8-4bc8-89e5-5adbfccc6349
+        type: container
+        slots:
+          container-inner:
+            - _id: 10f43161-30ce-4c4e-93df-0cc50121dc67
+              type: grid
+              _pattern: c93696ab-56f6-43df-90b9-bf4a610f202e
+              _dataResources:
+                Features Content:
+                  type: features
+                  variables:
+                    locale: ${locale}
+                    entryIds: >-
+                      a122c2d2-c7dc-4aeb-b6d8-8d667a4cef3b,6913f859-b7ff-497d-b50b-3994e6ebae5d,3e257825-e30a-4b25-8d02-e4a276d8b2a9,6a4c4919-9785-4415-9e8d-efb796517b86
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Features
+              en-GB: Features
+              en-NL: Features
+              en-US: Features
+              fr-CA: Caractéristiques
+              nl-NL: Kenmerken
+          paddingTop:
+            type: select
+            value: Medium
+          paddingBottom:
+            type: select
+            value: Small
+          backgroundType:
+            type: tp-background-type-parameter
+            value: Dark
+      - _id: 71f5f5ad-978e-4d83-8d96-ee87239643e3
+        type: imageGallery
+        _pattern: 92f3a50f-098f-4448-88dd-4005e384559d
+        _dataResources:
+          Product Content:
+            type: product
+            variables:
+              slug: espresso-gpt-145
+              locale: ${locale}
+      - _id: 40435ffe-df01-418f-aff2-14ad502c3079
+        type: grid
+        slots:
+          grid-inner:
+            - _id: 81e10de1-b06f-4dac-95af-e6947105b40a
+              type: hero
+              _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+              _dataResources:
+                Hero Content:
+                  type: hero
+                  variables:
+                    locale: ${locale}
+                    entryId: 0ee4ed9e-8215-4660-b4df-1176d7bacf57
+            - _id: 916d2e40-975a-4a17-b0d2-b3ec12385e73
+              type: hero
+              _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+              _dataResources:
+                Hero Content:
+                  type: hero
+                  variables:
+                    locale: ${locale}
+                    entryId: 3688e85a-1749-45be-afde-ba225238a909
+        parameters:
+          gapX:
+            type: tp-slider-parameter
+            value: none
+          gapY:
+            type: tp-slider-parameter
+            value: large
+          title:
+            type: text
+            locales:
+              en-CA: Product Story
+              en-GB: Product Story
+              en-NL: Product Story
+              en-US: Product Story
+              fr-CA: Histoire du produit
+              nl-NL: Productverhaal
+          marginTop:
+            type: select
+            value: None
+          paddingTop:
+            type: select
+            value: Small
+          columnsCount:
+            type: tp-slider-parameter
+            value: '1'
+          marginBottom:
+            type: select
+            value: None
+          paddingBottom:
+            type: select
+            value: Small
+          backgroundType:
+            type: tp-background-type-parameter
+            value: Dark
+      - _id: 8bd05219-9be6-4d6f-9b94-5b5ba55b2eae
+        type: grid
+        _pattern: 733c3ec0-4eca-4e7a-bf35-532ccf918b66
+        _dataResources:
+          Reviews Content:
+            type: reviews
+            variables:
+              locale: ${locale}
+              entryIds: >-
+                38b1ab47-a304-40c2-af78-1ba161cae7ac,1d328970-f50b-4b30-a2a7-78cd947faa25
+      - _id: 095d7ced-e242-4861-9489-79eb63f89f8b
+        type: container
+        slots:
+          container-inner:
+            - _id: a65d87c0-f45f-48ba-8fcb-e53c8d68e08c
+              type: accordion
+              _pattern: 83683088-0560-40f7-b8b8-18360fa76d24
+              _dataResources:
+                FAQ List Content:
+                  type: multipleFaq
+                  variables:
+                    locale: ${locale}
+                    entryIds: >-
+                      fc090a5f-d58c-4c28-957c-a7de70e2f42f,f21248f8-f3b4-44ae-bb51-75a4d11d0cd5,953da7fd-853e-47ab-9a69-0f0320056328,d69abe1c-6d49-4eeb-bdbe-65fdc015090f
+                FAQ Header Content:
+                  type: faq
+                  variables:
+                    locale: ${locale}
+                    entryId: 22e29bf5-7563-4010-8981-0c83162a1f5a
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Accordion
+              en-GB: Accordion
+              en-NL: Accordion
+              en-US: Accordion
+              fr-CA: Accordéon
+              nl-NL: Accordeon
+          paddingTop:
+            type: select
+            value: Small
+          paddingBottom:
+            type: select
+            value: Small
+          backgroundType:
+            type: tp-background-type-parameter
+            value: Dark
+      - _id: 3b009fbb-5669-4365-aade-ab907f175e28
+        type: container
+        slots:
+          container-inner:
+            - _id: 156f2099-9c80-4471-b06a-03981d15817a
+              type: cardBlock
+              _pattern: fe2cba31-e7a3-49f4-8f95-6221b4dee99a
+              _dataResources:
+                Products Content:
+                  type: products
+                  variables:
+                    locale: ${locale}
+                    entryIds: >-
+                      dd9a7e4d-56a3-4a0b-9679-345d19e6da49,72b49ac2-bbf3-48a7-b522-0947483e9131,8ad35da9-07b6-4532-8e13-47ab158e30ef,4d95682d-7de0-4b19-a0f5-13e4e6f780c1
+        parameters:
+          title:
+            type: text
+            locales:
+              en-CA: Recommend Products
+              en-GB: Recommend Products
+              en-NL: Recommend Products
+              en-US: Recommend Products
+              fr-CA: Recommander des produits
+              nl-NL: Aanbevolen producten
+          marginTop:
+            type: select
+            value: None
+          paddingTop:
+            type: select
+            value: Small
+          marginBottom:
+            type: select
+            value: None
+          paddingBottom:
+            type: select
+            value: Small
+          backgroundType:
+            type: tp-background-type-parameter
+            value: Dark
+      - _id: 011ce5de-3456-421b-a32b-0adfd36c7d22
+        type: hero
+        _pattern: b3d6043e-0fd2-4ca1-bc7f-43642e7ede28
+        _dataResources:
+          Hero Content:
+            type: hero
+            variables:
+              locale: ${locale}
+              entryId: 0269db8f-68ca-4d08-b58f-93e5f3c66098
+  _dataResources:
+    Product Content:
+      type: product
+      variables:
+        slug: espresso-gpt-145
+        locale: ${locale}
+    Company Data Content:
+      type: companyData
+      variables: {}
+  _overrides:
+    011ce5de-3456-421b-a32b-0adfd36c7d22:
+      variant: twoColumns
+      parameters:
+        duration:
+          type: select
+          value: medium
+        objectFit:
+          type: select
+          value: cover
+        paddingTop:
+          type: select
+          value: None
+        overlayColor:
+          type: tp-color-style-parameter
+          value: base-300
+        animationType:
+          type: select
+          value: flyIn
+        paddingBottom:
+          type: select
+          value: None
+        animationOrder:
+          type: select
+          value: oneByOne
+        overlayOpacity:
+          type: tp-slider-parameter
+          value: 50%
+        containerVariant:
+          type: select
+          value: fluidContent
+        textColorVariant:
+          type: select
+          value: Light
+    156f2099-9c80-4471-b06a-03981d15817a:
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: Recommend Beans
+            en-GB: Recommend Beans
+            en-NL: Recommend Beans
+            en-US: Recommend Beans
+            fr-CA: Recommander les haricots
+            nl-NL: Bonen aanbevelen
+        description:
+          type: text
+          locales:
+            en-CA: Recommend Beans
+            en-GB: Recommend Beans
+            en-NL: Recommend Beans
+            en-US: Recommend Beans
+        textColorVariant:
+          type: select
+          value: Light
+    60b15c06-b3f8-4a4f-b672-ead4cf181613:
+      parameters:
+        $pzCrit:
+          type: $pzCrit
+          value:
+            crit:
+              - l: existingCustomer
+                r: 0
+                op: '>'
+            name: 'Hero: ${#jptr:/Hero Content/entry/fields/title/value}'
+        description:
+          type: text
+          locales:
+            en-CA: >-
+              JavaDrip Customers SAVE 20% on ESPRESSOGPT COFFEE MAKER with
+              TRADE-IN.
+            en-GB: >-
+              JavaDrip Customers SAVE 20% on ESPRESSOGPT COFFEE MAKER with
+              TRADE-IN.
+            en-NL: >-
+              JavaDrip Customers SAVE 20% on ESPRESSOGPT COFFEE MAKER with
+              TRADE-IN.
+            en-US: >-
+              JavaDrip Customers SAVE 20% on ESPRESSOGPT COFFEE MAKER with
+              TRADE-IN.
+            fr-CA: >-
+              Les clients de JavaDrip économisent 20% sur l'ESPRESSOGPT COFFEE
+              MAKER avec TRADE-IN.
+            nl-NL: >-
+              JavaDrip klanten besparen 20% op ESPRESSOGPT KOFFIEMAAKER met
+              TRADE-IN.
+        eyebrowText:
+          type: text
+          locales:
+            en-CA: THE NEW ESPRESSOGPT
+            en-GB: THE NEW ESPRESSOGPT
+            en-NL: THE NEW ESPRESSOGPT
+            en-US: THE NEW ESPRESSOGPT
+            fr-CA: LE NOUVEL ESPRESSOGPT
+            nl-NL: HET NIEUWE ESPRESSOGPT
+    81e10de1-b06f-4dac-95af-e6947105b40a:
+      variant: imageLeft
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: ${#jptr:/Hero Content/entry/fields/title/value}
+            en-GB: ${#jptr:/Hero Content/entry/fields/title/value}
+            en-NL: ${#jptr:/Hero Content/entry/fields/title/value}
+        duration:
+          type: select
+          value: medium
+        eyebrowText:
+          type: text
+          locales:
+            en-CA: MONITOR THE PERFECT BREW
+            en-GB: MONITOR THE PERFECT BREW
+            en-NL: MONITOR THE PERFECT BREW
+            en-US: MONITOR THE PERFECT BREW
+            fr-CA: SURVEILLER L'INFUSION PARFAITE
+            nl-NL: HET PERFECTE BROUWSEL BEWAKEN
+        animationType:
+          type: select
+          value: flyIn
+        animationOrder:
+          type: select
+          value: oneByOne
+        containerVariant:
+          type: select
+          value: fluidContent
+    8671e444-fd32-467c-b869-c0ffbd79f86b:
+      variant: backgroundImage
+      parameters:
+        title:
+          type: text
+          locales:
+            en-CA: ${#jptr:/Hero Content/entry/fields/title/value}
+            en-GB: ${#jptr:/Hero Content/entry/fields/title/value}
+            en-NL: ${#jptr:/Hero Content/entry/fields/title/value}
+            en-US: ${#jptr:/Hero Content/entry/fields/title/value}
+            fr-CA: ${#jptr:/Hero Content/entry/fields/title/value}
+            nl-NL: ${#jptr:/Hero Content/entry/fields/title/value}
+        video:
+          type: cloudinary-video
+          value:
+            - alt: ''
+              url: >-
+                https://res.cloudinary.com/uniform-demos/video/upload/v1693387616/videos/pexels-cristian-rojas.mp4
+              uuid: 4e334bfe-0f0f-4529-9bd8-cadfb7bef362
+              width: '1920'
+              format: mp4
+              height: '1080'
+              caption: ''
+              version: 1693387616
+              publicId: videos/pexels-cristian-rojas
+              createdAt: '2023-08-30T09:26:56Z'
+              previewUrl: >-
+                https://res.cloudinary.com/uniform-demos/video/upload/q_auto,f_auto/videos/pexels-cristian-rojas.mp4
+              resourceType: video
+              transformation: ''
+        duration:
+          type: select
+          value: medium
+        objectFit:
+          type: select
+          value: cover
+        fullHeight:
+          type: checkbox
+          value: true
+        paddingTop:
+          type: select
+          value: None
+        description:
+          type: text
+          locales:
+            en-CA: >-
+              The 'perfect coffee bean' is more than a catchphrase. It
+              represents passion, precision, and perseverance.
+            en-GB: >-
+              The 'perfect coffee bean' is more than a catchphrase. It
+              represents passion, precision, and perseverance.
+            en-NL: >-
+              The 'perfect coffee bean' is more than a catchphrase. It
+              represents passion, precision, and perseverance.
+            en-US: >-
+              The 'perfect coffee bean' is more than a catchphrase. It
+              represents passion, precision, and perseverance.
+            fr-CA: >-
+              Le "grain de café parfait" est plus qu'un slogan. Il représente la
+              passion, la précision et la persévérance.
+            nl-NL: >-
+              De 'perfecte koffieboon' is meer dan een slagzin. Het staat voor
+              passie, precisie en doorzettingsvermogen.
+        eyebrowText:
+          type: text
+          locales:
+            en-CA: ESPRESSOGPT
+            en-GB: ESPRESSOGPT
+            en-NL: ESPRESSOGPT
+            en-US: ESPRESSOGPT
+            fr-CA: ESPRESSOGPT
+            nl-NL: ESPRESSOGPT
+        overlayColor:
+          type: tp-color-style-parameter
+          value: base-300
+        animationType:
+          type: select
+          value: flyIn
+        paddingBottom:
+          type: select
+          value: None
+        animationOrder:
+          type: select
+          value: oneByOne
+        overlayOpacity:
+          type: tp-slider-parameter
+          value: 50%
+        containerVariant:
+          type: select
+          value: fluidContent
+        textColorVariant:
+          type: select
+          value: Light
+    8bd05219-9be6-4d6f-9b94-5b5ba55b2eae:
+      parameters:
+        columnsCount:
+          type: tp-slider-parameter
+          value: '2'
+    8dc1b12a-ce2c-48e6-9754-18802c47d13a:
+      parameters:
+        image:
+          type: asset
+          value:
+            - _id: d20d9612-fb7b-4d23-a853-1ff5bd4037d1
+              type: image
+              fields:
+                id:
+                  type: text
+                  value: >-
+                    ${#jptr:/Product
+                    Content/entry/fields/variants/value/0/fields/imageGallery/value/4/fields/id/value}
+                url:
+                  type: text
+                  value: >-
+                    ${#jptr:/Product
+                    Content/entry/fields/variants/value/0/fields/imageGallery/value/4/fields/url/value}
+                size:
+                  type: number
+                  value: >-
+                    ${#jptr:/Product
+                    Content/entry/fields/variants/value/0/fields/imageGallery/value/4/fields/size/value}
+                title:
+                  type: text
+                  value: >-
+                    ${#jptr:/Product
+                    Content/entry/fields/variants/value/0/fields/imageGallery/value/4/fields/title/value}
+                width:
+                  type: number
+                  value: >-
+                    ${#jptr:/Product
+                    Content/entry/fields/variants/value/0/fields/imageGallery/value/4/fields/width/value}
+                height:
+                  type: number
+                  value: >-
+                    ${#jptr:/Product
+                    Content/entry/fields/variants/value/0/fields/imageGallery/value/4/fields/height/value}
+                mediaType:
+                  type: text
+                  value: >-
+                    ${#jptr:/Product
+                    Content/entry/fields/variants/value/0/fields/imageGallery/value/4/fields/mediaType/value}
+              _source: canvas/Product Content
+        duration:
+          type: select
+          value: medium
+        features:
+          type: json
+          value:
+            - Expédition le jour suivant
+            - Garantie de 3 ans
+            - Kit de démarrage pour haricots
+        subTitle:
+          type: text
+          locales:
+            en-CA: Where modern technology meets timeless taste
+            en-GB: Where modern technology meets timeless taste
+            en-NL: Where modern technology meets timeless taste
+            en-US: Where modern technology meets timeless taste
+        objectFit:
+          type: select
+          value: cover
+        fullHeight:
+          type: checkbox
+          value: null
+        eyebrowText:
+          type: text
+          locales:
+            en-CA: EXPERIENCE A REVOLUTION
+            en-GB: EXPERIENCE A REVOLUTION
+            en-NL: EXPERIENCE A REVOLUTION
+            en-US: EXPERIENCE A REVOLUTION
+        animationType:
+          type: select
+          value: flyIn
+        animationOrder:
+          type: select
+          value: oneByOne
+        animationPreview:
+          type: tp-play-animation-parameter
+          value: true
+    916d2e40-975a-4a17-b0d2-b3ec12385e73:
+      variant: imageRight
+      parameters:
+        duration:
+          type: select
+          value: medium
+        eyebrowText:
+          type: text
+          locales:
+            en-CA: CELEBRATE THE ART OF COFFEE MAKING
+            en-GB: CELEBRATE THE ART OF COFFEE MAKING
+            en-NL: CELEBRATE THE ART OF COFFEE MAKING
+            en-US: CELEBRATE THE ART OF COFFEE MAKING
+            fr-CA: CÉLÉBRER L'ART DE LA PRÉPARATION DU CAFÉ
+            nl-NL: VIER DE KUNST VAN HET KOFFIEZETTEN
+        animationType:
+          type: select
+          value: flyIn
+        animationOrder:
+          type: select
+          value: oneByOne
+    c0724a48-c128-4f25-be18-2f6febd338e3:
+      parameters:
+        syntheticGap:
+          type: tp-slider-parameter
+          value: None
+    10f43161-30ce-4c4e-93df-0cc50121dc67|8b05735f-2206-4fdb-8836-73a6a560a01c:
+      variant: featured
+      parameters:
+        duration:
+          type: select
+          value: medium
+        animationType:
+          type: select
+          value: flyIn
+    156f2099-9c80-4471-b06a-03981d15817a|98ef4404-7adc-4d1b-bd62-e17bc229352b:
+      parameters:
+        buttonLink:
+          type: link
+          value:
+            path: /:locale/products/:product-slug
+            type: projectMapNode
+            nodeId: fb657541-0488-4c22-bce4-64c9cd71bdde
+            projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c
+            dynamicInputValues:
+              locale: ${locale}
+              product-slug: ${#jptr:/Product Content results Loop Item/entry/_slug}
+        buttonStyle:
+          type: tp-button-style-parameter
+          value: accent
+        textColorVariant:
+          type: select
+          value: Light
+    8bd05219-9be6-4d6f-9b94-5b5ba55b2eae|4aeee2e3-e311-4d19-a047-1c3a7e68d443:
+      variant: ''
+      parameters:
+        picture:
+          type: asset
+          value: []
+        starsColor:
+          type: tp-color-style-parameter
+          value: secondary
+        showReviewLabel:
+          type: checkbox
+          value: null
+        textColorVariant:
+          type: select
+          value: Light
+  _locales:
+    - fr-CA
+    - en-US
+    - nl-NL
+    - en-NL
+    - en-CA
+    - en-GB
+created: '2024-02-28T13:35:54.782296+00:00'
+modified: '2024-03-07T07:10:33.265278+00:00'
+pattern: false

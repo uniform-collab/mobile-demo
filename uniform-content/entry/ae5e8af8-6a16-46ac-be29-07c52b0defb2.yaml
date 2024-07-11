@@ -1,0 +1,1579 @@
+created: '2024-02-28T12:54:14.052701+00:00'
+modified: '2024-02-28T12:54:14.052701+00:00'
+pattern: false
+entry:
+  _id: ae5e8af8-6a16-46ac-be29-07c52b0defb2
+  _name: Uncomplicating Coffee
+  _slug: uncomplicating-coffee
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/L8XcpGlEQ0a89s0EVeb-Iw-uncomplicating_coffee.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Editorial
+    title:
+      type: text
+      locales:
+        en-US: Uncomplicating Coffee
+        fr-CA: Café simple
+        nl-NL: Onvolledige koffie
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Coffee is still simple. Regardless of what it is called on different chalk covered blackboard menus, you will find that the fundamentals are still exactly the same.\_Here are some SUPER SIMPLE ways to communicate with the aproned echelon on the other side of the counter.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: A MILK COFFEE
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Can be categorized into several different options, which all revolve around the same principle of ingredients and ratios. Let's\_SIMPLIFY!\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Lattes\_DON’T\_need to be served in a glass, that's\_OLD NEWS! "
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Flat Whites are exactly what they say they are, not as much milk texture on top.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Cappuccinos have chocolate on top, maybe slightly more textured.\_\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "If you are getting overwhelmed with soy milk, almond milk, zymil milk, oat milk, yak milk, pea milk or any of the alternative milks to dairy,\_DON’T WORRY ABOUT THEM. If you can stomach dairy then you don't need to go down that path. All you need to worry about is focusing on ONE order that you like, and stick to it until you feel comfortable enough to change.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "THE ANSWER:\_Stick to your\_FLAT WHITE. It is advertised exactly how it comes, flat and white. Better yet, if you ask a barista for a “WHITE” coffee they will more often than not default to the simple flat white.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: A BLACK COFFEE
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The purest form of drinking coffee, and probably the closest you get to the coffee you make at home. Black coffee can be called lots of things across the world like long blacks, short blacks, amercianos, romanos and all sorts of variants under the sun. At the end of the day, they are just espresso and water. Let’s\_SIMPLIFY!\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Long Blacks and Americanos are the same thing, hot water and espresso. I haven't yet had someone explain to me the ACTUAL difference between the two, each time they have tried I have found no fundamental difference.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Short Blacks are\_JUST THE ESPRESSO. Can be called a\_DOPPIO\_or a\_SCHLONG\_or other variations. This is just the espresso shot as it comes.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "You can add bits and bobs to these drinks and get offshoots like romanos with lemon juice. Steer clear, don't worry, if it's not for you don't think about it too much.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "The ANSWER:\_Stick to your\_LONG BLACK. Forget George Cooney in the adverts, just remember\_LONG BLACK, if you want a bit of milk, ask for a bit of milk. EVEN SIMPLER just ask for a “BLACK” coffee with any extras you need.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: BUYING BEANS
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "If you are buying coffee beans for home, stick to your HOUSE BLENDS. There are SO MANY countries with amazing tasting beans to taste. However, as you start out, the most consistent coffee beans are BLENDS designed for your favorite flavors.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Like our famous Caramello blend, silky smooth and good\_ANY WAY\_you have it. Can't decide between caramels or chocolates? Try the Duet Pack and you can try both. Blends are your friend.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: MAKING COFFEE AT HOME
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Can be as simple as 3 steps. You DO NOT NEED instant coffee EVER. Forget it, toss it away. You can make fresh coffee just as easy, if not easier, in the comfort of your own home. If you haven't yet, go out and grab a bag of Caramello Blend or our\_Tall, Dark and Handsome Blend\_and try out these recipes for yourself."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: FRENCH PRESS
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "We have an ultimate French Press recipe here if you want to get into things. However the point of this article is to simplify, so\_LET'S SIMPLIFY!\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Coffee In. (ground, buy it pre ground if you do not have a
+                      grinder)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Hot Water In
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Plunge/Press\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "You now have a delicious carafe of beautiful coffee. Serve with milk, without milk, sweeteners, sugars, over ice,\_ANYWAY\_you want it.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: COLD BREW
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Perfect for those hot days or afternoon sips. Cold brew relies on TIME rather than heat or pressure to extract flavors and is one of my favorite coffee drinks. There are some precise measurements to get the best out of the brew, instead\_LET’S SIMPLIFY!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: ' Coffee in (ground in ANYWAY you have)'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Water in (cold)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Wait up to 12 hours in the fridge.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "It’s not instant when you make it, but proper prior planning means next time you go for a coffee you have coffee\_ON TAP\_and can last up to 2 weeks in your fridge (not that it is going to last that long anyway).\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Coffee shouldn't be difficult. It is a journey yes, and
+                      everyone is on that journey. However, the entry should
+                      never be overwhelming and protected by bearded barista
+                      knights. Coffee is best drunk however YOU drink it, and I
+                      hope this has helped you to find the ways you can order,
+                      buy and make coffee yourself without getting lost in the
+                      jargon.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Le café est toujours simple. Quel que soit le nom utilisé
+                      sur les différents menus du tableau noir recouvert de
+                      craie, vous constaterez que les principes fondamentaux
+                      sont toujours exactement les mêmes. Voici quelques moyens
+                      SUPER SIMPLES de communiquer avec l’échelon à tablier de
+                      l’autre côté du comptoir.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: UN CAFÉ AU LAIT
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Peut être classé en plusieurs options différentes, qui tournent toutes autour du même principe d’ingrédients et de ratios. SIMPLIFIONS\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Les lattes\_N'ONT PAS\_besoin d'être servis dans un verre, c'est\_la\_VIELLE NOUVELLE\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les Flat Whites sont exactement ce qu’ils prétendent être,
+                      pas autant de texture de lait sur le dessus.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les cappuccinos ont du chocolat sur le dessus, peut-être
+                      légèrement plus texturé.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Si vous êtes submergé par le lait de soja, le lait
+                      d'amande, le lait zymil, le lait d'avoine, le lait de yak,
+                      le lait de pois ou l'un des laits alternatifs aux produits
+                      laitiers, NE VOUS INQUIÉTEZ PAS D'EUX. Si vous pouvez
+                      supporter les produits laitiers, vous n’avez pas besoin de
+                      suivre cette voie. Tout ce dont vous avez besoin est de
+                      vous concentrer sur UNE commande que vous aimez et de vous
+                      y tenir jusqu'à ce que vous vous sentiez suffisamment à
+                      l'aise pour changer.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "LA RÉPONSE\_:\_Tenez-vous en à votre\_FLAT WHITE. Il est annoncé exactement comme il vient, plat et blanc. Mieux encore, si vous demandez à un barista un café « BLANC », il choisira le plus souvent par défaut le simple blanc plat.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: UN CAFÉ NOIR
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "La forme la plus pure de boire du café, et probablement celle qui se rapproche le plus du café que vous préparez à la maison. Le café noir peut être appelé de nombreuses façons à travers le monde, comme des noirs longs, des noirs courts, des amercianos, des romanos et toutes sortes de variantes sous le soleil. En fin de compte, ce ne sont que de l’espresso et de l’eau. SIMPLIFIONS\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Les Long Blacks et les Americanos, c'est la même chose, de
+                      l'eau chaude et de l'espresso. Je n'ai pas encore demandé
+                      à quelqu'un de m'expliquer la différence RÉELLE entre les
+                      deux, chaque fois qu'ils ont essayé, je n'ai trouvé aucune
+                      différence fondamentale.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Les Short Blacks sont JUSTE L'EXPRESSO. Peut être appelé\_DOPPIO\_ou\_SCHLONG\_ou d'autres variantes. Ce n’est qu’un expresso tel qu’il vient."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vous pouvez ajouter des éléments à ces boissons et obtenir
+                      des ramifications comme des romanos avec du jus de citron.
+                      Soyez prudent, ne vous inquiétez pas, si ce n'est pas pour
+                      vous, n'y pensez pas trop.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "La RÉPONSE\_:\_tenez-vous-en à votre\_LONG BLACK. Oubliez George Cooney dans les publicités, rappelez-vous simplement\_LONG BLACK, si vous voulez un peu de lait, demandez un peu de lait. ENCORE PLUS SIMPLE, demandez simplement un café « NOIR » avec tous les extras dont vous avez besoin."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: ACHETER DES HARICOTS
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Si vous achetez des grains de café pour la maison,
+                      respectez vos MÉLANGES MAISON. Il y a TELLEMENT de pays
+                      avec des haricots au goût incroyable à déguster.
+                      Cependant, au début, les grains de café les plus
+                      consistants sont des MÉLANGES conçus pour vos saveurs
+                      préférées.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Comme notre célèbre mélange Caramello, soyeux et bon\_COMMANDE\_que vous l'avez. Vous n'arrivez pas à choisir entre les caramels ou les chocolats ? Essayez le Duet Pack et vous pourrez essayer les deux. Les mélanges sont vos amis."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: PRÉPARER DU CAFÉ À LA MAISON
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Cela peut être aussi simple que 3 étapes. Vous n’avez JAMAIS BESOIN de café instantané. Oubliez ça, jetez-le. Vous pouvez préparer du café frais tout aussi facilement, voire plus facilement, dans le confort de votre foyer. Si vous ne l'avez pas encore fait, sortez et prenez un sac de Caramello Blend ou de notre\_Mélange grand, foncé et beau\_et essayez ces recettes par vous-même."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: PRESSE FRANÇAISE
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Nous avons ici une recette ultime de presse française si vous voulez entrer dans le vif du sujet. Cependant, le but de cet article est de simplifier, alors SIMPLIFIONS\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Café. (moulu, achetez-le pré-moulu si vous n'avez pas de
+                      broyeur)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Eau chaude entrante
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Plonger/Appuyer
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Vous disposez désormais d’une délicieuse carafe de beau café. Servir avec du lait, sans lait, sans édulcorants, sans sucres, sur de la glace,\_COMMENT\_vous le souhaitez."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: INFUSION À FROID
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Parfait pour les journées chaudes ou les petites gorgées de l’après-midi. L'infusion froide repose sur le TEMPS plutôt que sur la chaleur ou la pression pour extraire les saveurs et est l'une de mes boissons au café préférées. Il existe des mesures précises pour tirer le meilleur parti de l'infusion, mais SIMPLIFIONS\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: '  Café (moulu de TOUTE MANIÈRE)'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Eau (froide)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Attendez jusqu'à 12 heures au réfrigérateur.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Ce n'est pas instantané lorsque vous le préparez, mais une bonne planification préalable signifie que la prochaine fois que vous irez prendre un café, vous prendrez du café\_AU TAP\_et peut durer jusqu'à 2\_semaines dans votre réfrigérateur (même si cela ne durera pas aussi longtemps de toute façon)."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Le café ne devrait pas être difficile. C’est un voyage
+                      oui, et tout le monde fait ce voyage. Cependant, l’entrée
+                      ne doit jamais être envahissante et protégée par des
+                      chevaliers baristas barbus. Il est préférable de boire du
+                      café quelle que soit la manière dont VOUS le buvez, et
+                      j'espère que cela vous a aidé à trouver les moyens de
+                      commander, d'acheter et de préparer du café vous-même sans
+                      vous perdre dans le jargon.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Koffie is nog steeds eenvoudig. Ongeacht hoe het wordt
+                      genoemd op de verschillende met krijt bedekte
+                      schoolbordmenu's, je zult merken dat de basisprincipes nog
+                      steeds precies hetzelfde zijn. Hier zijn enkele SUPER
+                      EENVOUDIGE manieren om te communiceren met het
+                      schort-echelon aan de andere kant van de toonbank.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: EEN MELKKOFFIE
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Kan worden onderverdeeld in verschillende opties, die
+                      allemaal rond hetzelfde principe van ingrediënten en
+                      verhoudingen draaien. Laten we het VEREENVOUDIGEN!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Lattes hoeven NIET in een glas geserveerd te worden, dat
+                      is OUD NIEUWS!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Flat Whites zijn precies wat ze zeggen dat ze zijn, niet
+                      zoveel melktextuur er bovenop.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Cappuccino's hebben chocolade bovenop, misschien iets meer
+                      textuur.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als u overweldigd raakt door sojamelk, amandelmelk,
+                      zymilmelk, havermelk, yakmelk, erwtenmelk of een van de
+                      alternatieve melksoorten voor zuivelproducten, hoeft u
+                      zich daar geen zorgen over te maken. Als je zuivel kunt
+                      verdragen, hoef je dat pad niet te bewandelen. Het enige
+                      waar u zich zorgen over hoeft te maken, is dat u zich
+                      concentreert op EEN bestelling die u leuk vindt, en u
+                      daaraan houdt totdat u zich comfortabel genoeg voelt om te
+                      veranderen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      HET ANTWOORD: Blijf bij je PLAT WIT. Er wordt precies
+                      geadverteerd hoe het komt: plat en wit. Beter nog: als je
+                      een barista om een ‘WITTE’ koffie vraagt, zal hij vaker
+                      wel dan niet standaard kiezen voor het simpele, platte
+                      witte.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: EEN ZWARTE KOFFIE
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      De puurste vorm van koffie drinken, en waarschijnlijk het
+                      dichtst in de buurt van de koffie die je thuis zet. Zwarte
+                      koffie kan over de hele wereld van alles worden genoemd,
+                      zoals lange zwarte koffie, korte zwarte koffie,
+                      amercianos, romanos en allerlei varianten onder de zon.
+                      Uiteindelijk zijn het alleen maar espresso en water. Laten
+                      we het VEREENVOUDIGEN!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Long Blacks en Americanos zijn hetzelfde, heet water en
+                      espresso. Ik heb nog niet iemand mij het WERKELIJKE
+                      verschil tussen de twee laten uitleggen, elke keer dat ze
+                      het probeerden, heb ik geen fundamenteel verschil
+                      gevonden.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Short Blacks zijn GEWOON DE ESPRESSO. Kan een DOPPIO of
+                      een SCHLONG of andere varianten worden genoemd. Dit is
+                      gewoon de espresso-shot zoals hij wordt geleverd.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Je kunt stukjes en beetjes aan deze drankjes toevoegen en
+                      uitlopers krijgen zoals romanos met citroensap. Blijf uit
+                      de buurt, maak je geen zorgen, als het niet voor jou is,
+                      denk er dan niet te veel over na.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het ANTWOORD: blijf bij je LANGE ZWARTE. Vergeet George
+                      Cooney in de advertenties, onthoud gewoon LONG BLACK, als
+                      je een beetje melk wilt, vraag dan om een beetje melk.
+                      ZELFS EENVOUDIGER vraag gewoon om een "ZWARTE" koffie met
+                      alle extra's die u nodig heeft.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: BONEN KOPEN
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als je koffiebonen voor thuis koopt, blijf dan bij je
+                      HUISMENGSELS. Er zijn ZO VEEL landen met geweldig smakende
+                      bonen om te proeven. Maar als je begint, zijn de meest
+                      consistente koffiebonen BLENDS, ontworpen voor jouw
+                      favoriete smaken.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Zoals onze beroemde Caramello-mix, zijdezacht en lekker op
+                      ELKE MANIER die je hebt. Kunt u niet kiezen tussen
+                      karamels of chocolaatjes? Probeer het Duet Pack en u kunt
+                      beide proberen. Blends zijn je vriend.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: THUIS KOFFIE MAKEN
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het kan zo simpel zijn als 3 stappen. Je hebt NOOIT
+                      oploskoffie nodig. Vergeet het, gooi het weg. U kunt net
+                      zo gemakkelijk, zo niet gemakkelijker, verse koffie zetten
+                      in het comfort van uw eigen huis. Als je dat nog niet hebt
+                      gedaan, pak dan een zakje Caramello Blend of onze Tall,
+                      Dark and Handsome Blend en probeer deze recepten zelf uit.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: FRANSE MEDIA
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 1
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      We hebben hier een ultiem French Press-recept als je er
+                      dieper op in wilt gaan. Het doel van dit artikel is echter
+                      om te vereenvoudigen, dus laten we het vereenvoudigen!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Koffie binnen. (gemalen, koop het voorgemalen als je geen
+                      molen hebt)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Heet water in
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Duik/druk
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Je hebt nu een heerlijke karaf prachtige koffie. Serveer
+                      met melk, zonder melk, zoetstoffen, suikers, op ijs, hoe
+                      jij het ook wilt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: KOUD BROUWEN
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Perfect voor de warme dagen of voor een slokje in de
+                      middag. Cold brew vertrouwt op TIJD in plaats van warmte
+                      of druk om smaken te extraheren en is een van mijn
+                      favoriete koffiedranken. Er zijn een aantal nauwkeurige
+                      metingen om het beste uit het brouwsel te halen. Laten we
+                      het in plaats daarvan EENVOUDIG maken!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: '  Koffie erin (gemalen op welke manier dan ook)'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Water erin (koud)
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: Wacht maximaal 12 uur in de koelkast.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children: []
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Het is niet meteen wanneer je het zet, maar een goede
+                      planning vooraf betekent dat je de volgende keer dat je
+                      koffie gaat drinken, koffie ON TAP krijgt en deze tot 2
+                      weken in de koelkast kan bewaren (niet dat het sowieso zo
+                      lang zal duren).
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Koffie hoeft niet moeilijk te zijn. Het is een reis, ja,
+                      en iedereen is op die reis. De inzending mag echter nooit
+                      overweldigend zijn en beschermd worden door bebaarde
+                      barista-ridders. Koffie wordt het lekkerst gedronken, hoe
+                      JIJ het ook drinkt, en ik hoop dat dit je heeft geholpen
+                      manieren te vinden waarop je zelf koffie kunt bestellen,
+                      kopen en zetten zonder te verdwalen in het jargon.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 7832d1ea-a317-43c6-a473-0fcbb91aa4fd
+          type: image
+          fields:
+            id:
+              type: text
+              value: 59526c03-f1ce-4bc8-aa06-e367917729c6
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/L8XcpGlEQ0a89s0EVeb-Iw-uncomplicating_coffee.jpg
+              type: text
+            file:
+              type: file
+              value: baffcbe5-8f65-411b-844c-bc293e85cc26
+            size:
+              value: 49008
+              type: number
+            title:
+              type: text
+              value: uncomplicating_coffee.jpg
+            width:
+              value: 681
+              type: number
+            height:
+              value: 375
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          The last two decades has seen a surge in coffee shops, most noticeably
+          across city suburbs.  We have made ordering a cup of coffee as
+          complicated and bespoke as an architecturally designed house.
+        fr-CA: >-
+          Les deux dernières décennies ont vu une vague dans les cafés, surtout
+          à travers les banlieues de la ville.Nous avons rendu la commande d'une
+          tasse de café aussi compliquée et sur mesure qu'une maison conçue
+          architecturale.
+        nl-NL: >-
+          De laatste twee decennia heeft een toename van coffeeshops gezien, het
+          meest merkbaar in de buitenwijken van de stad.We hebben het bestellen
+          van een kopje koffie zo ingewikkeld en op maat gemaakt als een
+          architectonisch ontworpen huis gemaakt.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

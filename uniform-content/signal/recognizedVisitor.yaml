@@ -1,0 +1,14 @@
+id: recognizedVisitor
+name: Recognized visitor
+cap: 1
+crit:
+  op: '&'
+  type: G
+  clauses:
+    - type: CK
+      match:
+        op: '*'
+      cookieName: demos_user_id
+dur: p
+description: The Visitor has logged in and has an ID
+str: 1

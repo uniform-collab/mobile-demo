@@ -1,0 +1,9 @@
+id: vips
+name: VIPs
+description: ''
+type: 0
+inputs:
+  - dim: bigSpender
+    sign: +
+  - dim: registeredForNewsletter
+    sign: +

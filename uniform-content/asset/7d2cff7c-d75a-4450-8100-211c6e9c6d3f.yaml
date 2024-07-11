@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 7d2cff7c-d75a-4450-8100-211c6e9c6d3f
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: featured_callout.png
+    file:
+      type: file
+      value: 320a5693-dcdf-45f2-b071-f9e8ade31675
+    mediaType:
+      value: image/png
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/CFUl9GvvQH2_KY3pHJ_Uag-featured_callout.png
+      type: text
+    size:
+      value: 512797
+      type: number
+    width:
+      value: 2000
+      type: number
+    height:
+      value: 2000
+      type: number
+    custom: {}
+created: '2024-02-28T12:37:43.739812+00:00'
+modified: '2024-02-28T13:33:15.829738+00:00'

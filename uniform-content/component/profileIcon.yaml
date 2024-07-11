@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=<https://canary.uniform.app/schemas/json-schema/component-definition/v1.json>
+$schema: https://canary.uniform.app/schemas/json-schema/component-definition/v1.json
+id: profileIcon
+name: Profile Icon
+icon: screen
+parameters:
+  - id: link
+    name: Link
+    type: link
+    helpText: ''
+    typeConfig:
+      linkTypes:
+        tel: false
+        email: false
+categoryId: 2da8c924-14d5-470b-9fe4-1e56521551e5
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/SalesDemo/Components/Profile__icon_preview_image
+useTeamPermissions: true
+slots: []
+canBeComposition: false
+created: '2024-02-28T13:35:48.558247+00:00'
+updated: '2024-02-28T13:35:48.558247+00:00'

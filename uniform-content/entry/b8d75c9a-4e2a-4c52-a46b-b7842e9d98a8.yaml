@@ -1,0 +1,53 @@
+created: '2024-02-28T12:54:18.496831+00:00'
+modified: '2024-02-28T12:54:18.496831+00:00'
+pattern: false
+entry:
+  _id: b8d75c9a-4e2a-4c52-a46b-b7842e9d98a8
+  _name: Welcome to JavaDrip
+  _slug: welcome-to-javadrip
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/alV4ssE6QHy1X_4-wkPRGQ-smart_feature_2.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 2606930f-581f-4388-aac2-06a935d6d5d9
+          type: image
+          fields:
+            id:
+              type: text
+              value: b8baf1d2-9f1e-47cd-be64-df16ac8cbf9d
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/alV4ssE6QHy1X_4-wkPRGQ-smart_feature_2.webp
+              type: text
+            file:
+              type: file
+              value: 47d04de5-cf37-4d95-881e-6c61f7cfde5f
+            size:
+              value: 46628
+              type: number
+            title:
+              type: text
+              value: smart_feature_2.webp
+            width:
+              value: 1224
+              type: number
+            height:
+              value: 872
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Welcome to JavaDrip
+        fr-CA: Bienvenue à Javadrip
+        nl-NL: Welkom bij Javadrip
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

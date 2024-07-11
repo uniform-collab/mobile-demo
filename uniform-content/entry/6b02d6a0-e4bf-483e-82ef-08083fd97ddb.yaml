@@ -1,0 +1,79 @@
+created: '2024-02-28T12:52:10.787217+00:00'
+modified: '2024-02-28T12:52:10.787217+00:00'
+pattern: false
+entry:
+  _id: 6b02d6a0-e4bf-483e-82ef-08083fd97ddb
+  _name: AI-optimized grinding and delivery ensures that every...
+  _slug: ai-optimized-grinding-and-delivery-ensures-that-every
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Sq5pL14_TIqx7gZbd6Ao3A-smart_feature_1.webp
+  type: featuredCallout
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 4d6025eb-026d-4914-88ff-342749658822
+          type: image
+          fields:
+            id:
+              type: text
+              value: 89f90f60-cf6f-4fca-8203-9c586c596213
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Sq5pL14_TIqx7gZbd6Ao3A-smart_feature_1.webp
+              type: text
+            file:
+              type: file
+              value: 2312b67c-fb55-4b5c-930b-2eacf4b7ba56
+            size:
+              value: 87228
+              type: number
+            title:
+              type: text
+              value: smart_feature_1.webp
+            width:
+              value: 1224
+              type: number
+            height:
+              value: 872
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: >-
+          AI-optimized grinding and delivery ensures that every coffee is just
+          how you like it
+        fr-CA: >-
+          Le broyage et la livraison optimisés AI garantit que chaque café est
+          exactement comment vous l'aimez
+        nl-NL: >-
+          Ai-geoptimaliseerde slijpen en levering zorgt ervoor dat elke koffie
+          is hoe u het leuk vindt
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Not everyone has decades of experience selecting, roasting and
+          grinding coffee - but that doesn’t mean they don’t deserve a perfect
+          espresso every time. That’s why we’ve worked with the industry’s top
+          experts to create an AI system that gives you the coffee you deserve.
+        fr-CA: >-
+          Tout le monde n'a pas des décennies d'expérience en sélection, en
+          rôtissage et en broyant du café - mais cela ne signifie pas qu'ils ne
+          méritent pas un expresso parfait à chaque fois.C’est pourquoi nous
+          avons travaillé avec les meilleurs experts de l’industrie pour créer
+          un système d’IA qui vous donne le café que vous méritez.
+        nl-NL: >-
+          Niet iedereen heeft tientallen jaren ervaring met het selecteren,
+          roosteren en slijpen van koffie - maar dat betekent niet dat ze niet
+          elke keer een perfecte espresso verdienen.Daarom hebben we
+          samengewerkt met de beste experts in de branche om een AI -systeem te
+          maken dat u de koffie geeft die u verdient.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,90 @@
+created: '2024-02-28T12:52:48.311349+00:00'
+modified: '2024-02-28T12:52:48.311349+00:00'
+pattern: false
+entry:
+  _id: d4293015-fbce-45d5-ab6a-1ca217250b63
+  _name: Epitome of coffee bean perfection
+  _slug: epitome-of-coffee-bean-perfection
+  type: testimonial
+  fields:
+    date:
+      type: text
+    stars:
+      type: text
+      value: ''
+    title:
+      type: text
+      locales:
+        en-US: Epitome of coffee bean perfection
+        fr-CA: Incarnation de la perfection des grains de café
+        nl-NL: Belichaming van koffieboon perfectie
+    picture:
+      type: asset
+      value: []
+    lastName:
+      type: text
+      locales:
+        en-US: Parker
+        fr-CA: Parker
+        nl-NL: Parker
+    location:
+      type: text
+      locales:
+        en-US: New York
+        fr-CA: New York
+        nl-NL: New York
+    firstName:
+      type: text
+      locales:
+        en-US: Alex
+        fr-CA: Alex
+        nl-NL: Alex
+    productId:
+      type: text
+      value: organic-blend-coffee-133
+    experience:
+      type: text
+      locales:
+        en-US: >-
+          If you're seeking the epitome of coffee bean perfection, look no
+          further than this extraordinary coffee bean vendor! Their beans are an
+          absolute revelation, producing the most exquisite and richly flavored
+          brews I've ever experienced. From the moment I opened the bag, the
+          enticing aroma enveloped my senses, setting the stage for an
+          unparalleled coffee journey. The beans' quality is unmatched, and the
+          care taken in sourcing and roasting is evident in every sip. Whether
+          it's a velvety latte or a bold espresso, these beans consistently
+          deliver an unrivaled coffee experience. Undoubtedly, this remarkable
+          coffee bean vendor has transformed my morning ritual into an
+          enchanting and indulgent affair. Highly recommended!
+        fr-CA: >-
+          Si vous cherchez la quintessence de la perfection des grains de café,
+          ne cherchez pas plus loin que cet extraordinaire vendeur de grains de
+          café!Leurs haricots sont une révélation absolue, produisant les bières
+          les plus exquises et les plus aromatisées que j'ai jamais connues.À
+          partir du moment où j'ai ouvert le sac, l'arôme attrayant a enveloppé
+          mes sens, préparant la voie à un voyage de café inégalé.La qualité des
+          haricots est inégalée et les soins prodigués à l'approvisionnement et
+          à la torréfaction sont évidents dans chaque gorgée.Qu'il s'agisse d'un
+          latte velouté ou d'un expresso audacieux, ces haricots offrent
+          constamment une expérience de café inégalée.Sans aucun doute, ce
+          remarquable vendeur de grains de café a transformé mon rituel du matin
+          en une affaire enchanteresse et indulgente.Hautement recommandé!
+        nl-NL: >-
+          Als u op zoek bent naar de belichaming van de perfectie van
+          koffiebonen, zoek dan niet verder dan deze buitengewone
+          koffieboonverkoper!Hun bonen zijn een absolute openbaring en
+          produceren de meest voortreffelijke en rijkelijk gearomatiseerde
+          brouwsels die ik ooit heb meegemaakt.Vanaf het moment dat ik de tas
+          opende, omhulde het verleidelijke aroma mijn zintuigen en zette het
+          podium voor een ongeëvenaarde koffiereis.De kwaliteit van de bonen is
+          ongeëvenaard en de zorg die wordt ondernomen bij het inkoop en het
+          roosteren is duidelijk in elke slok.Of het nu gaat om een
+          fluweelachtige latte of een gewaagde espresso, deze bonen leveren
+          consequent een ongeëvenaarde koffie -ervaring.Deze opmerkelijke
+          koffieboonverkoper heeft ongetwijfeld mijn ochtendritueel omgezet in
+          een betoverende en heerlijke affaire.Sterk aanbevolen!
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

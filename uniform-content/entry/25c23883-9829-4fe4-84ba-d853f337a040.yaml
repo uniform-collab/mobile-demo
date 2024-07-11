@@ -1,0 +1,294 @@
+created: '2024-02-28T12:53:18.252758+00:00'
+modified: '2024-02-28T13:36:21.897574+00:00'
+pattern: false
+entry:
+  _id: 25c23883-9829-4fe4-84ba-d853f337a040
+  _name: Impresso 12 Cup Perk Coffee Maker
+  _slug: impresso-12-cup-perk-coffee-maker-94
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/y1vQBExFSMSXRgsLY7u8wQ-impresso-12-cup-perk-coffee-maker-94-2_zy1vfp_z55hov.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      HOTTEST COFFEE: Prepare piping hot, strong coffee FAST
+                      BREWING: Make 4 to 12 cups in less than one minute per cup
+                      UPDATED CLASSIC: A contemporary take on a coffee classic -
+                      compact design GLASS LID: View-through glass lid insert
+                      showcases the perking process KEEP WARM: Automatically
+                      keeps warm as long as the product is plugged in EASY
+                      SERVING: Detachable cord and insulated base for easy table
+                      service
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "CAFÉ LE PLUS CHAUD\_: Préparez un café très chaud et fort INFUSION RAPIDE\_: Préparez 4 à 12 tasses en moins d'une minute par tasse CLASSIQUE MISE À JOUR\_: Une version contemporaine d'un classique du café - design compact COUVERCLE EN VERRE\_: L'insert de couvercle en verre transparent met en valeur le processus de perking GARDER AU CHAUD : Garde automatiquement au chaud tant que le produit est branché SERVICE FACILE : Cordon amovible et base isolée pour un service facile à table"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      HEETSTE KOFFIE: Bereid gloeiend hete, sterke koffie SNEL
+                      BROUWEN: Zet 4 tot 12 kopjes in minder dan één minuut per
+                      kopje UPDATED CLASSIC: Een eigentijdse variant op een
+                      koffieklassieker - compact ontwerp GLAZEN DEKSEL:
+                      Doorzichtig glazen dekselinzetstuk laat het opschuimproces
+                      zien KEEP WARM: Houdt automatisch warm zolang het product
+                      is aangesloten EENVOUDIG TE BEDIENEN: Afneembaar snoer en
+                      geïsoleerde basis voor eenvoudig bedienen aan tafel
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Impresso 12 Cup Perk Coffee Maker
+    title:
+      type: text
+      value: Impresso 12 Cup Perk Coffee Maker
+    category:
+      type: select
+      value: percolators
+    variants:
+      type: $block
+      value:
+        - _id: 351a1406-caa4-4f68-a27b-84c2ceabd6e2
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '94'
+            price:
+              type: number
+              locales:
+                en-US: '69.99'
+                fr-CA: '64.65'
+                nl-NL: '64.65'
+            title:
+              type: text
+              locales:
+                en-US: Impresso 12 Cup Perk Coffee Maker
+                fr-CA: Impresso 12 Cup Perk Coffee Maker
+                nl-NL: Impresso 12 Cup Perk Coffee Maker
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: 525e0bcf-e6bc-4886-976c-9d09d73d2f04
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 5bcde025-28b0-4e1c-b1f3-07279ec3c957
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/y4ZYrrNYQgSCNE8zD3nnJQ-impresso-12-cup-perk-coffee-maker-94-2_zy1vfp_z55hov.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 3b7285fd-b89f-43f8-855d-529871755808
+                    size:
+                      value: 91016
+                      type: number
+                    title:
+                      type: text
+                      value: impresso-12-cup-perk-coffee-maker-94-2_zy1vfp_z55hov.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: 3e445454-b98d-4ebb-8cbe-a4aeb7f5943c
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 7d3c45ba-68a1-4c4d-820c-c18534514f5c
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/4-U0Zy4rQMqkWQGa10wYLQ-impresso-12-cup-perk-coffee-maker-94-1_dbowpa_baiyy8.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 0bd67e73-f8bf-46b2-8cb2-9bdb66463b19
+                    size:
+                      value: 272467
+                      type: number
+                    title:
+                      type: text
+                      value: impresso-12-cup-perk-coffee-maker-94-1_dbowpa_baiyy8.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: c43394d7-af95-40b3-ad87-f442b010fc3d
+          type: image
+          fields:
+            id:
+              type: text
+              value: 2da32de8-de90-4e75-afe3-188b49937b1f
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/y1vQBExFSMSXRgsLY7u8wQ-impresso-12-cup-perk-coffee-maker-94-2_zy1vfp_z55hov.jpg
+              type: text
+            file:
+              type: file
+              value: d5af6a0a-6c20-4942-8fd0-67381696393e
+            size:
+              value: 91016
+              type: number
+            title:
+              type: text
+              value: impresso-12-cup-perk-coffee-maker-94-2_zy1vfp_z55hov.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 877f94e2-351e-4ba5-b0f3-eb3ccd6d69b6
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: b75d05c5-9eeb-4a62-bc30-111673f39d0b
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          HOTTEST COFFEE: Prepare piping hot, strong coffee FAST BREWING: Make 4
+          to 12 cups in less than one minute per cup UPDATED CLASSIC: A
+          contemporary take on a coffee classic - compact design GLASS LID:
+          View-through glass lid insert showcases the perking process KEEP WARM:
+          Automatically keeps warm as long as the product is plugged in EASY
+          SERVING: Detachable cord and insulated base for easy table service
+        fr-CA: "CAFÉ LE PLUS CHAUD\_: Préparez un café très chaud et fort INFUSION RAPIDE\_: Préparez 4 à 12 tasses en moins d'une minute par tasse CLASSIQUE MISE À JOUR\_: Une version contemporaine d'un classique du café - design compact COUVERCLE EN VERRE\_: L'insert de couvercle en verre transparent met en valeur le processus de perking GARDER AU CHAUD : Garde automatiquement au chaud tant que le produit est branché SERVICE FACILE : Cordon amovible et base isolée pour un service facile à table"
+        nl-NL: >-
+          HEETSTE KOFFIE: Bereid gloeiend hete, sterke koffie SNEL BROUWEN: Zet
+          4 tot 12 kopjes in minder dan één minuut per kopje UPDATED CLASSIC:
+          Een eigentijdse variant op een koffieklassieker - compact ontwerp
+          GLAZEN DEKSEL: Doorzichtig glazen dekselinzetstuk laat het
+          opschuimproces zien KEEP WARM: Houdt automatisch warm zolang het
+          product is aangesloten EENVOUDIG TE BEDIENEN: Afneembaar snoer en
+          geïsoleerde basis voor eenvoudig bedienen aan tafel
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

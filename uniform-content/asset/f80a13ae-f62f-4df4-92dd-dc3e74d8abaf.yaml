@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: f80a13ae-f62f-4df4-92dd-dc3e74d8abaf
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: coffee_shop_with_2_customers.avif
+    file:
+      type: file
+      value: 6a80a11a-a076-4b51-aabc-301b86ee64ad
+    mediaType:
+      value: image/avif
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/UGzIRmM8SbubVSd7jOQkrA-coffee_shop_with_2_customers.avif
+      type: text
+    size:
+      value: 64873
+      type: number
+    width:
+      value: 1024
+      type: number
+    height:
+      value: 1024
+      type: number
+    custom: {}
+created: '2024-02-28T12:37:28.728245+00:00'
+modified: '2024-02-28T13:35:02.271058+00:00'

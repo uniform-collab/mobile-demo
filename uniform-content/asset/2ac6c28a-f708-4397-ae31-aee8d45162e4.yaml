@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 2ac6c28a-f708-4397-ae31-aee8d45162e4
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: cuppa_article.jpg
+    file:
+      type: file
+      value: bbe66f84-15f9-4bcf-9387-97a264131f7a
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Kpasg7LhSPul-y_YHuA2Pg-cuppa_article.jpg
+      type: text
+    size:
+      value: 216920
+      type: number
+    width:
+      value: 686
+      type: number
+    height:
+      value: 338
+      type: number
+    custom: {}
+created: '2024-02-28T12:33:09.53234+00:00'
+modified: '2024-02-28T13:31:46.020259+00:00'

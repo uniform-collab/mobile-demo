@@ -1,0 +1,9 @@
+id: 4a11d8cf-afca-45c9-85ae-5516c6505a9a
+name: Checkout Success
+order: 500
+path: /:locale/shopping-cart/checkout/success
+type: composition
+pathSegment: success
+data: {}
+compositionId: 7225d3ea-05a6-4fd8-bfbf-213bd01003a4
+projectMapId: 62588085-7894-4810-84b6-eaaf0cb5213c

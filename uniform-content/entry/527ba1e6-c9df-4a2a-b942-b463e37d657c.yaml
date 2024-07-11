@@ -1,0 +1,53 @@
+created: '2024-02-28T12:52:16.339006+00:00'
+modified: '2024-02-28T12:52:16.339006+00:00'
+pattern: false
+entry:
+  _id: 527ba1e6-c9df-4a2a-b942-b463e37d657c
+  _name: Beans for all your brewing needs
+  _slug: beans-for-all-your-brewing-needs
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xFSvHnG5T42wm2uh_UgfKA-hero_beans.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: fab7c1bd-42fa-4686-9fbf-647abf0c1c74
+          type: image
+          fields:
+            id:
+              type: text
+              value: d90e05c0-2824-475a-bfb7-adb58a0e2dd3
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xFSvHnG5T42wm2uh_UgfKA-hero_beans.webp
+              type: text
+            file:
+              type: file
+              value: 846b4be9-60cb-47b6-a4f1-3d84b4abe2be
+            size:
+              value: 667596
+              type: number
+            title:
+              type: text
+              value: hero_beans.webp
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Beans for all your brewing needs
+        fr-CA: Haricots pour tous vos besoins de brassage
+        nl-NL: Bonen voor al uw brouwbehoeften
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

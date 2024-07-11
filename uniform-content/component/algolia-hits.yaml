@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=<https://canary.uniform.app/schemas/json-schema/component-definition/v1.json>
+$schema: https://canary.uniform.app/schemas/json-schema/component-definition/v1.json
+id: algolia-hits
+name: Hits
+icon: screen
+parameters:
+  - id: hitsParams
+    name: Hits Parameters
+    type: algolia-components
+    helpText: ''
+    typeConfig:
+      selectedComponent: Hits
+categoryId: ad5aebd7-ae43-4cb3-a2a7-8425ad0e2f44
+previewImageUrl: >-
+  https://res.cloudinary.com/uniform-demos/image/upload/v1/preview-images/NewJavaDripTheme/Algolia/Hits_preview_image
+useTeamPermissions: true
+slots:
+  - id: hitComponent
+    name: Hit Component
+    maxComponents: 1
+    minComponents: 1
+    allowedComponents:
+      - algolia-hitProduct
+    allowAllComponents: false
+    inheritAllowedComponents: false
+    patternsInAllowedComponents: false
+canBeComposition: false
+created: '2024-02-28T13:35:47.467867+00:00'
+updated: '2024-02-28T13:35:47.467867+00:00'

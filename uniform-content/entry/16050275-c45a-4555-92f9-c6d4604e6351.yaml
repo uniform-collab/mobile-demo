@@ -1,0 +1,53 @@
+created: '2024-02-28T12:52:15.446388+00:00'
+modified: '2024-02-28T12:52:15.446388+00:00'
+pattern: false
+entry:
+  _id: 16050275-c45a-4555-92f9-c6d4604e6351
+  _name: Articles for all your brewing needs
+  _slug: articles-for-all-your-brewing-needs
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/PhI9Lv4oQVKkOYwYG3aN2Q-hero_1.png
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 2d18061d-d7ec-4ce4-b03c-4dae439567ee
+          type: image
+          fields:
+            id:
+              type: text
+              value: 68c015b8-8932-48a4-9b2f-56fc978d43ac
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/PhI9Lv4oQVKkOYwYG3aN2Q-hero_1.png
+              type: text
+            file:
+              type: file
+              value: cdd93828-6905-4ff5-929d-2cde68782fff
+            size:
+              value: 1515655
+              type: number
+            title:
+              type: text
+              value: hero_1.png
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/png
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Articles for all your brewing needs
+        fr-CA: Articles pour tous vos besoins de brassage
+        nl-NL: Artikelen voor al uw brouwbehoeften
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

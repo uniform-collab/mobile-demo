@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 1240d461-04ed-4a53-8958-5c471d4e0b51
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: hero_alt_5.png
+    file:
+      type: file
+      value: cf2d6795-d675-4241-85ee-c74e8ad6e807
+    mediaType:
+      value: image/png
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/vfpFfdE2SMuT91OCZrYJ1w-hero_alt_5.png
+      type: text
+    size:
+      value: 5638561
+      type: number
+    width:
+      value: 3206
+      type: number
+    height:
+      value: 1802
+      type: number
+    custom: {}
+created: '2024-02-28T12:39:00.878878+00:00'
+modified: '2024-02-28T13:31:15.349151+00:00'

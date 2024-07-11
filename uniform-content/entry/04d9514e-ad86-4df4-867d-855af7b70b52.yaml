@@ -1,0 +1,316 @@
+created: '2024-02-28T12:52:39.272437+00:00'
+modified: '2024-02-28T13:36:09.548096+00:00'
+pattern: false
+entry:
+  _id: 04d9514e-ad86-4df4-867d-855af7b70b52
+  _name: Columbian Blend Coffee
+  _slug: columbian-blend-coffee-129
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/e4DH6rtMSiuKCbxDV6RvuA-columbian-blend-coffee-129-1_wbaola_fyrqsh.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Our&nbsp;fair trade and organic&nbsp;Colombian Sierra
+                      Nevada coffee has a silky smooth body&nbsp;with notes of
+                      almond and chocolate, and a hint of citrus at the finish.
+                      This best selling fair trade Colombian coffee is very
+                      flavorful and has more unique cupping characteristics than
+                      a basic grade Colombian coffee. The USDA Organic and Fair
+                      Trade Certifications also ensure that this Colombian
+                      coffee was grown, harvested and bought with the utmost
+                      care and responsibility.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Notre café colombien Sierra Nevada, équitable et
+                      biologique, a un corps soyeux et doux avec des notes
+                      d'amande et de chocolat, et une touche d'agrumes en
+                      finale. Ce café colombien équitable le plus vendu est très
+                      savoureux et possède des caractéristiques de dégustation
+                      plus uniques qu'un café colombien de qualité de base. Les
+                      certifications USDA Organic et Fair Trade garantissent
+                      également que ce café colombien a été cultivé, récolté et
+                      acheté avec le plus grand soin et responsabilité.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Onze&nbsp;fairtrade en biologische&nbsp;Colombiaanse
+                      Sierra Nevada-koffie heeft een zijdezachte body&nbsp;met
+                      tonen van amandel en chocolade, en een vleugje citrus in
+                      de afdronk. Deze bestverkochte Fairtrade Colombiaanse
+                      koffie is zeer smaakvol en heeft meer unieke
+                      cupping-eigenschappen dan een Colombiaanse basiskoffie. De
+                      biologische en Fair Trade-certificeringen van USDA
+                      garanderen bovendien dat deze Colombiaanse koffie met de
+                      grootste zorg en verantwoordelijkheid is verbouwd, geoogst
+                      en gekocht.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Columbian Blend Coffee
+    title:
+      type: text
+      value: Columbian Blend Coffee
+    category:
+      type: select
+      value: robusta
+    variants:
+      type: $block
+      value:
+        - _id: 28e087c0-673f-44bf-af9e-3a0c35861b1c
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '129'
+            price:
+              type: number
+              locales:
+                en-US: '12.99'
+                fr-CA: '12.00'
+                nl-NL: '12.00'
+            title:
+              type: text
+              locales:
+                en-US: Columbian Blend Coffee
+                fr-CA: Columbian Blend Coffee
+                nl-NL: Columbian Blend Coffee
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: e020692c-4484-495a-af10-073407303412
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 6658937f-c026-4ae5-9c1c-db3aaca39357
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/vP4zg7bnRmujV2x8DVnDow-columbian-blend-coffee-129-1_wbaola_fyrqsh.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: c9eb7b90-5d2e-4dc4-ab7e-c285207a2e72
+                    size:
+                      value: 99722
+                      type: number
+                    title:
+                      type: text
+                      value: columbian-blend-coffee-129-1_wbaola_fyrqsh.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+                - _id: c7a0c0ff-0304-4b21-a332-11c2911061e1
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 700f207e-441b-453c-b0a5-62d61d21faf1
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/eaUVIwMNScurH6TbfajMgg-columbian-blend-coffee-129-2_mfdvbz_bzxsu5.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: d51279fd-0deb-446d-b4a7-dc65cd3fdbbb
+                    size:
+                      value: 882339
+                      type: number
+                    title:
+                      type: text
+                      value: columbian-blend-coffee-129-2_mfdvbz_bzxsu5.jpg
+                    width:
+                      value: 1280
+                      type: number
+                    height:
+                      value: 1280
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 84bddfda-e0bc-49f1-bd8a-e2276913ef67
+          type: image
+          fields:
+            id:
+              type: text
+              value: 7b69dea6-70f8-4ca8-844a-6c350ae048ce
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/e4DH6rtMSiuKCbxDV6RvuA-columbian-blend-coffee-129-1_wbaola_fyrqsh.jpg
+              type: text
+            file:
+              type: file
+              value: 88560667-52dd-4c77-b644-1991830bd375
+            size:
+              value: 99722
+              type: number
+            title:
+              type: text
+              value: columbian-blend-coffee-129-1_wbaola_fyrqsh.jpg
+            width:
+              value: 1280
+              type: number
+            height:
+              value: 1280
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 0c1a63dd-f6e7-4436-b48a-e91cd8896f91
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: b2f80ee7-bdfb-4a16-894e-72cb7ab16d9f
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          Our&nbsp;fair trade and organic&nbsp;Colombian Sierra Nevada coffee
+          has a silky smooth body&nbsp;with notes of almond and chocolate, and a
+          hint of citrus at the finish. This best selling fair trade Colombian
+          coffee is very flavorful and has more unique cupping characteristics
+          than a basic grade Colombian coffee. The USDA Organic and Fair Trade
+          Certifications also ensure that this Colombian coffee was grown,
+          harvested and bought with the utmost care and responsibility.
+        fr-CA: >-
+          Notre café colombien Sierra Nevada, équitable et biologique, a un
+          corps soyeux et doux avec des notes d'amande et de chocolat, et une
+          touche d'agrumes en finale. Ce café colombien équitable le plus vendu
+          est très savoureux et possède des caractéristiques de dégustation plus
+          uniques qu'un café colombien de qualité de base. Les certifications
+          USDA Organic et Fair Trade garantissent également que ce café
+          colombien a été cultivé, récolté et acheté avec le plus grand soin et
+          responsabilité.
+        nl-NL: >-
+          Onze&nbsp;fairtrade en biologische&nbsp;Colombiaanse Sierra
+          Nevada-koffie heeft een zijdezachte body&nbsp;met tonen van amandel en
+          chocolade, en een vleugje citrus in de afdronk. Deze bestverkochte
+          Fairtrade Colombiaanse koffie is zeer smaakvol en heeft meer unieke
+          cupping-eigenschappen dan een Colombiaanse basiskoffie. De biologische
+          en Fair Trade-certificeringen van USDA garanderen bovendien dat deze
+          Colombiaanse koffie met de grootste zorg en verantwoordelijkheid is
+          verbouwd, geoogst en gekocht.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

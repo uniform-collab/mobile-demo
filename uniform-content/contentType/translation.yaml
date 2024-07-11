@@ -1,0 +1,25 @@
+id: translation
+name: Translation
+created: '2024-02-28T12:51:48.825132+00:00'
+updated: '2024-02-28T12:51:48.825132+00:00'
+slugSettings:
+  required: 'no'
+useTeamPermissions: true
+fields:
+  - id: key
+    name: Key
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: false
+  - id: value
+    name: Value
+    type: text
+    helpText: ''
+    typeConfig: null
+    localizable: true
+entryName: key
+description: ''
+icon: math-minus
+type: block
+permissions: []

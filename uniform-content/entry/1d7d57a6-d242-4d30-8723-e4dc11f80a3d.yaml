@@ -1,0 +1,78 @@
+created: '2024-02-28T12:52:43.888405+00:00'
+modified: '2024-02-28T12:52:43.888405+00:00'
+pattern: false
+entry:
+  _id: 1d7d57a6-d242-4d30-8723-e4dc11f80a3d
+  _name: Easy to clean modular design
+  _slug: easy-to-clean-modular-design
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/v5-w-oldS4-KVWBHmKWZZA-smart_feature_4.webp
+  type: productFeature
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: eb84275d-c382-4800-89c9-9fa0ccbc3a62
+          type: image
+          fields:
+            id:
+              type: text
+              value: ed2dd92b-9aae-41e9-9c13-958da92d7f64
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/v5-w-oldS4-KVWBHmKWZZA-smart_feature_4.webp
+              type: text
+            file:
+              type: file
+              value: c7ad5b72-4604-4ded-aabb-b7d873628e53
+            size:
+              value: 55580
+              type: number
+            title:
+              type: text
+              value: smart_feature_4.webp
+            width:
+              value: 1224
+              type: number
+            height:
+              value: 872
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Easy to clean modular design
+        fr-CA: Conception modulaire facile à nettoyer
+        nl-NL: Eenvoudig te reinigen modulair ontwerp
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Just because you want a better taste experience than pods, doesn’t
+          mean you want coffee grinds all over your worktop. Our smart system
+          keeps the whole process contained, avoiding the spills you get with a
+          normal machine. By making the brewing components removable and
+          machine-washable, it’s easy to keep your Cervello di Caffè looking and
+          tasting new
+        fr-CA: >-
+          Ce n'est pas parce que vous voulez une meilleure expérience gustative
+          que les gousses que vous voulez des grincements de café partout dans
+          votre plan de travail.Notre système intelligent maintient l'ensemble
+          du processus contenu, en évitant les déversements que vous obtenez
+          avec une machine normale.En rendant les composants de brassage
+          amovibles et lavables à la machine, il est facile de garder votre
+          Cervello di Caffè à la recherche et à la dégustation de nouveaux
+        nl-NL: >-
+          Alleen omdat je een betere smaakervaring wilt dan pods, betekent niet
+          dat je koffie maalt over je hele werkblad.Ons slimme systeem houdt het
+          hele proces opgenomen, waardoor de morsen die u krijgt met een normale
+          machine vermijdt.Door de brouwcomponenten verwijderbaar en
+          machine-wasbaar te maken, is het gemakkelijk om uw Cervello di Caffè
+          uit te laten kijken en nieuw te proeven
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

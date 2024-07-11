@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: d90e05c0-2824-475a-bfb7-adb58a0e2dd3
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: hero_beans.webp
+    file:
+      type: file
+      value: 05940bff-f1bc-40ca-aedc-677078cc52ef
+    mediaType:
+      value: image/webp
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/xFSvHnG5T42wm2uh_UgfKA-hero_beans.webp
+      type: text
+    size:
+      value: 667596
+      type: number
+    width:
+      value: 2600
+      type: number
+    height:
+      value: 1300
+      type: number
+    custom: {}
+created: '2024-02-28T12:37:19.898756+00:00'
+modified: '2024-02-28T13:34:37.519278+00:00'

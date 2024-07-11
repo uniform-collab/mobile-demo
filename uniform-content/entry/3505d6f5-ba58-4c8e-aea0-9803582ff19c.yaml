@@ -1,0 +1,275 @@
+created: '2024-02-28T12:53:35.408876+00:00'
+modified: '2024-02-28T13:36:26.650326+00:00'
+pattern: false
+entry:
+  _id: 3505d6f5-ba58-4c8e-aea0-9803582ff19c
+  _name: Kosmic Coffee Unbreakable Pour Over Replacement Pot
+  _slug: kosmic-coffee-unbreakable-pour-over-replacement-pot-86
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Pt7ci995QGqog_4ejCeJrA-kosmic-coffee-unbreakable-pour-over-replacement-pot-86_ngyxih_x1smcd.jpg
+  type: product
+  fields:
+    body:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      ELEGANT DESIGN: This hand-made glass coffee pot has a
+                      threaded pot body design, soft lines,a nd a spout design
+                      with a eagle mouth, which makes the water flow more
+                      meticulous and smooth when it is poured out, and it is not
+                      easy to spill. The round cup handle is thick and full.
+                      More comfortable when gripped.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      DESIGN ÉLÉGANT: Cette cafetière en verre fabriquée à la
+                      main a un corps de pot fileté, des lignes douces et un bec
+                      verseur avec une bouche d'aigle, ce qui rend l'écoulement
+                      de l'eau plus méticuleux et plus fluide lorsqu'elle est
+                      versée, et ce n'est pas facile renverser. L'anse ronde de
+                      la tasse est épaisse et pleine. Plus confortable une fois
+                      saisi.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      ELEGANT ONTWERP: Deze handgemaakte glazen koffiepot heeft
+                      een ontwerp met een potlichaam met schroefdraad, zachte
+                      lijnen en een tuitontwerp met een adelaarsmond, waardoor
+                      het water nauwkeuriger en soepeler stroomt wanneer het
+                      wordt uitgeschonken, en het is niet gemakkelijk morsen.
+                      Het ronde bekerhandvat is dik en vol. Comfortabeler als je
+                      hem vasthoudt.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    name:
+      type: text
+      value: Kosmic Coffee Unbreakable Pour Over Replacement Pot
+    title:
+      type: text
+      value: Kosmic Coffee Unbreakable Pour Over Replacement Pot
+    category:
+      type: select
+      value: pour-over
+    variants:
+      type: $block
+      value:
+        - _id: dfff58f4-240a-4c0d-9e1d-808b66cb07bd
+          type: variant
+          fields:
+            code:
+              type: text
+              value: '86'
+            price:
+              type: number
+              locales:
+                en-US: '12.99'
+                fr-CA: '12.00'
+                nl-NL: '12.00'
+            title:
+              type: text
+              locales:
+                en-US: Kosmic Coffee Unbreakable Pour Over Replacement Pot
+                fr-CA: Kosmic Coffee Unbreakable Pour Over Replacement Pot
+                nl-NL: Kosmic Coffee Unbreakable Pour Over Replacement Pot
+            currency:
+              type: text
+              locales:
+                en-US: $
+                fr-CA: €
+                nl-NL: €
+            imageGallery:
+              type: asset
+              value:
+                - _id: ab914e1e-afba-41a9-8007-0ac70cc4b45f
+                  type: image
+                  fields:
+                    id:
+                      type: text
+                      value: 27545409-6d03-4a45-9873-684a6411d974
+                    url:
+                      value: >-
+                        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/ANnW9XGkRvuC9_R1BYjlhA-kosmic-coffee-unbreakable-pour-over-replacement-pot-86_ngyxih_x1smcd.jpg
+                      type: text
+                    file:
+                      type: file
+                      value: 96129932-4511-47f8-aced-e52719cf361b
+                    size:
+                      value: 19549
+                      type: number
+                    title:
+                      type: text
+                      value: >-
+                        kosmic-coffee-unbreakable-pour-over-replacement-pot-86_ngyxih_x1smcd.jpg
+                    width:
+                      value: 386
+                      type: number
+                    height:
+                      value: 386
+                      type: number
+                    mediaType:
+                      value: image/jpeg
+                      type: text
+                  _source: uniform-assets
+    primaryImage:
+      type: asset
+      value:
+        - _id: 453e9164-9441-43fb-b4df-fda42e7526fd
+          type: image
+          fields:
+            id:
+              type: text
+              value: edd2cd55-3025-44de-9204-8fc21a54406d
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/Pt7ci995QGqog_4ejCeJrA-kosmic-coffee-unbreakable-pour-over-replacement-pot-86_ngyxih_x1smcd.jpg
+              type: text
+            file:
+              type: file
+              value: 0ec28264-cba6-4f40-a7b8-b879afcd5f0a
+            size:
+              value: 19549
+              type: number
+            title:
+              type: text
+              value: >-
+                kosmic-coffee-unbreakable-pour-over-replacement-pot-86_ngyxih_x1smcd.jpg
+            width:
+              value: 386
+              type: number
+            height:
+              value: 386
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    recommendations:
+      type: $block
+      value:
+        - _id: 1219f2ab-e906-4d47-9576-fff5f181e016
+          type: $loop
+          fields:
+            body:
+              type: $block
+              value:
+                - _id: 39918669-0446-47bb-aa33-8c373115bc24
+                  type: productRecommendation
+                  fields:
+                    slug:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/_slug}
+                    title:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/title/value}
+                    category:
+                      type: select
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/category/value}
+                    productImage:
+                      type: asset
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/primaryImage/value}
+                    shortDescription:
+                      type: text
+                      value: >-
+                        ${#jptr:/Multiple Product Content entries Loop
+                        Item/entry/fields/shortDescription/value}
+          _dataResources:
+            Multiple Product Content entries Loop Item:
+              type: sys-reserved-loop
+              variables:
+                connectedData: /Multiple Product Content/entries
+    shortDescription:
+      type: text
+      locales:
+        en-US: >-
+          ELEGANT DESIGN: This hand-made glass coffee pot has a threaded pot
+          body design, soft lines,a nd a spout design with a eagle mouth, which
+          makes the water flow more meticulous and smooth when it is poured out,
+          and it is not easy to spill. The round cup handle is thick and full.
+          More comfortable when gripped.
+        fr-CA: >-
+          DESIGN ÉLÉGANT: Cette cafetière en verre fabriquée à la main a un
+          corps de pot fileté, des lignes douces et un bec verseur avec une
+          bouche d'aigle, ce qui rend l'écoulement de l'eau plus méticuleux et
+          plus fluide lorsqu'elle est versée, et ce n'est pas facile renverser.
+          L'anse ronde de la tasse est épaisse et pleine. Plus confortable une
+          fois saisi.
+        nl-NL: >-
+          ELEGANT ONTWERP: Deze handgemaakte glazen koffiepot heeft een ontwerp
+          met een potlichaam met schroefdraad, zachte lijnen en een tuitontwerp
+          met een adelaarsmond, waardoor het water nauwkeuriger en soepeler
+          stroomt wanneer het wordt uitgeschonken, en het is niet gemakkelijk
+          morsen. Het ronde bekerhandvat is dik en vol. Comfortabeler als je hem
+          vasthoudt.
+  _dataResources:
+    Multiple Product Content:
+      type: multipleProduct
+      variables:
+        locale: ${locale}
+        entryIds: >-
+          6d10823e-c63a-4cc3-a61a-edcad6201bb3,f44e1f60-a032-48d4-8786-15be35c6df1d,90d3afd1-9e0b-4268-a781-843e3be61287,8aa8dd96-4a80-495c-b9cd-54bea72a7df7,1de3fddc-edee-40d6-8f8d-1f9f94144c77,72b49ac2-bbf3-48a7-b522-0947483e9131,82b84782-4236-4b06-a994-59f088896b91
+  _locales:
+    - en-US
+    - nl-NL
+    - fr-CA

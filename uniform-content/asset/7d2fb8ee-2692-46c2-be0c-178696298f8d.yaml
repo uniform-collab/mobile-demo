@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 7d2fb8ee-2692-46c2-be0c-178696298f8d
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: beans_heart.jpg
+    file:
+      type: file
+      value: 9f839195-7f33-478c-8d61-8f996b530369
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/sxHZks5UQJaiSc6rHqxSPQ-beans_heart.jpg
+      type: text
+    size:
+      value: 1836620
+      type: number
+    width:
+      value: 4608
+      type: number
+    height:
+      value: 3072
+      type: number
+    custom: {}
+created: '2024-02-28T12:37:52.870392+00:00'
+modified: '2024-02-28T13:33:17.048017+00:00'

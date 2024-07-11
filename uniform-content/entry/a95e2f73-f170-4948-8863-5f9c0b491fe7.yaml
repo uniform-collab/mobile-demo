@@ -1,0 +1,13 @@
+created: '2024-02-28T12:53:42.920029+00:00'
+modified: '2024-02-28T12:53:42.920029+00:00'
+pattern: false
+entry:
+  _id: a95e2f73-f170-4948-8863-5f9c0b491fe7
+  _name: 'New entry: Product Feature'
+  _slug: new-entry-product-feature-a079
+  type: productFeature
+  fields: {}
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

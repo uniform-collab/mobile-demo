@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 59b2494d-ad0a-49d8-a39c-06c4fad33662
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: edit_1440x960.jpg
+    file:
+      type: file
+      value: 146f3afb-38bb-44ef-aa13-229bc3fe7433
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/JTTWl3a0Tgig_KmZCcTt0w-edit_1440x960.jpg
+      type: text
+    size:
+      value: 199600
+      type: number
+    width:
+      value: 1440
+      type: number
+    height:
+      value: 960
+      type: number
+    custom: {}
+created: '2024-02-28T12:33:28.106333+00:00'
+modified: '2024-02-28T13:32:31.804373+00:00'

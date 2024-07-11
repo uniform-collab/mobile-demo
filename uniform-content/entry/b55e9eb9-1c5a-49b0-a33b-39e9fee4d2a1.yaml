@@ -1,0 +1,876 @@
+created: '2024-02-28T12:52:05.378036+00:00'
+modified: '2024-02-28T12:52:05.378036+00:00'
+pattern: false
+entry:
+  _id: b55e9eb9-1c5a-49b0-a33b-39e9fee4d2a1
+  _name: 5 Things You Can Do With Your Used Coffee Grinds
+  _slug: 5-things-you-can-do-with-your-used-coffee-grinds
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/r26AweghSd-C-iVL8il-fg-5_things_for_used_grinds.jpg
+  type: article
+  fields:
+    tag:
+      type: select
+      value: CoffeeMakers
+    title:
+      type: text
+      locales:
+        en-US: 5 Things You Can Do With Your Used Coffee Grinds
+        fr-CA: 5 choses que vous pouvez faire avec votre marc de café d'occasion
+        nl-NL: 5 dingen die u kunt doen met uw gebruikte koffiedik
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Here are 5 things you can do to reduce your coffee waste,
+                      using ONLY your coffee at home!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "\_PEST REPELLENT\_ "
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Caffeine is great. We love caffeine as a species because it perks us up and gives us a much needed boost! Bugs HATE caffeine! Which is actually the coffee tree’s reason for producing it. The more caffeine a tree has the less chance of bugs eating the seeds and the leaves, and once roasted and ground the aromas and the small fumes coming off the coffee grinds are the perfect natural pest repellent!\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Just leaving the grounds out in the open will ward away flies as well as wasps! Sprinkle some around high traffic ant areas and the ants won't ever go near it. Better yet, you can actually light the grinds on fire, and have them smoulder like incense. This will keep away mozzies, midges and all other annoying critters. Sadly the incense burning works better on unused grinds (so best burn the old grinds that you won't be using anymore) however a bit of lighter fluid will help the spent grinds along easier.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Sprinkle some used grinds over your veggies, or passionfruit and critters like possums, cats and other midnight bandits will stay away from your hard grown crops.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "COMPOST INVIGORATOR\_ "
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Flies, mozzies and wasps might hate the thought of coffee, but worms LOVE coffee just as much as we do. The microorganisms that break down your compost will pick up traces of leftover caffeine out of your spent coffee and SUPER CHARGE themselves to decompose everything twice as fast!\_Now you do have to be careful about the amount of coffee going in, balance it with plenty of other organic matter so you aren't adding TOO MUCH nitrogen and other harmful chemicals into the mix. A balance is what we are always looking for.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "HAIR EXFOLIANT\_ "
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Like a good body scrub, coffee can be used as a great exfoliant for your hair. This is done before you add in any shampoo, and what it does is catch and remove any oils and grit in your hair and prepare it for the shampoo. The beauty of using spent grinds is that the oils from the coffee are all gone, so it will actually soak up any oils from your hair and scrub it ready for cleaning.\_Blondes do have to be careful, as the coffee will naturally darken lighter hair, adding a coffee colored sheen to your head of hair.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: 'FURNITURE STAIN '
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Speaking of staining, you can actually stain your furniture with your leftover coffee! You wouldn't do your entire dining table with it however. Coffee grinds is great at touching up any scratches or chips in wooden furniture. All you have to do is scrub a bit if wet used grinds on the spot and it will color that mark and make it disappear.\_Making sure to get the right amount and semi color matching is important to think about, before you go staining your white birch wood chairs. However as a general, natural answer to a quick and easy fix, coffee grinds are a “go to” blemish remover for your wooden furniture.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: DRY MEAT RUB
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: " Coffee goes GREAT with meat. Weirdly enough they are a match made in heaven, just not for the flavors but for what the coffee does molecularly. The acidity of the coffee itself will actually tenderize the meat as you rub it in, creating a beautifully soft and tender texture whether you are pan searing, BBQ grilling or popping it in the smoker for a few hours.\_The coffee won’t pass any flavor to the meat itself, as it will mostly burn off to create a beautiful crust on the outside.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: BONUS ROUND
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: " That’s 5 things you can do yourself, at home, with your coffee grinds! What if we as a society could do more, or even better what could our government do to help get through the 6 Million tons of coffee waste each year?\_A company in London, England is doing just that. BIO BEAN is converting used coffee grinds, extracting the remaining oils out of the grinds and mixing them with diesel creating a biofuel strong enough to power their BUSSESWe did a little research and experimented with how much our cafe in Arana Hills could contribute to Bio Beans fight against coffee waste.\_ Roughly, we go through 180 kg of coffee waste each fortnight. Luckily we give most of our spent coffee back into the community via local farms and hobby gardeners. If we were to donate those 180 kg of coffee to BIO BEAN, using their processes we could power one london bus for an ENTIRE DAY That’s just using waste from one small local cafe in Brisbane over a two week period.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "By using the same data used for our cafe, you could power every bus currently registered in Australia (80 000 Buses) for an entire YEAR! Purely running off a biofuel, using up the waste produced and making a cleaner future for all of us. This concept might seem far fetched. It might seem impossible to achieve, however by getting a little bit political and using your votes wisely it could very much be a future we all live in.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "We love a good excuse to drink more coffee, and by using the waste properly you can be doing so much more with your brew after you drink it! So if you don’t mind me, I'm going to go make myself another coffee so I can try out some of these fun tricks to help reduce the amount of coffee waste going back out into the world.\_"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Voici 5 choses que vous pouvez faire pour réduire vos déchets de café, en utilisant UNIQUEMENT votre café à la maison\_!"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: RÉPULSIF ANTIPARASITAIRE
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "La caféine est géniale. Nous aimons la caféine en tant qu’espèce car elle nous revigore et nous donne un coup de pouce bien nécessaire\_! Les insectes détestent la caféine\_! C’est en fait la raison pour laquelle le caféier le produit. Plus un arbre contient de caféine, moins les insectes mangent les graines et les feuilles, et une fois torréfié et moulu, les arômes et les petites fumées qui s'échappent du café moulu sont le parfait répulsif naturel contre les parasites !"
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Le simple fait de laisser le terrain à l’air libre éloignera les mouches ainsi que les guêpes\_! Saupoudrez-en autour des zones à fort trafic de fourmis et les fourmis ne s'en approcheront jamais. Mieux encore, vous pouvez réellement allumer le feu et les faire couver comme de l'encens. Cela éloignera les moustiques, les moucherons et toutes les autres créatures gênantes. Malheureusement, la combustion de l'encens fonctionne mieux sur les moutures inutilisées (il est donc préférable de brûler les anciennes moutures que vous n'utiliserez plus), mais un peu d'essence à briquet aidera les moutures épuisées à avancer plus facilement."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Saupoudrez un peu de mouture usagée sur vos légumes, ou
+                      les fruits de la passion et les créatures comme les
+                      opossums, les chats et autres bandits de minuit resteront
+                      à l'écart de vos cultures durement cultivées.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: REVIGORATEUR DE COMPOST
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "Les mouches, les moustiques et les guêpes détestent peut-être l’idée du café, mais les vers ADORENT le café autant que nous. Les micro-organismes qui décomposent votre compost ramasseront les traces de caféine restantes de votre café usé et se SUPERCHARGEront pour tout décomposer deux fois plus vite\_! Maintenant, vous devez faire attention à la quantité de café entrante, l'équilibrer avec beaucoup d'autres matières organiques afin de ne pas ajouter TROP d'azote et d'autres produits chimiques nocifs dans le mélange. Un équilibre est ce que nous recherchons toujours."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: EXFOLIANT CHEVEUX
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Comme un bon gommage corporel, le café peut être utilisé
+                      comme un excellent exfoliant pour vos cheveux. Ceci est
+                      fait avant d'ajouter un shampoing, et cela permet
+                      d'attraper et d'éliminer les huiles et les saletés de vos
+                      cheveux et de les préparer pour le shampoing. La beauté de
+                      l’utilisation de la mouture usagée est que les huiles du
+                      café ont toutes disparu, il absorbera donc toutes les
+                      huiles de vos cheveux et les frottera pour les nettoyer.
+                      Les blondes doivent faire attention, car le café assombrit
+                      naturellement les cheveux plus clairs, ajoutant un éclat
+                      de couleur café à votre chevelure.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: TACHES DE MEUBLES
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      En parlant de teinture, vous pouvez effectivement teindre
+                      vos meubles avec vos restes de café ! Cependant, vous ne
+                      feriez pas toute votre table à manger avec. Le café moulu
+                      est idéal pour retoucher les rayures ou les éclats des
+                      meubles en bois. Tout ce que vous avez à faire est de
+                      frotter un peu si l'utilisation humide grince sur place et
+                      cela colorera cette marque et la fera disparaître. Il est
+                      important de penser à obtenir la bonne quantité et la
+                      bonne correspondance des couleurs avant de teindre vos
+                      chaises en bois de bouleau blanc. Cependant, en tant que
+                      réponse générale et naturelle à une solution rapide et
+                      facile, le café moulu est un produit idéal pour éliminer
+                      les imperfections de vos meubles en bois.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: FROTTEMENT DE VIANDE SÈCHE
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: '  Le café se marie très bien avec la viande. Bizarrement, ils forment un mariage parfait, non pas pour les saveurs, mais pour ce que le café fait au niveau moléculaire. L''acidité du café lui-même attendrit la viande au fur et à mesure que vous la frottez, créant une texture magnifiquement douce et tendre, que vous la saisissiez à la poêle, la grilliez au barbecue ou la mettiez au fumoir pendant quelques heures. Le café ne transmettra aucune saveur à la viande elle-même, car elle brûlera en grande partie pour créer une belle croûte à l''extérieur.'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: TOUR BONUS
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: " Voilà 5 choses que vous pouvez faire vous-même, à la maison, avec votre café moulu ! Et si nous, en tant que société, pouvions faire plus, ou même mieux, que pourrait faire notre gouvernement pour aider à éliminer les 6 millions de tonnes de café gaspillées chaque année\_? C’est exactement ce que fait une entreprise à Londres, en Angleterre. BIO BEAN convertit le café moulu usagé, extrait les huiles restantes de la mouture et les mélange avec du diesel, créant ainsi un biocarburant suffisamment puissant pour alimenter leurs BUS. Nous avons fait quelques recherches et expérimenté dans quelle mesure notre café à Arana Hills pourrait contribuer à la lutte contre les grains biologiques. contre le gaspillage de café. En gros, nous traitons 180 kg de déchets de café tous les quinze jours. Heureusement, nous reversons la plupart de notre café dépensé à la communauté via les fermes locales et les jardiniers amateurs. Si nous devions faire don de ces 180 kg de café à BIO BEAN, grâce à leurs procédés, nous pourrions alimenter un bus de Londres pendant une JOURNÉE ENTIÈRE. Cela revient simplement à utiliser les déchets d'un petit café local de Brisbane sur une période de deux semaines."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: "En utilisant les mêmes données que celles utilisées pour notre café, vous pourriez alimenter tous les bus actuellement enregistrés en Australie (80 000 bus) pendant une ANNÉE entière\_! Utiliser uniquement un biocarburant, utiliser les déchets produits et créer un avenir plus propre pour nous tous. Ce concept peut paraître tiré par les cheveux. Cela peut sembler impossible à réaliser, mais en faisant un peu de politique et en utilisant judicieusement vos votes, cela pourrait très bien être un avenir dans lequel nous vivons tous."
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Nous aimons les bonnes excuses pour boire plus de café, et
+                      en utilisant correctement les déchets, vous pouvez faire
+                      bien plus avec votre infusion après l'avoir bu ! Donc, si
+                      cela ne vous dérange pas, je vais me préparer un autre
+                      café afin de pouvoir essayer certaines de ces astuces
+                      amusantes pour aider à réduire la quantité de déchets de
+                      café rejetés dans le monde.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Hier zijn 5 dingen die u kunt doen om uw koffieverspilling
+                      te verminderen, door ALLEEN uw koffie thuis te gebruiken!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: ONGEDIERTEAFSTOTEND
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Cafeïne is geweldig. We houden van cafeïne als soort omdat
+                      het ons opfleurt en ons een broodnodige boost geeft!
+                      Insecten HAAT cafeïne! Dat is eigenlijk de reden dat de
+                      koffieboom deze produceert. Hoe meer cafeïne een boom
+                      heeft, hoe kleiner de kans dat insecten de zaden en de
+                      bladeren opeten. Eenmaal geroosterd en gemalen zijn de
+                      aroma's en de kleine dampen die uit de koffiemaling komen
+                      het perfecte natuurlijke ongediertebestrijder!
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Als u het terrein gewoon in de open lucht laat liggen,
+                      worden zowel vliegen als wespen verdreven! Strooi wat rond
+                      mierengebieden met veel verkeer, zodat de mieren er nooit
+                      meer in de buurt zullen komen. Beter nog, je kunt de
+                      maling daadwerkelijk in brand steken en ze laten smeulen
+                      als wierook. Dit houdt muggen, muggen en alle andere
+                      vervelende beestjes op afstand. Helaas werkt het branden
+                      van wierook beter op ongebruikte maling (dus verbrand het
+                      beste de oude maling die je niet meer gaat gebruiken),
+                      maar een beetje lichtere vloeistof zal de gebruikte maling
+                      gemakkelijker maken.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Strooi wat gebruikte maling over je groenten, anders
+                      blijven passievruchten en beestjes zoals buidelratten,
+                      katten en andere middernachtbandieten weg van je hard
+                      gegroeide gewassen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: COMPOST INVIGORATOR
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Vliegen, muggen en wespen hebben misschien een hekel aan
+                      koffie, maar wormen zijn net zo dol op koffie als wij. De
+                      micro-organismen die uw compost afbreken, zullen sporen
+                      van overgebleven cafeïne uit uw koffie halen en zichzelf
+                      SUPER LADEN om alles twee keer zo snel af te breken! Nu
+                      moet je voorzichtig zijn met de hoeveelheid koffie die
+                      erin gaat, en deze in evenwicht brengen met veel ander
+                      organisch materiaal, zodat je niet TE VEEL stikstof en
+                      andere schadelijke chemicaliën aan de mix toevoegt. Een
+                      balans is waar wij altijd naar op zoek zijn.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: EXFOLIANTEND HAAR
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Net als een goede bodyscrub kan koffie worden gebruikt als
+                      een geweldige exfoliant voor je haar. Dit wordt gedaan
+                      voordat je shampoo toevoegt, en wat het doet is alle oliën
+                      en gruis in je haar opvangen en verwijderen en het
+                      voorbereiden op de shampoo. Het mooie van het gebruik van
+                      gebruikte koffiemaling is dat de oliën uit de koffie
+                      helemaal verdwenen zijn, zodat de koffie daadwerkelijk
+                      alle oliën uit je haar opneemt en het schrobt, klaar om te
+                      worden schoongemaakt. Blondines moeten voorzichtig zijn,
+                      omdat de koffie op natuurlijke wijze lichter haar
+                      donkerder maakt, waardoor een koffiekleurige glans aan je
+                      haar wordt toegevoegd.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: MEUBILAIR VLEK
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Over vlekken gesproken: je kunt zelfs vlekken op je
+                      meubels maken met je overgebleven koffie! Je zou er echter
+                      niet je hele eettafel mee doen. Koffiemaling is geweldig
+                      voor het bijwerken van krassen of schilfers in houten
+                      meubilair. Het enige wat je hoeft te doen is een beetje
+                      schrobben als er nat vuil op de plek zit en het zal de
+                      vlek verkleuren en laten verdwijnen. Het is belangrijk om
+                      erover na te denken voordat u uw witte berkenhouten
+                      stoelen gaat beitsen. Zorg ervoor dat u de juiste
+                      hoeveelheid en de juiste kleurafstemming krijgt. Maar als
+                      algemeen, natuurlijk antwoord op een snelle en
+                      gemakkelijke oplossing zijn koffiemalingen een
+                      ‘go-to’-vlekkenverwijderaar voor uw houten meubilair.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: DROOG VLEES WRIJVEN
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: '  Koffie gaat GEWELDIG bij vlees. Vreemd genoeg zijn ze een match made in Heaven, alleen niet vanwege de smaken, maar vanwege wat de koffie moleculair doet. De zuurgraad van de koffie zelf zal het vlees mals maken als je het erin wrijft, waardoor een prachtig zachte en malse textuur ontstaat, of je het nu aan het aanbraden bent, op de barbecue grilt of het een paar uur in de roker stopt. De koffie geeft geen smaak door aan het vlees zelf, omdat het grotendeels verbrandt en een mooie korst aan de buitenkant ontstaat.'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: BONUSRONDE
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: '  Dat zijn 5 dingen die je zelf thuis kunt doen met je koffiemaling! Wat als wij als samenleving meer zouden kunnen doen, of nog beter, wat zou onze overheid kunnen doen om de 6 miljoen ton koffieverspilling per jaar te helpen verwerken? Een bedrijf in Londen, Engeland, doet precies dat. BIO BEAN verwerkt gebruikte koffiemaling, haalt de resterende oliën uit de maling en mengt deze met diesel, waardoor een biobrandstof ontstaat die sterk genoeg is om hun BUSSES van stroom te voorzien. We hebben wat onderzoek gedaan en geëxperimenteerd met hoeveel ons café in Arana Hills zou kunnen bijdragen aan de strijd tegen Bio Beans tegen koffieverspilling. Grofweg verwerken we elke twee weken 180 kg koffieafval. Gelukkig geven we het grootste deel van onze gebruikte koffie terug aan de gemeenschap via lokale boerderijen en hobbytuinders. Als we die 180 kg koffie aan BIO BEAN zouden doneren, zouden we met behulp van hun processen één Londense bus een HELE DAG van stroom kunnen voorzien. Dat is gewoon het gebruik van afval van een klein plaatselijk café in Brisbane gedurende een periode van twee weken.'
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Door dezelfde gegevens te gebruiken die voor ons café
+                      worden gebruikt, kunt u elke bus die momenteel in
+                      Australië is geregistreerd (80.000 bussen) een heel JAAR
+                      van stroom voorzien! Puur gebruik maken van biobrandstof,
+                      het geproduceerde afval gebruiken en een schonere toekomst
+                      voor ons allemaal creëren. Dit concept lijkt misschien
+                      vergezocht. Het lijkt misschien onmogelijk om dit te
+                      bereiken, maar door een beetje politiek te worden en uw
+                      stemmen verstandig te gebruiken, zou dit wel eens een
+                      toekomst kunnen zijn waarin we allemaal leven.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      We houden van een goed excuus om meer koffie te drinken,
+                      en door het afval op de juiste manier te gebruiken, kun je
+                      zoveel meer doen met je brouwsel nadat je het hebt
+                      gedronken! Dus als je het niet erg vindt, ga ik nog een
+                      kop koffie voor mezelf zetten, zodat ik een paar van deze
+                      leuke trucjes kan uitproberen om de hoeveelheid
+                      koffieverspilling die weer de wereld in gaat te
+                      verminderen.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: 2d482388-db95-4057-88c9-c4ff63a4572e
+          type: image
+          fields:
+            id:
+              type: text
+              value: e691a688-6f2f-4f5b-b709-422734b3af6b
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/r26AweghSd-C-iVL8il-fg-5_things_for_used_grinds.jpg
+              type: text
+            file:
+              type: file
+              value: 6d63214a-4e7f-4c36-bfa6-8a59ded813d4
+            size:
+              value: 55401
+              type: number
+            title:
+              type: text
+              value: 5_things_for_used_grinds.jpg
+            width:
+              value: 658
+              type: number
+            height:
+              value: 442
+              type: number
+            mediaType:
+              value: image/jpeg
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          We love a good excuse to drink more coffee, and by using the waste
+          properly you can be doing so much more with your brew after you drink
+          it!
+        fr-CA: >-
+          Nous aimons une bonne excuse pour boire plus de café, et en utilisant
+          correctement les déchets, vous pouvez faire beaucoup plus avec votre
+          infusion après l'avoir bu!
+        nl-NL: >-
+          We houden van een goed excuus om meer koffie te drinken, en door het
+          afval goed te gebruiken, kunt u zoveel meer doen met uw brouwsel nadat
+          u het hebt gedronken!
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

@@ -1,0 +1,257 @@
+created: '2024-02-28T12:53:16.02456+00:00'
+modified: '2024-02-28T12:53:16.02456+00:00'
+pattern: false
+entry:
+  _id: d447295f-d662-4446-8c24-fdf1fb15236f
+  _name: How to find the perfect cup without leaving your home
+  _slug: how-to-find-the-perfect-cup-without-leaving-your-home
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EurZ6yjWQ8ao2FK-giuZKQ-hero_3.webp
+  type: article
+  fields:
+    tag:
+      type: select
+      value: Beans
+    title:
+      type: text
+      locales:
+        en-US: How to find the perfect cup without leaving your home
+        fr-CA: Comment trouver la tasse parfaite sans quitter votre maison
+        nl-NL: Hoe u de perfecte beker kunt vinden zonder uw huis te verlaten
+    content:
+      type: richText
+      locales:
+        en-US:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Arabica Acerbic Affogato Aftertaste Aged Americano And,
+                      Aroma mazagran that Black Blue turkish extra, filter cup
+                      plunger aged aroma. And single spoon milk decaffeinated
+                      Aroma breve cup dark organic saucer, Bar Affogato Beans
+                      wings caramelization Arabica pumpkin that. Skinny flavour
+                      roast aftertaste affogato Affogato Aromatic cultivar
+                      mazagran wings mocha viennese, whipped spoon
+                      caramelization organic decaffeinated irish cream Bar beans
+                      dark est, grounds Aroma crema Con filter pumpkin iced
+                      Beans robust java. Medium instant sit filter Americano
+                      press Aroma iced barista cultivar, americano con caffeine
+                      irish Con that Barista. Bar strong aged espresso french
+                      kopi-luwak seasonal plunger at white Barista, macchiato
+                      mountain flavour spice barista caramelization mocha
+                      Americano to, cream milk mug dark spoon acerbic grinder
+                      irish affogato.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Iced extra mocha panna Affogato Black aftertaste doppio
+                      white aromatic, rich Aroma strong foam barista Con in that
+                      milk, Body aroma plunger roast coffee Brewed lait turkish
+                      beans. Et Body grounds sugar viennese americano Blue
+                      cinnamon, aged Aromatic robusta froth arabica saucer bar,
+                      seasonal extraction Beans redeye iced Americano. Blue con
+                      cream At Aftertaste mug Con aroma acerbic, As steamed Blue
+                      grounds doppio shop arabica grinder, filter foam ristretto
+                      aged siphon bar strong qui. Turkish siphon cup panna
+                      Arabica ut, con mazagran robusta Aged arabica, aroma qui
+                      And pump
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        fr-CA:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Arabica acerbique Affogato arrière-goût américain vieilli
+                      et, arôme mazagran que noir bleu turc supplémentaire,
+                      filtre tasse piston arôme vieilli. Et une seule cuillère
+                      de lait décaféiné Aroma breve tasse soucoupe biologique
+                      foncée, Bar Affogato Haricots ailes caramélisation Arabica
+                      citrouille qui. Saveur maigre arrière-goût de rôti
+                      affogato Affogato Cultivar aromatique mazagran ailes moka
+                      viennois, cuillère fouettée caramélisation crème
+                      irlandaise décaféinée biologique Haricots de barre plus
+                      foncés, marc Aroma crema Con filtre citrouille glacé
+                      Haricots java robustes. Filtre à siège instantané moyen
+                      Americano press Aroma iced barista cultivar, americano con
+                      caffeine irish Con that Barista. Bar expresso vieilli fort
+                      français kopi-luwak piston de saison au Barista blanc,
+                      macchiato saveur de montagne épices barista caramélisation
+                      moka Americano à, tasse de lait crème cuillère noire
+                      broyeur acerbe affogato irlandais.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Panna extra moka glacée Affogato arrière-goût noir doppio
+                      blanc aromatique, riche arôme mousse forte barista Con
+                      dans ce lait, arôme corporel café torréfié à piston lait
+                      infusé haricots turcs. Et Corps sucre moulu viennois
+                      americano Cannelle bleue, vieillie Mousse Robusta
+                      aromatique arabica soucoupe bar, extraction saisonnière
+                      Haricots yeux rouges glacés Americano. Bleu avec crème à
+                      l'arrière-goût tasse avec arôme acerbe, comme broyeur
+                      d'arabica de doppio shop de motifs bleus cuits à la
+                      vapeur, mousse filtrante ristretto barre de siphon
+                      vieillie forte qui. Tasse à siphon turque panna Arabica
+                      ut, con mazagran Robusta Arabica vieilli, arôme qui et
+                      pompe
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+        nl-NL:
+          root:
+            type: root
+            format: ''
+            indent: 0
+            version: 1
+            children:
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      Arabica Acerbic Affogato Nasmaak Oud Americano En Aroma
+                      mazagran dat Zwart Blauw Turks extra, filterbekerplunjer
+                      verouderd aroma. En een enkele lepel melk cafeïnevrij
+                      Aroma breve kopje donkere biologische schotel, Bar
+                      Affogato Bonenvleugels karamelisatie Arabica pompoen dat.
+                      Magere smaak gebraden nasmaak affogato Affogato
+                      Aromatische cultivar mazagran vleugels mokka weens,
+                      opgeklopte lepel karamellisatie biologische cafeïnevrije
+                      Ierse room Bar bonen donker est, gemalen Aroma crema Con
+                      filter pompoen ijskoude bonen robuuste java. Medium
+                      instant zitfilter Americano press Aroma ijskoude barista
+                      cultivar, americano met cafeïne Ierse Con that Barista.
+                      Bar sterke oude espresso Franse kopi-luwak seizoensplunjer
+                      bij witte Barista, macchiato bergsmaakkruidenbarista
+                      karamelisatie mokka Americano tot, roommelkmok donkere
+                      lepel acerbic molen Ierse affogato.
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+              - type: paragraph
+                format: ''
+                indent: 0
+                version: 1
+                children:
+                  - mode: normal
+                    text: >-
+                      IJs extra mokka panna Affogato Zwarte afdronk doppio wit
+                      aromatisch, rijk aroma sterk schuim barista con in die
+                      melk, lichaamsaroma plunjer gebrande koffie gebrouwen lait
+                      Turkse bonen. Et Lichaamsgruis suiker Weense americano
+                      Blauwe kaneel, gerijpt Aromatische robuusta schuim arabica
+                      schotel reep, seizoensextractie Bonen rode ogen ijs
+                      Americano. Blue con cream Bij Nasmaak mok Con aroma
+                      acerbic, As gestoomd Blue ground doppio shop arabica
+                      molen, filterschuim ristretto verouderd sifonstaaf sterke
+                      qui. Turkse sifonbeker panna Arabica ut, con mazagran
+                      robuusta Aged arabica, aroma qui En pomp
+                    type: text
+                    style: ''
+                    detail: 0
+                    format: 0
+                    version: 1
+                direction: ltr
+            direction: ltr
+    thumbnail:
+      type: asset
+      value:
+        - _id: ab757d71-eccd-48af-8729-813a90e2fe70
+          type: image
+          fields:
+            id:
+              type: text
+              value: f088c2d9-47a2-483c-9eec-4a63b0a85fcd
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/EurZ6yjWQ8ao2FK-giuZKQ-hero_3.webp
+              type: text
+            file:
+              type: file
+              value: f8d04e3f-5d44-446d-85d4-ae4614df5bcd
+            size:
+              value: 85290
+              type: number
+            title:
+              type: text
+              value: hero_3.webp
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    description:
+      type: text
+      locales:
+        en-US: >-
+          Arabica Acerbic Affogato Aftertaste Aged Americano And, Aroma mazagran
+          that Black Blue turkish extra, filter cup plunger aged aroma.
+        fr-CA: >-
+          Arabica ACERBIC AFFOGATA After-taste Amed Americano et, aroma
+          Mazagran, ce Turc Black Turkish, Filter Cup Plunger Aged Aroma.
+        nl-NL: >-
+          Arabica Acerbic Affogato Aftaste Aging Americano en aroma Mazagran die
+          zwarte blauwe Turkse extra, filterbeker plunjer verouderd aroma.
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA

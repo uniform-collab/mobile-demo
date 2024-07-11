@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 4b3b4e1a-4e40-4ecb-9598-775a14ab5247
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: cup.svg
+    file:
+      type: file
+      value: e521c81b-2dba-42e7-95a0-ca35ca323a65
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/bDtvYuIiT2CR34WKOfv_NQ-cup.svg
+      type: text
+    size:
+      value: 1213
+      type: number
+    width:
+      value: 60
+      type: number
+    height:
+      value: 47
+      type: number
+    custom: {}
+created: '2024-02-28T12:32:16.046337+00:00'
+modified: '2024-02-28T13:32:19.965309+00:00'

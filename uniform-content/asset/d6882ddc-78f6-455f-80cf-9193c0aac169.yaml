@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: d6882ddc-78f6-455f-80cf-9193c0aac169
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: black-mountain-pour-over-filtered-coffee-maker-93_mn709e_iii0ml.jpg
+    file:
+      type: file
+      value: afa586aa-22eb-4be8-b78e-91904c179494
+    mediaType:
+      value: image/jpeg
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/0rFugonDQzCh-9IkDgKfbA-black-mountain-pour-over-filtered-coffee-maker-93_mn709e_iii0ml.jpg
+      type: text
+    size:
+      value: 12873
+      type: number
+    width:
+      value: 386
+      type: number
+    height:
+      value: 386
+      type: number
+    custom: {}
+created: '2024-02-28T12:45:53.160881+00:00'
+modified: '2024-02-28T13:34:34.059699+00:00'

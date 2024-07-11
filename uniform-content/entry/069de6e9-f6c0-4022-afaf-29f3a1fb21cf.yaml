@@ -1,0 +1,53 @@
+created: '2024-02-28T12:52:27.985297+00:00'
+modified: '2024-02-28T12:52:27.985297+00:00'
+pattern: false
+entry:
+  _id: 069de6e9-f6c0-4022-afaf-29f3a1fb21cf
+  _name: Buy Coffee Machine
+  _slug: buy-coffee-machine
+  _thumbnail: >-
+    https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/99YCuX1cSC6f7qo1xui7eA-hero_alt_4.webp
+  type: hero
+  fields:
+    image:
+      type: asset
+      value:
+        - _id: 354bfcf7-bb28-43fb-bb35-e94ae09f5b2c
+          type: image
+          fields:
+            id:
+              type: text
+              value: 4b15db5c-7029-47e1-afd0-984cefaf082a
+            url:
+              value: >-
+                https://canary-img.uniform.global/p/_8bZL97ZRPSrduIKQcAm6Q/99YCuX1cSC6f7qo1xui7eA-hero_alt_4.webp
+              type: text
+            file:
+              type: file
+              value: 75072538-4d1e-4909-9bb6-0b9c21b32bb6
+            size:
+              value: 352516
+              type: number
+            title:
+              type: text
+              value: hero_alt_4.webp
+            width:
+              value: 2600
+              type: number
+            height:
+              value: 1300
+              type: number
+            mediaType:
+              value: image/webp
+              type: text
+          _source: uniform-assets
+    title:
+      type: text
+      locales:
+        en-US: Buy Coffee Machine
+        fr-CA: Acheter une machine à café
+        nl-NL: Koop koffiemachine
+  _locales:
+    - nl-NL
+    - en-US
+    - fr-CA
