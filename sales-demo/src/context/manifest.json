@@ -1,0 +1,259 @@
+{
+  "project": {
+    "pz": {
+      "agg": {
+        "consideringPurchase": {
+          "inputs": [
+            {
+              "dim": "coffeeBeansInterest"
+            },
+            {
+              "dim": "int_c"
+            }
+          ]
+        },
+        "vips": {
+          "inputs": [
+            {
+              "dim": "bigSpender"
+            },
+            {
+              "dim": "registeredForNewsletter"
+            }
+          ]
+        }
+      },
+      "enr": {
+        "int": {
+          "cap": 100
+        },
+        "subCategory": {
+          "cap": 100
+        }
+      },
+      "sig": {
+        "abandoned": {
+          "str": 1,
+          "cap": 1,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "abandoned",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "true"
+                }
+              }
+            ]
+          }
+        },
+        "bigSpender": {
+          "str": 50,
+          "cap": 100,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "bigspenders",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "true"
+                }
+              }
+            ]
+          }
+        },
+        "coffeeBeansInterest": {
+          "str": 50,
+          "cap": 100,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "interest",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "Coffee Beans"
+                }
+              }
+            ]
+          }
+        },
+        "coffeeMakersInterest": {
+          "str": 50,
+          "cap": 100,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "interest",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "Coffee Makers"
+                }
+              }
+            ]
+          }
+        },
+        "existingCustomer": {
+          "str": 50,
+          "cap": 100,
+          "dur": "p",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "type": "QS",
+                "match": {
+                  "cs": false,
+                  "op": "~",
+                  "rhs": "customer"
+                },
+                "queryName": "utm_campaign"
+              }
+            ]
+          }
+        },
+        "isDesktop": {
+          "str": 50,
+          "cap": 100,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "mobile",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "false"
+                }
+              }
+            ]
+          }
+        },
+        "isElectricFan": {
+          "str": 50,
+          "cap": 100,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "pokemonInterest",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "electric"
+                }
+              }
+            ]
+          }
+        },
+        "isFireFan": {
+          "str": 50,
+          "cap": 100,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "pokemonInterest",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "fire"
+                }
+              }
+            ]
+          }
+        },
+        "isGrassFan": {
+          "str": 50,
+          "cap": 100,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "pokemonInterest",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "grass"
+                }
+              }
+            ]
+          }
+        },
+        "isWaterFan": {
+          "str": 50,
+          "cap": 100,
+          "dur": "t",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "key": "pokemonInterest",
+                "type": "QK",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "water"
+                }
+              }
+            ]
+          }
+        },
+        "registeredForNewsletter": {
+          "str": 1,
+          "cap": 1,
+          "dur": "p",
+          "crit": {
+            "op": "&",
+            "type": "G",
+            "clauses": [
+              {
+                "type": "QS",
+                "match": {
+                  "cs": false,
+                  "op": "=",
+                  "rhs": "true"
+                },
+                "queryName": "registered"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "test": {}
+  }
+}
